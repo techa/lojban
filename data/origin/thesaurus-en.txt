@@ -1,0 +1,2095 @@
+100000
+110000
+111000
+111001 bu'a  some predicate
+111001 da    some x1
+111001 xanri imaginary
+111001 zasti exist
+112000
+112001 dacti object
+112001 mucti immaterial
+113000
+113001 ckaji quality
+113001 jinzi innate
+113001 ka    quality cmavo
+114000
+114001 nu    event cmavo
+120000
+121000
+121001 bersa son
+121001 bruna brother
+121001 bu'a  some predicate
+121001 ckini related
+121001 do    you
+121001 drata other
+121001 dukti opposite
+121001 dunli equal
+121001 frica differ
+121001 lanzu family
+121001 mamta mother
+121001 manri reference
+121001 mensi sister
+121001 mi    me
+121001 mintu same
+121001 na    not
+121001 panzi offspring
+121001 patfu father
+121001 rirni parent
+121001 sevzi self
+121001 simxu mutual
+121001 srana pertain
+121001 ta    that
+121001 ti    this
+121001 tixnu daughter
+121001 tu    that yonder
+121001 tunba sibling
+122000
+122001 dikni regular
+122001 manfo uniform
+122001 stodi constant
+122001 vitci irregular
+123000
+123001 binxo become
+123001 cenba vary
+123001 darno far
+123001 frica differ
+123001 fukpi copy
+123001 galfi modify
+123001 jibni near
+123001 mupli example
+123001 pesxu paste
+123001 rimni rhyme
+123001 simsa similar
+123001 stika adjust
+124000
+124001 fapro oppose
+124001 mapti fit
+124001 sarxe harmonious
+124001 srana pertain
+124001 tugni agree
+130000
+131000
+131001 bi    8
+131001 carmi intense
+131001 ci    3
+131001 cmaci mathematics
+131001 dunli equal
+131001 gradu unit
+131001 kandi dim
+131001 kantu quantum
+131001 klani quantity
+131001 kuspe range
+131001 mekso MEX
+131001 mitre meter
+131001 ni    amount cmavo
+131001 ratni atom
+131001 ro    all
+131001 selci cell
+131001 so'i  many
+131001 su'e  at	most
+131001 su'o  at	least
+132000
+132001 bancu beyond
+132001 banli great
+132001 banro grow
+132001 banzu suffice
+132001 barda big
+132001 cafne often
+132001 canja exchange
+132001 caxno shallow
+132001 claxu without
+132001 cmalu small
+132001 cmima member
+132001 cnano norm
+132001 cnita beneath
+132001 condi deep
+132001 culno full
+132001 dikni regular
+132001 dirgo drop
+132001 dizlo low
+132001 dukse excess
+132001 fendi divide
+132001 frica differ
+132001 galtu high
+132001 gapru above
+132001 jmina add
+132001 kunti empty
+132001 lanxe balance
+132001 milxe mild
+132001 mleca less
+132001 morji remember
+132001 morna pattern
+132001 mulno complete
+132001 mutce much
+132001 pagbu part
+132001 panlo slice
+132001 parbi ratio
+132001 prali profit
+132001 preja spread
+132001 ranji continue
+132001 ro    all
+132001 ruble weak
+132001 senta layer
+132001 spisa piece
+132001 su'e  at	most
+132001 su'o  at	least
+132001 tcila detail
+132001 traji superlative
+132001 tsali strong
+132001 vasru contain
+132001 vecnu sell
+132001 venfu revenge
+132001 vitci irregular
+132001 zenba increase
+132001 zivle invest
+132001 zmadu more
+133000
+133001 banzu suffice
+133001 batke button
+133001 bridi predicate
+133001 claxu without
+133001 cliva leave
+133001 crepu harvest
+133001 cripu bridge
+133001 curve pure
+133001 dandu hang
+133001 dinko nail
+133001 dukse excess
+133001 fenra crack
+133001 fenso sew
+133001 ganzu organize
+133001 gletu copulate
+133001 gunma jointly
+133001 guska scrape
+133001 ja    or
+133001 jbini between
+133001 je    and
+133001 jganu angle
+133001 jgena knot
+133001 jimca branch
+133001 jivbu weave
+133001 jmaji gather
+133001 jmina add
+133001 jo    if	and only if
+133001 joi   mixed with
+133001 jorne joined
+133001 ju    whether
+133001 kansa with
+133001 kanxe conjunction
+133001 katna cut
+133001 klupe screw
+133001 kluza loose
+133001 kruca intersect
+133001 kunra mineral
+133001 lacri rely
+133001 lanzu family
+133001 lasna fasten
+133001 lastu brass
+133001 linsi chain
+133001 mapti fit
+133001 mixre mixture
+133001 nivji knit
+133001 pijne pin
+133001 pluja complicated
+133001 pluta route
+133001 porpi break
+133001 rafsi affix
+133001 ralte retain
+133001 ransu bronze
+133001 renvi survive
+133001 sampu simple
+133001 sanmi meal
+133001 sarxe harmonious
+133001 sepli apart
+133001 sirji straight
+133001 skori cord
+133001 snipa sticky
+133001 spoja explode
+133001 stasu soup
+133001 stela lock
+133001 stura structure
+133001 sucta abstract
+133001 tagji snug
+133001 tanru metaphor
+133001 tcita label
+133001 tisna fill
+133001 trati taut
+133001 tugni agree
+133001 vimcu remove
+133001 vrici miscellaneous
+133001 zenba increase
+134000
+134001 balji bulb
+134001 balre blade
+134001 banzu suffice
+134001 bartu out
+134001 besna brain
+134001 betfu abdomen
+134001 birka arm
+134001 bongu bone
+134001 calku shell
+134001 canti gut
+134001 ciblu blood
+134001 cidni knee
+134001 cigla gland
+134001 cinza tongs
+134001 cizra strange
+134001 claxu without
+134001 cmima member
+134001 cnebo neck
+134001 ctebi lip
+134001 culno full
+134001 cutne chest
+134001 degji finger
+134001 denci tooth
+134001 dirgo drop
+134001 fange alien
+134001 fanta prevent
+134001 fatri distribute
+134001 fendi divide
+134001 fepri lung
+134001 flira face
+134001 galxe throat
+134001 ganti testicle
+134001 ganxo anus
+134001 ganzu organize
+134001 genja root
+134001 girzu group
+134001 grute fruit
+134001 gunma jointly
+134001 gutra womb
+134001 jamfu foot
+134001 janco shoulder
+134001 jgalu claw
+134001 jimca branch
+134001 jinru immerse
+134001 jinzi innate
+134001 jirna horn
+134001 jorne joined
+134001 kanla eye
+134001 kansa with
+134001 kantu quantum
+134001 kerfa hair
+134001 kerlo ear
+134001 livga liver
+134001 mebri brow
+134001 moklu mouth
+134001 mulno complete
+134001 nalci wing
+134001 narge nut
+134001 nazbi nose
+134001 nenri in
+134001 nirna nerve
+134001 pa    1
+134001 pagbu part
+134001 panlo slice
+134001 pencu touch
+134001 pezli leaf
+134001 pilka crust
+134001 pimlu feather
+134001 pinji penis
+134001 plibu pubic
+134001 rango organ
+134001 ratni atom
+134001 rebla tail
+134001 risna heart
+134001 ro    all
+134001 selci cell
+134001 senta layer
+134001 setca insert
+134001 skapi pelt
+134001 sluji muscle
+134001 spisa piece
+134001 stani stalk
+134001 stedu head
+134001 stura structure
+134001 sufti hoof
+134001 tamji thumb
+134001 tance tongue
+134001 tatru breast
+134001 tcila detail
+134001 tisna fill
+134001 tsiju seed
+134001 tuple leg
+134001 vasru contain
+134001 vibna vagina
+134001 vlagi vulva
+134001 xadni body
+134001 xance hand
+134001 xedja jaw
+134001 xrula flower
+134001 zargu buttock
+134001 zbasu make
+134001 zbepi pedestal
+140000
+141000
+141001 cfipu confuse
+141001 cnici orderly
+141001 dikni regular
+141001 fendi divide
+141001 ganzu organize
+141001 kalsa chaotic
+141001 liste list
+141001 mapti fit
+141001 pluja complicated
+141001 porsi sequence
+141001 pruce process
+141001 raktu trouble
+141001 sampu simple
+141001 sarxe harmonious
+141001 tadji method
+141001 vitci irregular
+142000
+142001 cfari initiate
+142001 cnita beneath
+142001 crane front
+142001 denpa wait
+142001 dicra interrupt
+142001 dukti opposite
+142001 fanmo end
+142001 fenra crack
+142001 gapru above
+142001 jbena born
+142001 jbini between
+142001 jimte limit
+142001 korbi edge
+142001 krasi source
+142001 lamji adjacent
+142001 midju middle
+142001 porsi sequence
+142001 pritu right
+142001 pruce process
+142001 ranji continue
+142001 rebla tail
+142001 sisti cease
+142001 sovda egg
+142001 stedu head
+142001 suksa sudden
+142001 trixe behind
+142001 tsiju seed
+142001 zunle left
+143000
+143001 bakfu bundle
+143001 cecmu community
+143001 denmi dense
+143001 derxi heap
+143001 dirce radiate
+143001 girzu group
+143001 gunma jointly
+143001 jmaji gather
+143001 penmi meet
+143001 porpi break
+143001 preja spread
+144000
+144001 ciste system
+144001 jutsi species
+144001 kampu common
+144001 klesi class
+144001 sevzi self
+144001 steci specific
+144001 tcila detail
+144001 vrici miscellaneous
+145000
+145001 cizra strange
+145001 fadni ordinary
+145001 javni rule
+145001 mupli example
+145001 pesxu paste
+145001 pluja complicated
+145001 rirci rare
+145001 ritli rite
+145001 sitna cite
+150000
+151000
+151001 centi .01
+151001 decti .1
+151001 dekto 10
+151001 dilcu quotient
+151001 dugri logarithm
+151001 fancu function
+151001 femti 10E-15
+151001 gigdo 10E9
+151001 kancu count
+151001 kanji calculate
+151001 kilto 1000
+151001 liste list
+151001 megdo 10E6
+151001 mikri 10E-6
+151001 milti .001
+151001 mu    5
+151001 namcu number
+151001 nanvi 10E-9
+151001 no    0
+151001 pa    1
+151001 parbi ratio
+151001 petso 10E15
+151001 picti 10E-12
+151001 pilji multiply
+151001 re    2
+151001 ro    all
+151001 saclu decimal
+151001 sinso sine
+151001 sinxa sign
+151001 skami computer
+151001 so    9
+151001 so'i  many
+151001 su'e  at	most
+151001 su'o  at	least
+151001 sumji sum
+151001 tanjo tangent
+151001 tenfa exponential
+151001 terto 10E12
+151001 vimcu remove
+151001 vo    4
+151001 xa    6
+151001 xatsi 10E-18
+151001 xecto 100
+151001 xexso 10E18
+151001 ze    7
+152000
+152001 fendi divide
+152001 kansa with
+152001 kurfa square
+152001 rapli repeat
+152001 saclu decimal
+152001 xadba half
+153000
+153001 cimni infinite
+153001 frinu fraction
+153001 krefu recur
+153001 rapli repeat
+153001 rirci rare
+160000
+161000
+161001 cacra hour
+161001 cedra era
+161001 clani long
+161001 detri date
+161001 dikni regular
+161001 djedi day
+161001 jeftu week
+161001 junla clock
+161001 masti month
+161001 mentu minute
+161001 nanca year
+161001 ranji continue
+161001 snidu second
+161001 suksa sudden
+161001 tcika time of day
+161001 temci time
+161001 vitci irregular
+161001 vitno permanent
+161001 zasni temporary
+162000
+162001 darno far
+162001 jibni near
+162101 cabna now
+162101 porsi sequence
+162201 balvi future
+162201 cerni morning
+162201 cifnu infant
+162201 citno young
+162201 citri history
+162201 cnino new
+162201 crisa summer
+162201 critu autumn
+162201 dunra winter
+162201 makcu mature
+162201 nanla boy
+162201 nixli girl
+162201 purci past
+162201 slabu old
+162201 tarbi embryo
+162201 vanci evening
+162201 vensa spring
+162201 verba child
+162301 cafne often
+162301 clira early
+162301 denpa wait
+162301 dikni regular
+162301 lerci late
+162301 vitci irregular
+163000
+163001 dikni regular
+163001 rilti rhythm
+163001 rirci rare
+163001 vitci irregular
+166001 mokca point
+170000
+171000
+171001 basti replace
+171001 binxo become
+171001 canja exchange
+171001 cenba vary
+171001 cupra produce
+171001 dicra interrupt
+171001 frati react
+171001 galfi modify
+171001 jdima price
+171001 ranji continue
+171001 renvi survive
+171001 simxu mutual
+171001 sisti cease
+171001 stika adjust
+171001 zbasu make
+172000
+172001 fasnu event
+172001 lanxe balance
+172001 nu    event cmavo
+180000
+181000
+181001 cumki possible
+181001 funca luck
+181001 jalge result
+181001 krinu reason
+181001 nibli necessitate
+181001 rinka cause
+181001 snuti accidental
+181001 xlura influence
+182000
+182001 bapli force
+182001 dikca electric
+182001 kakne able
+182001 nejni energy
+182001 ralci delicate
+182001 ruble weak
+182001 spofu broken
+182001 tsali strong
+182001 vlipa powerful
+183000
+183001 bersa son
+183001 carmi intense
+183001 cupra produce
+183001 danre pressure
+183001 daspo destroy
+183001 dinju building
+183001 fagri fire
+183001 ferti fertile
+183001 festi waste
+183001 gasnu do
+183001 gutra womb
+183001 jgina gene
+183001 kandi dim
+183001 mamta mother
+183001 narge nut
+183001 panzi offspring
+183001 patfu father
+183001 pinji penis
+183001 rirni parent
+183001 sovda egg
+183001 spofu broken
+183001 spoja explode
+183001 tixnu daughter
+183001 tsali strong
+183001 tsiju seed
+183001 vlile violent
+183001 vlipa powerful
+183001 xaksu use up
+183001 zbasu make
+183001 zukte act
+184000
+184001 danre pressure
+184001 fuzme responsible
+184001 jitro control
+185000
+185001 fapro oppose
+185001 frati react
+185001 tugni agree
+185001 zunti interfere
+200000
+210000
+211000
+211001 canlu space
+211001 foldi field
+211001 gugde country
+211001 jipno tip
+211001 kumfa room
+211001 mokca point
+211001 stuzi site
+211001 tcana station
+211001 tcena stretch
+211001 tutra territory
+212000
+212001 diklo local
+212001 punji put
+212001 tcana station
+212001 tcini situation
+212001 va    there
+212001 vanbi environment
+212001 vi    here
+212001 vu    yonder
+212001 zutse sit
+213000
+213001 baktu bucket
+213001 barja bar
+213001 botpi bottle
+213001 ckana bed
+213001 claxu without
+213001 dacru drawer
+213001 dakli sack
+213001 dargu road
+213001 daski pocket
+213001 drudi roof
+213001 ginka camp
+213001 gusta restaurant
+213001 jarbu suburb
+213001 julne net
+213001 kabri cup
+213001 klaji street
+213001 kumfa room
+213001 kunti empty
+213001 lante can
+213001 nurma rural
+213001 palne tray
+213001 palta plate
+213001 patxu pot
+213001 sabnu cabin
+213001 spita hospital
+213001 stali remain
+213001 tansi pan
+213001 tanxe box
+213001 tcadu city
+213001 tisna fill
+213001 vasru contain
+213001 xabju dwell
+213001 xotli hotel
+213001 zdani nest
+213001?kansa with
+220000
+221000
+221001 bancu beyond
+221001 banro grow
+221001 barda big
+221001 cimde dimension
+221001 cmalu small
+221001 cnebo neck
+221001 darno far
+221001 fenra crack
+221001 guska scrape
+221001 jibni near
+221001 jorne joined
+221001 lamji adjacent
+221001 pencu touch
+221001 plana plump
+221001 preja spread
+221001 punli swelling
+221001 ratni atom
+221001 tsani sky
+221001 zvati at
+222000
+222001 bikla whip
+222001 boxfo sheet
+222001 caxno shallow
+222001 cilta thread
+222001 cinla thin
+222001 clani long
+222001 cmana mountain
+222001 cnebo neck
+222001 cnita beneath
+222001 condi deep
+222001 cpana upon
+222001 dandu hang
+222001 dasri ribbon
+222001 dertu dirt
+222001 dizlo low
+222001 drudi roof
+222001 fatne reverse
+222001 galtu high
+222001 ganra broad
+222001 gapru above
+222001 garna rail
+222001 genja root
+222001 grana rod
+222001 greku frame
+222001 jamfu foot
+222001 jarki narrow
+222001 jganu angle
+222001 jgena knot
+222001 jicmu basis
+222001 jivbu weave
+222001 jmifa shoal
+222001 jubme table
+222001 julne net
+222001 kajna shelf
+222001 kamju column
+222001 kicne cushion
+222001 korcu bent
+222001 kruca intersect
+222001 linji line
+222001 linsi chain
+222001 loldi floor
+222001 mapni cotton
+222001 matci mat
+222001 minli mile
+222001 panlo slice
+222001 panra parallel
+222001 pinta level
+222001 ragve across
+222001 rotsu thick
+222001 salpo slope
+222001 sanli stand
+222001 sarji support
+222001 senta layer
+222001 sfofa sofa
+222001 skori cord
+222001 sraji vertical
+222001 stani stalk
+222001 stedu head
+222001 stizu chair
+222001 tcena stretch
+222001 tordu short
+222001 tuple leg
+222001 vreta reclining
+222001 zbepi pedestal
+223000
+223101 bartu out
+223101 besna brain
+223101 betfu abdomen
+223101 bitmu wall
+223101 bongu bone
+223101 calku shell
+223101 canti gut
+223101 ciblu blood
+223101 cidni knee
+223101 cinta paint
+223101 cpana upon
+223101 creka shirt
+223101 cutci shoe
+223101 cutne chest
+223101 djine ring
+223101 drudi roof
+223101 fepri lung
+223101 flira face
+223101 gacri cover
+223101 garna rail
+223101 gluta glove
+223101 gutra womb
+223101 jarbu suburb
+223101 jbini between
+223101 jimte limit
+223101 karli collar
+223101 korbi edge
+223101 kosta coat
+223101 livga liver
+223101 lunbe bare
+223101 mapku cap
+223101 midju middle
+223101 murta curtain
+223101 nenri in
+223101 palku pants
+223101 pastu robe
+223101 pilka crust
+223101 plibu pubic
+223101 risna heart
+223101 santa umbrella
+223101 sefta surface
+223101 selci cell
+223101 skapi pelt
+223101 sluji muscle
+223101 snuji sandwich
+223101 sruri surround
+223101 sufti hoof
+223101 tapla tile
+223101 tatru breast
+223101 taxfu garment
+223101 tisna fill
+223101 vibna vagina
+223101 vlagi vulva
+223101 vorme door
+223201 crane front
+223201 fatne reverse
+223201 flira face
+223201 korbi edge
+223201 lamji adjacent
+223201 mebri brow
+223201 mlana side
+223201 nalci wing
+223201 nazbi nose
+223201 pritu right
+223201 rebla tail
+223201 tatru breast
+223201 trixe behind
+223201 zargu buttock
+223201 zunle left
+230000
+231000
+231001 bliku block
+231001 boxfo sheet
+231001 grana rod
+231001 kamju column
+231001 lanka basket
+231001 matci mat
+231001 morna pattern
+231001 simsa similar
+231001 tanbo board
+231001 tapla tile
+231001 tarmi shape
+231001 torni twist
+232000
+232001 bargu arch
+232001 bidju bead
+232001 bolci ball
+232001 cukla round
+232001 dirgo drop
+232001 djine ring
+232001 genxu hook
+232001 jendu axle
+232001 jganu angle
+232001 karli collar
+232001 kojna corner
+232001 konju cone
+232001 korcu bent
+232001 kruvi curve
+232001 kubli cube
+232001 kurfa square
+232001 lakse wax
+232001 lanxe balance
+232001 linji line
+232001 pulni pulley
+232001 radno radian
+232001 sarlu spiral
+232001 sirji straight
+232001 slanu cylinder
+232001 sovda egg
+232001 stero steradian
+232001 vraga lever
+232001 xislu wheel
+232101 bartu out
+233000
+233001 balji bulb
+233001 balni balcony
+233001 balre blade
+233001 batke button
+233001 canko window
+233001 cinje wrinkle
+233001 ckiku key
+233001 ctebi lip
+233001 dakfu knife
+233001 degji finger
+233001 denci tooth
+233001 galxe throat
+233001 ganlo closed
+233001 janco shoulder
+233001 jesni needle
+233001 jinci shears
+233001 jirna horn
+233001 kakpa dig
+233001 kalri open
+233001 kerfa hair
+233001 kevna cavity
+233001 kinli sharp
+233001 konju cone
+233001 nazbi nose
+233001 pijne pin
+233001 pimlu feather
+233001 pinji penis
+233001 plita plane
+233001 polje fold
+233001 rufsu rough
+233001 skuro groove
+233001 spali polish
+233001 sunla wool
+233001 tance tongue
+233001 tatru breast
+233001 tengu texture
+233001 tubnu tube
+233001 vorme door
+233001 xedja jaw
+233001 xutla smooth
+233101 dasni wear
+233101 rango organ
+233101 skaci skirt
+233101 smoka sock
+240000
+241000
+241001 bajra run
+241001 benji transfer
+241001 bevri carry
+241001 bloti boat
+241001 cadzu walk
+241001 canpa shovel
+241001 carce cart
+241001 falnu sail
+241001 flecu flow
+241001 gunro roll
+241001 jakne rocket
+241001 jatna captain
+241001 karce car
+241001 limna swim
+241001 litru travel
+241001 marce vehicle
+241001 mrilu mail
+241001 muvdu move
+241001 sakli slide
+241001 skiji ski
+241001 smuci spoon
+241001 stapa step
+241001 vinji airplane
+241001 vofli flight
+242000
+242001 jabre brake
+242001 masno slow
+242001 sutra fast
+243000
+243001 danti projectile
+243001 darxi hit
+243001 frati react
+243001 janli collide
+243001 jenca shock
+243001 renro throw
+243001 tikpa kick
+243001 tunta poke
+244000
+244001 badna banana
+244001 batci bite
+244001 berti north
+244001 birje beer
+244001 boxna wave
+244001 cakla chocolate
+244001 carna turn
+244001 catke shove
+244001 cidja food
+244001 cirla cheese
+244001 citka eat
+244001 ckafi coffee
+244001 cliva leave
+244001 cpare climb
+244001 desku shake
+244001 dirce radiate
+244001 farlu fall
+244001 farna direction
+244001 farvi develop
+244001 febvi boil
+244001 fulta float
+244001 ganxo anus
+244001 gunro roll
+244001 gurni grain
+244001 guzme melon
+244001 jbari berry
+244001 jicla stir
+244001 jikru liquor
+244001 jinru immerse
+244001 jisra juice
+244001 kalci feces
+244001 klama come
+244001 klina clear
+244001 klupe screw
+244001 kruji cream
+244001 lacpu pull
+244001 ladru milk
+244001 lafti lift
+244001 maksi magnet
+244001 matne butter
+244001 mavji oats
+244001 maxri wheat
+244001 moklu mouth
+244001 nanba bread
+244001 pagre pass through
+244001 patlu potato
+244001 penmi meet
+244001 perli pear
+244001 pinca urine
+244001 pinxe drink
+244001 plipe leap
+244001 porsi sequence
+244001 rectu meat
+244001 renro throw
+244001 rinci drain
+244001 sakci suck
+244001 sakta sugar
+244001 salta salad
+244001 sanmi meal
+244001 sanso sauce
+244001 serti stairs
+244001 setca insert
+244001 sfubu dive
+244001 silna salt
+244001 slilu oscillate
+244001 sluni onion
+244001 snanu south
+244001 snuji sandwich
+244001 sobde soya
+244001 sodva soda
+244001 sovda egg
+244001 sputu spit
+244001 stagi vegetable
+244001 stasu soup
+244001 stici west
+244001 stuna east
+244001 sunga garlic
+244001 tamca tomato
+244001 tcati tea
+244001 torni twist
+244001 trina attract
+244001 trixe behind
+244001 tunlo swallow
+244001 vamtu vomit
+244001 vanju wine
+244001 vikmi excrete
+244001 xasne sweat
+244001 xislu wheel
+244001 xruti return
+244001 zumri maize
+244001 zutse sit
+300000
+310000
+310001 blaci glass
+310001 bukpu cloth
+310001 bunda pound
+310001 cidro hydrogen
+310001 cnisa lead
+310001 ctile petroleum
+310001 dacti object
+310001 danre pressure
+310001 gasta steel
+310001 jinme metal
+310001 junta weight
+310001 kantu quantum
+310001 kensa outer space
+310001 kijno oxygen
+310001 kliru chlorine
+310001 korka cork
+310001 kunra mineral
+310001 linto lightweight
+310001 mapni cotton
+310001 margu mercury
+310001 marji material
+310001 matli linen
+310001 mucti immaterial
+310001 munje universe
+310001 navni neon
+310001 nikle nickel
+310001 plini planet
+310001 ratni atom
+310001 rijno silver
+310001 romge chrome
+310001 silka silk
+310001 slasi plastic
+310001 sliri sulfur
+310001 sodna sodium
+310001 solji gold
+310001 tabno carbon
+310001 terdi earth
+310001 tilju heavy
+310001 tinci tin
+310001 tirse iron
+310001 trano nitrogen
+310001 tsani sky
+310001 tunka copper
+310001 xukmi chemical
+310001 zinki zinc
+312301 trene train
+320000
+321000
+321001 canre sand
+321001 ckabu rubber
+321001 dunja freeze
+321001 gasta steel
+321001 grasu grease
+321001 greku frame
+321001 guska scrape
+321001 jdari firm
+321001 krili crystal
+321001 lastu brass
+321001 marxa mash
+321001 mosra friction
+321001 porpi break
+321001 pruni elastic
+321001 pulce dust
+321001 purmo powder
+321001 ralci delicate
+321001 ransu bronze
+321001 ranti soft
+321001 rokci rock
+321001 sakli slide
+321001 satre stroke
+321001 sligu solid
+321001 spali polish
+321001 sraku scratch
+321001 staku ceramic
+321001 tinsa stiff
+321001 zalvi grind
+322000
+322001 litki liquid
+322001 tcati tea
+322101 danmo smoke
+322101 gapci gas
+322101 jikru liquor
+322101 jisra juice
+322101 lunsa condense
+322101 runme melt
+322101 runta dissolve
+322201 bakri chalk
+322201 cilmo moist
+322201 cokcu soak up
+322201 ctaru tide
+322201 daplu island
+322201 dertu dirt
+322201 djacu water
+322201 foldi field
+322201 jinto well
+322201 kliti clay
+322201 lalxu lake
+322201 panje sponge
+322201 srasu grass
+322201 sudga dry
+322201 tcima weather
+322201 tsani sky
+322201 tumla land
+322201 vacri air
+322201 xalka alcohol
+322201 xamsi sea
+322201 zbani bay
+322301 boxna wave
+322301 brife breeze
+322301 carvi rain
+322301 ctaru tide
+322301 flecu flow
+322301 galxe throat
+322301 jetce jet
+322301 kafke cough
+322301 naxle canal
+322301 pambe pump
+322301 rirxe river
+322301 senci sneeze
+322301 vasxu breathe
+323000
+323001 bumru fog
+323001 dilnu cloud
+323001 fonmo foam
+323001 grasu grease
+323001 jalna starch
+323001 jduli jelly
+323001 ladru milk
+323001 pesxu paste
+323001 snipa sticky
+323001 sodva soda
+323001 stasu soup
+323001 tarla tar
+323001 vanju wine
+323001 viknu viscous
+330000
+331000
+331101 catra kill
+331101 cecmu community
+331101 jbena born
+331101 jmive live
+331101 morsi dead
+331101 stura structure
+331201 bakni bovine
+331201 banfi amphibian
+331201 bavmi barley
+331201 bersa son
+331201 bifce bee
+331201 bruna brother
+331201 cange farm
+331201 cigla gland
+331201 cilce wild
+331201 cindu oak
+331201 cinfo lion
+331201 cinki insect
+331201 cipni bird
+331201 civla louse
+331201 ckunu conifer
+331201 clika mossy
+331201 cribe bear
+331201 cunmi millet
+331201 curnu worm
+331201 danlu animal
+331201 datka duck
+331201 dembi bean
+331201 fetsi female
+331201 figre fig
+331201 finpe fish
+331201 ganti testicle
+331201 gerku dog
+331201 grute fruit
+331201 gunse goose
+331201 jalra cockroach
+331201 jecta polity
+331201 jipci chicken
+331201 jukni spider
+331201 jurme germ
+331201 kanba goat
+331201 kulnu culture
+331201 kumte camel
+331201 labno wolf
+331201 lanme sheep
+331201 latna lotus
+331201 lorxu fox
+331201 mabru mammal
+331201 mamta mother
+331201 manti ant
+331201 mensi sister
+331201 mirli deer
+331201 mlatu cat
+331201 mledi mold
+331201 mraji rye
+331201 nakni male
+331201 nanla boy
+331201 nanmu man
+331201 natmi nation
+331201 ninmu woman
+331201 nirna nerve
+331201 nixli girl
+331201 nurma rural
+331201 panka park
+331201 patfu father
+331201 plise apple
+331201 plixa plow
+331201 prenu person
+331201 purdi garden
+331201 ractu rabbit
+331201 ratcu rat
+331201 remna human
+331201 respa reptile
+331201 rismi rice
+331201 rozgu rose
+331201 sfani fly
+331201 since snake
+331201 smacu mouse
+331201 smani monkey
+331201 sombo sow
+331201 spati plant
+331201 srasu grass
+331201 stagi vegetable
+331201 tanko tobacco
+331201 tirxu tiger
+331201 tixnu daughter
+331201 toldi butterfly
+331201 tricu tree
+331201 tujli tulip
+331201 xanto elephant
+331201 xarju pig
+331201 xasli donkey
+331201 xedja jaw
+331201 xirma horse
+331201 xruki turkey
+331201 xrula flower
+332000
+332101 dunku anguish
+332101 ganse sense
+332211 degji finger
+332211 pencu touch
+332211 satre stroke
+332211 tamji thumb
+332211 xance hand
+332221 bisli ice
+332221 bratu hail
+332221 ctile petroleum
+332221 danmo smoke
+332221 dikca electric
+332221 dunja freeze
+332221 fagri fire
+332221 febvi boil
+332221 glare hot
+332221 jelca burn
+332221 jukpa cook
+332221 kelvo kelvin
+332221 kolme coal
+332221 lenku cold
+332221 livla fuel
+332221 lunsa condense
+332221 sacki match
+332221 snime snow
+332221 staku ceramic
+332221 toknu oven
+332231 cpina pungent
+332231 jilka alkali
+332231 kukte delicious
+332231 kurki bitter
+332231 nelci fond
+332231 rigni disgust
+332231 sakta sugar
+332231 sanso sauce
+332231 sigja cigar
+332231 silna salt
+332231 slami acid
+332231 slari sour
+332231 sluni onion
+332231 sunga garlic
+332231 titla sweet
+332231 tsapi seasoning
+332231 vrusi taste
+332241 panci odor
+332241 sumne smell
+332251 cladu loud
+332251 sance sound
+332251 savru noise
+332251 smaji quiet
+332251 tonga tone
+332252 cmoni moan
+332252 sanga sing
+332252 siclu whistle
+332252 krixa cry out
+332253 bende orchestra
+332253 damri drum
+332253 flani flute
+332253 jgita guitar
+332253 pipno piano
+332253 sanga sing
+332253 siclu whistle
+332253 tabra trumpet
+332253 tigni perform
+332253 xagri reed
+332253 zgike music
+332253 janbe bell
+332253 rilti rhythm
+332253 sarxe harmonious
+332254 fonxa telephone
+332254 kerlo ear
+332254 tirna hear
+332261 blaci glass
+332261 carmi intense
+332261 ctino shadow
+332261 gusni illumine
+332261 kandi dim
+332261 krili crystal
+332261 manku dark
+332261 delno candela
+332261 dirce radiate
+332261 lindi lightning
+332261 lunra lunar
+332261 minra reflect
+332261 mluni satellite
+332261 murta curtain
+332261 nicte night
+332261 plini planet
+332261 santa umbrella
+332261 solri solar
+332261 tarci star
+332262 blabi white
+332262 blanu blue
+332262 bunre brown
+332262 carmi intense
+332262 cinta paint
+332262 crino green
+332262 grusi gray
+332262 kandi dim
+332262 manku dark
+332262 narju orange
+332262 pelxu yellow
+332262 skari color
+332262 xekri black
+332262 xunre red
+332262 zirpu purple
+332262 sarxe harmonious
+332263 canci vanish
+332263 catlu look
+332263 kacma camera
+332263 lenjo lens
+332263 viska see
+332263 zgana observe
+332263 jvinu view
+332263 kanla eye
+332263 simlu seem
+332263 tarmi shape
+400000
+410000
+411000
+411001 jei   truth value
+411001 jijnu intuit
+411001 ka    quality cmavo
+411001 menli mind
+411001 ni    amount cmavo
+411001 nu    event cmavo
+411001 pensi think
+411001 sidbo idea
+411001 sucta abstract
+412000
+412001 cfipu confuse
+412001 ciksi explain
+412001 cinri interesting
+412001 cipra test
+412001 citsi season
+412001 ckilu scale
+412001 danfu answer
+412001 datni data
+412001 dekpu gallon
+412001 delno candela
+412001 frati react
+412001 grake gram
+412001 gutci cubit
+412001 jundi attentive
+412001 karbi compare
+412001 kelvo kelvin
+412001 kramu acre
+412001 kucli curious
+412001 kurji take care of
+412001 lanli analyze
+412001 litce liter
+412001 merli measure
+412001 mitre meter
+412001 molro mole
+412001 preti question
+412001 radno radian
+412001 sitna cite
+412001 spuda reply
+412001 stero steradian
+412001 vamji value
+412001 xampo ampere
+412001 zgana observe
+413000
+413001 fatci fact
+413101 birti certain
+413101 burna embarrassed
+413101 cumki possible
+413101 lacri rely
+413101 lakne probable
+413101 smadi guess
+414000
+414001 casnu discuss
+414001 darlu argue
+414001 ja    or
+414001 jarco show
+414001 je    and
+414001 jijnu intuit
+414001 jo    if	and only if
+414001 kanxe conjunction
+414001 lanli analyze
+414001 logji logic
+414001 natfe deny
+414001 vlina alternation
+415000
+415001 cfila flaw
+415001 cilre learn
+415001 djuno know
+415001 fapro oppose
+415001 fatci fact
+415001 finti invent
+415001 jdice decide
+415001 jei   truth value
+415001 jetnu true
+415001 jijnu intuit
+415001 jimpe understand
+415001 jinvi opine
+415001 jitfa false
+415001 krici believe
+415001 lacri rely
+415001 lifri experience
+415001 pajni judge
+415001 pante protest
+415001 sanji conscious
+415001 saske science
+415001 satci exact
+415001 senpi doubt
+415001 srera err
+415001 tugni agree
+415001 vamji value
+415001 zanru approve
+415101 bebna foolish
+415101 fenki crazy
+415101 prije wise
+415101 racli sane
+416000
+416101 morji remember
+416201 badri sad
+416201 bredi ready
+416201 sinxa sign
+416201 spaji surprise
+416201 xanka nervous
+417000
+417001 smadi guess
+417001 sruma assume
+417001 stidi suggest
+417001 xanri imaginary
+420000
+421000
+421001 cfipu confuse
+421001 ciksi explain
+421001 fanva translate
+421001 kluza loose
+421001 ranxi irony
+421001 smuni meaning
+421001 tanru metaphor
+421001 tcidu read
+422000
+422001 basna emphasize
+422001 cartu chart
+422001 cfika fiction
+422001 ckule school
+422001 cladu loud
+422001 cradi radio
+422001 ctuca teach
+422001 cusku express
+422001 facki discover
+422001 gidva guide
+422001 gubni public
+422001 jarco show
+422001 jei   truth value
+422001 jetnu true
+422001 jimpe understand
+422001 jitfa false
+422001 karni journal
+422001 lisri story
+422001 mifra code
+422001 mipri secret
+422001 mrilu mail
+422001 natfe deny
+422001 notci message
+422001 nuzba news
+422001 ranxi irony
+422001 sivni private
+422001 stace honest
+422001 tadni study
+422001 tcica deceive
+422001 tcidu read
+422001 tivni television
+422001 tsina stage
+422001 xusra assert
+423000
+423001 cilre learn
+423101 cartu chart
+423101 cmene name
+423101 jaspu passport
+423101 judri address
+423101 kacma camera
+423101 katna cut
+423101 krati represent
+423101 lanci flag
+423101 notci message
+423101 pikta ticket
+423101 pixra picture
+423101 sinxa sign
+423101 tcita label
+423101 vidni video
+423101 vreji record
+423104 citri history
+423211 bangu language
+423211 bo    short scope
+423211 bridi predicate
+423211 broda predicate var 1
+423211 brode predicate var 2
+423211 brodi predicate var 3
+423211 brodo predicate var 4
+423211 brodu predicate var 5
+423211 cmavo structure word
+423211 cmene name
+423211 gadri article
+423211 gerna grammar
+423211 gismu root word
+423211 jufra sentence
+423211 ke    type of
+423211 ke'e  end grouping
+423211 kei   end abstract
+423211 lerfu letteral
+423211 lujvo cpd predicate
+423211 pandi punctuate
+423211 rafsi affix
+423211 se    2nd conversion
+423211 skicu describe
+423211 slaka syllable
+423211 sumti argument
+423211 tavla talk
+423211 te    3rd conversion
+423211 valsi word
+423211 ve    4th conversion
+423211 xe    5th conversion
+423221 bacru utter
+423221 tavla talk
+423221 voksa voice
+423231 barna mark
+423231 cfika fiction
+423231 ciska write
+423231 cukta book
+423231 draci drama
+423231 karda card
+423231 karni journal
+423231 lisri story
+423231 papri page
+423231 pelji paper
+423231 pemci poem
+423231 penbi pen
+423231 pinka comment
+423231 pinsi pencil
+423231 prina print
+423231 prosa prose
+423231 rimni rhyme
+423231 sinxa sign
+423231 skina cinema
+423231 tigni perform
+423231 tsina stage
+423231 xinmo ink
+425001 facki discover
+500000
+510000
+511000
+511101 bilga obliged
+511101 cuxna choose
+511101 dimna fate
+511101 jdice decide
+511101 junri serious
+511101 nitcu need
+511101 nutli neutral
+511101 tcaci custom
+511101 vlina alternation
+511101 xarnu stubborn
+511201 krinu reason
+511201 rinju restrain
+511201 trina attract
+511201 xlura influence
+511301 palci evil
+511301 xamgu good
+512000
+512001 clupa loop
+512101 briju office
+512101 ciste system
+512101 cunso random
+512101 finti invent
+512101 funca luck
+512101 ganzu organize
+512101 gundi industry
+512101 jersi chase
+512101 jibri job
+512101 kalte hunt
+512101 mukti purpose
+512101 nibli necessitate
+512101 nitcu need
+512101 nu    event cmavo
+512101 nutli neutral
+512101 platu plan
+512101 pluta route
+512101 pruce process
+512101 rivbi avoid
+512101 sarcu necessary
+512101 sisku seek
+512101 snuti accidental
+512101 stidi suggest
+512101 tadji method
+512201 cfine wedge
+512201 crepu harvest
+512201 festi waste
+512201 jendu axle
+512201 molki mill
+512201 mudri wood
+512201 muzga museum
+512201 sabji provide
+512201 vamji value
+512201 vraga lever
+512211 banzu suffice
+512211 cabra apparatus
+512211 canpa shovel
+512211 cinza tongs
+512211 ckiku key
+512211 dakfu knife
+512211 dukse excess
+512211 forca fork
+512211 jaspu passport
+512211 jinci shears
+512211 klupe screw
+512211 mansa satisfy
+512211 matra motor
+512211 minji machine
+512211 mruli hammer
+512211 nilce furniture
+512211 pindi poor
+512211 ricfu rich
+512211 skami computer
+512211 smuci spoon
+512211 sorcu store
+512211 tutci tool
+512211 xaksu use up
+512211 zmiku automatic
+512221 barna mark
+512221 basna emphasize
+512221 bilma ill
+512221 burcu brush
+512221 cfila flaw
+512221 cikre repair
+512221 civla louse
+512221 curve pure
+512221 fusra rotten
+512221 jemna gem
+512221 jenca shock
+512221 jinsa clean
+512221 jurme germ
+512221 kenra cancer
+512221 komcu comb
+512221 lumci wash
+512221 mikce doctor
+512221 mledi mold
+512221 pilno use
+512221 prane perfect
+512221 pulce dust
+512221 spita hospital
+512221 vajni important
+512221 vidru virus
+512221 vifne fresh
+512221 vindu poison
+512221 xalbo levity
+512221 xamgu good
+512221 xrani injure
+512221 zbabu soap
+512231 bandu defend
+512231 ckape peril
+512231 jinku vaccine
+512231 kajde warn
+512231 marbi shelter
+512231 santa umbrella
+512231 snura secure
+512231 vindu poison
+512301 bredi ready
+512301 festi waste
+512301 jukpa cook
+512301 pilno use
+512301 rarna natural
+512301 rutni artifact
+512301 spaji surprise
+512301 troci try
+512301 xaksu use up
+513000
+513101 cando idle
+513101 cikna awake
+513101 cuntu affair
+513101 fanri factory
+513101 gundi industry
+513101 jibri job
+513101 kakne able
+513101 lazni lazy
+513101 macnu manual
+513101 molki mill
+513101 nu    event cmavo
+513101 sazri operate
+513101 senva dream
+513101 sipna sleep
+513101 surla relax
+513101 tatpi tired
+513101 vreta reclining
+513101 zajba gymnast
+513201 certu expert
+513201 flalu law
+513201 jansu diplomat
+513201 juxre clumsy
+513201 kamni committee
+513201 larcu art
+513201 lidne leader
+513201 ralju principal
+513201 saske science
+513201 stati talent
+513201 tarti behave
+513201 turni govern
+513211 gidva guide
+514000
+514001 raktu trouble
+514101 burna embarrassed
+514101 frili easy
+514101 nandu difficult
+514201 bandu defend
+514201 bikla whip
+514201 bilni military
+514201 cecla launcher
+514201 damba fight
+514201 dicra interrupt
+514201 fanta prevent
+514201 fapro oppose
+514201 foldi field
+514201 gunta attack
+514201 jakne rocket
+514201 jamna war
+514201 jansu diplomat
+514201 jbama bomb
+514201 jenmi army
+514201 jivna compete
+514201 kagni company
+514201 klina clear
+514201 nabmi problem
+514201 panpi peace
+514201 randa yield
+514201 rinju restrain
+514201 sidju help
+514201 sonci soldier
+514201 talsa challenge
+514201 tugni agree
+514201 tunta poke
+514201 xarci weapon
+514201 xarnu stubborn
+514201 zunti interfere
+515000
+515001 betri tragedy
+515001 fliba fail
+515001 funca luck
+515001 jinga win
+515001 nu    event cmavo
+515001 snada succeed
+515001 steba frustration
+520000
+521000
+521001 bapli force
+521001 catni authority
+521001 jansu diplomat
+521001 jatna captain
+521001 jecta polity
+521001 jibri job
+521001 jitro control
+521001 jukpa cook
+521001 jursa severe
+521001 krati represent
+521001 lasna fasten
+521001 minde command
+521001 pinfu prisoner
+521001 rinju restrain
+521001 selfu serve
+521001 tinbe obey
+521001 turni govern
+521001 vipsi deputy
+521001 zifre free
+521221 kanro healthy
+522000
+522001 cpedu request
+522001 curmi let
+522001 friti offer
+522001 jaspu passport
+522001 jivna compete
+522001 pante protest
+522001 pikci beg
+523000
+523001 binra insure
+523001 jansu diplomat
+523001 nupre promise
+523101 gunka work
+523231 xatra letter
+524000
+524001 jinga win
+524001 tutra territory
+524101 cerda heir
+524101 cinza tongs
+524101 cirko lose
+524101 cpacu get
+524101 crepu harvest
+524101 jerna earn
+524101 jgalu claw
+524101 jgari grasp
+524101 ponse possess
+524101 prali profit
+524101 ralte retain
+524201 canja exchange
+524201 dunda give
+524201 fatri distribute
+524201 friti offer
+524201 jbera borrow
+524201 jgari grasp
+524201 kavbu capture
+524201 lebna take
+524201 zivle invest
+524301 canja exchange
+524301 vecnu sell
+524301 zarci market
+524301 zivle invest
+524401 banxa bank
+524401 cpacu get
+524401 cteki tax
+524401 dejni owe
+524401 fepni cent
+524401 janta account
+524401 jdima price
+524401 jdini money
+524401 kargu costly
+524401 pindi poor
+524401 pleji pay
+524401 ricfu rich
+524401 rupnu dollar
+524401 sicni coin
+524401 zivle invest
+600000
+610000
+610001 cinmo emotion
+610001 cinri interesting
+612001 melbi beautiful
+620000
+621000
+621001 badri sad
+621001 betri tragedy
+621001 cisma smile
+621001 cmila laugh
+621001 cortu pain
+621001 dansu dance
+621001 dunku anguish
+621001 fanza annoy
+621001 frumu frown
+621001 gleki happy
+621001 kecti pity
+621001 kelci play
+621001 klaku weep
+621001 kufra comfort
+621001 mansa satisfy
+621001 nelci fond
+621001 panka park
+621001 pluka please
+621001 raktu trouble
+621001 rigni disgust
+621001 surla relax
+621001 xajmi funny
+621001 xalbo levity
+621001 xenru regret
+621001 zajba gymnast
+621001 zdile amusing
+622000
+622001 cfila flaw
+622001 cilce wild
+622001 cinta paint
+622001 ckasu ridicule
+622001 jadni adorn
+622001 jemna gem
+623000
+623001 darsi audacity
+623001 djica desire
+623001 lacri rely
+623001 mansa satisfy
+623001 nelci fond
+623001 pacna hope
+623001 prami love
+623001 rigni disgust
+623001 taske thirst
+623001 terpa fear
+623001 virnu brave
+623001 xagji hunger
+623001 xalni panic
+623001 xanka nervous
+623001 xebni hate
+624000
+624001 manci wonder
+625000
+625001 ckeji ashamed
+625001 cumla humble
+625001 darsi audacity
+625001 jgira pride
+625001 mabla derogative
+625001 misno famous
+625001 nobli noble
+625001 salci celebrate
+625001 sinma esteem
+625001 zabna favorable
+630000
+631000
+631001 bradi enemy
+631001 cinba kiss
+631001 clite polite
+631001 dirba dear
+631001 fengu angry
+631001 frumu frown
+631001 jikca socialize
+631001 kurki bitter
+631001 nelci fond
+631001 pendo friend
+631001 prami love
+631001 rinsa greet
+631001 speni married
+631001 vitke guest
+631001 xebni hate
+632000
+632001 dapma curse
+632001 kalte hunt
+632001 kusru cruel
+632001 palci evil
+632001 xamgu good
+632001 xendo kind
+633000
+633001 kecti pity
+634000
+634001 ckire grateful
+634001 fraxu forgive
+634001 jilra jealous
+634001 venfu revenge
+640000
+641000
+641001 bilga obliged
+641001 drani correct
+641001 fuzme responsible
+641001 lazni lazy
+641001 marde morals
+641001 palci evil
+641001 xamgu good
+641001 xlali bad
+642000
+642001 ckasu ridicule
+642001 frumu frown
+642001 krinu reason
+642001 mabla derogative
+642001 sinma esteem
+642001 zabna favorable
+642001 zanru approve
+643000
+643001 cfila flaw
+643001 drani correct
+643001 xamgu good
+643001 zekri crime
+643001 zungi guilt
+644000
+645000
+645001 cnemu reward
+645001 dapma curse
+645001 flalu law
+645001 pleji pay
+645001 pulji police
+645001 ritli rite
+645001 sfasa punish
+650000
+651000
+651001 crida fairy
+651001 jegvo Jehovah
+651001 xriso Christ
+652000
+652001 budjo Buddha
+652001 cevni god
+652001 dadjo Tao
+652001 muslo Islam
+652001 pruxi spirit
+652001 ranmi myth
+653000
+653001 censa holy
+653001 lijda religion
+653001 senpi doubt
+653001 xamgu good
+654000
+654001 makfa magic
+655000
+655001 malsi temple
+655001 ritli rite
+655001 xalka alcohol
+888888 cinse sexual
+c   C  baxso Malay-Indonesia
+c   C  bengo Bengali
+c   C  bindo Indonesian
+c   C  brazo Brazilian
+c   C  brito British
+c   C  dotco German
+c   C  filso Palestinian
+c   C  fraso French
+c   C  friko African
+c   C  gento Argentinian
+c   C  glico English
+c   C  jerxo Algerian
+c   C  jordo Jordanian
+c   C  jungo Chinese
+c   C  kadno Canadian
+c   C  kisto Pakistani
+c   C  latmo Latin
+c   C  libjo Libyan
+c   C  lojbo Lojbanic
+c   C  lubno Lebanese
+c   C  meljo Malaysian
+c   C  merko American
+c   C  mexco Mexican
+c   C  misro Egyptian
+c   C  morko Moroccan
+c   C  polno Polynesian
+c   C  ponjo Japanese
+c   C  porto Portuguese
+c   C  rakso Iraqi
+c   C  ropno European
+c   C  rusko Russian
+c   C  sadjo Saudi
+c   C  semto Semitic
+c   C  sirxo Syrian
+c   C  skoto Scottish
+c   C  softo Soviet
+c   C  spano Spanish
+c   C  sralo Australian
+c   C  srito Sanskrit
+c   C  xazdo Asiatic
+c   C  xebro Hebrew
+c   C  xelso Greek
+c   C  xindo Hindi
+c   C  xispo Hispanic
+c   C  xrabo Arabic
+c   C  xurdo Urdi

@@ -1,0 +1,137 @@
+
+/*	=============================== */
+/*			STANDARD
+/*	=============================== */
+
+	*,
+	*:after,
+	*::before {
+		margin:0px;
+		padding:0px;
+		border: 0 none;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	body {
+		font-family:tahoma, verdana, sans-serif,"メイリオ", "ＭＳ Ｐゴシック", "ヒラギノ角ゴ Pro W3";
+		font-size:12pt;
+		color:@tc;
+		background: none repeat scroll 0% 0% @bodybg;/* none-color transparent */
+		/*overflow:hidden;*/
+	}
+	input{
+		border: 0 none;
+		padding:2px;
+		text-align:left;
+	}
+	a {
+		color:@Primary4;
+		text-decoration:none;
+	}
+	a:hover {
+		/*text-decoration:underline;*/
+	}
+	p {display:block;}
+	h1,h2,h3,h4{
+		color:@Primary2;
+	}
+	h1 {
+		margin-left:0px;
+		color:@Primary2;
+		font-size:2em;
+		clear:right;
+		/* text-transform:uppercase;大文字に */
+	}
+	h2 {
+		margin:0 0 .2em 0;
+		padding:0 1em 0 0;
+		font-size:1.6em;
+		/*text-transform:lowercase;*/
+	}
+	h3 {
+		padding:0 1em .4em 0;
+		font-size:1.3em;
+	}
+	td {
+		vertical-align:top;
+	}
+	ul {
+	}
+	li {
+		list-style: none outside none; /*リスト項目のマークにイメージを使用しません*/
+		/*margin-top:8px;*/
+	}
+	table {
+		border-collapse: collapse;
+	}
+	button{
+		padding: .2em .7em;
+		line-height: 1.5;
+		border-radius: 3px;
+		display: inline-block;
+		vertical-align: middle;
+		background-color: @Accent3;
+		border-color: @Accent4;
+		color:#ddd;
+		font-weight: 800;
+		&:hover{
+			color:#fff;
+		}
+	}
+
+/*	============================= */
+/*			USEFUL CLASS
+/*	============================= */
+	.hide{display: none !important;}
+	/* Corner radius */
+		.corner-all,
+		.corner-top,
+		.corner-left,
+		.corner-tl {
+			border-top-left-radius: @corner-radius;
+		}
+		.corner-all,
+		.corner-top,
+		.corner-right,
+		.corner-tr {
+			border-top-right-radius: @corner-radius;
+		}
+		.corner-all,
+		.corner-bottom,
+		.corner-left,
+		.corner-bl {
+			border-bottom-left-radius: @corner-radius;
+		}
+		.corner-all,
+		.corner-bottom,
+		.corner-right,
+		.corner-br {
+			border-bottom-right-radius: @corner-radius;
+		}
+
+	/* Corner radius */
+		.border-all,
+		.border-left,
+		.border-right,
+		.border-top{
+			border-top: @border-px solid @border-color;
+			&:hover,&.active{border-top-color:@border-hcolor;}
+		}
+		.border-all,
+		.border-right{
+			border-right: @border-px solid @border-color;
+			&:hover,&.active{border-right-color:@border-hcolor;}
+		}
+		.border-all,
+		.border-left{
+			border-left: @border-px solid @border-color;
+			&:hover,&.active{border-left-color:@border-hcolor;}
+		}
+		.border-all,
+		.border-left,
+		.border-right,
+		.border-bottom{
+			border-bottom: @border-px solid @border-color;
+			&:hover,&.active{border-bottom-color:@border-hcolor;}
+		}

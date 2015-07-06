@@ -1,0 +1,190 @@
+
+@import "templates/colors.less";
+
+/*	=============================== */
+/*			CONTROLLER
+/*	=============================== */
+/* Red Pink Purple DeepPurple Indigo Blue LightBlue Cyan Teal Green LightGreen Lime Yellow Amber Orange DeepOrange / Brown Grey Blue Grey */
+	.colorCreates(@main: @Purple);/*@main:@Lime;@subs:@Green      @Primary0~9  &  @Accent1-4*/
+
+	.bgColorCreate(dark);/* light */
+	.bgColor(tab-nav){
+	}
+	@corner-radius: 5px;
+	@border-px    : 3px;
+	@border-color : @Primary4;
+	@border-hcolor: @Primary5;
+
+	/*http://www.google.com/fonts*/
+	@import url(http://fonts.googleapis.com/css?family=Play);
+	/*@import url(http://fonts.googleapis.com/css?family=Forum|UnifrakturMaguntia|Cinzel+Decorative|Bowlby+One+SC|Asset|Uncial+Antiqua|Audiowide);*/
+@import "templates/base.less";
+@import "templates/tab.less";
+
+/*	============================= */
+/*			Magic Circle
+/*	============================= */
+	*{
+		// font-size:12pt;
+	}
+	#mainwrapper{
+		position:fixed;
+		height:100%;
+		width:100%;
+		top:0;
+		left:0;
+		overflow: hidden;
+	}
+	#main,#canvas{
+		position:fixed;
+		top: 0;
+		// left:50px;
+		// min-width: 1500px;
+		// min-height: 1500px;
+		// width: 1500px;
+		// height: 1500px;
+		height:100%;
+		width:100%;
+		overflow: hidden;
+	}
+/* /base */
+
+	h1,h2,h3{
+		font-family: Play;
+	}
+	h1{
+		margin-bottom: 10px;
+		font-weight: medium;
+	}
+	input,select{
+		// background-color: transparent;
+		background-color: rgba( 245,245,245,0.3);
+		border:solid 1px @Primary2;
+		min-width:140px;
+		color:white;
+	}
+	input:not([type="submit"]),
+	// textarea{
+	// 	outline: none;
+	// 	display: inline-block;
+	// 	padding: .2em .4em;
+	// 	// border:1px solid @Primary9;
+	// 	border-radius: 3px;
+	// 	background-color: fade( #111 ,10%);
+	// 	color: #eee;
+	// 	&:focus{
+	// 		background-color: fade( @Primary2 ,50%);
+	// 	}
+	// 	vertical-align: middle;
+	// }
+	input[type="text"],
+	input[type="number"]{
+		width: 10em;
+	}
+	.initial{
+		display: inline-block;
+		.center(1.5em);
+	}
+
+/* menu */
+	#controller{
+		position:absolute;
+		top: 0;
+		left:0;
+		height:100%;
+		// width:470px;
+		z-index: 2;
+		@nav-width:60px;
+		#vertical-nav{
+			background-color: @Primary6;
+			color: @Primary0;
+			position: absolute;
+			height:100%;
+			width:@nav-width;
+			top: 0;
+			left:0;
+			padding:10px 0;
+			li{
+				.tab-nav;
+				width:100%;
+				font-size:14pt;
+				text-align: center;
+			}
+			li:hover,li.active{
+				background-color: @Primary8;
+			}
+		}
+		@panel-width:350px;
+		.tab-content{
+			position:absolute;
+			height:100%;
+			width:@panel-width;
+			top: 0;
+			left:@nav-width;
+			line-height: 2em;
+			padding: 10px 15px;
+			background: fade(@Primary8,90%);
+			overflow-y: auto;
+			overflow-x: hidden;
+			.td1{
+				color:@Primary2;
+				font-weight: medium;
+				text-align: right;
+				cursor: pointer;
+			}
+			.td2,.td3{
+				margin-left: 10px;
+				padding-left: 10px;
+			}
+		}
+		textarea{
+			border-radius: @corner-radius;
+			padding: .1em .3em ;
+		}
+	}
+	#editor {
+		margin: 0;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+	#redraw{
+		font-size: 14px;
+		line-height: 18px;
+		text-align: center;
+		position: absolute;
+		top:8px;
+		right:8px;
+		height:18px;
+		width: 18px;
+		background-color: #eee;
+		color:#333;
+		border-radius:2px;
+		z-index:2;
+	}
+/* /menu */
+/* color dialog */
+	.swatch li{
+		display:inline-block;
+		border: 2px solid #333;
+		border-radius: 3px;
+		height:1.8em;
+		width:1.8em;
+		.center(1.8em;1.8em);
+		&.active{
+			border-color: #aaa;
+		}
+	}
+
+// # credit
+	div#credit{
+		position:absolute;
+		bottom:0;
+		right:30px;
+		font-size:0.8em;
+		color:#777;
+	}
+	#credit a{color:#777;}
+	#credit a:hover{color:#ff4273;}
