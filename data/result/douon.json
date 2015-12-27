@@ -1,0 +1,6451 @@
+[
+  {
+    "word": "ba'o",
+    "type": "cmavo",
+    "selmaho": "ZAhO",
+    "selmaho2": "BAI",
+    "def": "完了（～の事後において） ： 相制詞；",
+    "ruby": "バホ",
+    "score": []
+  },
+  {
+    "word": "banro",
+    "type": "gismu",
+    "rafsi": [
+      "banro",
+      "banr",
+      "ba'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "育つ"
+    ],
+    "def": "$x_1$ は $x_2$ （結果）に $x_3$ （始原）から育つ／育成する／成長する",
+    "ps": 3,
+    "exams": [
+      "「le spati cu banro ri'a lo nu do djacu dunda／あなたが水やりをするので、その植物が育つ」 "
+    ],
+    "ruby": "バンロ",
+    "pun": "＜晩のローズ＞, grow",
+    "cf": [
+      "farvi",
+      "zenba",
+      "jmina",
+      "barda",
+      "makcu",
+      "ferti"
+    ],
+    "score": []
+  },
+  {
+    "word": "bau",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "~語で ： 法制詞； bangu の $x_1$",
+    "ps": 1,
+    "ruby": "バウ",
+    "score": []
+  },
+  {
+    "word": "bangu",
+    "type": "gismu",
+    "rafsi": [
+      "bangu",
+      "bang",
+      "ban",
+      "bau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "言語"
+    ],
+    "def": "$x_1$ は $x_2$ （使用者）が $x_3$ （概念／命題／文字列）を表すのに用いる言語；  $x_2$ は $x_1$ 語を話す",
+    "ps": 3,
+    "exams": [
+      "「.e'o lo jbobau ko bangu／ロジバンを使ってください」 "
+    ],
+    "ruby": "バング",
+    "pun": "＜晩の愚行＞. language",
+    "cf": [
+      "tance",
+      "cusku",
+      "ve tavla",
+      "valsi",
+      "gerna",
+      "jufra",
+      "natmi",
+      "slaka"
+    ],
+    "score": []
+  },
+  {
+    "word": "ba'u",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "def": "誇張 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）",
+    "notes": "心態詞",
+    "exams": [
+      "「blabi kerfa me ba'u ci ki'o pavnongutci／白髪三千丈」 "
+    ],
+    "ruby": "バフ",
+    "cf": [
+      "dukse"
+    ],
+    "score": []
+  },
+  {
+    "word": "bacru",
+    "type": "gismu",
+    "rafsi": [
+      "bacru",
+      "bacr",
+      "ba'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "発声"
+    ],
+    "def": "$x_1$ は $x_2$ （声／音）を発する",
+    "ps": 2,
+    "notes": "意思疎通や話し相手は必ずしも含意しない。",
+    "exams": [
+      "「.a'enai do ranji bacru／きみの長話にはうんざりだ」 "
+    ],
+    "ruby": "バシル",
+    "pun": "＜口走る＞, utter",
+    "cf": [
+      "krixa (叫ぶ)",
+      "cusku (言う)",
+      "casnu (論議)",
+      "tavla (話す)",
+      "voksa (声)",
+      "pinka"
+    ],
+    "score": []
+  },
+  {
+    "word": "be'o",
+    "type": "cmavo",
+    "selmaho": "BEhO",
+    "def": "sumti 接続終了 ： 境界詞； brivla に BE BEI で繋げた sumti の末尾を示す",
+    "ruby": "ベホ",
+    "score": []
+  },
+  {
+    "word": "bemro",
+    "type": "gismu",
+    "rafsi": [
+      "bemro",
+      "bemr",
+      "bem",
+      "be'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "北アメリカ"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関して北アメリカ系（言語／文化／民族／地理）",
+    "ps": 2,
+    "ruby": "ベムロ",
+    "pun": "berti merko",
+    "cf": [
+      "merko",
+      "kadno",
+      "xispo",
+      "mexno"
+    ],
+    "score": []
+  },
+  {
+    "word": "be'u",
+    "type": "cmavo",
+    "selmaho": "UI5",
+    "selmaho2": "UI",
+    "ja": [
+      "欠如",
+      "必要"
+    ],
+    "def": "欠如 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）",
+    "notes": "心態詞（修飾系）；何かを欠いていたり、必要としている気持ち。直前に心態詞がある場合、その感情が何かを欠いていたり、必要ととしていたりすることから生じていることを表す；",
+    "exams": [
+      "「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ベフ",
+    "cf": [
+      "claxu",
+      "nitcu",
+      "mansa"
+    ],
+    "score": []
+  },
+  {
+    "word": "betfu",
+    "type": "gismu",
+    "rafsi": [
+      "betfu",
+      "betf",
+      "bef",
+      "be'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "腹"
+    ],
+    "def": "$x_1$ は $x_2$ （本体）の腹／胴部",
+    "ps": 2,
+    "ruby": "ベトフゥ",
+    "pun": "＜別の腹部＞, belly, fu(腹)",
+    "cf": [
+      "cutne",
+      "livga",
+      "canti"
+    ],
+    "score": []
+  },
+  {
+    "word": "bi'o",
+    "type": "cmavo",
+    "selmaho": "BIhI",
+    "selmaho2": "JOI",
+    "def": "~から~まで（順序あり） ： 接続詞（非論理・間隔）",
+    "exams": [
+      "「nu litru bi'o litru litru ru'i .e'i kei me mi／旅から旅へ旅しつゞける外ない私でありました」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ビホ",
+    "score": []
+  },
+  {
+    "word": "binxo",
+    "type": "gismu",
+    "rafsi": [
+      "binxo",
+      "binx",
+      "bix",
+      "bi'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "成る"
+    ],
+    "def": "$x_1$ は $x_2$ に $x_3$ （条件）の下で成る／変身する",
+    "ps": 3,
+    "exams": [
+      "「.ei binxo lo ka'e frili pilno be lo ka stace .e lo ka lazni／正直と横着とが自由自在に使へるやうにならなければならない」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ビンクォ",
+    "pun": "＜ビンがホット＞, become,  bian(変)",
+    "cf": [
+      "cenba",
+      "galfi",
+      "stika; zasni"
+    ],
+    "score": []
+  },
+  {
+    "word": "bi'u",
+    "type": "cmavo",
+    "selmaho": "UI3a",
+    "selmaho2": "UI",
+    "def": "新情報 （ bi'u 新情報 - bi'unai 古情報）",
+    "notes": "心態詞「こういう件があるんですが」",
+    "exams": [
+      "「bi'u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました（振り込め詐欺）」 "
+    ],
+    "ruby": "ビフ",
+    "cf": [
+      "cnino datni"
+    ],
+    "score": []
+  },
+  {
+    "word": "bitmu",
+    "type": "gismu",
+    "rafsi": [
+      "bitmu",
+      "bitm",
+      "bim",
+      "bi'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "壁"
+    ],
+    "def": "$x_1$ は $x_2$ ・ $x_3$ を隔てる、 $x_4$ （構造体）の壁／垣／塀／フェンス",
+    "ps": 4,
+    "ruby": "ビトム",
+    "pun": "＜美に富む＞, 壁、ちょびっと無駄,  muro",
+    "cf": [
+      "jbini",
+      "sepli",
+      "fendi",
+      "canko",
+      "drudi",
+      "kumfa",
+      "loldi",
+      "senta",
+      "snuji",
+      "pagre",
+      "gacri",
+      "kuspe",
+      "marbi",
+      "vorme"
+    ],
+    "score": []
+  },
+  {
+    "word": "bu'a",
+    "type": "cmavo",
+    "selmaho": "GOhA",
+    "rafsi": [
+      "bul"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "某 selbri 一"
+    ],
+    "def": "量化型 selbri 変数１ ： 代詞（selbri）； 量化可能な selbri 変数の１つ目",
+    "exams": [
+      "「ganai tinbe lo menli gi se bradi .i ganai jinru lo se cinmo gi se fleca'e .i ganai xarnu gi to'e zifre .i ro bu'a zo'u se gu bu'a gi lo prenu cecmu cu se xabju co nandu／智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。」（漱石『草枕』）"
+    ],
+    "ruby": "ブハ",
+    "cf": [
+      "broda"
+    ],
+    "score": []
+  },
+  {
+    "word": "bruna",
+    "type": "gismu",
+    "rafsi": [
+      "bruna",
+      "brun",
+      "bun",
+      "bu'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "兄弟"
+    ],
+    "def": "$x_1$ は $x_2$ の、 $x_3$ （血縁関係）による兄／弟",
+    "ps": 3,
+    "ruby": "ブルナ",
+    "pun": "＜ブルート殴る＞, ブルーな兄弟, brother",
+    "cf": [
+      "mensi",
+      "tunba",
+      "tamne",
+      "famti",
+      "bersa"
+    ],
+    "score": []
+  },
+  {
+    "word": "bu'i",
+    "type": "cmavo",
+    "selmaho": "GOhA",
+    "def": "量化型 selbri 変数３ ： 代詞（selbri）； 量化可能な selbri 変数の３つ目",
+    "ruby": "ブヒ",
+    "score": []
+  },
+  {
+    "word": "bu",
+    "type": "cmavo",
+    "selmaho": "BU",
+    "rafsi": [
+      "bus",
+      "bu'i"
+    ],
+    "form": [
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "字詞造成"
+    ],
+    "def": "字詞造成 ： 単語を字詞（BY）にする",
+    "exams": [
+      "「denpa bu／. （ロジバンの休止記号）」",
+      "「slaka bu／, （ロジバンの音節区切り記号）」",
+      "「uibu／＼(^o^)／」",
+      "「zo'o bu／;-)」 "
+    ],
+    "ruby": "ブ",
+    "score": []
+  },
+  {
+    "word": "bu'o",
+    "type": "cmavo",
+    "selmaho": "UI7",
+    "selmaho2": "UI",
+    "def": "感じ始め （ bu'o 感じ始め - bu'ocu'i まだ感じて - bu'onai もう感じず）",
+    "notes": "修飾系； 心情や態度を感覚し始めている",
+    "ruby": "ブホ",
+    "score": []
+  },
+  {
+    "word": "budjo",
+    "type": "gismu",
+    "rafsi": [
+      "budjo",
+      "budj",
+      "buj",
+      "bu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "仏教"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関して仏教系",
+    "ps": 2,
+    "ruby": "ブヂョ",
+    "pun": "＜武道上手＞,仏頂面",
+    "score": []
+  },
+  {
+    "word": "bu'u",
+    "type": "cmavo",
+    "selmaho": "FAhA3",
+    "selmaho2": "BAI",
+    "def": "~（場所）にて ： 間制詞（空間・方向）； 同所性を現す； 時間における ca に相当",
+    "ruby": "ブフ",
+    "score": []
+  },
+  {
+    "word": "bukpu",
+    "type": "gismu",
+    "rafsi": [
+      "bukpu",
+      "bukp",
+      "buk",
+      "bu'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "布"
+    ],
+    "def": "$x_1$ は $x_2$ （素材／種類）の布／織物",
+    "ps": 2,
+    "ruby": "ブクプ",
+    "pun": "＜ブックをプール＞",
+    "cf": [
+      "mapni",
+      "matli",
+      "sunla",
+      "slasi",
+      "silka"
+    ],
+    "score": []
+  },
+  {
+    "word": "ca'o",
+    "type": "cmavo",
+    "selmaho": "ZAhO",
+    "selmaho2": "BAI",
+    "def": "進行（～の間／～において） ： 相制詞；",
+    "ruby": "シャホ",
+    "score": []
+  },
+  {
+    "word": "canko",
+    "type": "gismu",
+    "rafsi": [
+      "canko",
+      "cank",
+      "ca'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "窓"
+    ],
+    "def": "$x_1$ は $x_2$ （壁／建物／構造）の窓／門／入口／出口／玄関",
+    "ps": 2,
+    "ruby": "シャンコ",
+    "pun": "ぺしゃんこ, , window",
+    "cf": [
+      "vorme",
+      "bitmu",
+      "ganlo",
+      "murta",
+      "pagre",
+      "kevna",
+      "jvinu",
+      "kalri",
+      "kuspe"
+    ],
+    "score": []
+  },
+  {
+    "word": "ca'u",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の前方に／前側で ： 間制詞（空間・方向）；",
+    "ruby": "シャフ",
+    "score": []
+  },
+  {
+    "word": "canlu",
+    "type": "gismu",
+    "rafsi": [
+      "canlu",
+      "canl",
+      "cal",
+      "ca'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "空間"
+    ],
+    "def": "$x_1$ は $x_2$ （内容）が占める空間（三次元的広がり）；  $x_2$ は $x_1$ を占める",
+    "ps": 2,
+    "ruby": "シャンルゥ",
+    "pun": "volume",
+    "cf": [
+      "kensa",
+      "bliku",
+      "kumfa",
+      "kevna",
+      "kunti",
+      "tubnu",
+      "dekpu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ce'u",
+    "type": "cmavo",
+    "selmaho": "KOhA8",
+    "def": "ラムダ ： 抽象節内において焦点となる sumti の箇所にそのまま代えて置く",
+    "exams": [
+      "「lo ka ce'u mamta／母親としての性質」",
+      "「lo ka mamta ce'u／母親を持つものとしての性質」 "
+    ],
+    "ruby": "シェフ",
+    "score": []
+  },
+  {
+    "word": "cecmu",
+    "type": "gismu",
+    "rafsi": [
+      "cecmu",
+      "cecm",
+      "cem",
+      "ce'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "共同体"
+    ],
+    "def": "$x_1$ は $x_2$ （有機体）の共同体／社会／コミュニティ／群落／集団営巣地／植民地",
+    "ps": 2,
+    "ruby": "シェシム",
+    "pun": "community",
+    "cf": [
+      "bende",
+      "kulnu",
+      "natmi",
+      "tcadu",
+      "jecta",
+      "girzu"
+    ],
+    "score": []
+  },
+  {
+    "word": "co'i",
+    "type": "cmavo",
+    "selmaho": "ZAhO",
+    "selmaho2": "BAI",
+    "def": "到達 ： 相制詞；",
+    "exams": [
+      "「jausna ninyna'a co'i／水音の、新年が来た」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ショヒ",
+    "score": []
+  },
+  {
+    "word": "cmoni",
+    "type": "gismu",
+    "rafsi": [
+      "cmoni",
+      "cmon",
+      "cmo",
+      "co'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CCV",
+      "CVV"
+    ],
+    "ja": [
+      "呻く"
+    ],
+    "def": "$x_1$ は $x_2$ （音声）を $x_3$ （意味／目的／原因）のために呻く／唸る",
+    "ps": 3,
+    "ruby": "シモニ",
+    "pun": "霜に呻る",
+    "cf": [
+      "krixa",
+      "bacru",
+      "cusku",
+      "cortu"
+    ],
+    "score": []
+  },
+  {
+    "word": "cu'e",
+    "type": "cmavo",
+    "selmaho": "CUhE",
+    "selmaho2": "BAI",
+    "def": "制詞質問 ： どの制詞が当てはまるかをその箇所に置いて尋ねる",
+    "ruby": "シュヘ",
+    "score": []
+  },
+  {
+    "word": "ckule",
+    "type": "gismu",
+    "rafsi": [
+      "ckule",
+      "ckul",
+      "kul",
+      "cu'e"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "学習施設"
+    ],
+    "def": "$x_1$ は $x_2$ （所）で $x_3$ （科目）を $x_4$ （聴衆）に教える、 $x_5$ （者）によって営まれている教育機関／学習施設",
+    "ps": 5,
+    "notes": "「小学校」「中学校」「高校」「大学」「専門学校」「講習会」「塾」「研究所」など、知識を養える施設全般。",
+    "ruby": "シクルェ",
+    "pun": "師くれー",
+    "cf": [
+      "cilre",
+      "ctuca",
+      "tadni"
+    ],
+    "score": []
+  },
+  {
+    "word": "cu'o",
+    "type": "cmavo",
+    "selmaho": "MOI",
+    "def": "確率selbri ： 数詞を確率selbriに変換する； １（事）は２（条件）において n の確率で起こる",
+    "ruby": "シュホ",
+    "score": []
+  },
+  {
+    "word": "cunso",
+    "type": "gismu",
+    "rafsi": [
+      "cunso",
+      "cuns",
+      "cun",
+      "cu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "ランダム",
+      "無作為"
+    ],
+    "def": "$x_1$ は $x_2$ （条件）において確率分布 $x_3$ で無原則／無作為／ランダム／でたらめ",
+    "ps": 3,
+    "ruby": "シュンソ",
+    "cf": [
+      "cnici",
+      "lakne",
+      "funca",
+      "kalsa",
+      "snuti"
+    ],
+    "score": []
+  },
+  {
+    "word": "cu'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "~が言って ： cusku 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "シュフ",
+    "score": []
+  },
+  {
+    "word": "cuntu",
+    "type": "gismu",
+    "rafsi": [
+      "cuntu",
+      "cunt",
+      "cu'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "沙汰"
+    ],
+    "def": "$x_1$ は $x_2$ （者）が関わる沙汰／事態／催し",
+    "ps": 2,
+    "notes": "「あなたには関係のない事でしょ」などの「事」。",
+    "ruby": "シュントゥ",
+    "pun": "春闘の催し",
+    "cf": [
+      "fasnu (上位概念)",
+      "jikca",
+      "srana"
+    ],
+    "score": []
+  },
+  {
+    "word": "dai",
+    "type": "cmavo",
+    "selmaho": "UI5",
+    "selmaho2": "UI",
+    "def": "共感",
+    "notes": "心態詞（修飾系）； 先行の心態詞にたいする話者の共感／同情を表す； 話者以外の感情を表す",
+    "exams": [
+      "「le lenku dilnu cu sutkla a'idai／寒い雲がいそぐ」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ダイ",
+    "cf": [
+      "cnijmi"
+    ],
+    "score": []
+  },
+  {
+    "word": "dacti",
+    "type": "gismu",
+    "rafsi": [
+      "dacti",
+      "dact",
+      "dai"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "物体"
+    ],
+    "def": "$x_1$ は時空間内の存在／物体；  $x_1$ は物",
+    "ps": 1,
+    "pun": "物体出していい",
+    "cf": [
+      "marji",
+      "xanri"
+    ],
+    "score": []
+  },
+  {
+    "word": "dau",
+    "type": "cmavo",
+    "selmaho": "PA2",
+    "def": "16進法A/10進法10 ： 数量詞；",
+    "ruby": "ダウ",
+    "score": []
+  },
+  {
+    "word": "darlu",
+    "type": "gismu",
+    "rafsi": [
+      "darlu",
+      "darl",
+      "dau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "擁護"
+    ],
+    "def": "$x_1$ は $x_2$ （観点）を $x_3$ （観点）に対して論理的・倫理的な根拠から擁護／主張する",
+    "ps": 3,
+    "notes": "「xusra」と違い、 x2 は真実性を評価されるものだけでなく倫理上の正当性を評価されるものも。 x2 , x3 は純粋な観点であり、対人間の論争とは限らない。",
+    "ruby": "ダルルゥ",
+    "cf": [
+      "fapro",
+      "jamna",
+      "sarji",
+      "talsa",
+      "sumti",
+      "tugni",
+      "casnu",
+      "damba",
+      "bradi",
+      "tavla"
+    ],
+    "score": []
+  },
+  {
+    "word": "da'u",
+    "type": "cmavo",
+    "selmaho": "KOhA2",
+    "def": "以前言ったこと ： 代詞（sumti）；",
+    "notes": "「“それ”が本当に起こるなんて彼女には知るよしもなかった」",
+    "ruby": "ダフ",
+    "score": []
+  },
+  {
+    "word": "danlu",
+    "type": "gismu",
+    "rafsi": [
+      "danlu",
+      "danl",
+      "dal",
+      "da'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "動物"
+    ],
+    "def": "$x_1$ は $x_2$ （種類）の動物",
+    "ps": 2,
+    "ruby": "ダンルゥ",
+    "cf": [
+      "banfi",
+      "cinki",
+      "cipni",
+      "finpe",
+      "jukni",
+      "respa",
+      "since",
+      "mabru",
+      "bakni"
+    ],
+    "score": []
+  },
+  {
+    "word": "de'o",
+    "type": "cmavo",
+    "selmaho": "VUhU3",
+    "selmaho2": "JOI",
+    "def": "対数 ： 数理演算子（2変数）；log a 底 b (デフォルトで 10 あるいは e)",
+    "ruby": "デホ",
+    "score": []
+  },
+  {
+    "word": "delno",
+    "type": "gismu",
+    "rafsi": [
+      "delno",
+      "deln",
+      "del",
+      "de'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "カンデラ"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のカンデラ／光度",
+    "ps": 3,
+    "ruby": "デルゥノ",
+    "cf": [
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "de'u",
+    "type": "cmavo",
+    "selmaho": "KOhA2",
+    "def": "さきほど言ったこと ： 代詞（sumti）；",
+    "ruby": "デフ",
+    "score": []
+  },
+  {
+    "word": "dertu",
+    "type": "gismu",
+    "rafsi": [
+      "dertu",
+      "dert",
+      "der",
+      "de'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "土壌"
+    ],
+    "def": "$x_1$ は $x_2$ （所／起源）・ $x_3$ （成分）の土壌／つち",
+    "ps": 3,
+    "ruby": "デルトゥ",
+    "cf": [
+      "kliti",
+      "terdi",
+      "loldi"
+    ],
+    "score": []
+  },
+  {
+    "word": "di'o",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を局所的なものとして ： diklo 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ディホ",
+    "score": []
+  },
+  {
+    "word": "dinko",
+    "type": "gismu",
+    "rafsi": [
+      "dinko",
+      "dink",
+      "di'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "鋲"
+    ],
+    "def": "$x_1$ は $x_2$ （素材）・ $x_3$ （特性）の鋲／釘",
+    "ps": 3,
+    "notes": "打ち込む留め具全般。「画鋲」も。",
+    "ruby": "ディンコ",
+    "cf": [
+      "pijne",
+      "lasna"
+    ],
+    "score": []
+  },
+  {
+    "word": "di'u",
+    "type": "cmavo",
+    "selmaho": "KOhA2",
+    "def": "いま言ったこと ： 代詞（sumti）；",
+    "ruby": "ディフ",
+    "score": []
+  },
+  {
+    "word": "dinju",
+    "type": "gismu",
+    "rafsi": [
+      "dinju",
+      "dinj",
+      "dij",
+      "di'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "建物"
+    ],
+    "def": "$x_1$ は $x_2$ （目的）のための建造物",
+    "ps": 2,
+    "ruby": "ディンジュ",
+    "cf": [
+      "ginka",
+      "zdani",
+      "zarci"
+    ],
+    "score": []
+  },
+  {
+    "word": "doi",
+    "type": "cmavo",
+    "selmaho": "DOI",
+    "def": "呼びかけ ： 聴き手を特定しながら呼びかける； COI類が先行していれば不要",
+    "notes": "「あのう」「ねえねえ」「～さん」",
+    "ruby": "ドイ",
+    "score": []
+  },
+  {
+    "word": "do",
+    "type": "cmavo",
+    "selmaho": "KOhA3",
+    "rafsi": [
+      "don",
+      "doi"
+    ],
+    "form": [
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "あなた"
+    ],
+    "def": "聞き手（話し手＆その他以外） ： 代詞（sumti）；",
+    "ruby": "ド",
+    "score": []
+  },
+  {
+    "word": "du'o",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～によると ： djuno 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ドゥホ",
+    "score": []
+  },
+  {
+    "word": "du",
+    "type": "cmavo",
+    "selmaho": "GOhA",
+    "rafsi": [
+      "dub",
+      "du'o"
+    ],
+    "form": [
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "同一"
+    ],
+    "def": "同一 ： 同一性を表す； $x_1$ は $x_2$ ・ $x_3$ ・・・と同一",
+    "ps": 3,
+    "notes": "感覚上はほぼコピュラに相当する。 。",
+    "exams": [
+      "「ta du lo nanmu poi mi pu tavla／あれは私が話した男（と同一）だ」"
+    ],
+    "ruby": "ドゥ",
+    "pun": "同一のドゥ",
+    "cf": [
+      "mintu",
+      "dunli"
+    ],
+    "score": []
+  },
+  {
+    "word": "du'u",
+    "type": "cmavo",
+    "selmaho": "NU",
+    "rafsi": [
+      "dum"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "def": "命題抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する命題を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる； $x_1$ は $x_2$ （文字列）によって表される[bridi]（命題）",
+    "ps": 2,
+    "ruby": "ドゥフ",
+    "cf": [
+      "bridi"
+    ],
+    "score": []
+  },
+  {
+    "word": "dunku",
+    "type": "gismu",
+    "rafsi": [
+      "dunku",
+      "dunk",
+      "duk",
+      "du'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "苦悩"
+    ],
+    "def": "$x_1$ は $x_2$ （事）について苦悩／苦悶する",
+    "ps": 2,
+    "notes": "強い感情的苦痛。",
+    "ruby": "ドゥンク",
+    "pun": "苦",
+    "cf": [
+      "fengu",
+      "surla"
+    ],
+    "score": []
+  },
+  {
+    "word": "fa'i",
+    "type": "cmavo",
+    "selmaho": "VUhU2",
+    "selmaho2": "JOI",
+    "def": "逆数 ： 数理演算子（単一項）； [1/a]",
+    "ruby": "ファヒ",
+    "score": []
+  },
+  {
+    "word": "facki",
+    "type": "gismu",
+    "rafsi": [
+      "facki",
+      "fack",
+      "fak",
+      "fa'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "発見"
+    ],
+    "def": "$x_1$ は $x_2$ （命題）を $x_3$ （題目）について発見する；  $x_1$ は $x_3$ （物）を見つける／探し当てる",
+    "ps": 3,
+    "exams": [
+      "「pu facki lo du'u lo mi mamta cu zvati la kordoban.／私の母はコルドバに居るということがわかった」 "
+    ],
+    "ruby": "ファシキ",
+    "cf": [
+      "cirko",
+      "djuno",
+      "jijnu",
+      "smadi",
+      "sisku"
+    ],
+    "score": []
+  },
+  {
+    "word": "fa'o",
+    "type": "cmavo",
+    "selmaho": "FAhO",
+    "def": "全文章の終了 ： 文章を無条件で閉じる； ロジバン文法の外の領域に出ることを示す； コンピュータ入力などで用いる",
+    "notes": "「完」",
+    "ruby": "ファホ",
+    "score": []
+  },
+  {
+    "word": "fanmo",
+    "type": "gismu",
+    "rafsi": [
+      "fanmo",
+      "fanm",
+      "fam",
+      "fa'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "終わり"
+    ],
+    "def": "$x_1$ は $x_2$ （物／過程）の終わり",
+    "ps": 2,
+    "notes": "終了状態全般。達成／完了しているとはかぎらない。",
+    "ruby": "ファンモ",
+    "pun": "＜ファン燃え尽きて＞",
+    "cf": [
+      "krasi",
+      "cfari",
+      "mulno",
+      "sisti",
+      "denpa",
+      "jipno",
+      "kojna",
+      "traji"
+    ],
+    "score": []
+  },
+  {
+    "word": "fau",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～という事と共に／～をして ： fasnu 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ファウ",
+    "score": []
+  },
+  {
+    "word": "fasnu",
+    "type": "gismu",
+    "rafsi": [
+      "fasnu",
+      "fasn",
+      "fau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "事"
+    ],
+    "def": "$x_1$ は事／出来事／事件／事象／現象；  $x_1$ は起こる／生じる／発生する",
+    "ps": 1,
+    "ruby": "ファスヌ",
+    "pun": "fan(発), happen",
+    "cf": [
+      "fau",
+      "krefu",
+      "lifri",
+      "fatci",
+      "rapli; gasnu",
+      "zukte",
+      "banli"
+    ],
+    "score": []
+  },
+  {
+    "word": "fa'u",
+    "type": "cmavo",
+    "selmaho": "JOI",
+    "selmaho2": "JOI",
+    "def": "それぞれ ： 接続詞（非論理・sumti/selbri）； A fa'u B broda X fa'u Z で「AとBがそれぞれXとZをbrodaする」",
+    "ruby": "ファフ",
+    "score": []
+  },
+  {
+    "word": "farlu",
+    "type": "gismu",
+    "rafsi": [
+      "farlu",
+      "farl",
+      "fal",
+      "fa'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "落ちる",
+      "落下"
+    ],
+    "def": "$x_1$ は $x_2$ に $x_3$ から、 $x_4$ （照合枠／重力井戸）において落ちる／降る",
+    "ps": 4,
+    "notes": "「落とす」は {falcru}, {falri'a}.",
+    "ruby": "ファルルゥ",
+    "pun": "＜ファー（毛皮）、ルーズ＞, furu",
+    "cf": [
+      "lafti",
+      "cpare",
+      "klama",
+      "sfubu"
+    ],
+    "score": []
+  },
+  {
+    "word": "fe'o",
+    "type": "cmavo",
+    "selmaho": "COI",
+    "def": "談話終了 ：心態詞（呼応系）； 談話／会話／討議の終了を表す",
+    "ruby": "フェホ",
+    "score": []
+  },
+  {
+    "word": "fenso",
+    "type": "gismu",
+    "rafsi": [
+      "fenso",
+      "fens",
+      "fen",
+      "fe'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "縫合"
+    ],
+    "def": "$x_1$ は $x_2$ （集合）を $x_3$ （縫い具）・ $x_4$ （縫い糸）で縫い合わせる",
+    "ps": 4,
+    "ruby": "フェンソ",
+    "cf": [
+      "cilta",
+      "jivbu",
+      "jorne",
+      "nivji",
+      "pijne",
+      "lasna"
+    ],
+    "score": []
+  },
+  {
+    "word": "fe'u",
+    "type": "cmavo",
+    "selmaho": "FEhU",
+    "def": "法制詞selbri の終止 ： 境界詞； selbri の一時的法制化の終止を表す； 普通は省略可能",
+    "ruby": "フェフ",
+    "score": []
+  },
+  {
+    "word": "fengu",
+    "type": "gismu",
+    "rafsi": [
+      "fengu",
+      "feng",
+      "feg",
+      "fe'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "憤慨"
+    ],
+    "def": "$x_1$ は $x_2$ （者）にたいして $x_3$ （事／性質）について憤慨している／怒っている",
+    "ps": 3,
+    "ruby": "フェング",
+    "pun": "fungai",
+    "cf": [
+      "fanza",
+      "dunku"
+    ],
+    "score": []
+  },
+  {
+    "word": "fi'a",
+    "type": "cmavo",
+    "selmaho": "FA",
+    "def": "何番目の terbri ? ： 標識； terbri の左に付いてPS上の本来の位置を尋ねる",
+    "ruby": "フィハ",
+    "score": []
+  },
+  {
+    "word": "cfika",
+    "type": "gismu",
+    "rafsi": [
+      "cfika",
+      "cfik",
+      "fik",
+      "fi'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "フィクション"
+    ],
+    "def": "$x_1$ は $x_2$ （内容）・ $x_3$ （著者）のフィクション作品",
+    "ps": 3,
+    "notes": "「小説」「映画」「マンガ」など。 x2 はテーマ／プロット／ジャンルなども。",
+    "ruby": "シフィカ",
+    "cf": [
+      "cukta",
+      "lisri",
+      "prosa",
+      "fatci",
+      "jitfa",
+      "jetnu",
+      "xanri"
+    ],
+    "score": []
+  },
+  {
+    "word": "fi'u",
+    "type": "cmavo",
+    "selmaho": "PA3",
+    "def": "分数斜線 ： 数量詞； 左右の数のうち伏せられているものはデフォルトで1を表す",
+    "ruby": "フィフ",
+    "score": []
+  },
+  {
+    "word": "cfipu",
+    "type": "gismu",
+    "rafsi": [
+      "cfipu",
+      "cfip",
+      "fi'u"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "紛らわしい"
+    ],
+    "def": "$x_1$ （事）は $x_2$ （観者）にとって $x_3$ （性質）の点で紛らわしい／混乱をまねく",
+    "ps": 3,
+    "ruby": "シフィプ",
+    "pun": "confuse",
+    "cf": [
+      "pluja",
+      "zunti"
+    ],
+    "score": []
+  },
+  {
+    "word": "fo'o",
+    "type": "cmavo",
+    "selmaho": "KOhA4",
+    "def": "sumti 変数（彼女／彼／其）９ ： 代詞（sumti）； goi で配当",
+    "ruby": "フォホ",
+    "score": []
+  },
+  {
+    "word": "fonmo",
+    "type": "gismu",
+    "rafsi": [
+      "fonmo",
+      "fonm",
+      "fom",
+      "fo'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "泡"
+    ],
+    "def": "$x_1$ は $x_2$ （成分）の泡",
+    "ps": 2,
+    "notes": "口から吹く「泡つばき」も。",
+    "ruby": "フォンモ",
+    "pun": "form",
+    "cf": [
+      "zbabu"
+    ],
+    "score": []
+  },
+  {
+    "word": "gai",
+    "type": "cmavo",
+    "selmaho": "PA2",
+    "def": "16進法C/10進法12 ： 数量詞",
+    "ruby": "ガイ",
+    "score": []
+  },
+  {
+    "word": "gacri",
+    "type": "gismu",
+    "rafsi": [
+      "gacri",
+      "gacr",
+      "gai"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "覆い"
+    ],
+    "def": "$x_1$ は $x_2$ の覆い／蓋／カバー；  $x_1$ は $x_2$ に被さっている",
+    "ps": 2,
+    "notes": "「仮面」なども。",
+    "ruby": "ガシリ",
+    "pun": "がっしり覆う",
+    "cf": [
+      "pilka",
+      "gapru",
+      "marbi",
+      "drudi",
+      "ve botpi",
+      "bitmu",
+      "calku"
+    ],
+    "score": []
+  },
+  {
+    "word": "ga'o",
+    "type": "cmavo",
+    "selmaho": "GAhO",
+    "selmaho2": "UI",
+    "def": "包含間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれることを表す； 含まれないのを表すのは ke'i； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」",
+    "ruby": "ガホ",
+    "score": []
+  },
+  {
+    "word": "ganlo",
+    "type": "gismu",
+    "rafsi": [
+      "ganlo",
+      "ganl",
+      "ga'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "閉鎖"
+    ],
+    "def": "$x_1$ は $x_2$ （到達されないもの／所）にたいして $x_3$ （通過を妨げられているもの）にとって閉まっている； $x_1$ は $x_3$ が $x_2$ へ達することを妨げる ",
+    "ps": 3,
+    "notes": "$x_1$ はドアなどのほか、半透膜も。",
+    "ruby": "ガンルォ",
+    "cf": [
+      "kalri",
+      "pagre",
+      "canko",
+      "vorme",
+      "zunti"
+    ],
+    "score": []
+  },
+  {
+    "word": "gau",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～（動作者）によって／～がして ： gasnu 法制詞, $x_1$",
+    "ps": 1,
+    "exams": [
+      "「gau zgitigni .ije sanga／ひかせてうたつてゐる」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ガウ",
+    "score": []
+  },
+  {
+    "word": "gasnu",
+    "type": "gismu",
+    "rafsi": [
+      "gasnu",
+      "gasn",
+      "gau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "する"
+    ],
+    "def": "$x_1$ （者）は $x_2$ （事）をする",
+    "ps": 2,
+    "notes": "「zukte」が意志に基づき目的を見据えた振舞いであるのたいし、「gasnu」は単に行動の主体性を表す。",
+    "ruby": "ガスヌ",
+    "pun": "gan(干), hacer",
+    "cf": [
+      "gau",
+      "gunka",
+      "zukte",
+      "rinka",
+      "fasnu",
+      "jibri",
+      "kakne",
+      "pilno"
+    ],
+    "score": []
+  },
+  {
+    "word": "ga'u",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の上方に／上側で ： 間制詞（空間・方向）；",
+    "ruby": "ガフ",
+    "score": []
+  },
+  {
+    "word": "galtu",
+    "type": "gismu",
+    "rafsi": [
+      "galtu",
+      "galt",
+      "gal",
+      "ga'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "高い"
+    ],
+    "def": "$x_1$ は $x_2$ （照合枠）・ $x_3$ （基点）において高い",
+    "ps": 3,
+    "ruby": "ガルゥトゥ",
+    "cf": [
+      "gapru",
+      "dizlo",
+      "cnita",
+      "drudi",
+      "farna"
+    ],
+    "score": []
+  },
+  {
+    "word": "ge'o",
+    "type": "cmavo",
+    "selmaho": "BY1",
+    "selmaho2": "ME",
+    "def": "ギリシャ文字変換 ： 字詞をギリシャ文字に変換する",
+    "ruby": "ゲホ",
+    "score": []
+  },
+  {
+    "word": "gento",
+    "type": "gismu",
+    "rafsi": [
+      "gento",
+      "gent",
+      "get",
+      "ge'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "アルゼンチン"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関してアルゼンチン系（言語／文化／民族／地理）",
+    "ps": 2,
+    "ruby": "ゲント",
+    "cf": [
+      "xispo",
+      "ketco",
+      "spano"
+    ],
+    "score": []
+  },
+  {
+    "word": "ge'u",
+    "type": "cmavo",
+    "selmaho": "GEhU",
+    "def": "関係句終止 ： 境界詞； GOI類で開かれた関係句の終わりを示す",
+    "ruby": "ゲフ",
+    "score": []
+  },
+  {
+    "word": "gerku",
+    "type": "gismu",
+    "rafsi": [
+      "gerku",
+      "gerk",
+      "ger",
+      "ge'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "犬"
+    ],
+    "def": "$x_1$ は $x_2$ （種類）のイヌ科動物（オオカミ／イエイヌ／コヨーテ／ジャッカル／リカオン／タヌキ／キツネ等）",
+    "ps": 2,
+    "ruby": "ゲルク",
+    "pun": "＜下痢で苦しむ＞狗",
+    "cf": [
+      "lorxu (下位概念)",
+      "labno (下位概念)",
+      "mlatu"
+    ],
+    "score": []
+  },
+  {
+    "word": "gi'o",
+    "type": "cmavo",
+    "selmaho": "GIhA",
+    "def": "bridi 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・bridi）； 前部と後部は共に真あるいは共に偽",
+    "ruby": "ギホ",
+    "score": []
+  },
+  {
+    "word": "gigdo",
+    "type": "gismu",
+    "rafsi": [
+      "gigdo",
+      "gigd",
+      "gig",
+      "gi'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "ギガ"
+    ],
+    "def": "$x_1$ は $x_2$ の、 $x_3$ （性質）におけるギガ／十億 ［1 $x_1$ 0**9］",
+    "ps": 3,
+    "ruby": "ギグド",
+    "cf": [
+      "grake",
+      "mitre",
+      "snidu",
+      "stero",
+      "delno",
+      "molro",
+      "kelvo",
+      "xampo",
+      "gradu",
+      "litce",
+      "merli",
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "gi'u",
+    "type": "cmavo",
+    "selmaho": "GIhA",
+    "def": "bridi ～にかかわらず ： 接続詞（論理・後置・bridi）； 前部は真、後部がどうであるかにかかわらず",
+    "ruby": "ギフ",
+    "score": []
+  },
+  {
+    "word": "gismu",
+    "type": "gismu",
+    "rafsi": [
+      "gismu",
+      "gism",
+      "gim",
+      "gi'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "語根"
+    ],
+    "def": "$x_1$ （文字列）は $x_2$ （意味関係）を $x_3$ （項）について表す、 $x_4$ （形態素）からなる語根",
+    "ps": 4,
+    "ruby": "ギスム",
+    "cf": [
+      "gimste",
+      "cmavo",
+      "cmene",
+      "lujvo",
+      "smuni",
+      "sumti",
+      "tanru",
+      "valsi"
+    ],
+    "score": []
+  },
+  {
+    "word": "gu'o",
+    "type": "cmavo",
+    "selmaho": "GUhA",
+    "def": "tanru 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・前置・tanru）； 前部と後部は共に真あるいは共に偽； 後部は gi で繋ぐ",
+    "ruby": "グホ",
+    "score": []
+  },
+  {
+    "word": "gunro",
+    "type": "gismu",
+    "rafsi": [
+      "gunro",
+      "gunr",
+      "gur",
+      "gu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "転がる"
+    ],
+    "def": "$x_1$ は $x_2$ （表面）・ $x_3$ （回転軸）を転がる",
+    "ps": 3,
+    "ruby": "グンロ",
+    "cf": [
+      "bolci",
+      "carna",
+      "jendu",
+      "slanu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ja'i",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を規則として ： javni 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ジャヒ",
+    "score": []
+  },
+  {
+    "word": "jadni",
+    "type": "gismu",
+    "rafsi": [
+      "jadni",
+      "jadn",
+      "jad",
+      "ja'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "飾る"
+    ],
+    "def": "$x_1$ （物）は $x_2$ を装飾する；  $x_1$ は $x_2$ の飾り；",
+    "ps": 2,
+    "ruby": "ジャドニ",
+    "cf": [
+      "jemna",
+      "dirba",
+      "batke"
+    ],
+    "score": []
+  },
+  {
+    "word": "jau",
+    "type": "cmavo",
+    "selmaho": "PA2",
+    "def": "16進法D/10進法13 ： 数量詞；",
+    "ruby": "ジャウ",
+    "score": []
+  },
+  {
+    "word": "djacu",
+    "type": "gismu",
+    "rafsi": [
+      "djacu",
+      "djac",
+      "jac",
+      "jau"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "水"
+    ],
+    "def": "$x_1$ は水；  $x_1$ は水溶性／含水の",
+    "ps": 1,
+    "ruby": "ヂャシュ",
+    "cf": [
+      "lalxu",
+      "rirxe",
+      "xamsi",
+      "limna",
+      "litki",
+      "lumci",
+      "bumru",
+      "jinto"
+    ],
+    "score": []
+  },
+  {
+    "word": "je'o",
+    "type": "cmavo",
+    "selmaho": "BY1",
+    "selmaho2": "ME",
+    "def": "ヘブライ文字変換 ： 字詞をヘブライ文字に変換",
+    "ruby": "ジェホ",
+    "score": []
+  },
+  {
+    "word": "jegvo",
+    "type": "gismu",
+    "rafsi": [
+      "jegvo",
+      "jegv",
+      "jeg",
+      "je'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "アブラハム"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関してアブラハム宗教系（ユダヤ教／キリスト教／イスラム教）",
+    "ps": 2,
+    "ruby": "ジェグヴォ",
+    "cf": [
+      "lijda",
+      "muslo",
+      "dadjo",
+      "xriso"
+    ],
+    "score": []
+  },
+  {
+    "word": "je'u",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "ja": [
+      "真実",
+      "まさに",
+      "本当",
+      "事実"
+    ],
+    "sense": [
+      "嘘ではない",
+      "虚偽でない"
+    ],
+    "def": "真実 （ je'u 真実 - je'unai 虚偽）",
+    "notes": "心態詞（談話系）",
+    "exams": [
+      "「je'u pei／まじで？」",
+      "「je'u zukte tu'a lo nabmi se bilga .i po'o pu nai ca sanji lo si'o bevri ri ti／本当に宿題やりました。持ってくるのを忘れただけです。」",
+      "「.ue mi pu krici lo du'u do se bloti lo je'u te falnu／えっ、あなたが乗ってきたボートが本当に帆で動いていると思い込んでいたよ」 "
+    ],
+    "ruby": "ジェフ",
+    "cf": [
+      "jetnu; da'inai"
+    ],
+    "score": []
+  },
+  {
+    "word": "jetnu",
+    "type": "gismu",
+    "rafsi": [
+      "jetnu",
+      "jetn",
+      "jet",
+      "je'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "真実"
+    ],
+    "def": "$x_1$ （命題）は $x_2$ （認識体系）において真実／本当",
+    "ps": 2,
+    "notes": "tanru の修飾部として使えば「本当に～」など。",
+    "ruby": "ジェトヌ",
+    "cf": [
+      "je'u",
+      "stace",
+      "jitfa",
+      "fatci",
+      "birti",
+      "cfika"
+    ],
+    "score": []
+  },
+  {
+    "word": "ju'o",
+    "type": "cmavo",
+    "selmaho": "UI5",
+    "selmaho2": "UI",
+    "ja": [
+      "まちがいなく",
+      "確かに",
+      "確信"
+    ],
+    "def": "確信 （ ju'o 確信 - ju'ocu'i 不確信 - ju'onai 不可能）",
+    "notes": "心態詞（修飾系）； それについてよく知っている／確信できる「確かに」「まちがいなく」",
+    "exams": [
+      "「lo xalka cu pe'a selklaku je'i kau cniselva'u .i ju'o naje／酒は涙か溜息か、――たしかに溜息だよ。」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ジュホ",
+    "cf": [
+      "birti",
+      "cumki"
+    ],
+    "score": []
+  },
+  {
+    "word": "djuno",
+    "type": "gismu",
+    "rafsi": [
+      "djuno",
+      "djun",
+      "jun",
+      "ju'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "知る"
+    ],
+    "def": "$x_1$ は $x_2$ （命題）・ $x_3$ （題目）を $x_4$ （認識体系）で知る",
+    "ps": 4,
+    "ruby": "ヂュノ",
+    "cf": [
+      "se slabu",
+      "na'e cnino",
+      "na'e fange; du'o",
+      "cilre",
+      "certu",
+      "facki",
+      "jijnu",
+      "jimpe",
+      "senpi",
+      "smadi",
+      "kakne",
+      "birti",
+      "mipri",
+      "morji",
+      "saske",
+      "viska"
+    ],
+    "score": []
+  },
+  {
+    "word": "kai",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～が象徴して ： ckaji 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "カイ",
+    "score": []
+  },
+  {
+    "word": "ckaji",
+    "type": "gismu",
+    "rafsi": [
+      "ckaji",
+      "ckaj",
+      "kai"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "性質"
+    ],
+    "def": "$x_1$ には $x_2$ の性質がある",
+    "ps": 2,
+    "ruby": "シカジ",
+    "pun": "善なるに如かじ",
+    "cf": [
+      "kai",
+      "tcaci",
+      "tcini"
+    ],
+    "score": []
+  },
+  {
+    "word": "ka'o",
+    "type": "cmavo",
+    "selmaho": "PA5",
+    "def": "虚数単位（i）／-1の平方根 ： 数量詞；",
+    "ruby": "カホ",
+    "score": []
+  },
+  {
+    "word": "kanro",
+    "type": "gismu",
+    "rafsi": [
+      "kanro",
+      "kanr",
+      "ka'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "健康"
+    ],
+    "def": "$x_1$ は $x_2$ （基準）において健康／すこやか",
+    "ps": 2,
+    "ruby": "カンロ",
+    "pun": "kang(康), sano 甘露",
+    "cf": [
+      "bilma",
+      "mikce"
+    ],
+    "score": []
+  },
+  {
+    "word": "kau",
+    "type": "cmavo",
+    "selmaho": "UI3a",
+    "selmaho2": "UI",
+    "ja": [
+      "か",
+      "かどうか"
+    ],
+    "sense": [
+      "間接疑問"
+    ],
+    "def": "間接疑問",
+    "notes": "心態詞（談話系）； 質問を表す語の直後に付き、その回答を表す。間接疑問の対象；",
+    "exams": [
+      "「djuno lo du'u ma kau daspo ti／誰がこれを壊したのかを知っている」 ",
+      "「mi na djuno lo du'u ti mo kau／これが[何であるか／どうなのか／何をしているのか]、私は知らない」 ",
+      "「.e'o ko no da jungau lo du'u mi zvati ma kau／私がどこにいるか誰にも教えないでください」 ",
+      "「loi bangu cu ficysi'u lo ka xo kau da jicmu valsi lo skari ce'u／基本的な色を表す単語がいくつあるかは言語によって異なる」 ",
+      "「.ei do jdice lo du'u xu kau do djica lo nu klama／あなたが行きたいかどうかは、あなたが決めることだ」 "
+    ],
+    "ruby": "カウ",
+    "score": []
+  },
+  {
+    "word": "kampu",
+    "type": "gismu",
+    "rafsi": [
+      "kampu",
+      "kamp",
+      "kau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "普遍"
+    ],
+    "def": "$x_1$ （性質）は $x_2$ （集合）の間で普遍／一般的；  $x_1$ は普通",
+    "ps": 2,
+    "notes": "「日常的」としての「普通／fadni」の意味との違いに注意。",
+    "ruby": "カムプ",
+    "cf": [
+      "cafne",
+      "rirci",
+      "fadni",
+      "cnano",
+      "tcaci",
+      "lakne",
+      "cmima",
+      "simxu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ka'u",
+    "type": "cmavo",
+    "selmaho": "UI2",
+    "selmaho2": "UI",
+    "ja": [
+      "文化的知識",
+      "常識"
+    ],
+    "def": "文化的知識",
+    "notes": "心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；",
+    "exams": [
+      "「ka'u lo nu lo cticinza gau sanli ne'i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 "
+    ],
+    "ruby": "カフ",
+    "cf": [
+      "kluju'o"
+    ],
+    "score": []
+  },
+  {
+    "word": "kantu",
+    "type": "gismu",
+    "rafsi": [
+      "kantu",
+      "kant",
+      "ka'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "量子"
+    ],
+    "def": "$x_1$ は $x_2$ （性質／動作）の量子",
+    "ps": 2,
+    "notes": "「光子」なども。",
+    "ruby": "カントゥ",
+    "cf": [
+      "selci; ratni",
+      "gradu",
+      "gusni",
+      "nejni",
+      "linji"
+    ],
+    "score": []
+  },
+  {
+    "word": "ke'i",
+    "type": "cmavo",
+    "selmaho": "GAhO",
+    "selmaho2": "UI",
+    "def": "除外間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれないことを表す； 含まれるのを表すのは ga'oi； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」",
+    "ruby": "ケヒ",
+    "score": []
+  },
+  {
+    "word": "kecti",
+    "type": "gismu",
+    "rafsi": [
+      "kecti",
+      "kect",
+      "kec",
+      "ke'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "哀れむ"
+    ],
+    "def": "$x_1$ は $x_2$ を $x_3$ （事）について哀れむ／慈しむ／かわいそうだと思う；  $x_1$ は慈悲的",
+    "ps": 3,
+    "ruby": "ケシティ",
+    "pun": "決してぃ哀れんではいませんよ。",
+    "cf": [
+      "cinmo",
+      "xendo"
+    ],
+    "score": []
+  },
+  {
+    "word": "ke'o",
+    "type": "cmavo",
+    "selmaho": "COI",
+    "def": "どうか復唱を ：心態詞（呼応系）； 相手の言ったことをその相手本人に繰り返し発言するよう求める",
+    "notes": "「もう一度お願いします」「なんて言ったの？」",
+    "ruby": "ケホ",
+    "score": []
+  },
+  {
+    "word": "kelvo",
+    "type": "gismu",
+    "rafsi": [
+      "kelvo",
+      "kelv",
+      "ke'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "ケルビン"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のケルビン度",
+    "ps": 3,
+    "notes": "熱力学温度の単位。",
+    "ruby": "ケルゥヴォ",
+    "pun": "",
+    "cf": [
+      "gradu",
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "ki'e",
+    "type": "cmavo",
+    "selmaho": "COI",
+    "def": "感謝 ：心態詞（呼応系）",
+    "ruby": "キヘ",
+    "score": []
+  },
+  {
+    "word": "kicne",
+    "type": "gismu",
+    "rafsi": [
+      "kicne",
+      "kicn",
+      "kic",
+      "ki'e"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "クッション"
+    ],
+    "def": "$x_1$ は $x_2$ のための、 $x_3$ （素材）のクッション／座布団；  $x_1$ は $x_2$ を $x_3$ で緩衝する",
+    "ps": 3,
+    "ruby": "キシネ",
+    "cf": [
+      "ckana",
+      "matci"
+    ],
+    "score": []
+  },
+  {
+    "word": "ki'i",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～と同系で ： ckini 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "キヒ",
+    "score": []
+  },
+  {
+    "word": "ckini",
+    "type": "gismu",
+    "rafsi": [
+      "ckini",
+      "ckin",
+      "ki'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "親戚"
+    ],
+    "def": "$x_1$ は $x_2$ と $x_3$ （関係性）によって繋がりがある／同系",
+    "ps": 3,
+    "ruby": "シキニ",
+    "pun": "親戚に",
+    "cf": [
+      "ki'i",
+      "ponse",
+      "srana",
+      "steci",
+      "mapti",
+      "sarxe",
+      "fange"
+    ],
+    "score": []
+  },
+  {
+    "word": "ki'o",
+    "type": "cmavo",
+    "selmaho": "PA3",
+    "def": "数カンマ ： 数量詞； 3桁ずつの区切を表す； 数が伏せられている場合はデフォルトで1,000を表す",
+    "ruby": "キホ",
+    "score": []
+  },
+  {
+    "word": "kilto",
+    "type": "gismu",
+    "rafsi": [
+      "kilto",
+      "kilt",
+      "ki'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "キロ"
+    ],
+    "def": "$x_1$ は $x_2$ の、 $x_3$ （性質）におけるキロ／千 ［1 $x_1$ 0**3］",
+    "ps": 3,
+    "ruby": "キルゥト",
+    "cf": [
+      "grake",
+      "mitre",
+      "snidu",
+      "stero",
+      "delno",
+      "molro",
+      "kelvo",
+      "xampo",
+      "gradu",
+      "litce",
+      "merli",
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro",
+      "minli"
+    ],
+    "score": []
+  },
+  {
+    "word": "ko'i",
+    "type": "cmavo",
+    "selmaho": "KOhA4",
+    "def": "sumti 変数（彼女／彼／其）３ ： 代詞（sumti）； goi で配当する",
+    "ruby": "コヒ",
+    "score": []
+  },
+  {
+    "word": "kobli",
+    "type": "gismu",
+    "rafsi": [
+      "kobli",
+      "kobl",
+      "kob",
+      "ko'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "葉菜"
+    ],
+    "def": "$x_1$ は $x_2$ （種類）の葉菜",
+    "ps": 2,
+    "notes": "「キャベツ」「レタス」など。",
+    "ruby": "コブルィ",
+    "cf": [
+      "stagi"
+    ],
+    "score": []
+  },
+  {
+    "word": "ko'u",
+    "type": "cmavo",
+    "selmaho": "KOhA4",
+    "def": "sumti 変数（彼女／彼／其）５ ： 代詞（sumti）； goi で配当する",
+    "ruby": "コフ",
+    "score": []
+  },
+  {
+    "word": "konju",
+    "type": "gismu",
+    "rafsi": [
+      "konju",
+      "konj",
+      "kon",
+      "ko'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "錐（すい）"
+    ],
+    "def": "$x_1$ は $x_2$ を頂点とする錐／円錐",
+    "ps": 2,
+    "ruby": "コンジュ",
+    "cf": [
+      "jesni",
+      "djine",
+      "sovda",
+      "kojna",
+      "jganu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ku'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～（文化）のもと ： kulnu 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "クフ",
+    "score": []
+  },
+  {
+    "word": "ckunu",
+    "type": "gismu",
+    "rafsi": [
+      "ckunu",
+      "ckun",
+      "ku'u"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "松"
+    ],
+    "def": "$x_1$ は $x_2$ （種類）の、 $x_3$ （球果）が生るマツ属／球果植物（マツ／スギ／ヒノキ／イチイ等）",
+    "ps": 3,
+    "notes": "針葉樹全般。",
+    "ruby": "シクヌ",
+    "cf": [
+      "tricu"
+    ],
+    "score": []
+  },
+  {
+    "word": "lai",
+    "type": "cmavo",
+    "selmaho": "LA",
+    "selmaho2": "LE",
+    "def": "名付けられた群 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；",
+    "exams": [
+      "「lai .tanakan.／田中さん（という名前の人）達」 "
+    ],
+    "ruby": "ルァイ",
+    "score": []
+  },
+  {
+    "word": "klani",
+    "type": "gismu",
+    "rafsi": [
+      "klani",
+      "klan",
+      "lai"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "量"
+    ],
+    "def": "$x_1$ は $x_2$ （数）を測定値として $x_3$ （尺度／概念）について測定された量",
+    "ps": 3,
+    "ruby": "クルァニ",
+    "pun": "測定済みの量は倉に",
+    "cf": [
+      "la'u",
+      "namcu"
+    ],
+    "score": []
+  },
+  {
+    "word": "lau",
+    "type": "cmavo",
+    "selmaho": "LAU",
+    "selmaho2": "ME",
+    "def": "句読点標識 ： 「... bu」の左に付いてそれが句読点であることを表す",
+    "ruby": "ルァウ",
+    "score": []
+  },
+  {
+    "word": "cladu",
+    "type": "gismu",
+    "rafsi": [
+      "cladu",
+      "clad",
+      "lau"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "うるさい"
+    ],
+    "def": "$x_1$ は $x_2$ （観察基点）・ $x_3$ （照合枠）においてうるさい／やかましい",
+    "ps": 3,
+    "ruby": "シルァドゥ",
+    "pun": "うるさいと知らず",
+    "cf": [
+      "savru"
+    ],
+    "score": []
+  },
+  {
+    "word": "la'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を量として： klani 法制詞, $x_1$ ；",
+    "ps": 1,
+    "exams": [
+      "「la'u lo 90 nanca cu mrobi'o／90歳で亡くなる」",
+      "「la'u lo 3 mei cu korkla／３マス進む」 "
+    ],
+    "ruby": "ルァフ",
+    "score": []
+  },
+  {
+    "word": "lalxu",
+    "type": "gismu",
+    "rafsi": [
+      "lalxu",
+      "lalx",
+      "la'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "池",
+      "湖",
+      "沼"
+    ],
+    "def": "$x_1$ は $x_2$ （所）の湖／池／水たまり",
+    "ps": 2,
+    "ruby": "ルァルゥクゥ",
+    "cf": [
+      "daplu",
+      "djacu",
+      "rirxe",
+      "xamsi",
+      "zbani"
+    ],
+    "score": []
+  },
+  {
+    "word": "lei",
+    "type": "cmavo",
+    "selmaho": "LE",
+    "selmaho2": "LE",
+    "def": "形容された群 ： 冠詞（主観系）； selbri を冠する",
+    "ruby": "ルェイ",
+    "score": []
+  },
+  {
+    "word": "klesi",
+    "type": "gismu",
+    "rafsi": [
+      "klesi",
+      "kles",
+      "kle",
+      "lei"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CCV",
+      "CVV"
+    ],
+    "ja": [
+      "部門"
+    ],
+    "def": "$x_1$ は $x_2$ （上位の枠組）・ $x_3$ （特質）の部門／カテゴリー／クラス／組／派／種類／タイプ",
+    "ps": 3,
+    "ruby": "クルェスィ",
+    "pun": "klas クラス",
+    "cf": [
+      "le'a",
+      "cmima",
+      "jutsi",
+      "ciste",
+      "girzu",
+      "lanzu",
+      "vrici"
+    ],
+    "score": []
+  },
+  {
+    "word": "le'o",
+    "type": "cmavo",
+    "selmaho": "UI5",
+    "selmaho2": "UI",
+    "ja": [
+      "攻勢",
+      "獰猛",
+      "罵倒"
+    ],
+    "def": "攻勢 （ le'o 攻勢 - le'ocu'i 無抵抗 - le'onai 守勢）",
+    "notes": "心態詞（修飾系）； 攻撃的／罵倒的／獰猛な態度",
+    "ruby": "ルェホ",
+    "cf": [
+      "gunta",
+      "bandu"
+    ],
+    "score": []
+  },
+  {
+    "word": "lenjo",
+    "type": "gismu",
+    "rafsi": [
+      "lenjo",
+      "lenj",
+      "len",
+      "le'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "レンズ"
+    ],
+    "def": "$x_1$ は $x_2$ （光／音／電波）を $x_3$ （焦点）に合わせるレンズ／収束器",
+    "ps": 3,
+    "notes": "光学的／視覚的な集光に限らない。",
+    "ruby": "ルェンジョ",
+    "pun": "lenzu",
+    "cf": [
+      "kacma",
+      "minra"
+    ],
+    "score": []
+  },
+  {
+    "word": "le'u",
+    "type": "cmavo",
+    "selmaho": "LEhU",
+    "selmaho2": "LE",
+    "def": "エラー引用終了 ： 境界詞； lo'u で開かれたエラー引用の範囲を閉じる",
+    "ruby": "ルェフ",
+    "score": []
+  },
+  {
+    "word": "lerfu",
+    "type": "gismu",
+    "rafsi": [
+      "lerfu",
+      "lerf",
+      "ler",
+      "le'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "文字"
+    ],
+    "def": "$x_1$ は $x_2$ （文字体系）において $x_3$ を表す字（文字／数字）",
+    "ps": 3,
+    "notes": "x1は「la'e zo ...」「... bu」。",
+    "ruby": "ルェルフゥ",
+    "cf": [
+      "mifra",
+      "namcu",
+      "sinxa",
+      "pandi"
+    ],
+    "score": []
+  },
+  {
+    "word": "li'a",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "ja": [
+      "当然",
+      "自明",
+      "明白",
+      "もちろん"
+    ],
+    "sense": [
+      "明らかに"
+    ],
+    "def": "明らかに （ li'a 明らかに - li'anai それとなく）",
+    "notes": "心態詞（談話系）；",
+    "exams": [
+      "「li'a lo'i solba'a co'a barda／太陽の黒点が明らかに増えている。」 ",
+      "「li'a la lojban zmadu la postskript lo ka frili／明らかにロジバンはPostScriptより簡単だ」 ",
+      "「.i li'a mi naku viska ro marna pilno .i ku'i lo zasni nu bebna cu se rinka lo nu pilno lo marna .i ro prenu cu djuno la'e di'u／もちろん全てのマリファナ使用者を見たわけではないが、一時的に愚かな言動をするのはマリファナの使用が原因だ。皆そのことを知っている。」 "
+    ],
+    "ruby": "ルィハ",
+    "cf": [
+      "klina"
+    ],
+    "score": []
+  },
+  {
+    "word": "cliva",
+    "type": "gismu",
+    "rafsi": [
+      "cliva",
+      "cliv",
+      "liv",
+      "li'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "離れる"
+    ],
+    "def": "$x_1$ は $x_2$ から $x_3$ （経路）によって離れる／発つ／別れる／去る；  $x_1$ は $x_2$ を残す",
+    "ps": 3,
+    "ruby": "シルィヴァ",
+    "pun": "私利ばかりで人離れる",
+    "cf": [
+      "litru",
+      "canci",
+      "vimcu",
+      "lebna",
+      "muvdu"
+    ],
+    "score": []
+  },
+  {
+    "word": "li'e",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～が引率して／に先を越されて ： lidne 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ルィヘ",
+    "score": []
+  },
+  {
+    "word": "lidne",
+    "type": "gismu",
+    "rafsi": [
+      "lidne",
+      "lidn",
+      "li'e"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "先行"
+    ],
+    "def": "$x_1$ は $x_2$ を、 $x_3$ （序列）において先行する／先立つ／率先する；  $x_2$ は $x_1$ に続く；  $x_1$ は前者；  $x_2$ は後者",
+    "ps": 3,
+    "ruby": "ルィドネ",
+    "cf": [
+      "li'e",
+      "balvi",
+      "ralju",
+      "rebla",
+      "purci",
+      "jersi",
+      "porsi",
+      "jatna",
+      "farna"
+    ],
+    "score": []
+  },
+  {
+    "word": "li'o",
+    "type": "cmavo",
+    "selmaho": "UI3a",
+    "selmaho2": "UI",
+    "ja": [
+      "など",
+      "略"
+    ],
+    "sense": [
+      "言明の省略"
+    ],
+    "def": "省略文字列",
+    "notes": "心態詞（談話系）； 省略された／する文字列の代わりに置く。",
+    "exams": [
+      "「koltarla panci li'o pa'a lo nu badri ku pa'a lo nu sumne ku vau li'anai／コルタアの香の（中略）愁ひつつ、にほひつつ、そこはかとなく」（北原白秋『東京景物詩』）",
+      "「lo pavdei cu pa moi djedi .i lo reldei cu re moi djedi .i li'o／月曜日が1日目、火曜日が2日目、以下略」 "
+    ],
+    "ruby": "ルィホ",
+    "score": []
+  },
+  {
+    "word": "linto",
+    "type": "gismu",
+    "rafsi": [
+      "linto",
+      "lint",
+      "li'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "軽い"
+    ],
+    "def": "$x_1$ は $x_2$ （基準）において軽い／軽量",
+    "ps": 2,
+    "ruby": "ルィント",
+    "pun": "軽いかりんとう",
+    "cf": [
+      "junta",
+      "tilju; se xalbo",
+      "kandi"
+    ],
+    "score": []
+  },
+  {
+    "word": "li'u",
+    "type": "cmavo",
+    "selmaho": "LIhU",
+    "def": "引用終了 ： 境界詞； lu で開かれた引用の範囲を閉じる",
+    "ruby": "ルィフ",
+    "score": []
+  },
+  {
+    "word": "litru",
+    "type": "gismu",
+    "rafsi": [
+      "litru",
+      "litr",
+      "li'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "旅"
+    ],
+    "def": "$x_1$ は $x_2$ （経路）を $x_3$ （方法）で旅する；  $x_1$ は旅人",
+    "ps": 3,
+    "ruby": "ルィトル",
+    "pun": "旅の予約類とる",
+    "cf": [
+      "bajra",
+      "cadzu",
+      "cpare",
+      "tcana",
+      "klama",
+      "cliva",
+      "pluta",
+      "limna",
+      "muvdu"
+    ],
+    "score": []
+  },
+  {
+    "word": "lo'i",
+    "type": "cmavo",
+    "selmaho": "LE",
+    "selmaho2": "LE",
+    "def": "そうである集合 ： 冠詞（客観系）； selbri を冠する",
+    "ruby": "ルォヒ",
+    "score": []
+  },
+  {
+    "word": "bloti",
+    "type": "gismu",
+    "rafsi": [
+      "bloti",
+      "blot",
+      "lot",
+      "blo",
+      "lo'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CCV",
+      "CVV"
+    ],
+    "ja": [
+      "船"
+    ],
+    "def": "$x_1$ は $x_2$ （客／荷）・ $x_3$ （原動力）の船／ボート",
+    "ps": 3,
+    "ruby": "ブルォティ",
+    "pun": "ぼろっちい,  boat",
+    "cf": [
+      "falnu",
+      "fulta",
+      "marce",
+      "jatna",
+      "sabnu"
+    ],
+    "score": []
+  },
+  {
+    "word": "lo'u",
+    "type": "cmavo",
+    "selmaho": "LOhU",
+    "def": "エラー引用開始 ： 非文法的／中途半端なロジバン語の文字列を引用する",
+    "ruby": "ルォフ",
+    "score": []
+  },
+  {
+    "word": "lorxu",
+    "type": "gismu",
+    "rafsi": [
+      "lorxu",
+      "lorx",
+      "lor",
+      "lo'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "狐"
+    ],
+    "def": "$x_1$ は $x_2$ （種類）のキツネ属動物",
+    "ps": 2,
+    "ruby": "ルォルクゥ",
+    "cf": [
+      "gerku"
+    ],
+    "score": []
+  },
+  {
+    "word": "lu'e",
+    "type": "cmavo",
+    "selmaho": "LAhE",
+    "selmaho2": "LE",
+    "def": "～の記号 ： 限定詞； sumti の左に付いて、その記号を引き出す；",
+    "exams": [
+      "「viska lu'e lo cukta／（リストなどに記されている）本のタイトルを見る」 "
+    ],
+    "ruby": "ルゥヘ",
+    "score": []
+  },
+  {
+    "word": "klupe",
+    "type": "gismu",
+    "rafsi": [
+      "klupe",
+      "klup",
+      "lup",
+      "lu'e"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "ねじ"
+    ],
+    "def": "$x_1$ は $x_2$ （目的）のためのねじ／ボルト",
+    "ps": 2,
+    "notes": "回転を要する留め具全般",
+    "ruby": "クルゥペ",
+    "pun": "ねじくるくるぺっ",
+    "cf": [
+      "korcu",
+      "sarlu",
+      "tutci"
+    ],
+    "score": []
+  },
+  {
+    "word": "lu'o",
+    "type": "cmavo",
+    "selmaho": "LAhE",
+    "selmaho2": "LE",
+    "def": "～の群 ： 限定詞； sumti の左に付いて、その群を引き出す；",
+    "exams": [
+      "「lo bapli po lo verba cu cmalu .iku'i lu'o lo go'i cu barda／子供一人一人の力は弱いが、それらを合わせた力は強い」 "
+    ],
+    "ruby": "ルゥホ",
+    "score": []
+  },
+  {
+    "word": "lubno",
+    "type": "gismu",
+    "rafsi": [
+      "lubno",
+      "lubn",
+      "lu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "レバノン"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関してレバノン系（言語／文化／民族／地理）",
+    "ps": 2,
+    "ruby": "ルゥブノ",
+    "cf": [
+      "xrabo"
+    ],
+    "score": []
+  },
+  {
+    "word": "ma'a",
+    "type": "cmavo",
+    "selmaho": "KOhA3",
+    "def": "話し手＆聞き手＆その他 ： 代詞（sumti）；",
+    "ruby": "マハ",
+    "score": []
+  },
+  {
+    "word": "cmana",
+    "type": "gismu",
+    "rafsi": [
+      "cmana",
+      "cman",
+      "ma'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "山"
+    ],
+    "def": "$x_1$ は $x_2$ から突き出ている山",
+    "ps": 2,
+    "notes": "「丘」「土手」も。",
+    "ruby": "シマナ",
+    "pun": "島なし山国",
+    "cf": [
+      "punli (腫れ)",
+      "derxi (堆積；上位概念)"
+    ],
+    "score": []
+  },
+  {
+    "word": "ma'o",
+    "type": "cmavo",
+    "selmaho": "MAhO",
+    "def": "オペランド→演算子変換 ： 文字列をオペランドから演算子に変換する",
+    "ruby": "マホ",
+    "score": []
+  },
+  {
+    "word": "cmavo",
+    "type": "gismu",
+    "rafsi": [
+      "cmavo",
+      "cmav",
+      "ma'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "機能語"
+    ],
+    "def": "$x_1$ （文字列）は $x_2$ （品詞）・ $x_3$ （意味／機能）・ $x_4$ （言語）の機能語",
+    "ps": 4,
+    "ruby": "シマヴォ",
+    "cf": [
+      "ma'oste",
+      "gismu",
+      "lujvo",
+      "gerna",
+      "smuni",
+      "sumti",
+      "valsi"
+    ],
+    "score": []
+  },
+  {
+    "word": "ma'u",
+    "type": "cmavo",
+    "selmaho": "PA3",
+    "def": "プラス記号／正数（＋） ： 数量詞；",
+    "ruby": "マフ",
+    "score": []
+  },
+  {
+    "word": "makcu",
+    "type": "gismu",
+    "rafsi": [
+      "makcu",
+      "makc",
+      "ma'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "成熟"
+    ],
+    "def": "$x_1$ は $x_2$ （性質）に関して成熟している；  $x_1$ は成人／おとな",
+    "ps": 2,
+    "exams": [
+      "「lo cmana rutrkaki po le cmana malsi zo'u za'o makcu／山寺の山柿のうれたまゝ」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "マクシュ",
+    "cf": [
+      "cifnu",
+      "ninmu",
+      "verba",
+      "banro",
+      "farvi",
+      "nanmu"
+    ],
+    "score": []
+  },
+  {
+    "word": "me'e",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～という名の ： cmene 法制詞, $x_1$",
+    "ps": 1,
+    "exams": [
+      "「lo nanmu be me'e zoi .tanakan.／田中という名の男」 "
+    ],
+    "ruby": "メヘ",
+    "score": []
+  },
+  {
+    "word": "cmene",
+    "type": "gismu",
+    "rafsi": [
+      "cmene",
+      "cmen",
+      "cme",
+      "me'e"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CCV",
+      "CVV"
+    ],
+    "ja": [
+      "名前"
+    ],
+    "def": "$x_1$ （文字列）は $x_2$ の、 $x_3$ （者）による名称；  $x_3$ は $x_2$ を $x_1$ と呼ぶ；  $x_2$ は $x_1$ と呼ばれている",
+    "ps": 3,
+    "ruby": "シメネ",
+    "pun": "名",
+    "cf": [
+      "me'e",
+      "gismu",
+      "tcita",
+      "valsi",
+      "judri"
+    ],
+    "score": []
+  },
+  {
+    "word": "me'o",
+    "type": "cmavo",
+    "selmaho": "LI",
+    "def": "MEX sumti 開始 ： 未計算のMEX（数式）を sumti にする",
+    "ruby": "メホ",
+    "score": []
+  },
+  {
+    "word": "mekso",
+    "type": "gismu",
+    "rafsi": [
+      "mekso",
+      "meks",
+      "mek",
+      "me'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "数式"
+    ],
+    "def": "$x_1$ は $x_2$ （原理）の数式／数学的表現",
+    "ps": 2,
+    "ruby": "メクソ",
+    "cf": [
+      "cmaci",
+      "dilcu",
+      "fancu",
+      "frinu",
+      "jalge",
+      "namcu",
+      "parbi",
+      "pilji"
+    ],
+    "score": []
+  },
+  {
+    "word": "me'u",
+    "type": "cmavo",
+    "selmaho": "MEhU",
+    "selmaho2": "BY",
+    "def": "sumti → selbri 変換終了 ： 境界詞； me で開かれた範囲を閉じる",
+    "ruby": "メフ",
+    "score": []
+  },
+  {
+    "word": "mentu",
+    "type": "gismu",
+    "rafsi": [
+      "mentu",
+      "ment",
+      "met",
+      "me'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "分"
+    ],
+    "def": "$x_1$ は $x_2$ （数）分の時間間隔、 $x_3$ （基準）において",
+    "ps": 3,
+    "ruby": "メントゥ",
+    "cf": [
+      "junla",
+      "cacra",
+      "snidu",
+      "tcika"
+    ],
+    "score": []
+  },
+  {
+    "word": "mi'a",
+    "type": "cmavo",
+    "selmaho": "KOhA3",
+    "def": "話し手＆その他（聞き手以外） ： 代詞（sumti）；",
+    "ruby": "ミハ",
+    "score": []
+  },
+  {
+    "word": "cmila",
+    "type": "gismu",
+    "rafsi": [
+      "cmila",
+      "cmil",
+      "mi'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "笑う"
+    ],
+    "def": "$x_1$ は笑う／笑い声をあげる",
+    "ps": 1,
+    "notes": "原因や対象として x2 の追加も。",
+    "ruby": "シミルァ",
+    "cf": [
+      "ckasu",
+      "frumu",
+      "xajmi",
+      "cisma"
+    ],
+    "score": []
+  },
+  {
+    "word": "mi'u",
+    "type": "cmavo",
+    "selmaho": "UI3b",
+    "selmaho2": "UI",
+    "def": "同様に（ mi'u 同様に - mi'unai 異なって）",
+    "notes": "心態詞（談話系）； 先に述べた事物と同じ事物を指すことを表す （BPFK による新しい意味）",
+    "exams": [
+      "「mi pu zi ca'o cusku di'u mi'u la .djan.／私はさっきそれと全く同じセリフをジャンに言っていた」 "
+    ],
+    "ruby": "ミフ",
+    "cf": [
+      "mintu; va'inai"
+    ],
+    "score": []
+  },
+  {
+    "word": "mintu",
+    "type": "gismu",
+    "rafsi": [
+      "mintu",
+      "mint",
+      "mit",
+      "mi'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "同種"
+    ],
+    "def": "$x_1$ は $x_2$ と、 $x_3$ （基準）において同種",
+    "ps": 3,
+    "notes": "「du」と違い、x1と x2 は実体が別個。「この花は（x1）ウチで飾っているもの（ x2 ）と同じです」。",
+    "ruby": "ミントゥ",
+    "pun": "<みんなツール＞,同種のミントぅ",
+    "cf": [
+      "panra",
+      "satci",
+      "mapti",
+      "simsa",
+      "drata",
+      "dunli",
+      "du",
+      "simxu"
+    ],
+    "score": []
+  },
+  {
+    "word": "mo'o",
+    "type": "cmavo",
+    "selmaho": "MAI",
+    "def": "篇章序列 ： 数量詞の右に付いて、文章の篇や節を表す",
+    "exams": [
+      "「pa mo'o／第一章」 "
+    ],
+    "ruby": "モホ",
+    "score": []
+  },
+  {
+    "word": "molro",
+    "type": "gismu",
+    "rafsi": [
+      "molro",
+      "molr",
+      "mo'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "モル"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のモル",
+    "ps": 3,
+    "notes": "物質量。",
+    "ruby": "モルゥロ",
+    "cf": [
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "mo'u",
+    "type": "cmavo",
+    "selmaho": "ZAhO",
+    "selmaho2": "BAI",
+    "def": "終了 ： 相制詞；",
+    "ruby": "モフ",
+    "score": []
+  },
+  {
+    "word": "moklu",
+    "type": "gismu",
+    "rafsi": [
+      "moklu",
+      "mokl",
+      "mol",
+      "mo'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "口"
+    ],
+    "def": "$x_1$ は $x_2$ （本体）の口",
+    "ps": 2,
+    "notes": "比喩的に「入り口」「出口」も。",
+    "ruby": "モクルゥ",
+    "pun": "口も来る",
+    "cf": [
+      "ctebi",
+      "denci",
+      "tance"
+    ],
+    "score": []
+  },
+  {
+    "word": "mu'o",
+    "type": "cmavo",
+    "selmaho": "COI",
+    "def": "発話終了 ：心態詞（呼応系）； 自分の発話を終え、相手の発話を待機する；",
+    "notes": "メールの結びによく使われる",
+    "ruby": "ムホ",
+    "score": []
+  },
+  {
+    "word": "mulno",
+    "type": "gismu",
+    "rafsi": [
+      "mulno",
+      "muln",
+      "mul",
+      "mu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "完了"
+    ],
+    "def": "$x_1$ （事）は完了している；  $x_1$ は $x_2$ （性質）に関して、 $x_3$ （観点）において包括的／総体的",
+    "ps": 3,
+    "ruby": "ムルゥノ",
+    "pun": "complete, uan（完）",
+    "cf": [
+      "fanmo",
+      "culno",
+      "pagbu",
+      "xadba",
+      "prane",
+      "jalge",
+      "sumji",
+      "munje",
+      "sisti",
+      "xadni"
+    ],
+    "score": []
+  },
+  {
+    "word": "na'o",
+    "type": "cmavo",
+    "selmaho": "TAhE",
+    "selmaho2": "BAI",
+    "def": "典型的に／形式的に ： 相制詞（時間・間隔）； デフォルトは時間",
+    "ruby": "ナホ",
+    "score": []
+  },
+  {
+    "word": "cnano",
+    "type": "gismu",
+    "rafsi": [
+      "cnano",
+      "cnan",
+      "na'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "平均"
+    ],
+    "def": "$x_1$ は性質 $x_2$ (ka, ni) に関する、 $x_3$ （集合）の観点 $x_4$ (si'o) による標準／平均／スタンダード",
+    "ps": 4,
+    "ruby": "シナノ",
+    "pun": "信濃は標準",
+    "cf": [
+      "tcaci",
+      "fadni",
+      "kampu",
+      "lakne",
+      "tarti",
+      "rirci"
+    ],
+    "score": []
+  },
+  {
+    "word": "nau",
+    "type": "cmavo",
+    "selmaho": "CUhE",
+    "selmaho2": "BAI",
+    "def": "照合点 ： 間制詞； 話者自身に関して現在の絶対時空間を表す（一方の ca は文脈に左右される相対的なもの）",
+    "ruby": "ナウ",
+    "score": []
+  },
+  {
+    "word": "nanmu",
+    "type": "gismu",
+    "rafsi": [
+      "nanmu",
+      "nanm",
+      "nau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "男"
+    ],
+    "def": "$x_1$ は男（の人）",
+    "ps": 1,
+    "notes": "セクシズムを避けるなら「prenu」か「remna」。",
+    "ruby": "ナンム",
+    "pun": "nan（男）",
+    "cf": [
+      "ninmu",
+      "remna",
+      "prenu",
+      "makcu",
+      "nanla",
+      "bersa"
+    ],
+    "score": []
+  },
+  {
+    "word": "na'u",
+    "type": "cmavo",
+    "selmaho": "NAhU",
+    "def": "selbri → 演算子 ： selbri をMEX（数式）演算子に変換する； cmavo として用意されていない演算子を捻出するのに用いる",
+    "ruby": "ナフ",
+    "score": []
+  },
+  {
+    "word": "namcu",
+    "type": "gismu",
+    "rafsi": [
+      "namcu",
+      "namc",
+      "nac",
+      "na'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "数"
+    ],
+    "def": "$x_1$ は数／量／値",
+    "ps": 1,
+    "ruby": "ナムシュ",
+    "pun": "number,cu(数)",
+    "cf": [
+      "lerfu",
+      "mekso",
+      "klani"
+    ],
+    "score": []
+  },
+  {
+    "word": "ne'o",
+    "type": "cmavo",
+    "selmaho": "VUhU3",
+    "selmaho2": "JOI",
+    "def": "階乗 ： 数理演算子（単一項）； [a!]",
+    "ruby": "ネホ",
+    "score": []
+  },
+  {
+    "word": "cnebo",
+    "type": "gismu",
+    "rafsi": [
+      "cnebo",
+      "cneb",
+      "neb",
+      "ne'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "首"
+    ],
+    "def": "$x_1$ は $x_2$ （本体）の首",
+    "ps": 2,
+    "ruby": "シネボ",
+    "cf": [
+      "galxe",
+      "cutne"
+    ],
+    "score": []
+  },
+  {
+    "word": "ne'u",
+    "type": "cmavo",
+    "selmaho": "FAhA1",
+    "selmaho2": "BAI",
+    "def": "～の南方に／南側で ： 間制詞（空間・方向）；",
+    "ruby": "ネフ",
+    "score": []
+  },
+  {
+    "word": "cnemu",
+    "type": "gismu",
+    "rafsi": [
+      "cnemu",
+      "cnem",
+      "nem",
+      "ne'u"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "報いる"
+    ],
+    "def": "$x_1$ （者）は $x_2$ （者）を $x_3$ （特別事項）について $x_4$ （報奨／謝礼／褒美）で報いる",
+    "ps": 4,
+    "notes": "x3が通常の事項ではない点でと異なる。",
+    "exams": [
+      "「pleji／支払う」"
+    ],
+    "ruby": "シネム",
+    "pun": "死ね、報いだ",
+    "cf": [
+      "dunda",
+      "friti",
+      "jerna",
+      "jinga",
+      "jivna",
+      "pleji",
+      "sfasa",
+      "venfu",
+      "prali",
+      "dapma"
+    ],
+    "score": []
+  },
+  {
+    "word": "ni'a",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の下方に／下側で ： 間制詞（空間・方向）；",
+    "ruby": "ニハ",
+    "score": []
+  },
+  {
+    "word": "cnita",
+    "type": "gismu",
+    "rafsi": [
+      "cnita",
+      "cnit",
+      "nit",
+      "ni'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "下"
+    ],
+    "def": "$x_1$ は $x_2$ に対して $x_3$ （照合枠）における下方／下側",
+    "ps": 3,
+    "ruby": "シニタ",
+    "pun": "下で死にたい",
+    "cf": [
+      "dizlo",
+      "gapru",
+      "galtu",
+      "farna",
+      "loldi"
+    ],
+    "score": []
+  },
+  {
+    "word": "ni'i",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～の論理で ： nibli 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ニヒ",
+    "score": []
+  },
+  {
+    "word": "nibli",
+    "type": "gismu",
+    "rafsi": [
+      "nibli",
+      "nibl",
+      "nib",
+      "ni'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "必然"
+    ],
+    "def": "$x_1$ は $x_2$ （事）を $x_3$ （法則／論理／体系）において余儀なく含意する／もたらす；  $x_1$ によって $x_2$ は絶対／まちがいなく起こる",
+    "ps": 3,
+    "ruby": "ニブルィ",
+    "pun": "必然なのはにぶりだ",
+    "cf": [
+      "natfe",
+      "rinka",
+      "mukti",
+      "krinu",
+      "ni'i",
+      "jalge",
+      "logji"
+    ],
+    "score": []
+  },
+  {
+    "word": "ni'u",
+    "type": "cmavo",
+    "selmaho": "PA3",
+    "def": "負数／マイナス記号（－） ： 数量詞；",
+    "ruby": "ニフ",
+    "score": []
+  },
+  {
+    "word": "ninmu",
+    "type": "gismu",
+    "rafsi": [
+      "ninmu",
+      "ninm",
+      "nim",
+      "ni'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "女"
+    ],
+    "def": "$x_1$ は女（の人）",
+    "ps": 1,
+    "notes": "セクシズムを避けるなら「prenu」か「remna」。",
+    "ruby": "ニンム",
+    "pun": "女の任務",
+    "cf": [
+      "nanmu",
+      "remna",
+      "prenu",
+      "makcu",
+      "nixli"
+    ],
+    "score": []
+  },
+  {
+    "word": "pa'o",
+    "type": "cmavo",
+    "selmaho": "FAhA3",
+    "selmaho2": "BAI",
+    "def": "～を通過して／通り越して ： 間制詞（空間・方向）；",
+    "ruby": "パホ",
+    "score": []
+  },
+  {
+    "word": "panlo",
+    "type": "gismu",
+    "rafsi": [
+      "panlo",
+      "panl",
+      "pa'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "スライス"
+    ],
+    "def": "$x_1$ は $x_2$ （塊）のスライス／薄切り",
+    "ps": 2,
+    "ruby": "パンルォ",
+    "cf": [
+      "nanba"
+    ],
+    "score": []
+  },
+  {
+    "word": "pau",
+    "type": "cmavo",
+    "selmaho": "UI3a",
+    "selmaho2": "UI",
+    "ja": [
+      "？",
+      "疑問符"
+    ],
+    "def": "？マーク （ pau ？マーク - paunai 修辞的疑問）",
+    "notes": "心態詞（談話系）； 左隣の語に係る； どこにでも投入できる",
+    "exams": [
+      "「pau do ze'u lo nicte cu gunka tezu'e lo nu ti xu mulno／あなたが夜中ずっと働いたのは、 *これ* を仕上げるためだったのですか？」",
+      "「pau pei／ご質問は？」 "
+    ],
+    "ruby": "パウ",
+    "cf": [
+      "preti"
+    ],
+    "score": []
+  },
+  {
+    "word": "pagbu",
+    "type": "gismu",
+    "rafsi": [
+      "pagbu",
+      "pagb",
+      "pag",
+      "pau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "部分"
+    ],
+    "def": "$x_1$ は $x_2$ （本体）の部分／部品／要素；  $x_2$ は部分的に $x_1$",
+    "ps": 2,
+    "notes": "「spisa」と違い、本体からの分離は含意されない。",
+    "ruby": "パグブ",
+    "cf": [
+      "pa'u",
+      "mulno",
+      "xadba",
+      "spisa",
+      "gunma",
+      "rafsi"
+    ],
+    "score": []
+  },
+  {
+    "word": "pa'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を部分／要素として ： pagbu 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "パフ",
+    "score": []
+  },
+  {
+    "word": "patfu",
+    "type": "gismu",
+    "rafsi": [
+      "patfu",
+      "patf",
+      "paf",
+      "pa'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "父"
+    ],
+    "def": "$x_1$ は $x_2$ の父親",
+    "ps": 2,
+    "notes": "肉親に限らない。",
+    "ruby": "パトフゥ",
+    "pun": "パパと父（ふ）",
+    "cf": [
+      "mamta",
+      "rirni",
+      "rorci",
+      "tarbi",
+      "dzena",
+      "famti",
+      "panzi",
+      "bersa",
+      "sovda"
+    ],
+    "score": []
+  },
+  {
+    "word": "pe'o",
+    "type": "cmavo",
+    "selmaho": "PEhO",
+    "def": "前置型MEX演算子 ： MEX（数式）の範囲の始まりを示す前置型標識； ポーランド式演算子など",
+    "ruby": "ペホ",
+    "score": []
+  },
+  {
+    "word": "pendo",
+    "type": "gismu",
+    "rafsi": [
+      "pendo",
+      "pend",
+      "ped",
+      "pe'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "友人"
+    ],
+    "def": "$x_1$ （者）は $x_2$ （者）の友人；  $x_1$ は $x_2$ にたいして友好的",
+    "ps": 2,
+    "ruby": "ペンド",
+    "pun": "友人ペンどこ, 朋(pen)友",
+    "cf": [
+      "bradi",
+      "xendo",
+      "nelci",
+      "prami"
+    ],
+    "score": []
+  },
+  {
+    "word": "pe'u",
+    "type": "cmavo",
+    "selmaho": "COI",
+    "def": "要求 ：心態詞（呼応系）； e'o と違い、頼む相手が聞き手であることを明示する。",
+    "exams": [
+      "「pe'u do'u bevri ra ti／それをこちらに持ってきてくれますか」 "
+    ],
+    "ruby": "ペフ",
+    "score": []
+  },
+  {
+    "word": "pencu",
+    "type": "gismu",
+    "rafsi": [
+      "pencu",
+      "penc",
+      "pec",
+      "pe'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "触る"
+    ],
+    "def": "$x_1$ は $x_2$ （対象本体）・ $x_3$ （対象箇所）を $x_4$ で触る",
+    "ps": 4,
+    "ruby": "ペンシュ",
+    "cf": [
+      "ganse",
+      "darxi",
+      "jgari",
+      "penmi",
+      "jorne",
+      "satre",
+      "mosra",
+      "zgana"
+    ],
+    "score": []
+  },
+  {
+    "word": "pi'u",
+    "type": "cmavo",
+    "selmaho": "JOI",
+    "selmaho2": "JOI",
+    "rafsi": [
+      "piv"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "直交積"
+    ],
+    "def": "直積集合／デカルト積 ： 接続詞（非論理・sumti/selbri）；",
+    "notes": "「la djeimyz. ce[bo] la djordj. pi'u la meris. cebo la martas. cu prami se remei／［ジェームズとジョージ］集合と［メアリとマルタ］集合の直積集合は恋人ペアの集合だ」（この直積集合の元は4つの順序対（ジェームズ、メアリ）、（ジェームズ、マルタ）、（ジョージ、メアリ）、（ジョージ、マルタ）となっている。つまり全員二股をかけている。）",
+    "ruby": "ピフ",
+    "score": []
+  },
+  {
+    "word": "pimlu",
+    "type": "gismu",
+    "rafsi": [
+      "pimlu",
+      "piml",
+      "pim",
+      "pi'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "羽"
+    ],
+    "def": "$x_1$ は $x_2$ （生体）の羽／羽毛",
+    "ps": 2,
+    "ruby": "ピムルゥ",
+    "pun": "plume, iumau（羽毛）",
+    "cf": [
+      "cipni",
+      "nalci",
+      "rebla",
+      "kerfa",
+      "penbi"
+    ],
+    "score": []
+  },
+  {
+    "word": "po'o",
+    "type": "cmavo",
+    "selmaho": "UI3b",
+    "selmaho2": "UI",
+    "ja": [
+      "だけ",
+      "たった",
+      "ほんの"
+    ],
+    "sense": [
+      "これだけ"
+    ],
+    "def": "～だけ／たった～",
+    "notes": "心態詞（談話系）；",
+    "exams": [
+      "「do po'o klama／あなただけが来た」 "
+    ],
+    "ruby": "ポホ",
+    "cf": [
+      "pamei",
+      "mulno",
+      "frica"
+    ],
+    "score": []
+  },
+  {
+    "word": "ponjo",
+    "type": "gismu",
+    "rafsi": [
+      "ponjo",
+      "ponj",
+      "pon",
+      "po'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "日本"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関して日本／ジャポニカ系（言語／文化／民族）",
+    "ps": 2,
+    "ruby": "ポンジョ",
+    "cf": [
+      "xazdo",
+      "daplu"
+    ],
+    "score": []
+  },
+  {
+    "word": "pu'a",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を楽しんで／～がおもしろくて ： pluka 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "プハ",
+    "score": []
+  },
+  {
+    "word": "pluka",
+    "type": "gismu",
+    "rafsi": [
+      "pluka",
+      "pluk",
+      "puk",
+      "pu'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "快い"
+    ],
+    "def": "$x_1$ （事）は $x_2$ にとって、 $x_3$ （条件）のもと快い／心地良い",
+    "ps": 3,
+    "ruby": "プルゥカ",
+    "pun": "心地よいぷるぷるか",
+    "cf": [
+      "rigni",
+      "pu'a",
+      "melbi",
+      "nelci",
+      "prami"
+    ],
+    "score": []
+  },
+  {
+    "word": "ra'o",
+    "type": "cmavo",
+    "selmaho": "RAhO",
+    "selmaho2": "UI",
+    "def": "代詞更新 ： GOhA類代詞の右に付いてそれを文脈に即して更新する",
+    "notes": "「A: mi ctidji B:go'i ra'o／A: おなかがすいた B: 私も」",
+    "ruby": "ラホ",
+    "score": []
+  },
+  {
+    "word": "radno",
+    "type": "gismu",
+    "rafsi": [
+      "radno",
+      "radn",
+      "ra'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "ラジアン"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のラジアン／弧度",
+    "ps": 3,
+    "ruby": "ラドノ",
+    "cf": [
+      "jganu",
+      "kilto",
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "gutci",
+      "litce",
+      "megdo",
+      "mikri",
+      "milti",
+      "minli",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "rau",
+    "type": "cmavo",
+    "selmaho": "PA4",
+    "def": "十分な ： 数量詞；",
+    "ruby": "ラウ",
+    "score": []
+  },
+  {
+    "word": "gradu",
+    "type": "gismu",
+    "rafsi": [
+      "gradu",
+      "grad",
+      "rau"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "単位"
+    ],
+    "def": "$x_1$ （度）は $x_2$ （尺度）の、 $x_3$ （性質）を測る単位／グレード／レベル／ポイント",
+    "ps": 3,
+    "ruby": "グラドゥ",
+    "pun": "grade",
+    "cf": [
+      "ckilu",
+      "kantu",
+      "kelvo",
+      "merli",
+      "ranti",
+      "selci"
+    ],
+    "score": []
+  },
+  {
+    "word": "ra'u",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "def": "特に （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）",
+    "notes": "心態詞（談話系）；",
+    "exams": [
+      "「ti ra'u kukte／これが特においしい」 "
+    ],
+    "ruby": "ラフ",
+    "cf": [
+      "ralju",
+      "vajni"
+    ],
+    "score": []
+  },
+  {
+    "word": "raktu",
+    "type": "gismu",
+    "rafsi": [
+      "raktu",
+      "rakt",
+      "ra'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "厄介"
+    ],
+    "def": "$x_1$ は $x_2$ （者）にとって $x_3$ （問題）を起こす厄介／迷惑／困難",
+    "ps": 3,
+    "ruby": "ラクトゥ",
+    "pun": "rau（擾）, trouble",
+    "cf": [
+      "dicra",
+      "fanza",
+      "zunti",
+      "kurji",
+      "xanka"
+    ],
+    "score": []
+  },
+  {
+    "word": "rei",
+    "type": "cmavo",
+    "selmaho": "PA2",
+    "def": "16進法E/10進法14 ： 数量詞；",
+    "ruby": "レイ",
+    "cf": [
+      "xei"
+    ],
+    "score": []
+  },
+  {
+    "word": "preti",
+    "type": "gismu",
+    "rafsi": [
+      "preti",
+      "pret",
+      "ret",
+      "rei"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "問い",
+      "質問"
+    ],
+    "def": "$x_1$ （文字列）は $x_2$ （題目）に関する、 $x_3$ （者）から $x_4$ （者）への質問／質疑",
+    "ps": 4,
+    "ruby": "プレティ",
+    "cf": [
+      "nabmi",
+      "danfu",
+      "ciksi",
+      "frati",
+      "spuda",
+      "cpedu"
+    ],
+    "score": []
+  },
+  {
+    "word": "re'o",
+    "type": "cmavo",
+    "selmaho": "FAhA3",
+    "selmaho2": "BAI",
+    "def": "～と隣接／接触して ： 間制詞（空間・方向）；",
+    "ruby": "レホ",
+    "score": []
+  },
+  {
+    "word": "renro",
+    "type": "gismu",
+    "rafsi": [
+      "renro",
+      "renr",
+      "rer",
+      "re'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "投げる"
+    ],
+    "def": "$x_1$ は $x_2$ を $x_3$ （方向）に投げる",
+    "ps": 3,
+    "ruby": "レンロ",
+    "pun": "ren (扔)",
+    "cf": [
+      "cecla (more general term",
+      "danti"
+    ],
+    "score": []
+  },
+  {
+    "word": "re'u",
+    "type": "cmavo",
+    "selmaho": "ROI",
+    "def": "序数テンス ： 左の数量詞を序数にする",
+    "exams": [
+      "「lo ci re'u nuntoi／３度目の挑戦」",
+      "「za'u re'u tcidu／もう１度読む」",
+      "「pu cadzu .i cadzu gi'e cadzu .i ro re'u bo ti se klama ba'o／歩いた、歩いて、歩いて、とう／＼こゝまで来た」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "レフ",
+    "score": []
+  },
+  {
+    "word": "rectu",
+    "type": "gismu",
+    "rafsi": [
+      "rectu",
+      "rect",
+      "rec",
+      "re'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "肉"
+    ],
+    "def": "$x_1$ は $x_2$ （生体）の肉",
+    "ps": 2,
+    "ruby": "レシトゥ",
+    "cf": [
+      "sluji"
+    ],
+    "score": []
+  },
+  {
+    "word": "ri'o",
+    "type": "cmavo",
+    "selmaho": "VUhU4",
+    "selmaho2": "JOI",
+    "def": "積分 ： 数理演算子（3変数）；関数 a の積分、変数 b についての、区間 c にわたる",
+    "ruby": "リホ",
+    "score": []
+  },
+  {
+    "word": "crino",
+    "type": "gismu",
+    "rafsi": [
+      "crino",
+      "crin",
+      "ri'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "緑色"
+    ],
+    "def": "$x_1$ は緑色",
+    "ps": 1,
+    "ruby": "シリノ",
+    "pun": "尻の緑, green",
+    "cf": [
+      "skari",
+      "blabi",
+      "xekri",
+      "kandi",
+      "carmi",
+      "cicna"
+    ],
+    "score": []
+  },
+  {
+    "word": "ri'u",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の右方に／～の右側で ： 間制詞（空間・方向）；",
+    "ruby": "リフ",
+    "score": []
+  },
+  {
+    "word": "rinju",
+    "type": "gismu",
+    "rafsi": [
+      "rinju",
+      "rinj",
+      "ri'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "束縛"
+    ],
+    "def": "$x_1$ は $x_2$ （抑制力）によって $x_3$ （事）にたいして拘束／制限されている；  $x_1$ は $x_2$ のせいで $x_3$ ができない；  $x_2$ は $x_1$ を束縛する",
+    "ps": 3,
+    "ruby": "リンジュ",
+    "pun": "制限されてご臨終",
+    "cf": [
+      "zifre",
+      "ralte",
+      "pinfu",
+      "kavbu",
+      "fanta",
+      "jgari",
+      "jimte",
+      "bapli",
+      "curmi",
+      "kluza",
+      "tagji"
+    ],
+    "score": []
+  },
+  {
+    "word": "ro'a",
+    "type": "cmavo",
+    "selmaho": "UI4",
+    "selmaho2": "UI",
+    "def": "社交 （ ro'a 社交 - ro'anai 反社会的）",
+    "notes": "心態詞（修飾系・カテゴリ）；",
+    "exams": [
+      "「be'u ro'a lo zdacau cu me pa litru／ルンペンのひとり旅はさみしいね」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ロハ",
+    "cf": [
+      "jikca"
+    ],
+    "score": []
+  },
+  {
+    "word": "prosa",
+    "type": "gismu",
+    "rafsi": [
+      "prosa",
+      "pros",
+      "ros",
+      "ro'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "散文"
+    ],
+    "def": "$x_1$ は $x_2$ （主題）・ $x_3$ （作者）・ $x_4$ （読者）の散文",
+    "ps": 4,
+    "ruby": "プロサ",
+    "pun": "prose",
+    "cf": [
+      "cfika",
+      "lisri",
+      "cukta",
+      "pemci",
+      "finti"
+    ],
+    "score": []
+  },
+  {
+    "word": "ro'u",
+    "type": "cmavo",
+    "selmaho": "UI4",
+    "selmaho2": "UI",
+    "def": "性的 （ ro'u 性的 - ro'unai 禁欲的）",
+    "notes": "心態詞（修飾系・カテゴリ）；",
+    "ruby": "ロフ",
+    "cf": [
+      "cinse"
+    ],
+    "score": []
+  },
+  {
+    "word": "rotsu",
+    "type": "gismu",
+    "rafsi": [
+      "rotsu",
+      "rots",
+      "rot",
+      "tsu",
+      "ro'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CCV",
+      "CVV"
+    ],
+    "ja": [
+      "厚い",
+      "太い"
+    ],
+    "def": "$x_1$ は $x_2$ （次元／方向）・ $x_3$ （基準）において太い／厚い",
+    "ps": 3,
+    "ruby": "ロツ",
+    "cf": [
+      "barda",
+      "cinla",
+      "ganra",
+      "clani",
+      "condi",
+      "plana",
+      "gutci",
+      "minli"
+    ],
+    "score": []
+  },
+  {
+    "word": "ru'e",
+    "type": "cmavo",
+    "selmaho": "CAI",
+    "selmaho2": "UI",
+    "def": "弱",
+    "notes": "心態詞； 心情や態度が弱いことを表す",
+    "ruby": "ルヘ",
+    "score": []
+  },
+  {
+    "word": "pruce",
+    "type": "gismu",
+    "rafsi": [
+      "pruce",
+      "pruc",
+      "ruc",
+      "ru'e"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "過程"
+    ],
+    "def": "$x_1$ は、 $x_2$ （入力）・ $x_3$ （出力）・ $x_4$ （段階）の過程／プロセス",
+    "ps": 4,
+    "ruby": "プルシェ",
+    "pun": "process",
+    "cf": [
+      "pu'e",
+      "farvi",
+      "tadji",
+      "grute",
+      "tcini"
+    ],
+    "score": []
+  },
+  {
+    "word": "ru'i",
+    "type": "cmavo",
+    "selmaho": "TAhE",
+    "selmaho2": "BAI",
+    "def": "継続的に／ずっと ： 相制詞（時間・間隔）；",
+    "exams": [
+      "「nu litru bi'o litru litru ru'i .e'i kei me mi／旅から旅へ旅しつゞける外ない私でありました」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "ルヒ",
+    "score": []
+  },
+  {
+    "word": "pruxi",
+    "type": "gismu",
+    "rafsi": [
+      "pruxi",
+      "prux",
+      "rux",
+      "ru'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "魂"
+    ],
+    "def": "$x_1$ は魂／霊；  $x_1$ は霊的",
+    "ps": 1,
+    "ruby": "プルクィ",
+    "cf": [
+      "censa",
+      "lijda",
+      "mucti",
+      "xadni"
+    ],
+    "score": []
+  },
+  {
+    "word": "ru'u",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の周囲に／～を包囲して ： 間制詞（空間・方向）；",
+    "ruby": "ルフ",
+    "score": []
+  },
+  {
+    "word": "rupnu",
+    "type": "gismu",
+    "rafsi": [
+      "rupnu",
+      "rupn",
+      "rup",
+      "ru'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "円（えん）"
+    ],
+    "def": "$x_1$ は $x_2$ （数量）の、 $x_3$ （通貨体系）の上位単位／円／ドル／ユーロ",
+    "ps": 3,
+    "notes": "x1は商品の値段や財布の中身など。",
+    "ruby": "ルプヌ",
+    "cf": [
+      "jdini",
+      "sicni",
+      "jdima",
+      "vecnu",
+      "fepni",
+      "dekpu",
+      "gutci",
+      "minli",
+      "merli",
+      "bunda",
+      "kramu"
+    ],
+    "score": []
+  },
+  {
+    "word": "sa'o",
+    "type": "cmavo",
+    "selmaho": "VUhU4",
+    "selmaho2": "JOI",
+    "def": "導関数／微分係数 ： 数理演算子（3変数）；関数 a の導関数、変数 b についての、第 c 次の (デフォルトで $c=1$)",
+    "ruby": "サホ",
+    "score": []
+  },
+  {
+    "word": "salpo",
+    "type": "gismu",
+    "rafsi": [
+      "salpo",
+      "salp",
+      "sa'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "傾斜"
+    ],
+    "def": "$x_1$ は $x_2$ （角度）で $x_3$ （基準線）にたいして傾斜している／勾配がある",
+    "ps": 3,
+    "notes": "「坂」も。",
+    "ruby": "サルゥポ",
+    "cf": [
+      "kurfa",
+      "tutci"
+    ],
+    "score": []
+  },
+  {
+    "word": "sa'u",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "def": "簡潔 （ sa'u 簡潔 - sa'unai 厳密）",
+    "notes": "心態詞（談話系）；「簡潔に言うと」「単に」",
+    "exams": [
+      "「sa'u do .ei repi'emuno rupnu mi dunda／簡単に言うと、あなたは私に対して2円50銭の債務がある」（内田百閒『贋作我輩は猫である』より要約）"
+    ],
+    "ruby": "サフ",
+    "cf": [
+      "sampu",
+      "pluja"
+    ],
+    "score": []
+  },
+  {
+    "word": "sarcu",
+    "type": "gismu",
+    "rafsi": [
+      "sarcu",
+      "sarc",
+      "sa'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "必須"
+    ],
+    "def": "$x_1$ （抽象）は $x_2$ （状態／過程）のために $x_3$ （条件）のもと必須／欠かせない",
+    "ps": 3,
+    "notes": "$x_1$ はNU類かそれに同等な抽象。",
+    "exams": [
+      "「lo nu sipna cu sarcu lo pu'u banro kei lo ka remna／ヒトであれば成長のためには睡眠が不可欠」 "
+    ],
+    "ruby": "サルシュ",
+    "cf": [
+      "sau",
+      "nitcu"
+    ],
+    "score": []
+  },
+  {
+    "word": "se'u",
+    "type": "cmavo",
+    "selmaho": "SEhU",
+    "def": "挿入句終了： 境界詞； sei や soi で開かれた挿入句の範囲を閉じる",
+    "ruby": "セフ",
+    "cf": [
+      "sei",
+      "soi"
+    ],
+    "score": []
+  },
+  {
+    "word": "selfu",
+    "type": "gismu",
+    "rafsi": [
+      "selfu",
+      "self",
+      "sef",
+      "se'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "奉仕"
+    ],
+    "def": "$x_1$ （者）は $x_2$ （者）に $x_3$ （行動）によって奉仕する；  $x_1$ は $x_2$ の使用人",
+    "ps": 3,
+    "ruby": "セルゥフゥ",
+    "pun": "セルフ奉仕",
+    "cf": [
+      "sidju",
+      "sarji",
+      "gunka"
+    ],
+    "score": []
+  },
+  {
+    "word": "si'i",
+    "type": "cmavo",
+    "selmaho": "VUhU4",
+    "selmaho2": "JOI",
+    "def": "総和記号／∑ ： 数理演算子（3変数）； a の総和、変数 b の区間 c にわたる",
+    "ruby": "スィヒ",
+    "score": []
+  },
+  {
+    "word": "sicni",
+    "type": "gismu",
+    "rafsi": [
+      "sicni",
+      "sicn",
+      "si'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "硬貨"
+    ],
+    "def": "$x_1$ は $x_2$ （発行源）・ $x_3$ （価値）・ $x_4$ （素材）の硬貨／コイン",
+    "ps": 4,
+    "ruby": "スィシニ",
+    "cf": [
+      "fepni",
+      "jdini",
+      "rupnu"
+    ],
+    "score": []
+  },
+  {
+    "word": "si'o",
+    "type": "cmavo",
+    "selmaho": "NU",
+    "rafsi": [
+      "siz"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "抽象： 概念"
+    ],
+    "def": "概念抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する概念を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；$x_1$ は［bridi］に表される概念、 $x_2$ （思考者）の",
+    "ps": 2,
+    "ruby": "スィホ",
+    "cf": [
+      "sidbo"
+    ],
+    "score": []
+  },
+  {
+    "word": "sidbo",
+    "type": "gismu",
+    "rafsi": [
+      "sidbo",
+      "sidb",
+      "sib",
+      "si'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "概念"
+    ],
+    "def": "$x_1$ （抽象）は $x_2$ （物／事）の、 $x_3$ （思考者）による概念／観念／アイディア／コンセプト",
+    "ps": 3,
+    "ruby": "スィドボ",
+    "cf": [
+      "ciksi",
+      "jijnu",
+      "mucti",
+      "jinvi",
+      "nabmi",
+      "pensi",
+      "xanri",
+      "si'o"
+    ],
+    "score": []
+  },
+  {
+    "word": "si'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～が助けて／～が補助となって ： sidju 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "スィフ",
+    "score": []
+  },
+  {
+    "word": "simxu",
+    "type": "gismu",
+    "rafsi": [
+      "simxu",
+      "simx",
+      "sim",
+      "si'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "相互"
+    ],
+    "def": "$x_1$ （集合）は $x_2$ （事／性質）の点で相互的／共通し合っている",
+    "ps": 2,
+    "ruby": "スィムクゥ",
+    "cf": [
+      "kampu",
+      "mintu"
+    ],
+    "score": []
+  },
+  {
+    "word": "so'e",
+    "type": "cmavo",
+    "selmaho": "PA4",
+    "rafsi": [
+      "sop"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "大半"
+    ],
+    "def": "ほとんどの ： 数量詞；",
+    "ruby": "ソヘ",
+    "score": []
+  },
+  {
+    "word": "sobde",
+    "type": "gismu",
+    "rafsi": [
+      "sobde",
+      "sobd",
+      "sob",
+      "so'e"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "大豆",
+      "ダイズ"
+    ],
+    "sense": [
+      "豆粒"
+    ],
+    "def": "$x_1$ は $x_2$ （品種）のダイズ粒",
+    "ps": 2,
+    "ruby": "ソブデ",
+    "cf": [
+      "dembi",
+      "gurni"
+    ],
+    "score": []
+  },
+  {
+    "word": "so'o",
+    "type": "cmavo",
+    "selmaho": "PA4",
+    "rafsi": [
+      "sos"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "幾つか"
+    ],
+    "def": "いくつかの ： 数量詞；",
+    "ruby": "ソホ",
+    "score": []
+  },
+  {
+    "word": "sombo",
+    "type": "gismu",
+    "rafsi": [
+      "sombo",
+      "somb",
+      "som",
+      "so'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "植える"
+    ],
+    "def": "$x_1$ は $x_2$ （植物／種）を $x_3$ （所）に植える／蒔く",
+    "ps": 3,
+    "ruby": "ソムボ",
+    "cf": [
+      "crepu",
+      "tsiju"
+    ],
+    "score": []
+  },
+  {
+    "word": "su'a",
+    "type": "cmavo",
+    "selmaho": "UI2",
+    "selmaho2": "UI",
+    "def": "一般化 （ su'a 一般化 - su'anai 特殊化）",
+    "notes": "心態詞（認識系）；「一般には」",
+    "ruby": "スハ",
+    "cf": [
+      "sucta",
+      "sucni'i"
+    ],
+    "score": []
+  },
+  {
+    "word": "stura",
+    "type": "gismu",
+    "rafsi": [
+      "stura",
+      "stur",
+      "tur",
+      "su'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "構造"
+    ],
+    "def": "$x_1$ は $x_2$ （集合／体系）の構造／配置／組織",
+    "ps": 2,
+    "ruby": "ストゥラ",
+    "pun": "ストゥラクチャー",
+    "cf": [
+      "ganzu",
+      "morna",
+      "ciste",
+      "lujvo",
+      "greku",
+      "gerna"
+    ],
+    "score": []
+  },
+  {
+    "word": "su'u",
+    "type": "cmavo",
+    "selmaho": "NU",
+    "rafsi": [
+      "suv"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "抽象： 不特定"
+    ],
+    "def": "不特定抽象 ： 抽象詞； bridi の左に付いて、その bridi の不特定の内包要素を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；$x_1$ は［bridi］に表される不特定の抽象、 $x_2$ （種類）の",
+    "ps": 2,
+    "notes": "NUの中では抽出対象の範囲が最も広い。",
+    "ruby": "スフ",
+    "cf": [
+      "sucta"
+    ],
+    "score": []
+  },
+  {
+    "word": "sfubu",
+    "type": "gismu",
+    "rafsi": [
+      "sfubu",
+      "sfub",
+      "sub",
+      "su'u"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "飛び込む"
+    ],
+    "def": "$x_1$ は $x_2$ に $x_3$ から飛び込む／飛び降りる",
+    "ps": 3,
+    "notes": "意志的。",
+    "ruby": "スフゥブ",
+    "cf": [
+      "farlu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ta'o",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "ja": [
+      "ところで",
+      "余談",
+      "逸脱"
+    ],
+    "def": "逸脱 （ ta'o 逸脱 - ta'onai 回帰）",
+    "notes": "心態詞（談話系）；「ところで」",
+    "exams": [
+      "「la .lojban. co'a se finti de'i li pasobize pi'e pi'e .i ta'o li pasobize cu cinono moi mulna'usle／ロジバンの開発は1987年に始まった。ところで1987は300番目の素数だ」 "
+    ],
+    "ruby": "タホ",
+    "cf": [
+      "denpa",
+      "cneterta'a"
+    ],
+    "score": []
+  },
+  {
+    "word": "tanbo",
+    "type": "gismu",
+    "rafsi": [
+      "tanbo",
+      "tanb",
+      "ta'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "板"
+    ],
+    "def": "$x_1$ は $x_2$ （素材）の板",
+    "ps": 2,
+    "notes": "x3次元の、薄く、主に長方形の物体全般。",
+    "ruby": "タンボ",
+    "pun": "ita/ban 板",
+    "cf": [
+      "bliku",
+      "kubli"
+    ],
+    "score": []
+  },
+  {
+    "word": "tau",
+    "type": "cmavo",
+    "selmaho": "LAU",
+    "selmaho2": "ME",
+    "def": "次字詞変換 ： 次の字詞１つ分の大小を変換する",
+    "ruby": "タウ",
+    "score": []
+  },
+  {
+    "word": "tanru",
+    "type": "gismu",
+    "rafsi": [
+      "tanru",
+      "tanr",
+      "tau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "複合語"
+    ],
+    "def": "$x_1$ は、 $x_2$ が $x_3$ を修飾し、 $x_4$ を意味する、使用法／例文 $x_5$ における複合語",
+    "ps": 5,
+    "notes": "x2 と x3 は、「文字列」か「概念」。",
+    "ruby": "タンル",
+    "cf": [
+      "gismu",
+      "smuni"
+    ],
+    "score": []
+  },
+  {
+    "word": "te'o",
+    "type": "cmavo",
+    "selmaho": "PA5",
+    "def": "ネイピア数（自然対数の底） ： 数量詞；",
+    "ruby": "テホ",
+    "score": []
+  },
+  {
+    "word": "stero",
+    "type": "gismu",
+    "rafsi": [
+      "stero",
+      "ster",
+      "te'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "ステラジアン"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のステラジアン度",
+    "ps": 3,
+    "notes": "立体角の単位。",
+    "ruby": "ステロ",
+    "cf": [
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "te'u",
+    "type": "cmavo",
+    "selmaho": "TEhU",
+    "def": "MEX変換終了 ： 境界詞； 非MEXからMEXへの変換の範囲を閉じる",
+    "ruby": "テフ",
+    "score": []
+  },
+  {
+    "word": "tengu",
+    "type": "gismu",
+    "rafsi": [
+      "tengu",
+      "teng",
+      "teg",
+      "te'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "質感"
+    ],
+    "def": "$x_1$ （性質）は $x_2$ の（視覚と触覚上の）質感／手ざわり／舌ざわり",
+    "ps": 2,
+    "notes": "「でこぼこ」「ざらざら」などの類。",
+    "ruby": "テング",
+    "pun": "天狗の質感",
+    "cf": [
+      "rufsu (下位概念)",
+      "xutla (下位概念)"
+    ],
+    "score": []
+  },
+  {
+    "word": "ti'a",
+    "type": "cmavo",
+    "selmaho": "FAhA2",
+    "selmaho2": "BAI",
+    "def": "～の後方に／後側で ： 間制詞（空間・方向）；",
+    "ruby": "ティハ",
+    "score": []
+  },
+  {
+    "word": "tcima",
+    "type": "gismu",
+    "rafsi": [
+      "tcima",
+      "tcim",
+      "tim",
+      "ti'a"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "気象"
+    ],
+    "def": "$x_1$ は $x_2$ （所／地域）の気象／気候／天候／天気",
+    "ps": 2,
+    "notes": "比喩的に「顔色」なども。",
+    "exams": [
+      "「to'u ja'o tcima xamgu .inaja lo jikcre cu se sidju／とにかくお天気ならば世間師は助かる」（山頭火『行乞記（二）』）"
+    ],
+    "ruby": "チマ",
+    "pun": "天気がちまちま変わる",
+    "cf": [
+      "brife",
+      "bumru",
+      "carvi",
+      "dilnu",
+      "bratu"
+    ],
+    "score": []
+  },
+  {
+    "word": "ti'i",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～が示唆して／勧めて ： stidi 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ティヒ",
+    "score": []
+  },
+  {
+    "word": "stidi",
+    "type": "gismu",
+    "rafsi": [
+      "stidi",
+      "stid",
+      "sid",
+      "ti'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "示唆"
+    ],
+    "def": "$x_1$ は $x_2$ （概念／行動）を $x_3$ （者）に示唆／推奨／提案する；  $x_1$ （事）は $x_2$ を $x_3$ にたいして鼓舞する",
+    "ps": 3,
+    "ruby": "スティディ",
+    "cf": [
+      "ti'i",
+      "tcica",
+      "xlura"
+    ],
+    "score": []
+  },
+  {
+    "word": "ti'o",
+    "type": "cmavo",
+    "selmaho": "SEI",
+    "def": "MEX優先 ： MEX（数式）の優先性を示す",
+    "ruby": "ティホ",
+    "score": []
+  },
+  {
+    "word": "ctino",
+    "type": "gismu",
+    "rafsi": [
+      "ctino",
+      "ctin",
+      "ti'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVV"
+    ],
+    "ja": [
+      "陰"
+    ],
+    "def": "$x_1$ は $x_2$ （物）・ $x_3$ （光）の陰／影",
+    "ps": 3,
+    "ruby": "シティノ",
+    "cf": [
+      "manku",
+      "gusni"
+    ],
+    "score": []
+  },
+  {
+    "word": "to'u",
+    "type": "cmavo",
+    "selmaho": "UI3",
+    "selmaho2": "UI",
+    "def": "手短 （ to'u 手短 - to'unai 全容）",
+    "notes": "心態詞（談話系）； 話を手短に済ませる； 長さが焦点となっており、内容が集約されているとは限らず、話の一部だけを出して残りを伏せるという場合も",
+    "exams": [
+      "「to'u mi zo'u tamca／手短に言えば、私はトマト」 "
+    ],
+    "ruby": "トフ",
+    "cf": [
+      "tordu",
+      "clani",
+      "tcidu"
+    ],
+    "score": []
+  },
+  {
+    "word": "tordu",
+    "type": "gismu",
+    "rafsi": [
+      "tordu",
+      "tord",
+      "tor",
+      "to'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "短い"
+    ],
+    "def": "$x_1$ は $x_2$ （方向）・ $x_3$ （尺度）に関して短い",
+    "ps": 3,
+    "ruby": "トルドゥ",
+    "cf": [
+      "cmalu",
+      "jarki",
+      "caxno",
+      "cinla",
+      "clani"
+    ],
+    "score": []
+  },
+  {
+    "word": "tu'i",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～を場所として ： stuzi 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "トゥヒ",
+    "score": []
+  },
+  {
+    "word": "tugni",
+    "type": "gismu",
+    "rafsi": [
+      "tugni",
+      "tugn",
+      "tug",
+      "tu'i"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "賛成"
+    ],
+    "def": "$x_1$ （者）は $x_2$ （者／観点／側）にたいし、 $x_3$ （命題）・ $x_4$ （題目）について賛成／賛同／同意する",
+    "ps": 4,
+    "ruby": "トゥグニ",
+    "cf": [
+      "sarxe",
+      "mapti",
+      "darlu",
+      "natfe",
+      "panpi",
+      "sarji"
+    ],
+    "score": []
+  },
+  {
+    "word": "tu'o",
+    "type": "cmavo",
+    "selmaho": "PA5",
+    "def": "ヌル・オペランド ： 数量詞；",
+    "ruby": "トゥホ",
+    "score": []
+  },
+  {
+    "word": "tunlo",
+    "type": "gismu",
+    "rafsi": [
+      "tunlo",
+      "tunl",
+      "tul",
+      "tu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "飲み込む"
+    ],
+    "def": "$x_1$ は $x_2$ を飲み込む／飲み下す",
+    "ps": 2,
+    "notes": "比喩的に（概念／意見を）「取り入れる」「消化する」も",
+    "ruby": "トゥンルォ",
+    "cf": [
+      "citka",
+      "pinxe",
+      "galxe"
+    ],
+    "score": []
+  },
+  {
+    "word": "tu'u",
+    "type": "cmavo",
+    "selmaho": "TUhU",
+    "def": "発話グループ終了 ： 境界詞； TUhE で開かれた発話グループ範囲を閉じる",
+    "ruby": "トゥフ",
+    "score": []
+  },
+  {
+    "word": "tubnu",
+    "type": "gismu",
+    "rafsi": [
+      "tubnu",
+      "tubn",
+      "tu'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVV"
+    ],
+    "ja": [
+      "チューブ",
+      "シリンダー",
+      "パイプ",
+      "管",
+      "筒"
+    ],
+    "sense": [
+      "中空の"
+    ],
+    "def": "$x_1$ は $x_2$ （素材）・ $x_3$ （内容）の管／筒／パイプ／シリンダー／チューブ",
+    "ps": 3,
+    "notes": "{slanu} と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。",
+    "ruby": "トゥブヌ",
+    "cf": [
+      "kevna",
+      "canlu"
+    ],
+    "score": []
+  },
+  {
+    "word": "vau",
+    "type": "cmavo",
+    "selmaho": "VAU",
+    "selmaho2": "BAI",
+    "def": "bridi 終了 ： bridi の終わりを示す； 主に複文（複数の bridi 含む文）で複数の bridi に共通の sumti を切り出すのに用いる",
+    "notes": "「mi dunda lo jdini ($x_2$) gi'e cpacu lo cukta ($x_2$) vau do ($x_3$)／私（$x_1$）はお金（$x_2$）をあなた（$x_3$）にあげ、本（$x_2$）をあなた（$x_3$）から受け取る」",
+    "ruby": "ヴァウ",
+    "score": []
+  },
+  {
+    "word": "vasru",
+    "type": "gismu",
+    "rafsi": [
+      "vasru",
+      "vasr",
+      "vas",
+      "vau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "含む"
+    ],
+    "def": "$x_1$ は $x_2$ を内に含む／包む；  $x_1$ は $x_2$ の容器",
+    "ps": 2,
+    "notes": "「nenri」と違い、 x2 はx1をはみ出ていてもいい。",
+    "ruby": "ヴァスル",
+    "cf": [
+      "bartu",
+      "jbini",
+      "nenri",
+      "zvati",
+      "cpana",
+      "botpi",
+      "lanka"
+    ],
+    "score": []
+  },
+  {
+    "word": "va'u",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "～（良い何か）を享受して ： xamgu 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ヴァフ",
+    "score": []
+  },
+  {
+    "word": "vasxu",
+    "type": "gismu",
+    "rafsi": [
+      "vasxu",
+      "vasx",
+      "vax",
+      "va'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "呼吸"
+    ],
+    "def": "$x_1$ は $x_2$ （気体）を吸う／吐く",
+    "ps": 2,
+    "ruby": "ヴァスクゥ",
+    "cf": [
+      "fepri",
+      "kijno",
+      "vacri"
+    ],
+    "score": []
+  },
+  {
+    "word": "ve'u",
+    "type": "cmavo",
+    "selmaho": "VEhA",
+    "selmaho2": "BAI",
+    "def": "空間間隔・大 ： 間制詞（空間・間隔）",
+    "ruby": "ヴェフ",
+    "score": []
+  },
+  {
+    "word": "vecnu",
+    "type": "gismu",
+    "rafsi": [
+      "vecnu",
+      "vecn",
+      "ven",
+      "ve'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "売る",
+      "うる",
+      "はんばい",
+      "売買",
+      "販売",
+      "販売員",
+      "購入者"
+    ],
+    "def": "$x_1$ （売り手） は $x_2$ （品物やサービス）を $x_3$ （買い手）に $x_4$ の額／費用／出費で売る",
+    "ps": 4,
+    "notes": "x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。 売りに出す（ fitselve'u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_{1}$ として「所有権を手放す者」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posyve'u}, {posyselve'u}）。 費用と価格の違いについては {jdima} の注を参照。",
+    "ruby": "ヴェシヌ",
+    "cf": [
+      "canja",
+      "dunda",
+      "janta",
+      "pleji",
+      "jerna",
+      "kargu",
+      "prali",
+      "zarci",
+      "vamji",
+      "jdima（売り手がつける値段）",
+      "fepni",
+      "friti",
+      "rupnu"
+    ],
+    "score": []
+  },
+  {
+    "word": "vi'u",
+    "type": "cmavo",
+    "selmaho": "VIhA",
+    "selmaho2": "BAI",
+    "def": "空間カテゴリ・3次元 ： 間制詞（空間・カテゴリ）",
+    "ruby": "ヴィフ",
+    "score": []
+  },
+  {
+    "word": "vimcu",
+    "type": "gismu",
+    "rafsi": [
+      "vimcu",
+      "vimc",
+      "vic",
+      "vi'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "除去"
+    ],
+    "def": "$x_1$ は $x_2$ を $x_3$ から、 $x_4$ だけ残して除去／控除する／差し引く",
+    "ps": 4,
+    "ruby": "ヴィムシュ",
+    "pun": "ビームでシュッと消去",
+    "cf": [
+      "lebna",
+      "muvdu",
+      "cpacu",
+      "canci",
+      "cliva",
+      "jdika"
+    ],
+    "score": []
+  },
+  {
+    "word": "voi",
+    "type": "cmavo",
+    "selmaho": "NOI",
+    "def": "叙述 bridi ： 関係詞（非制限）； 左の sumti を主観的に叙述する bridi を結びつける； この bridi が真に sumti に当てはまるとは限らない",
+    "ruby": "ヴォイ",
+    "score": []
+  },
+  {
+    "word": "vofli",
+    "type": "gismu",
+    "rafsi": [
+      "vofli",
+      "vofl",
+      "vol",
+      "voi"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "飛ぶ"
+    ],
+    "def": "$x_1$ は $x_2$ （原動力）で飛ぶ／飛行する",
+    "ps": 2,
+    "ruby": "ヴォフゥルィ",
+    "pun": "ｆｌｙ",
+    "cf": [
+      "cipni",
+      "klama",
+      "vinji"
+    ],
+    "score": []
+  },
+  {
+    "word": "vu'e",
+    "type": "cmavo",
+    "selmaho": "UI5",
+    "selmaho2": "UI",
+    "ja": [
+      "徳",
+      "誉れ"
+    ],
+    "def": "徳／誉れ （ vu'e 徳／誉れ - vu'enai 罪／穢れ）",
+    "notes": "心態詞（修飾系）；",
+    "ruby": "ヴヘ",
+    "cf": [
+      "vrude",
+      "zungi"
+    ],
+    "score": []
+  },
+  {
+    "word": "vrude",
+    "type": "gismu",
+    "rafsi": [
+      "vrude",
+      "vrud",
+      "vud",
+      "vu'e"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "誉れ"
+    ],
+    "def": "$x_1$ は $x_2$ の観点で有徳／高潔／光栄",
+    "ps": 2,
+    "ruby": "ヴルデ",
+    "cf": [
+      "palci",
+      "xamgu",
+      "marde",
+      "zabna"
+    ],
+    "score": []
+  },
+  {
+    "word": "vu'i",
+    "type": "cmavo",
+    "selmaho": "LAhE",
+    "selmaho2": "LE",
+    "def": "～の序列／配列 ： 限定詞； sumti の左に付いて、その sumti に含意される序列／配列を抽出する",
+    "ruby": "ヴヒ",
+    "score": []
+  },
+  {
+    "word": "vrusi",
+    "type": "gismu",
+    "rafsi": [
+      "vrusi",
+      "vrus",
+      "vus",
+      "vu'i"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "風味"
+    ],
+    "def": "$x_1$ （性質）は $x_2$ が発する味；  $x_2$ には $x_1$ の風味がある",
+    "ps": 2,
+    "ruby": "ヴルスィ",
+    "cf": [
+      "kukte",
+      "tsapi",
+      "cpina"
+    ],
+    "score": []
+  },
+  {
+    "word": "vu'o",
+    "type": "cmavo",
+    "selmaho": "VUhO",
+    "def": "広範囲関係詞結合 ： 複数の sumti に関係詞を結びつける； 最後の sumti と最初の関係詞の間に置く",
+    "exams": [
+      "「lo gerku .e lo mlatu vu'o poi pendo mi／私の友達である犬と猫」 "
+    ],
+    "ruby": "ヴホ",
+    "score": []
+  },
+  {
+    "word": "vukro",
+    "type": "gismu",
+    "rafsi": [
+      "vukro",
+      "vukr",
+      "vur",
+      "vu'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "ウクライナ"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関してウクライナ系（言語／文化／民族）",
+    "ps": 2,
+    "ruby": "ヴクロ",
+    "cf": [
+      "slovo",
+      "softo"
+    ],
+    "score": []
+  },
+  {
+    "word": "xa'o",
+    "type": "cmavo",
+    "selmaho": "ZAhO",
+    "selmaho2": "BAI",
+    "def": "早発 ： 相制詞； 既に； 早過ぎて； za'o の反対",
+    "ruby": "クァホ",
+    "experimental": true,
+    "unofficial": true,
+    "score": []
+  },
+  {
+    "word": "xampo",
+    "type": "gismu",
+    "rafsi": [
+      "xampo",
+      "xamp",
+      "xap",
+      "xa'o"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "アンペア"
+    ],
+    "def": "$x_1$ は $x_2$ （数）・ $x_3$ （基準）のアンペア",
+    "ps": 3,
+    "ruby": "クァムポ",
+    "cf": [
+      "dikca",
+      "flecu",
+      "centi",
+      "decti",
+      "dekto",
+      "femti",
+      "gigdo",
+      "gocti",
+      "gotro",
+      "kilto",
+      "megdo",
+      "mikri",
+      "milti",
+      "nanvi",
+      "petso",
+      "picti",
+      "terto",
+      "xatsi",
+      "xecto",
+      "xexso",
+      "zepti",
+      "zetro"
+    ],
+    "score": []
+  },
+  {
+    "word": "xei",
+    "type": "cmavo",
+    "selmaho": "PA2",
+    "def": "16進法E/10進法14 ： 数量詞；",
+    "notes": "{rei} は {re} と聞き間違えやすいので、 {rei} の代わりに使われる",
+    "ruby": "クェイ",
+    "experimental": true,
+    "unofficial": true,
+    "score": []
+  },
+  {
+    "word": "xebni",
+    "type": "gismu",
+    "rafsi": [
+      "xebni",
+      "xebn",
+      "xen",
+      "xei"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "憎む"
+    ],
+    "def": "$x_1$ は $x_2$ （物／者／事）を憎む；  $x_1$ は $x_2$ にたいする怨恨を抱いている；  $x_2$ は憎らしい",
+    "ps": 2,
+    "ruby": "クェブニ",
+    "pun": "蛇に嫌いと言う",
+    "cf": [
+      "djica",
+      "nitcu",
+      "rigni",
+      "prami",
+      "nelci"
+    ],
+    "score": []
+  },
+  {
+    "word": "xe'u",
+    "type": "cmavo",
+    "selmaho": "GOhA",
+    "def": "ラムダ ： 抽象節内において焦点となる selbri の箇所にそのまま代えて置く",
+    "notes": "第3階以上の述語論理を表現するときに、NU類で作られる抽象節を冠頭に置くために使われる。使用例は {bu'ai} を参照。",
+    "ruby": "クェフ",
+    "cf": [
+      "ce'u",
+      "bu'ai."
+    ],
+    "experimental": true,
+    "unofficial": true,
+    "score": []
+  },
+  {
+    "word": "xenru",
+    "type": "gismu",
+    "rafsi": [
+      "xenru",
+      "xenr",
+      "xer",
+      "xe'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "悔やむ"
+    ],
+    "def": "$x_1$ は $x_2$ （事）を後悔する；  $x_1$ は $x_2$ を残念に思う",
+    "ps": 2,
+    "notes": "既に起こった事を悔やむのが「xenru」。時を問わず自分の行為について「罪」を感じるのは「zungi」。",
+    "ruby": "クェンル",
+    "cf": [
+      "u'u",
+      "zungi"
+    ],
+    "score": []
+  },
+  {
+    "word": "zau",
+    "type": "cmavo",
+    "selmaho": "BAI",
+    "selmaho2": "BAI",
+    "def": "~に承認されて ： zanru 法制詞, $x_1$",
+    "ps": 1,
+    "ruby": "ザウ",
+    "score": []
+  },
+  {
+    "word": "zanru",
+    "type": "gismu",
+    "rafsi": [
+      "zanru",
+      "zanr",
+      "zar",
+      "zau"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "容認"
+    ],
+    "def": "$x_1$ は $x_2$ （物／事）を容認／承認／是認する",
+    "ps": 2,
+    "ruby": "ザンル",
+    "cf": [
+      "zau",
+      "natfe"
+    ],
+    "score": []
+  },
+  {
+    "word": "za'u",
+    "type": "cmavo",
+    "selmaho": "PA3",
+    "def": "~以上の／~よりも多くの ： 数量詞；",
+    "ruby": "ザフ",
+    "score": []
+  },
+  {
+    "word": "zargu",
+    "type": "gismu",
+    "rafsi": [
+      "zargu",
+      "zarg",
+      "zag",
+      "za'u"
+    ],
+    "form": [
+      "CVCCV",
+      "CVCC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "尻"
+    ],
+    "def": "$x_1$ は $x_2$ （本体）の尻／臀部",
+    "ps": 2,
+    "ruby": "ザルグ",
+    "pun": "pigu(屁股), arse",
+    "cf": [
+      "ganxo",
+      "mabla"
+    ],
+    "score": []
+  },
+  {
+    "word": "zi'o",
+    "type": "cmavo",
+    "selmaho": "KOhA7",
+    "rafsi": [
+      "zil"
+    ],
+    "form": [
+      "CVC"
+    ],
+    "ja": [
+      "不在項"
+    ],
+    "def": "不在 sumti ： 代詞（sumti）； PS上の特定の項を消去する",
+    "ruby": "ズィホ",
+    "score": []
+  },
+  {
+    "word": "dzipo",
+    "type": "gismu",
+    "rafsi": [
+      "dzipo",
+      "dzip",
+      "zip",
+      "zi'o"
+    ],
+    "form": [
+      "CCVCV",
+      "CCVC",
+      "CVC",
+      "CVV"
+    ],
+    "ja": [
+      "南極"
+    ],
+    "def": "$x_1$ は $x_2$ （性質面）に関して南極系",
+    "ps": 2,
+    "ruby": "ヅィポ",
+    "cf": [
+      "ketco",
+      "friko",
+      "sralo",
+      "terdi"
+    ],
+    "score": []
+  }
+]

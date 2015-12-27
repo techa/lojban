@@ -1,0 +1,120 @@
+#
+A: 接続詞（論理・後置・sumti）
+  A*: 接続詞（論理・後置・sumti）
+UI:
+  UI1: 心態詞
+    UI*1: 心態詞
+  UI2: 心態詞  （認識系）
+    UI*2: 心態詞  （認識系）
+  UI3: 心態詞心態詞（談話系）
+    UI*3: 心態詞
+    UI3a: 心態詞
+    UI3b: 心態詞（談話系）
+  UI4:
+
+  UI5: 心態詞（修飾系）
+    UI*5: 心態詞（修飾系）
+  UI6: 心態詞
+  UI7: 心態詞（修飾系）
+    UI*7: 心態詞（修飾系）"
+BAI: 法制詞"付加詞",
+BAhE:
+BE:
+  BEhO: 境界詞"
+BEI:
+BIhE: 数式
+BIhI: 接続詞（非論理・間隔）
+BO: 範囲接続（短）
+BOI: 境界詞
+BU:
+BY:
+  BY1: 字詞変換
+  BY*: 字詞　母音
+  BY2: 字詞 子音
+CAhA: 相制詞（モダリティ）
+CAI: 心態詞
+CEI:
+CEhE:
+CO:
+COI: 心態詞（呼応系）
+  COI*: 心態詞（呼応系）
+COI2: 心態詞"試験的cmavo
+CU:
+CUhE:
+DOI:
+DOhU: 境界詞 呼応系心態詞終了
+FA: 標識
+FAhA1: 間制詞（空間・方向）方角
+FAhA2: 間制詞（空間・方向）方向
+FAhA3: 間制詞（空間・方向）場所
+FAhA4: 間制詞（空間・方向）
+FAhO:
+FEhE: 標識
+FEhU: 境界詞
+FIhO: 境界詞
+FOI: 境界詞
+FUhA:
+FUhE:
+FUhO:
+GA: 接続詞（論理・前置・sumti/bridi/文）
+  GA*: 接続詞（論理・前置・sumti/bridi/文）
+GAhO:
+GOhA: 代詞（selbri）
+GOI:
+GEhU: 境界詞
+GI: 接続詞（論理）
+GIhA: 接続詞（論理・後置・bridi）
+  GIhA*: 接続詞（論理・後置・bridi）
+GUhA: 接続詞（論理・前置・tanru）
+  GUhA*: 接続詞（論理・前置・tanru）
+I: 境界詞
+JA: 接続詞（論理・後置・tanru）
+  JA*: 接続詞（論理・後置・文）
+JAI:
+JOI:  接続詞（非論理・sumti/selbri）
+JOhI: 数式
+KE: 境界詞
+KEhE: 境界詞
+KEI: 境界詞
+KI:
+KOhA1:  代詞（selbri）
+KOhA2: 代詞（sumti）
+KOhA3: 代詞（sumti）
+KOhA4: 代詞（sumti）
+KOhA7: 代詞（sumti）
+KOhA8:
+KU: 境界詞
+KUhE: 境界詞
+KUhO: 境界詞
+LA: 冠詞（渾名系）
+LAhE: 限定詞
+LAU:
+LE: 冠詞（主観系）
+LEhU: 境界詞
+LI:
+LIhU: 境界詞
+LOhO: 境界詞
+LOhU: 境界詞
+LU:
+MOI:
+NA命題肯定:
+  NAhE: 段階詞
+NU: 抽象詞
+PA*: 数量詞"
+PA1: 数量詞
+PA2: 数量詞
+PA3: 数量詞
+PA4: 数量詞
+PA5: 数量詞
+PU: 間制詞（時間・方向）
+
+
+ROI: 間制詞（時間・方向）
+TAhE: 相制詞（時間・間隔）
+VUhU0: 数理演算子（n変数）
+VUhU1: 数理演算子（n変数）
+VUhU2: 数理演算子（単一項）　数理演算子（3変数）
+VUhU3: 数理演算子（単一項）VUhU3: 数理演算子（2変数）
+
+ZAhO: 相制詞
+ZOI: 冠詞

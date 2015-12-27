@@ -5,6 +5,12 @@ Lojban Words Analysis
 1) origin -> neatly -> thesaurus ->result
    オリジナル、整頓、シソーラス
 
+## Terminal commands
+node lib/step1-xml-parser.js
+node lib/step2-xml2js.js
+node lib/step3-make-dictionary.js
+node lib/step4-integrate-frequency.js
+
 
 gismu patterns
 -------------
@@ -94,6 +100,9 @@ gismuは４つのパーツを組み合わせた２つのパターンで構成す
 
 Sources
 -------
+### lo gimste jo'u lo ma'oste
+jpn-gimste.tsv & jpn-mahoste.tsv
+http://guskant.github.io/lojbo/gismu-cmavo.html
 
 ### jbovlaste xml-export in japanese
 http://jbovlaste.lojban.org/export/xml-export.html?lang=ja
@@ -107,3 +116,16 @@ http://mw.lojban.org/papri/File:MyFreq-COMB_without_dots.txt
 ### gismu & cmovo .txt
 https://github.com/lojban/jbovlaste/blob/master/bin/gismu.txt
 https://github.com/lojban/jbovlaste/blob/master/bin/cmavo.txt
+
+
+Frequency Sources
+-----------
+https://mw.lojban.org/papri/te_gerna_la_lojban
+
+### 藪の中  - by 芥川龍之介 (AKUTAGAWA Ryunosuke)
+guskant
+http://guskant.github.com/yabu/html5/jbojpn.html
+
+### NIWA Yoshinori
+作品の解説を23種類の言語に翻訳する 丹羽良徳の2004年から2012年の介入プロジェクト
+http://ponjbogri.github.io/cemfanva/niwa/niwa2013.html

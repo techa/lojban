@@ -1,11 +1,12 @@
-JOI, JA, A, BIhI, VUhU, JOhI --> JOI 
-FEhE, MOhI, NAhE --> NAhE 
-KI, BAI, PU, ZI, ZEhA, FAhA, VA, VEhA, VIhA, TAhE, ZAhO, CAhA, CUhE --> BAI 
-LA, LE --> LE 
+JOI, JA, A, BIhI, VUhU, JOhI --> JOI
+FEhE, MOhI, NAhE --> NAhE
+KI, BAI, PU, ZI, ZEhA, FAhA, VA, VEhA, VIhA, TAhE, ZAhO, CAhA, CUhE --> BAI
+LA, LE --> LE
 FUhE, UI, CAI, NAI, DAhO, FUhO, RAhO, GAhO --> UI 
-ME, NUhA --> ME 
-LAU, TEI, FOI, BY --> BY 
+ME, NUhA --> ME
+LAU, TEI, FOI, BY --> BY
 SA, GUhA, BIhE, CEhE, PEhE, NUhI, NUhU, MAhO, NAhU, PEhO, KUhE, FUhA, MOhE --> 破棄
+
 JOI
 	A接続詞（論理・後置・sumti）
 		A*","接続詞（論理・後置・sumti）","cluster
@@ -22,7 +23,7 @@ UI
 		UI3a心態詞
 		UI3b","心態詞（談話系）
 	UI4
-	
+
 	UI5心態詞（修飾系）
 		UI*5","心態詞（修飾系）","cluster
 	UI6","心態詞
@@ -44,7 +45,7 @@ UI
 		UI3a心態詞
 		UI3b","心態詞（談話系）
 	UI4
-	
+
 	UI5心態詞（修飾系）
 		UI*5","心態詞（修飾系）","cluster
 	UI6","心態詞
@@ -151,5 +152,3 @@ VUhU3","数理演算子（単一項）VUhU3","数理演算子（2変数）
 
 ZAhO相制詞
 ZOI","冠詞
-
-

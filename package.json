@@ -1,0 +1,33 @@
+{
+  "name": "lojban",
+  "version": "1.0.0",
+  "description": "Lojban Words Analysis\r ======================\r ロジバンの語根は話者数の多い言語から作られているが、ここでは意味や機能による規則で語の生成を行う。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techa/lojban.git"
+  },
+  "keywords": [
+    "lojban",
+    "language"
+  ],
+  "author": "techa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techa/lojban/issues"
+  },
+  "homepage": "https://github.com/techa/lojban#readme",
+  "devDependencies": {
+    "xml2js": "^0.4.15"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "yamljs": "^0.2.4"
+  }
+}

@@ -1,0 +1,149 @@
+# ---------------------------------------------------------------------------------
+#JOI, JA, A, BIhI, VUhU, JOhI --> JOI
+JOI:
+  JOI:  接続詞（非論理・sumti/selbri）
+  JA: 接続詞（論理・後置・tanru）
+    JA*: 接続詞（論理・後置・文）
+  A: 接続詞（論理・後置・sumti）
+    A*: 接続詞（論理・後置・sumti）
+  BIhI: 接続詞（非論理・間隔）
+  VUhU0: 数理演算子（n変数）
+  VUhU1: 数理演算子（n変数）
+  VUhU2: 数理演算子（単一項, 3変数）
+  VUhU3: 数理演算子（単一項, 2変数）
+  JOhI: 数式
+# FEhE, MOhI, NAhE --> NAhE
+NAhE:
+  FEhE: 標識
+  MOhI: 標識
+  NAhE: 段階詞
+# KI, BAI, PU, ZI, ZEhA, FAhA, VA, VEhA, VIhA, TAhE, ZAhO, CAhA, CUhE --> BAI
+BAI:
+  KI: 制詞設定／初期化
+  BAI: 法制詞(付加詞)
+  PU: 間制詞（時間・方向）
+  ZI: 間制詞（時間・程度）
+  FAhA1: 間制詞（空間・方向）方角
+  FAhA2: 間制詞（空間・方向）方向
+  FAhA3: 間制詞（空間・方向）場所
+  FAhA4: 間制詞（空間・方向）
+  VA: 間制詞（空間・程度）
+  VEhA: 間制詞（空間・間隔）
+  VIhA: 間制詞（空間・カテゴリ）
+  TAhE: 相制詞（時間・間隔）
+  ZAhO: 相制詞
+  CAhA: 相制詞（モダリティ）
+  CUhE: 制詞質問
+# LA, LE --> LE
+LE:
+  LA: 冠詞（渾名系）
+  LE: 冠詞（主観系）
+# FUhE, UI, CAI, NAI, DAhO, FUhO, RAhO, GAhO --> UI
+UI:
+  UI1: 心態詞
+    UI*1: 心態詞
+  UI2: 心態詞（認識系）
+    UI*2: 心態詞（認識系）
+  UI3: 心態詞（談話系）
+    UI*3: 心態詞
+    UI3a: 心態詞
+    UI3b: 心態詞（談話系）
+  UI4: 心態詞（修飾系・カテゴリ）
+  UI5: 心態詞（修飾系）
+    UI*5: 心態詞（修飾系）
+  UI6: 心態詞
+  UI7: 心態詞（修飾系）
+    UI*7: 心態詞（修飾系）
+  CAI: 心態詞
+  NAI: 小構造否定
+  DAhO: 取り消し／リセット
+  FUhE: 係り範囲の開始
+  FUhO: 係り範囲の終了
+  RAhO: 代詞更新
+  GAhO: 含間隔
+# ME, NUhA --> ME
+ME:
+  ME: sumti → selbri 変換
+  NUhA: 演算子 → selbri 変換
+# LAU, TEI, FOI, BY --> BY
+BY:
+  LAU: 文字標識
+  TEI: 複合字詞
+  FOI: 複合文字終止
+  BY1: 字詞変換
+  BY*: 字詞 母音
+  BY2: 字詞 子音
+
+# SA, GUhA, BIhE, CEhE, PEhE, NUhI, NUhU, MAhO, NAhU, PEhO, KUhE, FUhA, MOhE --> 破棄
+BAhE:
+BE:
+  BEhO: 境界詞"
+BEI:
+BIhE: 数式
+BO: 範囲接続（短）
+BOI: 境界詞
+BU:
+CEI:
+CEhE:
+CO:
+COI: 心態詞（呼応系）
+  COI*: 心態詞（呼応系）
+COI2: 心態詞"試験的cmavo
+CU:
+DOI:
+DOhU: 境界詞 呼応系心態詞終了
+FA: 標識
+FAhO:
+FEhE: 標識
+FEhU: 境界詞
+FIhO: 境界詞
+FOI: 境界詞
+FUhA:
+FUhO:
+GA: 接続詞（論理・前置・sumti/bridi/文）
+  GA*: 接続詞（論理・前置・sumti/bridi/文）
+GAhO:
+GOhA: 代詞（selbri）
+GOI:
+GEhU: 境界詞
+GI: 接続詞（論理）
+GIhA: 接続詞（論理・後置・bridi）
+  GIhA*: 接続詞（論理・後置・bridi）
+GUhA: 接続詞（論理・前置・tanru）
+  GUhA*: 接続詞（論理・前置・tanru）
+I: 境界詞
+JAI: 付辞項辞転換
+KE: 境界詞
+KEhE: 境界詞
+KEI: 境界詞
+KI:
+KOhA1:  代詞（selbri）
+KOhA2: 代詞（sumti）
+KOhA3: 代詞（sumti）
+KOhA4: 代詞（sumti）
+KOhA7: 代詞（sumti）
+KOhA8:
+KU: 境界詞
+KUhE: 境界詞
+KUhO: 境界詞
+LAhE: 限定詞
+LAU:
+LEhU: 境界詞
+LI:
+LIhU: 境界詞
+LOhO: 境界詞
+LOhU: 境界詞
+LU:
+MOI:
+NA: 命題肯定
+NU: 抽象詞
+PA*: 数量詞
+PA1: 数量詞
+PA2: 数量詞
+PA3: 数量詞
+PA4: 数量詞
+PA5: 数量詞
+
+ROI: 間制詞（時間・方向）
+
+ZOI: 冠詞
