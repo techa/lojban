@@ -2,6 +2,13 @@
 .DS_Store
 ._*
 Thumbs.db
+*.
+*.log
+*.map
+!.gitignore
+!.babelrc
 
 # Folders to ignore
 node_modules
+dist
+esdoc

@@ -52,7 +52,8 @@
     ],
     "cf": [
       "nalju'i",
-      "re'i nai"
+      "re'i",
+      "nai"
     ],
     "score": {
       "a'acu'i": 0
@@ -186,7 +187,8 @@
       "slunandu",
       "troci",
       "selprogunka",
-      "fu'i nai"
+      "fu'i",
+      "nai"
     ],
     "score": {
       "a'i": 7
@@ -496,6 +498,7 @@
     "pun": "＜口走る＞, utter",
     "cf": [
       "krixa",
+      "",
       "cusku",
       "casnu",
       "tavla",
@@ -570,7 +573,14 @@
     "type": "lujvo",
     "def": "$x_1=b_1$ は $x_2=kerf_2=kerl_2=c_3$ （本体）のもみあげ",
     "ps": 3,
-    "notes": "{bakfu} {co} {kerlo} {crane} {kerfa}. bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。",
+    "notes": ". bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。",
+    "cf": [
+      "bakfu",
+      "co",
+      "kerlo",
+      "crane",
+      "kerfa"
+    ],
     "score": {
       "bafcolkercrakre": 0
     }
@@ -631,7 +641,10 @@
     ],
     "def": "$j_1=b_1$ は $j_2$ （相手）と $j_3$ （事／レース）で $j_4$ （賞）を競って $b_2$ （競技用トラック）を $b_3$ （足）で $b_4$ （調子／足取り）で走って競走する",
     "ps": 4,
-    "notes": "{bajra} {jivna}",
+    "cf": [
+      "bajra",
+      "jivna"
+    ],
     "score": {
       "bajyjvi": 0
     }
@@ -861,7 +874,10 @@
     ],
     "def": "$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のスーパー（量販店）／デパート ",
     "ps": 3,
-    "notes": "{banli} {zarci}",
+    "cf": [
+      "banli",
+      "zarci"
+    ],
     "score": {
       "balzai": 0
     }
@@ -967,7 +983,8 @@
     "cf": [
       "tance",
       "cusku",
-      "ve tavla",
+      "ve",
+      "tavla",
       "valsi",
       "gerna",
       "jufra",
@@ -990,7 +1007,9 @@
     ],
     "def": "$x_1$ はコード ISO-639-3 jpn (Japanese) の言語（日本語）",
     "ps": 1,
-    "notes": "{ponbau}",
+    "cf": [
+      "ponbau"
+    ],
     "score": {
       "banjupunu": 3
     }
@@ -1015,7 +1034,8 @@
     "cf": [
       "barda",
       "nobli",
-      "se sinma",
+      "se",
+      "sinma",
       "pluja",
       "misno",
       "vajni",
@@ -1023,7 +1043,7 @@
       "cizra",
       "traji",
       "mutce",
-      "se manci"
+      "manci"
     ],
     "score": {
       "banli": 101,
@@ -1264,7 +1284,8 @@
       "vanju",
       "xotli",
       "ckafi",
-      "se pinxe"
+      "se",
+      "pinxe"
     ],
     "score": {
       "barja": 1,
@@ -1288,7 +1309,10 @@
     ],
     "def": "$k_1$ は $k_3$ （起点）から $k_4$ （経路）・ $k_5$ （方法）で外へ出る",
     "ps": 5,
-    "notes": "{bartu} {klama}",
+    "cf": [
+      "bartu",
+      "klama"
+    ],
     "score": {
       "barkla": 24
     }
@@ -1309,7 +1333,10 @@
     ],
     "def": "$c_1$ は $c_2=b_2$ の外へ $c_3$ （経路）を通って離れる／去る",
     "ps": 3,
-    "notes": "{bartu} {cliva}",
+    "cf": [
+      "bartu",
+      "cliva"
+    ],
     "score": {
       "barli'a": 0
     }
@@ -1333,8 +1360,9 @@
     "cf": [
       "sinxa",
       "pixra",
-      "se ciska",
-      "se prina"
+      "se",
+      "ciska",
+      "prina"
     ],
     "score": {
       "barna": 18,
@@ -1565,7 +1593,10 @@
     ],
     "def": "$c_1$ は $b_2$ （大麦の種類）の麦茶",
     "ps": 2,
-    "notes": "{bavmi} {ckafi}",
+    "cf": [
+      "bavmi",
+      "ckafi"
+    ],
     "score": {
       "bavmyckafi": 0
     }
@@ -1575,7 +1606,11 @@
     "type": "lujvo",
     "def": "$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員",
     "ps": 3,
-    "notes": "{banxa} {se} {jibri}",
+    "cf": [
+      "banxa",
+      "se",
+      "jibri"
+    ],
     "score": {
       "baxseljibri": 1
     }
@@ -1801,7 +1836,10 @@
     "type": "lujvo",
     "def": "$br_1$ は $br_2=be_1$ からの $br_3$ （速度）の北風",
     "ps": 3,
-    "notes": "{berti} {brife}",
+    "cf": [
+      "berti",
+      "brife"
+    ],
     "score": {
       "berbi'e": 0
     }
@@ -2031,7 +2069,10 @@
     "type": "lujvo",
     "def": "$x_1=s_1$ は花 $x_2=s_2$ ・成分 $x_3=s_3$ の蜂蜜",
     "ps": 3,
-    "notes": "{bifce} {sakta}",
+    "cf": [
+      "bifce",
+      "sakta"
+    ],
     "score": {
       "bicysakta": 0
     }
@@ -2078,7 +2119,10 @@
     "ps": 2,
     "pun": "＜ビーフ・シェア＞. bee, fen(蜂)",
     "cf": [
-      "manti  < cinki (上位概念)",
+      "manti",
+      "",
+      "<",
+      "cinki",
       "sfani",
       "lakse"
     ],
@@ -2268,7 +2312,8 @@
     "cf": [
       "cenba",
       "galfi",
-      "stika; zasni"
+      "stika",
+      "zasni"
     ],
     "score": {
       "binxo": 181,
@@ -2328,6 +2373,7 @@
     "pun": "＜ビールかかえる＞,  bi(臂), brazo",
     "cf": [
       "jimca",
+      "",
       "janco",
       "xance",
       "rebla"
@@ -2438,7 +2484,8 @@
       "「bi'u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました（振り込め詐欺）」"
     ],
     "cf": [
-      "cnino datni"
+      "cnino",
+      "datni"
     ],
     "score": {
       "bi'u": 87
@@ -2455,7 +2502,8 @@
       "「bi'unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」"
     ],
     "cf": [
-      "slabu datni"
+      "slabu",
+      "datni"
     ],
     "score": {
       "bi'unai": 5
@@ -2682,7 +2730,10 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$（もの）のデコボコ面",
     "ps": 2,
-    "notes": "{boxna} {sefta}",
+    "cf": [
+      "boxna",
+      "sefta"
+    ],
     "score": {
       "bonsfe": 0
     }
@@ -2952,7 +3003,10 @@
     "type": "lujvo",
     "def": "$x_1$ は体が命題を表している人",
     "ps": 1,
-    "notes": "{bridi} {prenu}",
+    "cf": [
+      "bridi",
+      "prenu"
+    ],
     "score": {
       "bripre": 0
     }
@@ -2992,8 +3046,9 @@
     ],
     "def": "代ブリディその1［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "{cei}を使って{selbri}を代入できる。",
+    "notes": "を使ってを代入できる。",
     "cf": [
+      "ceiselbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -3015,8 +3070,10 @@
     ],
     "def": "代ブリディその2［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "{cei} を使って {selbri} を代入できる。",
+    "notes": "を使って を代入できる。",
     "cf": [
+      "cei",
+      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -3035,8 +3092,10 @@
     ],
     "def": "代ブリディその3［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "{cei} を使って {selbri} を代入できる。",
+    "notes": "を使って を代入できる。",
     "cf": [
+      "cei",
+      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -3054,8 +3113,10 @@
     ],
     "def": "代ブリディその4［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "{cei} を使って {selbri} を代入できる。",
+    "notes": "を使って を代入できる。",
     "cf": [
+      "cei",
+      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -3073,8 +3134,10 @@
     ],
     "def": "代ブリディその5［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "{cei} を使って {selbri} を代入できる。",
+    "notes": "を使って を代入できる。",
     "cf": [
+      "cei",
+      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -3169,10 +3232,18 @@
       "述語論理"
     ],
     "def": "量化型 selbri 変数抽象 ： 抽象詞； bridi の左に付いて、第3階以上の述語論理で使われる束縛 selbri 変数とする",
-    "notes": "第1階の述語論理では {zo'e} が定項、 {da} が束縛変項であり、第2階の述語論理では {co'e} が selbri 定数、 {bu'a} が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する {su'u} ・ {bu'ai} はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 {bu'ai} が取る selbri 変数が2個以上になる場合は {ju'e} などで繋げる。 {bu'ai} を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su'o bu'ai xe'u kei su'o bu'a ro da zo'u bu'ai da bu'a （この {xe'u} はNU類を冠頭に置くためのダミー的な {selbrisle}）",
+    "notes": "第1階の述語論理では が定項、 が束縛変項であり、第2階の述語論理では が selbri 定数、 が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する ・ はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 が取る selbri 変数が2個以上になる場合は などで繋げる。 を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su'o bu'ai xe'u kei su'o bu'a ro da zo'u bu'ai da bu'a （この はNU類を冠頭に置くためのダミー的な ）",
     "cf": [
+      "zo'e",
+      "da",
+      "co'e",
+      "bu'a",
       "su'u",
-      "bu'a; xe'u."
+      "bu'ai",
+      "ju'e",
+      "xe'u",
+      "selbrisle",
+      "xe'u."
     ],
     "experimental": true,
     "unofficial": true,
@@ -3506,7 +3577,8 @@
     "cf": [
       "tutci",
       "minji",
-      "finti; girzu",
+      "finti",
+      "girzu",
       "ganzu",
       "pilno"
     ],
@@ -3664,6 +3736,7 @@
     "pun": "＜シャーロック＞, シェル, shell,",
     "cf": [
       "pilka",
+      "",
       "skapi",
       "gacri",
       "bartu"
@@ -3761,9 +3834,10 @@
     ],
     "def": "$x_1$ は $x_2$ （差し出す対象）を $x_3$ （受け取る対象）と、 $x_4$ と交換する；  $x_1$ ・ $x_4$ は貿易業者／投機家／相場師／物々交換する者",
     "ps": 4,
-    "notes": "$x_{1}$, $x_{4}$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら {posycanja}）。 やりとりされる費用と価格の違いについては {jdima} の注を参照。",
+    "notes": "$x_$, $x_$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら ）。 やりとりされる費用と価格の違いについては の注を参照。",
     "pun": "exchage",
     "cf": [
+      "14posycanjajdima",
       "dunda",
       "friti",
       "vecnu",
@@ -3772,11 +3846,10 @@
       "pleji",
       "jdima",
       "jerna",
-      "kargu; jdima",
+      "kargu",
       "banxa",
       "cirko",
       "janta",
-      "kargu",
       "prali",
       "sfasa",
       "zivle"
@@ -4043,6 +4116,7 @@
     "pun": "rain,lluvia",
     "cf": [
       "sicpi",
+      "",
       "farlu",
       "bratu",
       "snime",
@@ -4383,7 +4457,8 @@
     "cf": [
       "cenba",
       "galfi",
-      "stika; stodi",
+      "stika",
+      "stodi",
       "zasni",
       "binxo"
     ],
@@ -4736,7 +4811,10 @@
     ],
     "def": "$cu_1=ci_1$ は $cu_2=ci_2$ （文字列／内容）を $cu_3$ （読み手）に向けて $ci_3$ （媒体）に $ci_4$ （道具）で書いて表現する",
     "ps": 4,
-    "notes": "{ciska} {cusku}",
+    "cf": [
+      "ciska",
+      "cusku"
+    ],
     "score": {
       "ci'asku": 0
     }
@@ -4834,6 +4912,7 @@
     "pun": "シドニー, knee",
     "cf": [
       "cnebo",
+      "",
       "korcu",
       "jarco",
       "jganu"
@@ -4881,7 +4960,11 @@
     "type": "lujvo",
     "def": "$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件$x_3=b_3$の下における革命",
     "ps": 3,
-    "notes": "{ciste} {nu} {binxo}",
+    "cf": [
+      "ciste",
+      "nu",
+      "binxo"
+    ],
     "score": {
       "ci'ernunbi'o": 2
     }
@@ -5205,7 +5288,10 @@
     "ps": 2,
     "pun": "シンフォニー",
     "cf": [
-      "mlatu  < mabru (上位概念)",
+      "mlatu",
+      "",
+      "<",
+      "mabru",
       "tirxu"
     ],
     "score": {
@@ -5448,7 +5534,10 @@
     "ps": 2,
     "pun": "shipに鳥",
     "cf": [
-      "datka  < gunse (下位概念)",
+      "datka",
+      "",
+      "<",
+      "gunse",
       "jipci",
       "xruki",
       "nalci",
@@ -5840,7 +5929,10 @@
     "ps": 2,
     "cf": [
       "tcati",
-      "brewed from a leaf",
+      "brewed",
+      "from",
+      "a",
+      "leaf",
       "barja",
       "cakla"
     ],
@@ -5917,11 +6009,13 @@
     "def": "$x_1$ は $x_2$ にとって $x_3$ （条件）において危険；  $x_1$ はおっかない",
     "ps": 3,
     "cf": [
-      "te bandu",
-      "te kajde",
-      "te marbi",
-      "se snura",
-      "se xalni"
+      "te",
+      "bandu",
+      "kajde",
+      "marbi",
+      "se",
+      "snura",
+      "xalni"
     ],
     "score": {
       "ckape": 27,
@@ -6134,7 +6228,10 @@
     ],
     "def": "$cup_1$ は $cup_2=cuk_1$ （本）を $cup_3$ （過程）によって出版する／製本する",
     "ps": 3,
-    "notes": "{cukta} {cupra}",
+    "cf": [
+      "cukta",
+      "cupra"
+    ],
     "score": {
       "ckupra": 2
     }
@@ -6381,6 +6478,7 @@
     "pun": "島なし山国",
     "cf": [
       "punli",
+      "",
       "derxi"
     ],
     "score": {
@@ -6636,7 +6734,11 @@
     "type": "lujvo",
     "def": "$j_1=c_1$ は $j_2=c_1$ と、 $j_3=c_2$ （感情）を共に覚える点で近い／（感情）に同感する",
     "ps": 2,
-    "notes": "{cinmo} {jibni}; {o'e}",
+    "cf": [
+      "cinmo",
+      "jibni",
+      "o'e"
+    ],
     "score": {
       "cnijbi": 1
     }
@@ -6646,7 +6748,11 @@
     "type": "lujvo",
     "def": "$k_1$ は $k_2$ と $c_2$ （感情を）共感する",
     "ps": 2,
-    "notes": "{cinmo} {kansa}; {dai}",
+    "cf": [
+      "cinmo",
+      "kansa",
+      "dai"
+    ],
     "score": {
       "cnikansa": 2
     }
@@ -6667,7 +6773,8 @@
       "nuzba",
       "slabu",
       "citno",
-      "se djuno"
+      "se",
+      "djuno"
     ],
     "score": {
       "cnino": 37,
@@ -6959,7 +7066,8 @@
     "notes": "日本語には適語が無い概念。「galtu」「gapru」との違いに注意。",
     "pun": "表面でしっぱなし",
     "cf": [
-      "se vasru",
+      "se",
+      "vasru",
       "jbini",
       "zvati",
       "nenri",
@@ -7017,9 +7125,11 @@
     "notes": "「依頼」「懇願」「注文」「呼ぶ」など。",
     "cf": [
       "pikci",
-      "te preti",
-      "te frati",
-      "se spuda",
+      "te",
+      "preti",
+      "frati",
+      "se",
+      "spuda",
       "danfu"
     ],
     "score": {
@@ -7168,7 +7278,13 @@
     ],
     "def": "$zu_1=ze_1$ は $zu_2=c_2$ （事／行為）の練習をする",
     "ps": 2,
-    "notes": "{certu} {zenba} {zukte} {rapcreze'a} {xadyplijvi}",
+    "cf": [
+      "certu",
+      "zenba",
+      "zukte",
+      "rapcreze'a",
+      "xadyplijvi"
+    ],
     "score": {
       "crezenzu'e": 2
     }
@@ -7667,6 +7783,7 @@
     "pun": "春闘の催し",
     "cf": [
       "fasnu",
+      "",
       "jikca",
       "srana"
     ],
@@ -7826,9 +7943,10 @@
     ],
     "def": "$x_1$ は $x_2$ （足／ひづめ）を覆う／守るための $x_3$ （素材）の靴",
     "ps": 3,
-    "notes": "「ブーツ (={tupcutci})」「サンダル」「下駄」「草履」も。",
+    "notes": "「ブーツ (=)」「サンダル」「下駄」「草履」も。",
     "pun": "シュー小さい",
     "cf": [
+      "tupcutci",
       "smoka",
       "taxfu",
       "skiji"
@@ -7872,7 +7990,11 @@
     ],
     "def": "$p_1=g_1$ は $p_2$ （素材）のオーバーオール",
     "ps": 2,
-    "notes": "{cutne} {gacri} {palku}",
+    "cf": [
+      "cutne",
+      "gacri",
+      "palku"
+    ],
     "score": {
       "cutygaipalku": 0
     }
@@ -8079,7 +8201,8 @@
       "「lo li'i pu da'i lifri／既視体験」"
     ],
     "cf": [
-      "xanri; da'inai"
+      "xanri",
+      "da'inai"
     ],
     "score": {
       "da'i": 186
@@ -8107,7 +8230,8 @@
       "「le si'o sidju cu cinri mi .i ku'i da'inai du'eda cuntu mi／援助には興味あるけど、実際にはやることが多すぎてね」"
     ],
     "cf": [
-      "fatci; da'i"
+      "fatci",
+      "da'i"
     ],
     "score": {
       "da'inai": 0
@@ -8626,9 +8750,12 @@
     ],
     "def": "$x_1$ は $x_2$ を $x_3$ （着用様式）で着ている／履いている／被っている／身に付けている",
     "ps": 3,
-    "notes": "身に着けている状態を表す。 「{co'a} {dasni}／着る」「{co'u} {dasni}／脱ぐ」 $x_2$ は、 {taxfu} と違って、着用目的で作られたものでなくても構わない。",
+    "notes": "身に着けている状態を表す。 「／着る」「／脱ぐ」 $x_2$ は、 と違って、着用目的で作られたものでなくても構わない。",
     "pun": "＜ダサいニット＞",
     "cf": [
+      "co'a",
+      "dasnico'u",
+      "dasnitaxfu",
       "taxfu"
     ],
     "score": {
@@ -8694,7 +8821,10 @@
     "ps": 2,
     "pun": "ダチョウか",
     "cf": [
-      "gunse  < cipni (上位概念)"
+      "gunse",
+      "",
+      "<",
+      "cipni"
     ],
     "score": {
       "datka": 4,
@@ -8820,8 +8950,11 @@
     "type": "cmavo",
     "selmaho": "ROI",
     "def": "左の数量詞について基準日（デフォルトは発話時点の日、「今日」）から何番目の日かを表す。",
-    "notes": "「{ni'u} de'ei／昨日」「{no} de'ei／今日」「{pa} de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。",
+    "notes": "「de'ei／昨日」「de'ei／今日」「de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。",
     "cf": [
+      "ni'u",
+      "no",
+      "pa",
       "zu'oi",
       "djedi"
     ],
@@ -9136,7 +9269,10 @@
     "type": "lujvo",
     "def": "$g_1$ は地面よりも上",
     "ps": 1,
-    "notes": "{dertu} {gapru}",
+    "cf": [
+      "dertu",
+      "gapru"
+    ],
     "score": {
       "dergapru": 0
     }
@@ -9178,7 +9314,8 @@
     "ps": 3,
     "pun": "出る杭の堆積物",
     "cf": [
-      "cmana"
+      "cmana",
+      ""
     ],
     "score": {
       "derxi": 14,
@@ -9224,7 +9361,11 @@
     ],
     "def": "日付 [日、週、月、年] $x_1=d_1=k_1$ は、 最初の事象 $x_2=d_2$ の日付 [日、週、月、年] の繰り返し／再来、 $x_3=k_3$回目の、 $x_4$ （体系）における。",
     "ps": 4,
-    "notes": "{detri} zei {krefu}。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi'e pano pi'e re detke'u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke'u lo nu la gandis noi banli cu jbena kei li pa zo'e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke'u lo nu lo mamymamta cu mrobi'o kei zo'e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke'u tu'a lo festi zo'e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke'u lo nu lo morsi jelgau stuzi cu cando kei zi'o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）",
+    "notes": "zei 。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi'e pano pi'e re detke'u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke'u lo nu la gandis noi banli cu jbena kei li pa zo'e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke'u lo nu lo mamymamta cu mrobi'o kei zo'e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke'u tu'a lo festi zo'e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke'u lo nu lo morsi jelgau stuzi cu cando kei zi'o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）",
+    "cf": [
+      "detri",
+      "krefu"
+    ],
     "score": {
       "detke'u": 0
     }
@@ -9626,7 +9767,11 @@
     ],
     "def": "$x_1$ はラドン (Rn)",
     "ps": 1,
-    "notes": "{dirce} {navni}; {ratni}",
+    "cf": [
+      "dirce",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "dircynavni": 0
     }
@@ -9782,7 +9927,10 @@
     ],
     "def": "$k_1$ は $k_2$ （内容）・ $k_3$ （出版社）・ $k_4$ （読者）の日刊紙",
     "ps": 4,
-    "notes": "{djedi} {karni}",
+    "cf": [
+      "djedi",
+      "karni"
+    ],
     "score": {
       "djekarni": 4
     }
@@ -9799,8 +9947,11 @@
     ],
     "def": "$x_1$ は $x_2$ （事）を $x_3$ （目的）のために欲する／求める；　$x_1$ は $x_3$ （目的）のために $x_2$ （事）という欲求を満たしたい",
     "ps": 3,
-    "notes": "x2にモノを入れたい場合は、{tu'a} や {zo'e} {pe} を使う。本能的欲求も。",
+    "notes": "x2にモノを入れたい場合は、や を使う。本能的欲求も。",
     "cf": [
+      "tu'a",
+      "zo'e",
+      "pe",
       "taske",
       "xagji",
       "mukti",
@@ -9859,9 +10010,12 @@
     "def": "$x_1$ は $x_2$ （命題）・ $x_3$ （題目）を $x_4$ （認識体系）で知る",
     "ps": 4,
     "cf": [
-      "se slabu",
-      "na'e cnino",
-      "na'e fange; du'o",
+      "se",
+      "slabu",
+      "na'e",
+      "cnino",
+      "fange",
+      "du'o",
       "cilre",
       "certu",
       "facki",
@@ -10140,8 +10294,8 @@
       "loldi",
       "marbi",
       "gacri",
-      "mapku; drudi",
-      "mapku"
+      "mapku",
+      "drudi"
     ],
     "score": {
       "drudi": 24,
@@ -10912,7 +11066,11 @@
     ],
     "def": "$l_1=f_1$ は $l_2=t_1$ （土地）を $l_3$ （方法）で、 $f_2$ （命題）を発見しながら探検する",
     "ps": 3,
-    "notes": "{facki} {tumla} {litru}",
+    "cf": [
+      "facki",
+      "tumla",
+      "litru"
+    ],
     "score": {
       "faktumli'u": 0
     }
@@ -11011,7 +11169,11 @@
     ],
     "def": "$x_1$ はキセノン (Xe)",
     "ps": 1,
-    "notes": "{fange} {navni}; {ratni}",
+    "cf": [
+      "fange",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "fangynavni": 0
     }
@@ -11058,6 +11220,7 @@
     "pun": "＜ファンをリクルート＞factory",
     "cf": [
       "molki",
+      "",
       "gundi"
     ],
     "score": {
@@ -11200,9 +11363,11 @@
     ],
     "def": "$x_1$ は $x_2$ に $x_3$ から、 $x_4$ （照合枠／重力井戸）において落ちる／降る",
     "ps": 4,
-    "notes": "「落とす」は {falcru}, {falri'a}.",
+    "notes": "「落とす」は .",
     "pun": "＜ファー（毛皮）、ルーズ＞, furu",
     "cf": [
+      "falcru",
+      "falri'a",
       "lafti",
       "cpare",
       "klama",
@@ -11294,7 +11459,8 @@
       "krefu",
       "lifri",
       "fatci",
-      "rapli; gasnu",
+      "rapli",
+      "gasnu",
       "zukte",
       "banli"
     ],
@@ -11422,7 +11588,10 @@
       "許しを請う"
     ],
     "def": "ごめんなさい",
-    "notes": "{fraxu}, {u'u}",
+    "cf": [
+      "fraxu",
+      "u'u"
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -11944,7 +12113,10 @@
     ],
     "def": "$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のコンビニ",
     "ps": 3,
-    "notes": "{frili} {zarci}",
+    "cf": [
+      "frili",
+      "zarci"
+    ],
     "score": {
       "filzai": 0
     }
@@ -12072,7 +12244,13 @@
     ],
     "def": "$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための議会政党",
     "ps": 3,
-    "notes": "{flalu} {jecyxlube'e} {jecta} {xlura} {bende}",
+    "cf": [
+      "flalu",
+      "jecyxlube'e",
+      "jecta",
+      "xlura",
+      "bende"
+    ],
     "score": {
       "flajecyxlube'e": 0
     }
@@ -12087,7 +12265,10 @@
     ],
     "def": "$k_1=f_5$ は、 $f_1$ （法律／条令）を制定するための $k_3=f_3$ （共同体）の議会",
     "ps": 5,
-    "notes": "{flalu} {kamni}",
+    "cf": [
+      "flalu",
+      "kamni"
+    ],
     "score": {
       "flakamni": 0
     }
@@ -12139,7 +12320,10 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$ を押し流す $x_3$ の流れ",
     "ps": 3,
-    "notes": "{flecu} {catke}",
+    "cf": [
+      "flecu",
+      "catke"
+    ],
     "score": {
       "fleca'e": 0
     }
@@ -12318,7 +12502,10 @@
     "type": "lujvo",
     "def": "$g_1$は$g_2=f_1$(電話)・$f_2$(ネットワーク／システム)で電話する",
     "ps": 2,
-    "notes": "f_2には電話会社や回線名など。 同じような意味を持つlujvoに{fonpli}がある。 BAI類のひとつであるtecu'uを用いて電話の着信者を指定できる。",
+    "notes": "f_2には電話会社や回線名など。 同じような意味を持つlujvoにがある。 BAI類のひとつであるtecu'uを用いて電話の着信者を指定できる。",
+    "cf": [
+      "fonpli"
+    ],
     "score": {
       "fongau": 0
     }
@@ -12352,7 +12539,10 @@
     "type": "lujvo",
     "def": "$p_1$は$p_2=f_1$(電話)を$p_3$(目的)のために$f_2$(ネットワーク／システム)で使う",
     "ps": 3,
-    "notes": "p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoに{fongau}がある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』",
+    "notes": "p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoにがある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』",
+    "cf": [
+      "fongau"
+    ],
     "score": {
       "fonpli": 0
     }
@@ -12586,8 +12776,9 @@
     "type": "lujvo",
     "def": "$x_1$ は有理数",
     "ps": 1,
-    "notes": "{frinu} {namcu}",
     "cf": [
+      "frinu",
+      "namcu",
       "tolfrinyna'u",
       "xarna'u",
       "tolxarna'u",
@@ -12900,7 +13091,8 @@
       "gapru",
       "marbi",
       "drudi",
-      "ve botpi",
+      "ve",
+      "botpi",
       "bitmu",
       "calku"
     ],
@@ -13004,7 +13196,8 @@
     "cf": [
       "stika",
       "binxo",
-      "cenba; zasni"
+      "cenba",
+      "zasni"
     ],
     "score": {
       "galfi": 22,
@@ -13365,7 +13558,13 @@
     "type": "lujvo",
     "def": "$x_1$ （事／経験）は $x_2$ （者）を欺いて／騙して $x_3$ （性質）を感じさせる感覚機能 $x_4$ に関する条件 $x_5$ の下での錯覚",
     "ps": 5,
-    "notes": "$x_1$ が物である場合は jai gastcica; {ganse} {tcica}; {prugastcica}, {narprugastcica}",
+    "notes": "$x_1$ が物である場合は jai gastcica; ",
+    "cf": [
+      "ganse",
+      "tcica",
+      "prugastcica",
+      "narprugastcica"
+    ],
     "score": {
       "gastcica": 0
     }
@@ -13545,6 +13744,7 @@
     "pun": "＜下痢で苦しむ＞狗",
     "cf": [
       "lorxu",
+      "",
       "labno",
       "mlatu"
     ],
@@ -13627,7 +13827,8 @@
       "jitro",
       "ralju",
       "sazri",
-      "te bende",
+      "te",
+      "bende",
       "jatna",
       "fukpi",
       "morna"
@@ -13896,8 +14097,9 @@
     ],
     "def": "$x_1$ は $x_2$ と性交／交尾／セックスする",
     "ps": 2,
-    "notes": "比喩的に「（対称物の）合体」も。 {cpanygle}=マウンティング.",
+    "notes": "比喩的に「（対称物の）合体」も。 =マウンティング.",
     "cf": [
+      "cpanygle",
       "cinse",
       "pinji",
       "plibu",
@@ -13953,8 +14155,9 @@
     ],
     "def": "$x_1$ は $x_2$ （性質面）に関して英語系（言語／文化／民族／地理）",
     "ps": 2,
-    "notes": "{gligu'e}=イングランド, gligli-=ブリティッシュ・イングリッシュ系, {gliglibau}=ブリティッシュ・イングリッシュ",
+    "notes": "=イングランド, gligli-=ブリティッシュ・イングリッシュ系, =ブリティッシュ・イングリッシュ",
     "cf": [
+      "gligu'egliglibau",
       "brito=UK",
       "merko",
       "sralo",
@@ -14347,7 +14550,8 @@
       "tarbi",
       "panzi",
       "rorci",
-      "te pruce",
+      "te",
+      "pruce",
       "jbari",
       "nimre"
     ],
@@ -14399,7 +14603,13 @@
     ],
     "def": "$s_1$ は $t_2$ （民衆／領土）の統治の、 $s_3$ （思想家）による生産手段共有化の思想、共産主義、社会主義",
     "ps": 3,
-    "notes": "{gubni} {gundi} {trusi'o} {turni} {sidbo}",
+    "cf": [
+      "gubni",
+      "gundi",
+      "trusi'o",
+      "turni",
+      "sidbo"
+    ],
     "score": {
       "gubgudytrusi'o": 0
     }
@@ -14466,7 +14676,11 @@
     "type": "fu'ivla",
     "def": "$x_1$ はコード ISO-3166 CN (China) の、 $x_2$ （民衆）からなる国（中国）",
     "ps": 2,
-    "notes": "{jugygu'e} {djunguos} {xa'anzu}",
+    "cf": [
+      "jugygu'e",
+      "djunguos",
+      "xa'anzu"
+    ],
     "score": {
       "gugdecunu": 0
     }
@@ -14554,9 +14768,12 @@
     "cf": [
       "sazri",
       "gasnu",
-      "se jibri; zukte; ni muvyselbai",
-      "briju",
+      "se",
       "jibri",
+      "zukte",
+      "ni",
+      "muvyselbai",
+      "briju",
       "lazni",
       "selfu"
     ],
@@ -14986,7 +15203,8 @@
     ],
     "cf": [
       "tolselmansa",
-      "fi'i nai"
+      "fi'i",
+      "nai"
     ],
     "score": {
       "i'anai": 0
@@ -15278,7 +15496,8 @@
     "cf": [
       "sinma",
       "clite",
-      "ga'i nai"
+      "ga'i",
+      "nai"
     ],
     "score": {
       "io": 21
@@ -15496,7 +15715,10 @@
     "type": "lujvo",
     "def": "$b_1=j_1$ は $b_2$ （素材）の $j_2$ （音）を奏でる鈴",
     "ps": 2,
-    "notes": "{janbe} {bolci}",
+    "cf": [
+      "janbe",
+      "bolci"
+    ],
     "score": {
       "jabyboi": 0
     }
@@ -15513,7 +15735,11 @@
     ],
     "def": "$x_1=p_1$ は手順 $x_2=p_3$ に従って使われる油性ペン／マーカー",
     "ps": 3,
-    "notes": "{djacu} {renvi} {penbi}",
+    "cf": [
+      "djacu",
+      "renvi",
+      "penbi"
+    ],
     "score": {
       "jacre'ipenbi": 2
     }
@@ -15632,11 +15858,13 @@
     "def": "$x_1$ （事）は $x_2$ （事）の結果／結末；  $x_2$ は $x_1$ に終結する",
     "ps": 2,
     "cf": [
-      "se mukti",
-      "te zukte",
-      "se rinka",
-      "se krinu",
-      "se nibli",
+      "se",
+      "mukti",
+      "te",
+      "zukte",
+      "rinka",
+      "krinu",
+      "nibli",
       "mulno",
       "sumji",
       "pilji",
@@ -15892,8 +16120,9 @@
     "ps": 2,
     "cf": [
       "nurma",
-      "se tcadu",
-      "ve tcadu"
+      "se",
+      "tcadu",
+      "ve"
     ],
     "score": {
       "jarbu": 0,
@@ -15963,6 +16192,7 @@
     "ps": 4,
     "cf": [
       "pikta",
+      "",
       "catni",
       "curmi"
     ],
@@ -15988,7 +16218,8 @@
     "cf": [
       "jitro",
       "lidne",
-      "te bende",
+      "te",
+      "bende",
       "minde",
       "ralju",
       "gidva",
@@ -16024,7 +16255,11 @@
     ],
     "def": "$t_1$ は $t_2$ （素材）の、上水道や中水道の水道管／給水管",
     "ps": 2,
-    "notes": "{djacu} {sabji} {tubnu}",
+    "cf": [
+      "djacu",
+      "sabji",
+      "tubnu"
+    ],
     "score": {
       "jaursabytu'u": 0
     }
@@ -16034,7 +16269,13 @@
     "type": "lujvo",
     "def": "$v_1$ は水道の蛇口",
     "ps": 1,
-    "notes": "{jaursabytu'u} {vorme} {djacu} {sabji} {tubnu}",
+    "cf": [
+      "jaursabytu'u",
+      "vorme",
+      "djacu",
+      "sabji",
+      "tubnu"
+    ],
     "score": {
       "jaursabytu'uvro": 0
     }
@@ -16173,7 +16414,8 @@
     "notes": "「midju」と違い、何かに挟まれていることが特に意味される。x3は配列や力など。",
     "pun": "jian(間), between",
     "cf": [
-      "se vasru",
+      "se",
+      "vasru",
       "nenri",
       "zvati",
       "cpana",
@@ -16202,7 +16444,11 @@
     "type": "fu'ivla",
     "def": "$x_1$ は $x_2$ （表現者）によって具現化した $x_3$（性格／気質／容姿）の ロジバン妖精",
     "ps": 3,
-    "notes": "【joke】{lojbo} + {crida}から。※PSは完全に暫定的。",
+    "notes": "【joke】+ から。※PSは完全に暫定的。",
+    "cf": [
+      "lojbo",
+      "crida"
+    ],
     "score": {
       "jborida": 0
     }
@@ -16212,7 +16458,11 @@
     "type": "lujvo",
     "def": "$x_1=l_1=s_1$ はプレイヤー $x_2=s_2$ の、 $x_3=l_2$（性質面）に関してロジバン系のゲーム",
     "ps": 2,
-    "notes": "{lojbo} {se} {kelci}",
+    "cf": [
+      "lojbo",
+      "se",
+      "kelci"
+    ],
     "score": {
       "jboselkei": 0
     }
@@ -16297,22 +16547,31 @@
       "値段"
     ],
     "def": "量 $x_{1}$ は商品 $x_{2}$ の、買い手 $x_{3}$ に対して売り手 $x_{4}$ が設定した価格／値段",
-    "notes": "$x_{2}$ は物や事象、性質など。 商品の所有権という概念から、 $x_{1}$ として「所有権の価格」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posydi'a}, {posyseldi'a}）。 jdima の価格 $x_{1}$ は売り手 $x_{4}$ が決めるのに対して、 {friti} の条件 $x_{4}$ は受け取る者が決めても良い。 jdima の価格 $x_{1}$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は {vecnu} の $x_{4}$ や {canja} の $x_{2}$, $x_{3}$ に相当する。 またこれらの概念は、価値を表す {vamji} とは直接関係ない。",
+    "notes": "$x_$ は物や事象、性質など。 商品の所有権という概念から、 $x_$ として「所有権の価格」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 jdima の価格 $x_$ は売り手 $x_$ が決めるのに対して、 の条件 $x_$ は受け取る者が決めても良い。 jdima の価格 $x_$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は の $x_$ や の $x_$, $x_$ に相当する。 またこれらの概念は、価値を表す とは直接関係ない。",
     "cf": [
+      "212posydi'a",
+      "posyseldi'a14friti",
+      "41vecnu",
+      "4canja",
+      "23vamji",
       "canja",
       "friti",
       "janta",
       "jdini",
       "kargu",
       "pleji",
-      "dapma; 「価値」は vamji; 実際の取引価格・費用は ve vecnu; canja",
+      "dapma",
+      "「価値」は",
+      "vamji",
+      "実際の取引価格・費用は",
+      "ve",
+      "vecnu",
       "fepni",
       "jerna",
       "jinga",
       "prali",
       "rupnu",
-      "sfasa",
-      "vamji"
+      "sfasa"
     ],
     "score": {
       "jdima": 4,
@@ -16412,7 +16671,10 @@
     ],
     "def": "$s_1$ は $j_2$ （領域）の政体に関わるもの／政治的なもの",
     "ps": 2,
-    "notes": "{jecta} {srana}",
+    "cf": [
+      "jecta",
+      "srana"
+    ],
     "score": {
       "jecra'a": 0
     }
@@ -16451,7 +16713,10 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2$ （職員）の $j_2$ （行政領域）の役所",
     "ps": 2,
-    "notes": "{jecta} {briju}",
+    "cf": [
+      "jecta",
+      "briju"
+    ],
     "score": {
       "jecybriju": 0
     }
@@ -16466,7 +16731,11 @@
     ],
     "def": "$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための政治団体／圧力団体／利益団体",
     "ps": 3,
-    "notes": "{jecta} {xlura} {bende}",
+    "cf": [
+      "jecta",
+      "xlura",
+      "bende"
+    ],
     "score": {
       "jecyxlube'e": 0
     }
@@ -16667,7 +16936,8 @@
     "def": "$x_1$ は $x_2$ （回転物）・ $x_3$ （素材）の軸／車軸／心棒／つむ／スピンドル／シャフト",
     "ps": 3,
     "cf": [
-      "se carna",
+      "se",
+      "carna",
       "gunro",
       "tutci"
     ],
@@ -16813,7 +17083,10 @@
     "type": "lujvo",
     "def": "$s_1$は$s_2$（種）の茨 / 棘のある茎",
     "ps": 2,
-    "notes": "{stani} {jesni}",
+    "cf": [
+      "stani",
+      "jesni"
+    ],
     "score": {
       "jesystani": 0
     }
@@ -16891,7 +17164,8 @@
       "「.ue mi pu krici lo du'u do se bloti lo je'u te falnu／えっ、あなたが乗ってきたボートが本当に帆で動いていると思い込んでいたよ」"
     ],
     "cf": [
-      "jetnu; da'inai"
+      "jetnu",
+      "da'inai"
     ],
     "score": {
       "je'u": 76
@@ -16917,7 +17191,8 @@
       "「le je'unai palci cu xanri le menli poi na jimpe le manku sevzi／いわゆる悪というのは、暗黒の自己を理解できない心が見る幻だ」"
     ],
     "cf": [
-      "jitfa; da'i"
+      "jitfa",
+      "da'i"
     ],
     "score": {
       "je'unai": 0
@@ -17114,7 +17389,8 @@
       "「mi ji'a nelci lo plise／私も林檎が好きだ」"
     ],
     "cf": [
-      "jmina; ji'asai"
+      "jmina",
+      "ji'asai"
     ],
     "score": {
       "ji'a": 264
@@ -17133,7 +17409,8 @@
       "「lo xagji cribe cu citka lo cinki ku ji'a sai／飢えた熊は虫さえも食べる」"
     ],
     "cf": [
-      "ji'a sai"
+      "ji'a",
+      "sai"
     ],
     "score": {
       "ji'asai": 1
@@ -17185,10 +17462,12 @@
     "cf": [
       "briju",
       "gunka",
-      "te jerna",
-      "te pilno",
-      "se gasnu",
-      "se zukte"
+      "te",
+      "jerna",
+      "pilno",
+      "se",
+      "gasnu",
+      "zukte"
     ],
     "score": {
       "jibri": 19,
@@ -17369,7 +17648,13 @@
     "type": "lujvo",
     "def": "$b_1=m_2=j_1$ は $b_3$ （分類の） $b_2$ （症状）の自閉症の者",
     "ps": 3,
-    "notes": "{jikca} {menbi'a} {menli} {bilma} {ka'enri'u}",
+    "cf": [
+      "jikca",
+      "menbi'a",
+      "menli",
+      "bilma",
+      "ka'enri'u"
+    ],
     "score": {
       "jikmenbi'a": 0
     }
@@ -17962,7 +18247,14 @@
     ],
     "def": "$x_1=v_1=c_1$ は $x_2=j_2$ に漬けた保存食",
     "ps": 2,
-    "notes": "$x_2=j_2$ は塩 (= {silna})・酢 (= {slami})・アルコール (= {xalka})・砂糖 (= {sakta})・蜂蜜 (= {bicysakta})・醤油 (= {sobysanso})・味噌 (= {furso'epesxu})・麹 (= {mledi} {pesxu}) など。 {jinru} {vitno} {cidja}, {slamystogau}.",
+    "notes": "$x_2=j_2$ は塩 (= )・酢 (= )・アルコール (= )・砂糖 (= )・蜂蜜 (= )・醤油 (= )・味噌 (= )・麹 (= ) など。 .",
+    "cf": [
+      "silnaslamixalkasaktabicysaktasobysansofurso'epesxumledi",
+      "pesxujinru",
+      "vitno",
+      "cidja",
+      "slamystogau"
+    ],
     "score": {
       "jirvi'odja": 0
     }
@@ -18031,12 +18323,14 @@
     "pun": "control",
     "cf": [
       "bapli",
+      "",
       "vlipa",
       "xlura",
       "turni",
       "minde",
       "gidva",
-      "te bende",
+      "te",
+      "bende",
       "jatna",
       "macnu",
       "ponse",
@@ -18786,7 +19080,8 @@
     "ps": 2,
     "pun": "じゅるじゅるアメーバ",
     "cf": [
-      "vidru"
+      "vidru",
+      ""
     ],
     "score": {
       "jurme": 1,
@@ -18988,7 +19283,10 @@
     "type": "lujvo",
     "def": "$p_1$ は $p_2$ （主題）の $p_3$ （作者）による $p_4=k_3$ （現像媒体）の写真",
     "ps": 3,
-    "notes": "{kacma} {pixra}",
+    "cf": [
+      "kacma",
+      "pixra"
+    ],
     "score": {
       "kacmyxra": 10
     }
@@ -19038,7 +19336,14 @@
     ],
     "def": "$r_1$ は $r_2$ （障害）のために $r_3=k_2$ （事）が制限される障害者",
     "ps": 2,
-    "notes": "{kakne} {rinju} {tolka'e} {xadri'u} {menri'u} {menbi'a}",
+    "cf": [
+      "kakne",
+      "rinju",
+      "tolka'e",
+      "xadri'u",
+      "menri'u",
+      "menbi'a"
+    ],
     "score": {
       "ka'enri'u": 0
     }
@@ -19585,7 +19890,8 @@
     "ps": 2,
     "notes": "「光子」なども。",
     "cf": [
-      "selci; ratni",
+      "selci",
+      "ratni",
       "gradu",
       "gusni",
       "nejni",
@@ -19773,7 +20079,8 @@
     "pun": "カットな！",
     "cf": [
       "kakpa",
-      "sraku; plixa",
+      "sraku",
+      "plixa",
       "dakfu",
       "jinci",
       "porpi",
@@ -19843,7 +20150,11 @@
     "type": "lujvo",
     "def": "$x_1$ (du'u) は  $x_2$（観点）にとって $x_3$（題目）について $x_4$（認識体系）の下で常識",
     "ps": 4,
-    "notes": "{kampu} {se} {djuno}",
+    "cf": [
+      "kampu",
+      "se",
+      "djuno"
+    ],
     "score": {
       "kaurselju'o": 0
     }
@@ -19865,7 +20176,8 @@
       "kalte",
       "pinfu",
       "sisku",
-      "se rinju"
+      "se",
+      "rinju"
     ],
     "score": {
       "kavbu": 30,
@@ -20359,9 +20671,12 @@
     "type": "lujvo",
     "def": "$x_1=k_1=s_1$ はインターネットでクライアント $x_2=k_1=s_2$ にサービス $x_3=s_3$ を提供するサーバ",
     "ps": 3,
-    "notes": "-kib- は{kibro} の3文字 rafsi. ネットワークのノードは {samseltcana}_2.",
+    "notes": "-kib- はの3文字 rafsi. ネットワークのノードは _2.",
     "cf": [
-      "kibro selfu; kibdu'a",
+      "kibro",
+      "samseltcana",
+      "selfu",
+      "kibdu'a",
       "kibycpa",
       "kibyca'o."
     ],
@@ -20565,7 +20880,10 @@
     "type": "lujvo",
     "def": "$c1$は呼ぶ/招集する/呼び出す $c_3=k_1$(人/組織/プログラム)を $k2$(場所)へ $c4$(方法/形態)で",
     "ps": 1,
-    "notes": "比較せよ:{cpedu}",
+    "notes": "比較せよ:",
+    "cf": [
+      "cpedu"
+    ],
     "score": {
       "klacpe": 21
     }
@@ -20726,9 +21044,11 @@
     ],
     "def": "$x_1$ （物／媒体）は $x_2$ （伝わるもの）に関して明らか／透過性がある／遮られていない；  $x_2$ は減衰も散乱もあまりせずにそのまま伝わる",
     "ps": 2,
-    "notes": "x2 は光や電波や音波など。「理解できる」ということを表すには {filseljmi} や {filsmu} という表現を使う。 klina を比喩的な意味で使うことは推奨されない。",
+    "notes": "x2 は光や電波や音波など。「理解できる」ということを表すには や という表現を使う。 klina を比喩的な意味で使うことは推奨されない。",
     "pun": "クリスタルな透過, clear,cin（清）",
     "cf": [
+      "filseljmi",
+      "filsmu",
       "kandi",
       "zunti",
       "nalzu'i"
@@ -20832,14 +21152,17 @@
     "type": "cmavo",
     "selmaho": "KOhA3",
     "def": "命令 ： 代詞（sumti）； do の代わりに用いて命令を表す； 「～しろ」から「～してください」まで広いニュアンスをカバーする",
-    "notes": "{do} に、命令一般を表す心態が追加された代詞。",
+    "notes": "に、命令一般を表す心態が追加された代詞。",
     "cf": [
-      "ko'oi; au",
+      "do",
+      "ko'oi",
+      "au",
       "a'o",
       "e'o",
       "e'u",
       "e'a",
-      "ei; minde",
+      "ei",
+      "minde",
       "cpedu",
       "curmi",
       "pacna",
@@ -21029,13 +21352,20 @@
     "selmaho": "UI6",
     "selmaho2": "UI",
     "def": "談話系：命令",
-    "notes": "``{ko}'' は ''{do} {ko'oi}'' の短縮形。{au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei} の上位語。",
+    "notes": "``'' は '''' の短縮形。の上位語。",
     "exams": [
       "「do .onai ko'oi lo mi speni co'a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』）",
       "「ra ko'oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko'oi se platu be do ku te snada／あなたの計画がうまく行きますように」",
       "「mi ko'oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」"
     ],
     "cf": [
+      "kodo",
+      "ko'oiau",
+      "a'o",
+      "e'o",
+      "e'u",
+      "e'a",
+      "ei",
       "minde",
       "cpedu",
       "curmi",
@@ -21335,8 +21665,10 @@
       "rinka",
       "nibli",
       "mukti",
-      "se jalge",
-      "te zukte",
+      "se",
+      "jalge",
+      "te",
+      "zukte",
       "ki'u",
       "bapli"
     ],
@@ -21485,7 +21817,8 @@
     "pun": "キューブリック",
     "cf": [
       "kurfa",
-      "bliku; tanbo",
+      "bliku",
+      "tanbo",
       "tapla",
       "tarmi"
     ],
@@ -21506,7 +21839,8 @@
     "cf": [
       "manci",
       "sisku",
-      "se cinri"
+      "se",
+      "cinri"
     ],
     "score": {
       "kucli": 33,
@@ -21986,7 +22320,8 @@
     "def": "$x_1$ は $x_2$ （種類）の狼",
     "ps": 2,
     "cf": [
-      "gerku"
+      "gerku",
+      ""
     ],
     "score": {
       "labno": 30,
@@ -22104,7 +22439,12 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $b_3$ （原動力）のクレーン船",
     "ps": 3,
-    "notes": "{lafti} {dandu} {bloti} {lafydadma'e}",
+    "cf": [
+      "lafti",
+      "dandu",
+      "bloti",
+      "lafydadma'e"
+    ],
     "score": {
       "lafydadblo": 0
     }
@@ -22122,7 +22462,13 @@
     ],
     "def": "$m_1$ は $m_2=d_1=l_2$ （運搬物）を $m_3=d_2$ （クレーン）で吊り上げる $m_4$ （原動力）の移動式クレーン（運搬機）",
     "ps": 4,
-    "notes": "{lafti} {dandu} {marce} {lafydadykarce} {lafydadblo}",
+    "cf": [
+      "lafti",
+      "dandu",
+      "marce",
+      "lafydadykarce",
+      "lafydadblo"
+    ],
     "score": {
       "lafydadma'e": 0
     }
@@ -22142,7 +22488,12 @@
     ],
     "def": "$k_1$ は $k_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $k_3$ （原動力）のクレーン車",
     "ps": 3,
-    "notes": "{lafti} {dandu} {karce} {lafydadma'e}",
+    "cf": [
+      "lafti",
+      "dandu",
+      "karce",
+      "lafydadma'e"
+    ],
     "score": {
       "lafydadykarce": 0
     }
@@ -22233,6 +22584,7 @@
     "ps": 2,
     "cf": [
       "citno",
+      "",
       "cnino",
       "slabu"
     ],
@@ -22431,8 +22783,8 @@
     "ps": 2,
     "cf": [
       "midju",
-      "nutli; fapro",
-      "nutli"
+      "nutli",
+      "fapro"
     ],
     "score": {
       "lanxe": 3,
@@ -22508,7 +22860,10 @@
     ],
     "def": "$m_1$ は美術品 $m_2=l_1$ を展示する $m_3$ （所）の美術館／アートギャラリー",
     "ps": 3,
-    "notes": "{larcu} {muzga}",
+    "cf": [
+      "larcu",
+      "muzga"
+    ],
     "score": {
       "larmuzga": 0
     }
@@ -22657,7 +23012,11 @@
     ],
     "def": "$x_1$ はアルゴン (Ar)",
     "ps": 1,
-    "notes": "{lazni} {navni}; {ratni}",
+    "cf": [
+      "lazni",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "laznynavni": 0
     }
@@ -22704,10 +23063,18 @@
     "type": "cmavo",
     "selmaho": "LEhAI",
     "def": "境界詞； 誤り訂正引用構造の末端を示す。",
-    "notes": "{lo'ai} ... {sa'ai} ... le'ai の置換構造を使うことで、聴き手に {lo'ai}の後の語句を{sa'ai} の後の語句で置き換えるよう要請することができる。{sa'ai} ... {lo'ai} ... le'ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le'ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le'ai の構造にSAI類をつけることも可能である： le'ai {dai} （= le'ai {da'oi} ko'a）は他の誰かが誤ったということを示す。また、 le'ai {pei} は、他の誰かが誤ったかどうかを尋ねる。そして、{sai}, {ru'e}, {cu'i} はその誤りの訂正の重要性を示す。さらに、le'ai {nai} はその訂正を認めずに、誤りを明確に否定するのに使われる。",
+    "notes": "... ... le'ai の置換構造を使うことで、聴き手に の後の語句をの後の語句で置き換えるよう要請することができる。... ... le'ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le'ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le'ai の構造にSAI類をつけることも可能である： le'ai （= le'ai ko'a）は他の誰かが誤ったということを示す。また、 le'ai は、他の誰かが誤ったかどうかを尋ねる。そして、はその誤りの訂正の重要性を示す。さらに、le'ai はその訂正を認めずに、誤りを明確に否定するのに使われる。",
     "cf": [
       "lo'ai",
-      "sa'ai"
+      "sa'ai",
+      "lo'aisa'ai",
+      "dai",
+      "da'oi",
+      "pei",
+      "sai",
+      "ru'e",
+      "cu'i",
+      "nai"
     ],
     "experimental": true,
     "unofficial": true,
@@ -23236,7 +23603,9 @@
     "pun": "軽いかりんとう",
     "cf": [
       "junta",
-      "tilju; se xalbo",
+      "tilju",
+      "se",
+      "xalbo",
       "kandi"
     ],
     "score": {
@@ -23273,9 +23642,12 @@
     "def": "$x_1$ は フッ素（F）",
     "ps": 1,
     "cf": [
-      "塩素 ri'orkliru",
-      "臭素 xunkliru",
-      "ヨウ素 zirkliru",
+      "塩素",
+      "ri'orkliru",
+      "臭素",
+      "xunkliru",
+      "ヨウ素",
+      "zirkliru",
       "linto",
       "kliru"
     ],
@@ -23745,10 +24117,13 @@
     "type": "lujvo",
     "def": "$x_1$ は複素数",
     "ps": 1,
-    "notes": "{pluja} {namcu}",
     "cf": [
-      "xarna'u; tolxarna'u",
-      "mrena'u; ka'o"
+      "pluja",
+      "namcu",
+      "xarna'u",
+      "tolxarna'u",
+      "mrena'u",
+      "ka'o"
     ],
     "score": {
       "lujna'u": 0
@@ -24132,7 +24507,10 @@
     "type": "lujvo",
     "def": "$c_1$ は $c_2$ にとってジャンクフード.",
     "ps": 2,
-    "notes": "Cf. {cidja}.",
+    "notes": "Cf. .",
+    "cf": [
+      "cidja"
+    ],
     "score": {
       "maldja": 0
     }
@@ -24256,9 +24634,9 @@
     "cf": [
       "blabi",
       "gusni",
-      "ctino; kandi",
-      "xekri",
-      "ctino"
+      "ctino",
+      "kandi",
+      "xekri"
     ],
     "score": {
       "manku": 48,
@@ -24320,7 +24698,10 @@
     "ps": 2,
     "pun": "アント",
     "cf": [
-      "bifce  < cinki (上位概念)",
+      "bifce",
+      "",
+      "<",
+      "cinki",
       "jalra"
     ],
     "score": {
@@ -24992,7 +25373,11 @@
     ],
     "def": "$b_1=m_2$ は $b_3$ （障害）のある $b_2$ （症状）の精神障害者",
     "ps": 3,
-    "notes": "{menli} {bilma} {ka'enri'u}",
+    "cf": [
+      "menli",
+      "bilma",
+      "ka'enri'u"
+    ],
     "score": {
       "menbi'a": 0
     }
@@ -25039,7 +25424,11 @@
     ],
     "def": "$r_1=m_2$ は $r_2$ （障害）のために $r_3$ が制限される知的障害者",
     "ps": 3,
-    "notes": "{menli} {rinju} {ka'enri'u}",
+    "cf": [
+      "menli",
+      "rinju",
+      "ka'enri'u"
+    ],
     "score": {
       "menri'u": 0
     }
@@ -25255,7 +25644,10 @@
     ],
     "def": "$xu_1=m_4$ は $xu_2$ （薬の種類）の $m_3$ （病気／怪我）のための医薬品",
     "ps": 4,
-    "notes": "{mikce} {xukmi}",
+    "cf": [
+      "mikce",
+      "xukmi"
+    ],
     "score": {
       "micyxu'i": 0
     }
@@ -25510,7 +25902,8 @@
     "pun": "＜みんな出ろと命令＞,市民で命令",
     "cf": [
       "lacri",
-      "te bende",
+      "te",
+      "bende",
       "jatna",
       "ralju",
       "jitro",
@@ -25535,13 +25928,13 @@
     ],
     "def": "$x_1$ は $x_2$ （機能／用途）の機械",
     "ps": 2,
-    "notes": "自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は {zukte}.",
+    "notes": "自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は .",
     "pun": "＜みんな自動の機械＞,machine, ミンチ",
     "cf": [
+      "zukte",
       "cabra",
       "matra",
       "tutci",
-      "zukte",
       "pilno",
       "skami"
     ],
@@ -25657,7 +26050,11 @@
     ],
     "def": "$x_1$ はクリプトン (Kr)",
     "ps": 1,
-    "notes": "{mipri} {navni}; {ratni}",
+    "cf": [
+      "mipri",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "mipnavni": 0
     }
@@ -25719,7 +26116,8 @@
     "notes": "「人気」「セレブ」も。",
     "pun": "ミスの有名な・・・",
     "cf": [
-      "se sinma",
+      "se",
+      "sinma",
       "banli"
     ],
     "score": {
@@ -25800,7 +26198,8 @@
       "「mi pu zi ca'o cusku di'u mi'u la .djan.／私はさっきそれと全く同じセリフをジャンに言っていた」"
     ],
     "cf": [
-      "mintu; va'inai"
+      "mintu",
+      "va'inai"
     ],
     "score": {
       "mi'u": 2
@@ -25838,7 +26237,8 @@
     "pun": "mix",
     "cf": [
       "salta",
-      "te runta",
+      "te",
+      "runta",
       "stasu",
       "jicla",
       "sanso"
@@ -25965,7 +26365,8 @@
     "cf": [
       "plini",
       "solri",
-      "lunra"
+      "lunra",
+      ""
     ],
     "score": {
       "mluni": 3,
@@ -26059,12 +26460,15 @@
     "selmaho": "MOI",
     "def": "$x_1$ は $x_2$ （単位）・$x_3$ （基準）（デフォルトは「今現在」）で $x_4$ （観点／暦／慣習）における PA 番目の日付／時刻",
     "ps": 4,
-    "notes": "x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si'o {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si'o  {masti})は 11月、0番目の昼（lo si'o {donri}）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si'o {nicte}）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；",
+    "notes": "x_3 は時刻の基準点（PA = )。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si'o ）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si'o  )は 11月、0番目の昼（lo si'o ）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si'o ）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；",
     "exams": [
       "「lo no moi'o be lo si'o djedi／今日」",
       "「lo pa moi'o be lo nanca／来年」",
       "「lo ni'u moi'o be lo si'o masti／先月」",
       "「.e'o ko klama lo zdani be mi ca lo pa moi'o be lo si'o nicte／今夜、私の家に来てください。」"
+    ],
+    "cf": [
+      "nodjedimastidonrinicte"
     ],
     "experimental": true,
     "unofficial": true,
@@ -26141,6 +26545,7 @@
       "gurni",
       "tirse",
       "fanri",
+      "",
       "zalvi"
     ],
     "score": {
@@ -26372,9 +26777,13 @@
     "ps": 1,
     "notes": "同じ意味の lujvo として {tolxarna'u} もある。",
     "cf": [
-      "to'e xanri namcu",
-      "tolxarna'u; xarna'u",
-      "lujna'u; ka'o"
+      "to'e",
+      "xanri",
+      "namcu",
+      "tolxarna'u",
+      "xarna'u",
+      "lujna'u",
+      "ka'o"
     ],
     "score": {
       "mrena'u": 0
@@ -26385,7 +26794,10 @@
     "type": "lujvo",
     "def": "$x_1=b_1$ は、郵便局員 $x_2=b_2$の、場所 $x_3=b_3$ にある、郵便システム $x_4=m_5$ のための郵便局",
     "ps": 5,
-    "notes": "{mrilu} {briju}",
+    "cf": [
+      "mrilu",
+      "briju"
+    ],
     "score": {
       "mribriju": 0
     }
@@ -26608,8 +27020,10 @@
     "cf": [
       "mu'i",
       "nibli",
-      "te zukte",
-      "se jalge",
+      "te",
+      "zukte",
+      "se",
+      "jalge",
       "krinu",
       "rinka",
       "ciksi",
@@ -26660,7 +27074,15 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言律詩",
     "ps": 3,
-    "notes": "{mu} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {zelvlabivli'i}",
+    "cf": [
+      "mu",
+      "valsi",
+      "bi",
+      "linji",
+      "mumvlavonli'i",
+      "zelvlavonli'i",
+      "zelvlabivli'i"
+    ],
     "score": {
       "mumvlabivli'i": 0
     }
@@ -26670,7 +27092,15 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言絶句",
     "ps": 3,
-    "notes": "{mu} {valsi} {vo} {linji}; {zelvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}",
+    "cf": [
+      "mu",
+      "valsi",
+      "vo",
+      "linji",
+      "zelvlavonli'i",
+      "mumvlabivli'i",
+      "zelvlabivli'i"
+    ],
     "score": {
       "mumvlavonli'i": 0
     }
@@ -26877,7 +27307,8 @@
       "klama",
       "litru",
       "cliva",
-      "fatri; dunda",
+      "fatri",
+      "dunda",
       "benji",
       "preja",
       "bevri",
@@ -26900,7 +27331,11 @@
     ],
     "def": "$c_1$ は $c_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして押す",
     "ps": 4,
-    "notes": "押す「対象箇所」（ catke3 ）は di'o によって表せる ; {muvdu} {catke}",
+    "notes": "押す「対象箇所」（ catke3 ）は di'o によって表せる ; ",
+    "cf": [
+      "muvdu",
+      "catke"
+    ],
     "score": {
       "muvyca'e": 0
     }
@@ -26918,7 +27353,11 @@
     ],
     "def": "$l_1$ は $l_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして引く",
     "ps": 4,
-    "notes": "引く「対象箇所」（ lacpu3 ）は di'o によって表せる ; {muvdu} {lacpu}",
+    "notes": "引く「対象箇所」（ lacpu3 ）は di'o によって表せる ; ",
+    "cf": [
+      "muvdu",
+      "lacpu"
+    ],
     "score": {
       "muvycpu": 0
     }
@@ -26932,7 +27371,10 @@
     ],
     "def": "$x_1$ は $x_2$ を徘徊する",
     "ps": 2,
-    "notes": "{muvdu} {zvati}",
+    "cf": [
+      "muvdu",
+      "zvati"
+    ],
     "score": {
       "muvzva": 1
     }
@@ -26971,7 +27413,10 @@
     ],
     "def": "$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室",
     "ps": 2,
-    "notes": "{muzga} {kumfa}",
+    "cf": [
+      "muzga",
+      "kumfa"
+    ],
     "score": {
       "muzyku'a": 2
     }
@@ -27086,7 +27531,13 @@
     "selmaho": "NAI",
     "selmaho2": "UI",
     "def": "小構造否定 ： 左の語を否定する。命題否定か、対義否定か、段階否定かは、左の語の selma'o によって異なる。",
-    "notes": "TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 {na'e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to'e} と同じ意味になる。",
+    "notes": "TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 と同じ意味になる。 UI, CAI, COI に付くと、対義否定 と同じ意味になる。",
+    "cf": [
+      "na",
+      "na'e",
+      "to'e",
+      ""
+    ],
     "score": {
       "nai": 407
     },
@@ -27235,7 +27686,10 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の南風",
     "ps": 3,
-    "notes": "{snanu} {brife}",
+    "cf": [
+      "snanu",
+      "brife"
+    ],
     "score": {
       "nanbi'e": 0
     }
@@ -27476,7 +27930,14 @@
     ],
     "def": "$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で未視感 (jamais-vu) を与える",
     "ps": 4,
-    "notes": "$x_1$ が物である場合は jai narprugastcica; {pu}{nai}, {ganse} {tcica}; {gastcica}, {prugastcica}",
+    "notes": "$x_1$ が物である場合は jai narprugastcica; ",
+    "cf": [
+      "punai",
+      "ganse",
+      "tcica",
+      "gastcica",
+      "prugastcica"
+    ],
     "score": {
       "narprugastcica": 0
     }
@@ -27569,7 +28030,10 @@
     ],
     "def": "$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での男性配偶者",
     "ps": 3,
-    "notes": "{nanmu} {speni}",
+    "cf": [
+      "nanmu",
+      "speni"
+    ],
     "score": {
       "nauspe": 0
     }
@@ -27585,7 +28049,9 @@
     "notes": "天然にある貴ガスは、ヘリウム He、ネオン Ne、アルゴン Ar、クリプトン Kr、キセノン Xe、ラドン Rn。",
     "cf": [
       "xukmi",
-      "gapci; tolfragapci; solnavni",
+      "gapci",
+      "tolfragapci",
+      "solnavni",
       "ninynavni",
       "laznynavni",
       "mipnavni",
@@ -27786,7 +28252,8 @@
     "ps": 2,
     "pun": "内部念入り",
     "cf": [
-      "se vasru",
+      "se",
+      "vasru",
       "jbini",
       "zvati",
       "cpana",
@@ -28009,7 +28476,10 @@
     ],
     "def": "$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での女性配偶者",
     "ps": 3,
-    "notes": "{ninmu} {speni}",
+    "cf": [
+      "ninmu",
+      "speni"
+    ],
     "score": {
       "nimspe": 0
     }
@@ -28064,7 +28534,11 @@
     ],
     "def": "$x_1$ はネオン (Ne)",
     "ps": 1,
-    "notes": "{cnino} {navni}; {ratni}",
+    "cf": [
+      "cnino",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "ninynavni": 0
     }
@@ -28083,7 +28557,8 @@
     "notes": "比喩として「ネットワーク」なども。",
     "pun": "神経煮るな",
     "cf": [
-      "ve benji"
+      "ve",
+      "benji"
     ],
     "score": {
       "nirna": 4,
@@ -28248,7 +28723,8 @@
     "cf": [
       "nutli",
       "midju",
-      "milxe; je'a",
+      "milxe",
+      "je'a",
       "na'e",
       "to'e"
     ],
@@ -28281,7 +28757,11 @@
       "王家の娘"
     ],
     "def": "$x1$ は $x3$ を統治する $x2$ (王/女王) の娘、王女",
-    "notes": "{nobli} {turni} {tixnu}",
+    "cf": [
+      "nobli",
+      "turni",
+      "tixnu"
+    ],
     "score": {
       "noltruti'u": 52
     }
@@ -28403,7 +28883,8 @@
     "def": "名辞グループ開始（前置型） ： 同じ述辞のPS上に複数の名辞（項辞や付辞）を並べる際、その名辞のグループの始まりを示す； グループの終わりは nu'u で示す",
     "notes": "「klama nu'i ge lo zarci ($x_2$) lo briju ($x_3$) nu'u gi lo zdani ($x_2$) lo ckule ($x_3$) [nu'u]／店($x_2$)から会社($x_3$)に行き、家($x_2$)から学校($x_3$)に行く」",
     "cf": [
-      "ce'e; nu'u"
+      "ce'e",
+      "nu'u"
     ],
     "score": {
       "nu'i": 3
@@ -28445,7 +28926,10 @@
     ],
     "def": "$n_1$ は $c_1$ （教師）が $c_2$ （生徒）に $c_3$ （命題）・ $c_4$ （題目）を $c_5$ （方法）で教える授業",
     "ps": 5,
-    "notes": "{nu} {ctuca}",
+    "cf": [
+      "nu",
+      "ctuca"
+    ],
     "score": {
       "nunctu": 2
     }
@@ -28461,7 +28945,12 @@
     ],
     "def": "$n_1$ は $ku_1$ による $ka_1$ の健康管理／医療／保健／衛生",
     "ps": 1,
-    "notes": "x2 と x3 は同一でありうる。; {nu} {kanro} {kurji}",
+    "notes": "x2 と x3 は同一でありうる。; ",
+    "cf": [
+      "nu",
+      "kanro",
+      "kurji"
+    ],
     "score": {
       "nunka'oku'i": 0
     }
@@ -28471,7 +28960,12 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2$ （職員）の保健所",
     "ps": 2,
-    "notes": "{nunka'oku'i} {briju} {kanro} {kurji}",
+    "cf": [
+      "nunka'oku'i",
+      "briju",
+      "kanro",
+      "kurji"
+    ],
     "score": {
       "nunka'okujbriju": 0
     }
@@ -28676,7 +29170,8 @@
     ],
     "cf": [
       "cumla",
-      "ga'i nai"
+      "ga'i",
+      "nai"
     ],
     "score": {
       "o'acu'i": 0
@@ -29018,8 +29513,11 @@
     ],
     "def": "$x_1$ は $x_2$ （事）を $x_3$ （見込み／確率 0-1）で期待する／希望する／願う；  $x_2$ は望まれている",
     "ps": 3,
-    "notes": "x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（{li} {piso'u} から {li} {piro} まで）によって表される。",
+    "notes": "x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（から まで）によって表される。",
     "cf": [
+      "li",
+      "piso'u",
+      "piro",
       "djica"
     ],
     "score": {
@@ -29157,8 +29655,12 @@
     ],
     "def": "$x_1$ は $x_2$ （抽象（事／性質／量／真理値））について判断する／審判する／仲裁する",
     "ps": 2,
-    "notes": "「レフェリー」も。　x2 の抽象詞（NU類）によっては、 {jei} = 判決する、{ni} = 推定する、{ka} = 評価する、 {nu} = 判定／仲裁する、と言った意味にもなりうる。",
+    "notes": "「レフェリー」も。　x2 の抽象詞（NU類）によっては、 = 判決する、= 推定する、= 評価する、 = 判定／仲裁する、と言った意味にもなりうる。",
     "cf": [
+      "jei",
+      "ni",
+      "ka",
+      "nu",
       "cuxna",
       "jdice",
       "vajni",
@@ -29206,7 +29708,11 @@
     ],
     "def": "$d_1$ は $d_2$ （素材）のズボンつり／サスペンダー",
     "ps": 2,
-    "notes": "{palku} {dandu} {dasri}",
+    "cf": [
+      "palku",
+      "dandu",
+      "dasri"
+    ],
     "score": {
       "pakydadysri": 0
     }
@@ -29318,9 +29824,9 @@
     "cf": [
       "gapci",
       "litki",
-      "rinci; fepri",
-      "risna",
       "rinci",
+      "fepri",
+      "risna",
       "tutci"
     ],
     "score": {
@@ -29442,7 +29948,8 @@
     "ps": 2,
     "pun": "パンピーの平和",
     "cf": [
-      "jamna; sarxe",
+      "jamna",
+      "sarxe",
       "smaji",
       "tugni",
       "cilce"
@@ -29512,7 +30019,8 @@
       "verba",
       "bersa",
       "tixnu",
-      "se rorci",
+      "se",
+      "rorci",
       "patfu"
     ],
     "score": {
@@ -29686,7 +30194,8 @@
     "pun": "ポット, pot,  xu(壷)",
     "cf": [
       "tansi",
-      "palne; baktu",
+      "palne",
+      "baktu",
       "botpi"
     ],
     "score": {
@@ -29746,7 +30255,11 @@
     "type": "lujvo",
     "def": "$b_1=m_1$ は $b_2$ の息子の１番目・長男",
     "ps": 2,
-    "notes": "{pa} {moi} {bersa}",
+    "cf": [
+      "pa",
+      "moi",
+      "bersa"
+    ],
     "score": {
       "pavmoibe'a": 0
     }
@@ -29756,7 +30269,11 @@
     "type": "lujvo",
     "def": "$t_1=m_1$ は $t_2$ の娘の１番目・長女",
     "ps": 2,
-    "notes": "{pa} {moi} {tixnu}",
+    "cf": [
+      "pa",
+      "moi",
+      "tixnu"
+    ],
     "score": {
       "pavmoiti'u": 0
     }
@@ -30034,7 +30551,8 @@
       "morji",
       "sidbo",
       "jinvi",
-      "se nabmi",
+      "se",
+      "nabmi",
       "minra",
       "lanli",
       "besna",
@@ -30084,7 +30602,11 @@
     "type": "lujvo",
     "def": "$p_1=k_1$ は $p_2=k_2$ に思いやりがある.",
     "ps": 2,
-    "notes": "Cf. {pensi}, {kurji}.",
+    "notes": "Cf. .",
+    "cf": [
+      "pensi",
+      "kurji"
+    ],
     "score": {
       "pesku'i": 0
     }
@@ -30439,7 +30961,13 @@
     "cf": [
       "grute",
       "calku",
-      "skapi (pilka as a general term includes skapi",
+      "skapi",
+      "(pilka",
+      "as",
+      "a",
+      "general",
+      "term",
+      "includes",
       "gacri"
     ],
     "score": {
@@ -30637,8 +31165,17 @@
     "pun": "ペンスィル",
     "cf": [
       "ciska",
-      "penbi (unlike the English equivalents",
-      "pinsi is the more general term over penbi",
+      "penbi",
+      "(unlike",
+      "the",
+      "English",
+      "equivalents",
+      "pinsi",
+      "is",
+      "more",
+      "general",
+      "term",
+      "over",
       "burcu",
       "bakri"
     ],
@@ -31062,9 +31599,10 @@
       "tcana",
       "dargu",
       "klaji",
-      "ve klama; tadji",
-      "zukte",
+      "ve",
       "klama",
+      "tadji",
+      "zukte",
       "pagre"
     ],
     "score": {
@@ -31263,7 +31801,8 @@
     "cf": [
       "xrani",
       "spofu",
-      "se katna"
+      "se",
+      "katna"
     ],
     "score": {
       "porpi": 25,
@@ -31332,7 +31871,12 @@
     "type": "lujvo",
     "def": "$j_1$ は $j_2=c_2$ （商品／サービス）を生産するための資本．",
     "ps": 2,
-    "notes": "cf. {cupra}, {zbasu}, {jdini}.",
+    "notes": "cf. .",
+    "cf": [
+      "cupra",
+      "zbasu",
+      "jdini"
+    ],
     "score": {
       "pracmu": 1
     }
@@ -31525,7 +32069,10 @@
     "type": "lujvo",
     "def": "$v_1=p_1$ は $v_2$ （性質）の点で多種多様な人々の集まり／大衆",
     "ps": 2,
-    "notes": "{prenu} {vrici}",
+    "cf": [
+      "prenu",
+      "vrici"
+    ],
     "score": {
       "prevrici": 0
     }
@@ -31541,7 +32088,14 @@
     ],
     "def": "$x_1=pi_1$ はモチーフ$x_2=pi_2=pr_1$の作者$x_3=pi_3$による肖像",
     "ps": 3,
-    "notes": "{vi'a} {prexra} で肖像画; {vi'u} {prexra} で立体像。 cf. {prenu} {pixra}",
+    "notes": "で肖像画; で立体像。 cf. ",
+    "cf": [
+      "vi'a",
+      "prexra",
+      "vi'u",
+      "prenu",
+      "pixra"
+    ],
     "score": {
       "prexra": 1
     }
@@ -31682,7 +32236,14 @@
     ],
     "def": "$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で既視感 (déjà-vu) を与える",
     "ps": 4,
-    "notes": "$x_1$ が物である場合は jai prugastcica; {pu} {ganse} {tcica}; {gastcica}, {narprugastcica}",
+    "notes": "$x_1$ が物である場合は jai prugastcica; ",
+    "cf": [
+      "pu",
+      "ganse",
+      "tcica",
+      "gastcica",
+      "narprugastcica"
+    ],
     "score": {
       "prugastcica": 0
     }
@@ -31798,7 +32359,8 @@
     "def": "$x_1$ は $x_2$ （起源）の、 $x_3$ （媒体／表面）における塵／沈殿物",
     "ps": 3,
     "cf": [
-      "te zalvi",
+      "te",
+      "zalvi",
       "danmo",
       "purmo",
       "sligu"
@@ -32196,7 +32758,12 @@
     "selmaho": "UI5",
     "selmaho2": "UI",
     "def": "このままでいたい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； {ranji} + {au} から；",
+    "notes": "心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； + から；",
+    "cf": [
+      "ranji",
+      "au",
+      ""
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -32209,7 +32776,12 @@
     "selmaho": "UI5",
     "selmaho2": "UI",
     "def": "あるがままを受け入れる （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； {ranji} + {au} から；",
+    "notes": "心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； + から；",
+    "cf": [
+      "ranji",
+      "au",
+      ""
+    ],
     "score": {
       "ra'i'aucu'i": 0
     }
@@ -32220,7 +32792,12 @@
     "selmaho": "UI5",
     "selmaho2": "UI",
     "def": "はやく脱したい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； {ranji} + {au} から；",
+    "notes": "心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； + から；",
+    "cf": [
+      "ranji",
+      "au",
+      ""
+    ],
     "score": {
       "ra'i'aunai": 0
     }
@@ -32304,7 +32881,8 @@
     "ps": 3,
     "cf": [
       "vajni",
-      "te bende",
+      "te",
+      "bende",
       "minde",
       "lidne",
       "jatna",
@@ -32360,7 +32938,8 @@
       "jdari",
       "renvi",
       "ranti",
-      "se bapli"
+      "se",
+      "bapli"
     ],
     "score": {
       "randa": 2,
@@ -32620,7 +33199,8 @@
     ],
     "pun": "元素、ラットに",
     "cf": [
-      "kantu; selci"
+      "kantu",
+      "selci"
     ],
     "score": {
       "ratni": 25,
@@ -32743,7 +33323,8 @@
     "cf": [
       "nalci",
       "pimlu",
-      "se lidne",
+      "se",
+      "lidne",
       "trixe",
       "birka",
       "jimca"
@@ -32839,7 +33420,12 @@
     "type": "lujvo",
     "def": "$t_1=c_1$ は二重丸",
     "ps": 1,
-    "notes": "{re}, {cukla}, {tarmi}; {cuktai}",
+    "cf": [
+      "re",
+      "cukla",
+      "tarmi",
+      "cuktai"
+    ],
     "score": {
       "relcuktai": 0
     }
@@ -32859,7 +33445,9 @@
     "def": "$m_1$ は$m_2$ を $m_3$ （媒体）・ $m_4$ （原動力）で運ぶ自転車／モーターバイク",
     "ps": 4,
     "cf": [
-      "re xislu marce"
+      "re",
+      "xislu",
+      "marce"
     ],
     "score": {
       "relxilma'e": 2
@@ -32880,7 +33468,12 @@
     "type": "lujvo",
     "def": "$c_1=r_1$ （殺すヒト）は $c_2=r_1$ （殺されるヒト）を $c_3$ （動作／方法）で殺す； $c_1=r_1$ は人殺し",
     "ps": 3,
-    "notes": "殺す者と殺される者は、両方ともヒト。 {remna} {catra}; {remselcatra}",
+    "notes": "殺す者と殺される者は、両方ともヒト。 ",
+    "cf": [
+      "remna",
+      "catra",
+      "remselcatra"
+    ],
     "score": {
       "remcatra": 0
     }
@@ -32914,7 +33507,13 @@
     "type": "lujvo",
     "def": "$s_1=r_1$（殺されるヒト）は$s_2=r_1$（殺すヒト）に$s_3$（動作／方法）で殺される；$s_1=r_1$は殺人被害者",
     "ps": 3,
-    "notes": "殺される者と殺す者は、両方ともヒト。 {remna} {se} {catra}; {remcatra}",
+    "notes": "殺される者と殺す者は、両方ともヒト。 ",
+    "cf": [
+      "remna",
+      "se",
+      "catra",
+      "remcatra"
+    ],
     "score": {
       "remselcatra": 0
     }
@@ -32933,7 +33532,10 @@
     "ps": 3,
     "pun": "ren (扔)",
     "cf": [
-      "cecla (more general term",
+      "cecla",
+      "(more",
+      "general",
+      "term",
       "danti"
     ],
     "score": {
@@ -33017,7 +33619,11 @@
     ],
     "def": "$c_1$ は $c_2$ （者／宗教）の、 $c_3$ （領域）をつかさどる竜の神／龍神／ドラゴンの神",
     "ps": 3,
-    "notes": "{respa} {cevni} {resycrida}",
+    "cf": [
+      "respa",
+      "cevni",
+      "resycrida"
+    ],
     "score": {
       "resycei": 0
     }
@@ -33035,7 +33641,11 @@
     ],
     "def": "$c_1$ は $c_2$ （物語）の竜／龍／ドラゴン",
     "ps": 2,
-    "notes": "{respa} {crida} {resycei}",
+    "cf": [
+      "respa",
+      "crida",
+      "resycei"
+    ],
     "score": {
       "resycrida": 0
     }
@@ -33314,8 +33924,10 @@
       "gasnu",
       "krinu",
       "nibli",
-      "te zukte",
-      "se jalge",
+      "te",
+      "zukte",
+      "se",
+      "jalge",
       "bapli",
       "jitro",
       "ri'a",
@@ -33385,9 +33997,12 @@
     "def": "$x_1$ は塩素（Cl）",
     "ps": 1,
     "cf": [
-      "フッ素 li'orkliru",
-      "臭素 xunkliru",
-      "ヨウ素 zirkliru",
+      "フッ素",
+      "li'orkliru",
+      "臭素",
+      "xunkliru",
+      "ヨウ素",
+      "zirkliru",
       "crino",
       "kliru"
     ],
@@ -33458,7 +34073,8 @@
     "pun": "川借りるけ",
     "cf": [
       "flecu",
-      "senta; daplu",
+      "senta",
+      "daplu",
       "djacu",
       "lalxu",
       "xamsi",
@@ -33566,7 +34182,8 @@
     "cf": [
       "bandu",
       "fanta",
-      "se jersi",
+      "se",
+      "jersi",
       "sisku",
       "kalte",
       "fapro"
@@ -33591,7 +34208,10 @@
     ],
     "def": "$c_1=r_1$ は $c_2=r_2$ から $c_3$ （経路）を通って逃げる",
     "ps": 3,
-    "notes": "{rivbi} {cliva}",
+    "cf": [
+      "rivbi",
+      "cliva"
+    ],
     "score": {
       "rivli'a": 1
     }
@@ -33758,7 +34378,8 @@
     "ps": 2,
     "cf": [
       "narfaunarcu'i",
-      "to'e cunso"
+      "to'e",
+      "cunso"
     ],
     "score": {
       "rolcumja'e": 0
@@ -33773,7 +34394,12 @@
     ],
     "def": "$x_1$ は $x_2$ （荷／客）・ $x_3$ （線路網／軌道）・ $x_4$ （原動力）の 各駅停車の 列車／鉄道／電車／汽車／地下鉄",
     "ps": 4,
-    "notes": "{ro} zei {denpa} {trene}",
+    "notes": "zei ",
+    "cf": [
+      "ro",
+      "denpa",
+      "trene"
+    ],
     "score": {
       "roldepre'e": 0
     }
@@ -33819,7 +34445,17 @@
     "type": "cmavo",
     "selmaho": "PA4",
     "def": "∀（全）を表す複数量化子",
-    "notes": "``{ro'oi} {da}'' = ``{na} {ku} {su'oi} {da} {na} {ku}.'' cf. {ro} は ∀ を表す単数量化子",
+    "notes": "``'' = ``.'' cf. は ∀ を表す単数量化子",
+    "cf": [
+      "ro'oi",
+      "dana",
+      "ku",
+      "su'oi",
+      "da",
+      "na",
+      "kuro",
+      ""
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -33874,7 +34510,8 @@
       "grute",
       "gutra",
       "rirni",
-      "se panzi",
+      "se",
+      "panzi",
       "mamta",
       "patfu",
       "tarbi",
@@ -34037,7 +34674,10 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$（もの）のザラザラ面",
     "ps": 2,
-    "notes": "{rufsu} {sefta}",
+    "cf": [
+      "rufsu",
+      "sefta"
+    ],
     "score": {
       "rufsfe": 0
     }
@@ -34121,12 +34761,13 @@
     ],
     "def": "$x_1$ は $x_2$ （溶媒）の中で分解／分散し、 $x_3$ （溶液）を成す、 $x_4$ （条件）において；  $x_1$ はばらける",
     "ps": 4,
-    "notes": "「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は{runme}；",
+    "notes": "「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は；",
     "exams": [
       "「lo te runta be lo djacu bei lo sakta／砂糖水」"
     ],
     "pun": "ばらけるンた",
     "cf": [
+      "runme",
       "litki",
       "mixre",
       "sligu",
@@ -34237,7 +34878,8 @@
     "pun": "人工ルートに",
     "cf": [
       "rarna",
-      "se zbasu",
+      "se",
+      "zbasu",
       "gundi",
       "slasi"
     ],
@@ -35542,7 +36184,10 @@
     "type": "lujvo",
     "def": "$x_1$ はタンル・ユニット／セルブリの最小単位",
     "ps": 1,
-    "notes": "{selbri} {selci}",
+    "cf": [
+      "selbri",
+      "selci"
+    ],
     "score": {
       "selbrisle": 0
     }
@@ -35556,7 +36201,13 @@
     ],
     "def": "$x_1$ は $x_2$ （情報）を表す selbri のタグ",
     "ps": 2,
-    "notes": "{selbri} {tcita}; {se} {bridi}.",
+    "notes": ".",
+    "cf": [
+      "selbri",
+      "tcita",
+      "se",
+      "bridi"
+    ],
     "score": {
       "selbritcita": 0
     }
@@ -35574,7 +36225,8 @@
     "ps": 2,
     "pun": "セル、室",
     "cf": [
-      "kantu; ratni",
+      "kantu",
+      "ratni",
       "gradu"
     ],
     "score": {
@@ -35723,7 +36375,8 @@
     "ps": 2,
     "notes": "アラビア／ヘブライ／アラム／エチオピア等",
     "cf": [
-      "xrabo/xebro"
+      "xrabo/xebro",
+      ""
     ],
     "score": {
       "semto": 2,
@@ -36214,7 +36867,11 @@
     "type": "lujvo",
     "def": "$x_1=se_2=p_3=sp_1$ は題目$x_2=p_2$について自問自答する",
     "ps": 2,
-    "notes": "{sevzi} {preti} {spuda}",
+    "cf": [
+      "sevzi",
+      "preti",
+      "spuda"
+    ],
     "score": {
       "sezreispu": 1
     }
@@ -36365,7 +37022,10 @@
     "type": "lujvo",
     "def": "$k_1=s_3$ は $k_2$ （相手）と $s_1$ （理念）を $s_2$ についての理念として共有する同志",
     "ps": 3,
-    "notes": "{sidbo} {kansa}",
+    "cf": [
+      "sidbo",
+      "kansa"
+    ],
     "score": {
       "sibykansa": 0
     }
@@ -36427,7 +37087,8 @@
     "def": "$x_1$ は雨",
     "ps": 1,
     "cf": [
-      "carvi"
+      "carvi",
+      ""
     ],
     "experimental": true,
     "unofficial": true,
@@ -36441,7 +37102,10 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の西風",
     "ps": 3,
-    "notes": "{stici} {brife}",
+    "cf": [
+      "stici",
+      "brife"
+    ],
     "score": {
       "sicybi'e": 0
     }
@@ -37032,7 +37696,10 @@
     ],
     "def": "$p_1=s_1$ は $p_2$ （素材）の下着のパンツ、パンティー、ショーツ、トランクス、ブリーフ、ボクサーパンツ",
     "ps": 2,
-    "notes": "{sivni} {palku}",
+    "cf": [
+      "sivni",
+      "palku"
+    ],
     "score": {
       "sivypalku": 0
     }
@@ -37093,6 +37760,7 @@
     "pun": "スキン、革、皮（ぴ）",
     "cf": [
       "pilka",
+      "",
       "calku",
       "kerfa"
     ],
@@ -37336,7 +38004,8 @@
     "notes": "シリンダー.",
     "cf": [
       "kamju",
-      "gunro; tubnu"
+      "gunro",
+      "tubnu"
     ],
     "score": {
       "slanu": 3,
@@ -38091,7 +38760,11 @@
     ],
     "def": "$x_1$ はヘリウム (He)",
     "ps": 1,
-    "notes": "{solri} {navni}; {ratni}",
+    "cf": [
+      "solri",
+      "navni",
+      "ratni"
+    ],
     "score": {
       "solnavni": 0
     }
@@ -38205,9 +38878,10 @@
     "ps": 3,
     "notes": "x3は物体に限らず電磁力などの壁や場所空間なども。",
     "cf": [
-      "panka; vreji; sabji",
-      "banxa",
-      "panka"
+      "panka",
+      "vreji",
+      "sabji",
+      "banxa"
     ],
     "score": {
       "sorcu": 1,
@@ -38249,7 +38923,11 @@
     "type": "lujvo",
     "def": "$k_1$ は $k_2=p_1$ （乗客／運転手）・ $k_3$ （動力）の（交通）バス",
     "ps": 3,
-    "notes": "{so'i} {prenu} {karce}",
+    "cf": [
+      "so'i",
+      "prenu",
+      "karce"
+    ],
     "score": {
       "sorprekarce": 0
     }
@@ -38292,9 +38970,9 @@
       "rorci",
       "tsiju",
       "lanbi",
-      "tarbi; djine",
-      "konju",
-      "tarbi"
+      "tarbi",
+      "djine",
+      "konju"
     ],
     "score": {
       "sovda": 15,
@@ -38477,7 +39155,8 @@
       "daspo",
       "katna",
       "porpi",
-      "se xrani",
+      "se",
+      "xrani",
       "cikre"
     ],
     "score": {
@@ -38601,8 +39280,15 @@
       "katna",
       "mosra",
       "plixa",
-      "kakpa (unlike kakpa",
-      "sraku does not imply material is removed",
+      "kakpa",
+      "(unlike",
+      "sraku",
+      "does",
+      "not",
+      "imply",
+      "material",
+      "is",
+      "removed",
       "spali"
     ],
     "score": {
@@ -38755,8 +39441,9 @@
       "senta",
       "snuji",
       "vanbi",
-      "se nenri",
-      "se jbini",
+      "se",
+      "nenri",
+      "jbini",
       "bartu",
       "djine"
     ],
@@ -38977,7 +39664,8 @@
     "notes": "ある集合においてその個がもつ、他の要素にはみられない性質。",
     "cf": [
       "srana",
-      "se ponse",
+      "se",
+      "ponse",
       "ckini",
       "tcila",
       "tutra"
@@ -39506,7 +40194,10 @@
     ],
     "def": "$x_1$ は $x_2$ （情報）を表す sumti のタグ",
     "ps": 2,
-    "notes": "{sumti} {tcita}",
+    "cf": [
+      "sumti",
+      "tcita"
+    ],
     "score": {
       "sumtcita": 0
     }
@@ -39539,7 +40230,10 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の東風",
     "ps": 3,
-    "notes": "{stuna} {brife}",
+    "cf": [
+      "stuna",
+      "brife"
+    ],
     "score": {
       "sunbi'e": 0
     }
@@ -39556,7 +40250,10 @@
     "def": "$x_1$ は $x_2$ （種類）のニンニク",
     "ps": 2,
     "cf": [
-      "sluni < stagi (上位概念)"
+      "sluni",
+      "<",
+      "stagi",
+      ""
     ],
     "score": {
       "sunga": 0,
@@ -39616,7 +40313,17 @@
     "type": "cmavo",
     "selmaho": "PA4",
     "def": "∃（存在）を表す複数量化子",
-    "notes": "``{su'oi} {da}'' = ``{na} {ku} {ro'oi} {da} {na} {ku}.'' cf. {su'o} は ∃ を表す単数量化子",
+    "notes": "``'' = ``.'' cf. は ∃ を表す単数量化子",
+    "cf": [
+      "su'oi",
+      "dana",
+      "ku",
+      "ro'oi",
+      "da",
+      "na",
+      "kusu'o",
+      ""
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -39713,7 +40420,7 @@
       "それ"
     ],
     "def": "それ（そこのもの） ： 代詞（sumti）；",
-    "notes": "聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（{ti} と {tu} の間）ことも。",
+    "notes": "聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（と の間）ことも。",
     "cf": [
       "ti",
       "tu"
@@ -39949,7 +40656,8 @@
     "ps": 3,
     "cf": [
       "xantamji",
-      "jmatamji; degji",
+      "jmatamji",
+      "degji",
       "tance",
       "xance",
       "jamfu"
@@ -39986,11 +40694,11 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$ に $x_3$（形態／形状） ・$x_4$（性質）の点で似ている",
     "ps": 4,
-    "notes": "{tai} の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。",
+    "notes": "の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。",
     "cf": [
+      "tai",
       "simsa",
-      "tarmi",
-      "tai"
+      "tarmi"
     ],
     "score": {
       "tamsmi": 4
@@ -40216,9 +40924,9 @@
     "cf": [
       "bliku",
       "kubli",
-      "matci; karda",
-      "kurfa",
       "matci",
+      "karda",
+      "kurfa",
       "plita",
       "tarmi"
     ],
@@ -40232,7 +40940,10 @@
     "type": "lujvo",
     "def": "$x_1=s_1=d_1$ は $x_2=d_2$ （音楽／リズム）に合わせてタップダンスをする",
     "ps": 2,
-    "notes": "{stapa} {dansu}",
+    "cf": [
+      "stapa",
+      "dansu"
+    ],
     "score": {
       "tapydansu": 0
     }
@@ -40321,14 +41032,15 @@
     "pun": "tai(態), form, たるみのある形",
     "cf": [
       "nejni",
-      "morna; te marji",
+      "morna",
+      "te",
+      "marji",
       "tapla",
       "bliku",
       "kubli",
       "kurfa",
       "cukla",
       "mapti",
-      "morna",
       "sarlu"
     ],
     "score": {
@@ -40602,10 +41314,11 @@
       "pluta",
       "trene",
       "ciste",
-      "ve mrilu",
+      "ve",
+      "mrilu",
       "tivni",
       "cradi",
-      "ve benji",
+      "benji",
       "fonxa",
       "dikca",
       "fatri"
@@ -40625,7 +41338,10 @@
     ],
     "def": "$p_1$ は $p_2=t_1$ （市）の町村区",
     "ps": 1,
-    "notes": "{tcadu} {pagbu}",
+    "cf": [
+      "tcadu",
+      "pagbu"
+    ],
     "score": {
       "tcapau": 0
     }
@@ -40831,7 +41547,8 @@
       "stuzi",
       "zvati",
       "vanbi",
-      "ve pruce",
+      "ve",
+      "pruce",
       "ckaji",
       "zasni"
     ],
@@ -41208,6 +41925,7 @@
     "notes": "「ditcu」と違い、特定の開始時点と終了時点が含意される。",
     "cf": [
       "ditcu",
+      "",
       "cacra",
       "cedra",
       "citsi",
@@ -41299,6 +42017,7 @@
     "pun": "天狗の質感",
     "cf": [
       "rufsu",
+      "",
       "xutla"
     ],
     "score": {
@@ -41404,7 +42123,8 @@
       "plini",
       "solri",
       "kensa",
-      "tsani; dertu"
+      "tsani",
+      "dertu"
     ],
     "score": {
       "terdi": 81,
@@ -41435,7 +42155,11 @@
       "多面体の"
     ],
     "def": "$x_{1}$ は $x_{2}$ 次元多面体 $x_{3}$ の $x_{4}$ （デフォルトで $x_{2}$-1）次元辺； $x_{4}$=1 のとき $x_{1}$ は稜； $x_{4}$=0 のとき $x_{1}$ は頂点",
-    "notes": "{te} {kubli}, {cimde}",
+    "cf": [
+      "te",
+      "kubli",
+      "cimde"
+    ],
     "score": {
       "terkubli": 0
     }
@@ -41739,8 +42463,10 @@
     ],
     "pun": "juu 重",
     "cf": [
-      "linto; carmi",
-      "se junri",
+      "linto",
+      "carmi",
+      "se",
+      "junri",
       "bunda",
       "junta"
     ],
@@ -42103,7 +42829,8 @@
     "def": "$x_1$ は $x_2$ （種類）のチョウ目（もく）昆虫",
     "ps": 2,
     "cf": [
-      "cinki"
+      "cinki",
+      ""
     ],
     "score": {
       "toldi": 2,
@@ -42116,7 +42843,13 @@
     "type": "lujvo",
     "def": "$x_1=t_1=g_1$ は、物質 $x_2=g_2$ からなる、条件 $x_3=g_3$ における不活性気体",
     "ps": 3,
-    "notes": "不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 {to'e} {frati} {gapci}; {navni}",
+    "notes": "不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 ",
+    "cf": [
+      "to'e",
+      "frati",
+      "gapci",
+      "navni"
+    ],
     "score": {
       "tolfragapci": 0
     }
@@ -42126,8 +42859,10 @@
     "type": "lujvo",
     "def": "$x_1$ は無理数",
     "ps": 1,
-    "notes": "{to'e} {frinu} {namcu}",
     "cf": [
+      "to'e",
+      "frinu",
+      "namcu",
       "frinyna'u",
       "xarna'u",
       "tolxarna'u",
@@ -42143,7 +42878,11 @@
     "type": "lujvo",
     "def": "非$x_1$（事）は$x_2$（事）の結果／結末； $x_1$は$x_2$に妨げられる",
     "ps": 2,
-    "notes": "{to'e} {jalge}。 「lo nu broda cu tolja'e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。",
+    "notes": "。 「lo nu broda cu tolja'e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。",
+    "cf": [
+      "to'e",
+      "jalge"
+    ],
     "score": {
       "tolja'e": 0
     }
@@ -42153,7 +42892,11 @@
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）の理由； $x_1$は$x_2$を妨げる",
     "ps": 2,
-    "notes": "{to'e} {krinu}。 「lo nu broda cu tolki'u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。",
+    "notes": "。 「lo nu broda cu tolki'u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。",
+    "cf": [
+      "to'e",
+      "krinu"
+    ],
     "score": {
       "tolki'u": 0
     }
@@ -42181,7 +42924,11 @@
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を $x_3$（者）に動機する； $x_1$は$x_2$を妨げる",
     "ps": 3,
-    "notes": "{to'e} {mukti}。 「lo nu broda cu tolmu'i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。",
+    "notes": "。 「lo nu broda cu tolmu'i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。",
+    "cf": [
+      "to'e",
+      "mukti"
+    ],
     "score": {
       "tolmu'i": 0
     }
@@ -42191,7 +42938,11 @@
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を$x_3$（法則／論理／体系）において余儀なく含意する／もたらす； $x_1$は$x_2$を妨げる",
     "ps": 3,
-    "notes": "{to'e} {nibli}。 「lo nu broda cu tolni'i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。",
+    "notes": "。 「lo nu broda cu tolni'i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。",
+    "cf": [
+      "to'e",
+      "nibli"
+    ],
     "score": {
       "tolni'i": 0
     }
@@ -42201,7 +42952,11 @@
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を引き起こす； $x_1$は$x_2$を妨げる",
     "ps": 2,
-    "notes": "{to'e} {rinka}。 「lo nu broda cu tolri'a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。",
+    "notes": "。 「lo nu broda cu tolri'a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。",
+    "cf": [
+      "to'e",
+      "rinka"
+    ],
     "score": {
       "tolri'a": 0
     }
@@ -42213,9 +42968,13 @@
     "ps": 1,
     "notes": "同じ意味の lujvo として {mrena'u} もある。",
     "cf": [
-      "to'e xanri namcu",
-      "mrena'u; xarna'u",
-      "lujna'u; ka'o"
+      "to'e",
+      "xanri",
+      "namcu",
+      "mrena'u",
+      "xarna'u",
+      "lujna'u",
+      "ka'o"
     ],
     "score": {
       "tolxarna'u": 0
@@ -42554,7 +43313,10 @@
     ],
     "def": "$s_1$ は $t_1$ （統治者）・ $t_2$ （民衆／領土）の統治の $s_3$ （思想家）による政治思想／政治理念／イデオロギー",
     "ps": 3,
-    "notes": "{turni} {sidbo}",
+    "cf": [
+      "turni",
+      "sidbo"
+    ],
     "score": {
       "trusi'o": 0
     }
@@ -42654,6 +43416,7 @@
     "ps": 3,
     "cf": [
       "tarbi",
+      "",
       "dembi",
       "grute",
       "jbari",
@@ -42738,8 +43501,9 @@
     ],
     "def": "$x_1$ は $x_2$ （素材）・ $x_3$ （内容）の管／筒／パイプ／シリンダー／チューブ",
     "ps": 3,
-    "notes": "{slanu} と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。",
+    "notes": "と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。",
     "cf": [
+      "slanu",
       "kevna",
       "canlu"
     ],
@@ -42831,9 +43595,9 @@
     "pun": "tu（土）, land",
     "cf": [
       "vacri",
-      "xamsi; tutra",
-      "gugde",
-      "xamsi"
+      "xamsi",
+      "tutra",
+      "gugde"
     ],
     "score": {
       "tumla": 44,
@@ -42984,7 +43748,10 @@
     ],
     "def": "$c_1$ は $c_2=t_1$ （足）の $t_2$ （足の本体）の足首",
     "ps": 2,
-    "notes": "{tuple} {cnebo}",
+    "cf": [
+      "tuple",
+      "cnebo"
+    ],
     "score": {
       "tupne'o": 0
     }
@@ -43033,7 +43800,8 @@
     "cf": [
       "cabra",
       "minji",
-      "se pilno",
+      "se",
+      "pilno",
       "zukte",
       "sazri",
       "salpo",
@@ -43042,17 +43810,17 @@
       "klupe",
       "jendu",
       "xislu",
-      "vraga; forca",
+      "vraga",
+      "forca",
       "smuci",
-      "dakfu; balre",
+      "dakfu",
+      "balre",
       "mruli",
       "cinza",
       "garna",
       "pijne",
       "pambe",
-      "canpa",
-      "pilno",
-      "vraga"
+      "canpa"
     ],
     "score": {
       "tutci": 7,
@@ -43350,11 +44118,13 @@
     "selmaho": "UI*1",
     "selmaho2": "UI",
     "def": "悲嘆 （ ui 幸福 - uinai 悲嘆）",
-    "notes": "心態詞； それについて悲しむ気持； 哀れみの {uu} や後悔の {u'u} と異なる",
+    "notes": "心態詞； それについて悲しむ気持； 哀れみの や後悔の と異なる",
     "exams": [
       "「.ui nai ti pu melbi jarbu／ここは素敵な裏山だったのになあ」"
     ],
     "cf": [
+      "uu",
+      "u'u",
       "badri"
     ],
     "score": {
@@ -43714,6 +44484,7 @@
     "ps": 3,
     "cf": [
       "banli",
+      "",
       "ralju",
       "vamji",
       "dirba",
@@ -43771,6 +44542,7 @@
     "ps": 4,
     "cf": [
       "jdima",
+      "",
       "vajni",
       "kargu",
       "dirba",
@@ -43823,6 +44595,7 @@
     "cf": [
       "va'o",
       "sruri",
+      "",
       "tcini",
       "jibni",
       "jbini"
@@ -44031,8 +44804,10 @@
     ],
     "def": "$x_1$ （売り手） は $x_2$ （品物やサービス）を $x_3$ （買い手）に $x_4$ の額／費用／出費で売る",
     "ps": 4,
-    "notes": "x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。 売りに出す（ fitselve'u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_{1}$ として「所有権を手放す者」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posyve'u}, {posyselve'u}）。 費用と価格の違いについては {jdima} の注を参照。",
+    "notes": "x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。 売りに出す（ fitselve'u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_$ として「所有権を手放す者」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 費用と価格の違いについては の注を参照。",
     "cf": [
+      "12posyve'u",
+      "posyselve'ujdima",
       "canja",
       "dunda",
       "janta",
@@ -44269,11 +45044,13 @@
     "notes": "人間とは限らない。",
     "cf": [
       "cifnu",
+      "",
       "panzi",
       "citno",
       "nanla",
       "nixli",
-      "se rirni",
+      "se",
+      "rirni",
       "bersa",
       "makcu"
     ],
@@ -44293,7 +45070,10 @@
     ],
     "def": "$k_1$ は $k_2=v_1$ （子供）を保育する",
     "ps": 1,
-    "notes": "{verba} {kurji}",
+    "cf": [
+      "verba",
+      "kurji"
+    ],
     "score": {
       "verku'i": 0
     }
@@ -44307,7 +45087,11 @@
     ],
     "def": "$s_1$ は $s_2=k_2=v_1$ （子供）の、 $k_1$ （保育士）の保育所",
     "ps": 1,
-    "notes": "{verba} {kurji} {stuzi}",
+    "cf": [
+      "verba",
+      "kurji",
+      "stuzi"
+    ],
     "score": {
       "verku'istu": 0
     }
@@ -44411,7 +45195,8 @@
     "ps": 1,
     "cf": [
       "skina",
-      "ve tivni"
+      "ve",
+      "tivni"
     ],
     "score": {
       "vidni": 2,
@@ -44432,6 +45217,7 @@
     "pun": "virus ウィルス",
     "cf": [
       "jurme",
+      "",
       "parji"
     ],
     "score": {
@@ -44571,7 +45357,10 @@
     ],
     "def": "$k_1$ は $v_1$ （排泄者）・ $v_2$ （排泄物）のための $k_2$ （建物／構造）内の $k_3$ （壁／天井／床）で仕切られた便所／トイレの部屋",
     "ps": 3,
-    "notes": "{vikmi} {kumfa}",
+    "cf": [
+      "vikmi",
+      "kumfa"
+    ],
     "score": {
       "vimku'a": 0
     }
@@ -44587,7 +45376,12 @@
     ],
     "def": "$p_1=s_1$ は $p_2$ （素材）のオムツ",
     "ps": 2,
-    "notes": "{vikmi} {sivypalku} {sivni} {palku}",
+    "cf": [
+      "vikmi",
+      "sivypalku",
+      "sivni",
+      "palku"
+    ],
     "score": {
       "vimsivypalku": 0
     }
@@ -44699,7 +45493,10 @@
     ],
     "def": "$p_1=v_1$(ウイルス/病原体)は$p_2=v_2$に感染する",
     "ps": 2,
-    "notes": "parjiは{parji}{vidru}",
+    "notes": "parjiは",
+    "cf": [
+      "parjividru"
+    ],
     "score": {
       "virparji": 0
     }
@@ -44720,6 +45517,7 @@
     "pun": "ヴィジョン視覚",
     "cf": [
       "catlu",
+      "",
       "jvinu",
       "zgana",
       "ganse",
@@ -44916,6 +45714,7 @@
     "notes": "物理的な力でなく人格や権威の力。",
     "cf": [
       "jitro",
+      "",
       "tsali",
       "ruble"
     ],
@@ -45059,7 +45858,11 @@
     ],
     "def": "$g_1$ は $v_1$ （対象）を $v_2$ に $v_3$ から戻す／返す",
     "ps": 3,
-    "notes": "さんによる {volve} の再定義（ x1 は x2 に x3 から戻る）に拠る。; {volve} {gasnu}",
+    "notes": "さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。; ",
+    "cf": [
+      "volve",
+      "gasnu"
+    ],
     "score": {
       "volvygau": 0
     }
@@ -45494,7 +46297,11 @@
     ],
     "def": "$r_1=xa_2$ は $r_2$ （障害）のために $r_3$ が制限される身体障害者",
     "ps": 3,
-    "notes": "{xadni} {rinju} {ka'enri'u}",
+    "cf": [
+      "xadni",
+      "rinju",
+      "ka'enri'u"
+    ],
     "score": {
       "xadri'u": 0
     }
@@ -45720,9 +46527,12 @@
     ],
     "def": "$x_1$ は $x_2$ にとって、 $x_3$ （基準）で良い／好ましい",
     "ps": 3,
-    "notes": "「まあまあである／可」は {mlixau}, {norxau}, {xaurselcru}.",
+    "notes": "「まあまあである／可」は .",
     "pun": "よくかむグッド, xau(好), good,bon",
     "cf": [
+      "mlixau",
+      "norxau",
+      "xaurselcru",
       "melbi",
       "xlali",
       "vrude",
@@ -45849,7 +46659,11 @@
     ],
     "def": "$s_1$ は互いに手をつなぐ／握手する",
     "ps": 1,
-    "notes": "{xance} {jgari} {simxu}",
+    "cf": [
+      "xance",
+      "jgari",
+      "simxu"
+    ],
     "score": {
       "xanjaisi'u": 2
     }
@@ -46290,7 +47104,12 @@
     "type": "cmavo",
     "selmaho": "PA2",
     "def": "16進法E/10進法14 ： 数量詞；",
-    "notes": "{rei} は {re} と聞き間違えやすいので、 {rei} の代わりに使われる",
+    "notes": "は と聞き間違えやすいので、 の代わりに使われる",
+    "cf": [
+      "rei",
+      "re",
+      ""
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -46685,7 +47504,8 @@
     "notes": "「ある数」。 no'o と違い、典型的な数であるとは限らない。",
     "cf": [
       "no'o",
-      "zo'e; tu'o",
+      "zo'e",
+      "tu'o",
       "xo",
       "co'e",
       "do'e"
@@ -46776,7 +47596,10 @@
     "type": "lujvo",
     "def": "$c_1$ は $c_2$ （内容）の $c_3$ （著者）の $c_4$ （読者）の $c_5$ （媒体）の絵本",
     "ps": 5,
-    "notes": "{pixra} {cukta}",
+    "cf": [
+      "pixra",
+      "cukta"
+    ],
     "score": {
       "xracku": 0
     }
@@ -46892,7 +47715,11 @@
     ],
     "def": "$k_1=xr_1$ は $k_2=xr_2$ （元の所）へ $k_3=xr_3$ から $k_4$ （経路）を通り $k_5$ （手段）で戻る",
     "ps": 5,
-    "notes": "xorxes さんによる {xruti} の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; {xruti} {klama}",
+    "notes": "xorxes さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; ",
+    "cf": [
+      "xruti",
+      "klama"
+    ],
     "score": {
       "xrukla": 18
     }
@@ -46991,9 +47818,12 @@
     "def": "$x_1$ は臭素 （Br）",
     "ps": 1,
     "cf": [
-      "フッ素 li'orkliru",
-      "塩素 ri'orkliru",
-      "ヨウ素 zirkliru",
+      "フッ素",
+      "li'orkliru",
+      "塩素",
+      "ri'orkliru",
+      "ヨウ素",
+      "zirkliru",
       "xunre",
       "kliru"
     ],
@@ -47181,7 +48011,7 @@
     ],
     "def": "$x_1$ は $x_2$ （性質）において、 $x_3$（基準）で好ましい／すぐれている／実に見事だ／すばらしい／すてきだ／一流だ／傑出している／あっぱれだ／見事だ／称賛に値する／立派だ／望ましい／楽しい／感じのよい／愛すべき／精好だ／クールだ",
     "ps": 3,
-    "notes": "「最高」「ナイス」「イケてる」など。 {mabla}の対義。",
+    "notes": "「最高」「ナイス」「イケてる」など。 の対義。",
     "cf": [
       "mabla",
       "xamgu",
@@ -47450,7 +48280,11 @@
     ],
     "def": "$x_1$ （宿泊者）は $x_2$ （宿泊施設／場所）に泊まる／一時滞在する",
     "ps": 2,
-    "notes": "{zasni} {xabju}; {vitke}",
+    "cf": [
+      "zasni",
+      "xabju",
+      "vitke"
+    ],
     "score": {
       "zasxa'u": 0
     }
@@ -47586,7 +48420,8 @@
       "dinju",
       "ginka",
       "kumfa",
-      "se xabju"
+      "se",
+      "xabju"
     ],
     "score": {
       "zdani": 147,
@@ -47666,7 +48501,11 @@
     "type": "cmavo",
     "selmaho": "SI",
     "def": "cmavo 造成： 2つの単語の間に置き、意味上は前者、文法上は後者と同じになるような新語を形成する",
-    "notes": "「{zo'e} ze'ei {pa}／不特定の数（＝{xo'e}）」",
+    "notes": "「ze'ei ／不特定の数（＝）」",
+    "cf": [
+      "zo'e",
+      "paxo'e"
+    ],
     "experimental": true,
     "unofficial": true,
     "score": {
@@ -47735,7 +48574,15 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言律詩",
     "ps": 3,
-    "notes": "{ze} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {mumvlabivli'i}",
+    "cf": [
+      "ze",
+      "valsi",
+      "bi",
+      "linji",
+      "mumvlavonli'i",
+      "zelvlavonli'i",
+      "mumvlabivli'i"
+    ],
     "score": {
       "zelvlabivli'i": 0
     }
@@ -47745,7 +48592,15 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言絶句",
     "ps": 3,
-    "notes": "{ze} {valsi} {vo} {linji}; {mumvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}",
+    "cf": [
+      "ze",
+      "valsi",
+      "vo",
+      "linji",
+      "mumvlavonli'i",
+      "mumvlabivli'i",
+      "zelvlabivli'i"
+    ],
     "score": {
       "zelvlavonli'i": 0
     }
@@ -48066,9 +48921,12 @@
     "def": "$x_1$ はヨウ素（I）",
     "ps": 1,
     "cf": [
-      "フッ素 li'orkliru",
-      "塩素 ri'orkliru",
-      "臭素 xunkliru",
+      "フッ素",
+      "li'orkliru",
+      "塩素",
+      "ri'orkliru",
+      "臭素",
+      "xunkliru",
       "zirpu",
       "kliru"
     ],
@@ -48595,9 +49453,11 @@
     "pun": "＜ずっとバチカンに居る＞, zai 在",
     "cf": [
       "stuzi",
+      "",
       "jbini",
       "nenri",
-      "se vasru",
+      "se",
+      "vasru",
       "cpana",
       "diklo",
       "jibni",

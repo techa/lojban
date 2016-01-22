@@ -10,7 +10,7 @@ node lib/step1-xml-parser.js
 node lib/step2-xml2js.js
 node lib/step3-make-dictionary.js
 node lib/step4-integrate-frequency.js
-
+node lib/yaml.js
 
 gismu patterns
 -------------

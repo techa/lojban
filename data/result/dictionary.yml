@@ -26,7 +26,7 @@
   def: '無頓着／無愛想 （ a''a 謹聴／注目 - a''acu''i 無頓着／無愛想 - a''anai 忌避）'
   notes: '心態詞； 懇ろさを欠いた気持； 気に留めない情況'
   exams: ['「zo''e .a''acu''i pu ca''o klama／誰だか気に留めなかったが、来ていた人はいた」', '「.a''a cu''i ko denpa lo nu mi mulgau ti／ちょっとこれ終わるまで待ってて」']
-  cf: ['nalju''i', 're''i nai']
+  cf: ['nalju''i', 're''i', nai]
   score: {'a''acu''i': 0}
 -
   word: 'a''anai'
@@ -97,7 +97,7 @@
   def: '努力 （ a''i 努力 - a''icu''i 余裕 - a''inai 休息）'
   notes: '心態詞； 努める、頑張る気持'
   exams: ['「.a''i limna koi lo dukti zbani／なんとか対岸まで泳ぐ」', '「le lenku dilnu cu sutkla a''idai／寒い雲がいそぐ」（山頭火『行乞記（二）』）', '「.a''i mi ze''a ba ralte／このまま頑張る」', '「.a''i mi ba gasnu lo nu do cikna binxo／お前を起こすのは一苦労だ」']
-  cf: [gunka, slunandu, troci, selprogunka, 'fu''i nai']
+  cf: [gunka, slunandu, troci, selprogunka, 'fu''i', nai]
   score: {'a''i': 7}
 -
   word: 'a''icu''i'
@@ -267,7 +267,7 @@
   notes: 意思疎通や話し相手は必ずしも含意しない。
   exams: ['「.a''enai do ranji bacru／きみの長話にはうんざりだ」']
   pun: '＜口走る＞, utter'
-  cf: [krixa, cusku, casnu, tavla, voksa, pinka]
+  cf: [krixa, "", cusku, casnu, tavla, voksa, pinka]
   score: {bacru: 47, bacr: 0, 'ba''u': 0}
 -
   word: badna
@@ -301,7 +301,8 @@
   type: lujvo
   def: '$x_1=b_1$ は $x_2=kerf_2=kerl_2=c_3$ （本体）のもみあげ'
   ps: 3
-  notes: '{bakfu} {co} {kerlo} {crane} {kerfa}. bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。'
+  notes: '. bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。'
+  cf: [bakfu, co, kerlo, crane, kerfa]
   score: {bafcolkercrakre: 0}
 -
   word: bai
@@ -333,7 +334,7 @@
   ja: [中距離走, かけっこ, かけくらべ, 徒競走, マラソン, 長距離走, 短距離走]
   def: '$j_1=b_1$ は $j_2$ （相手）と $j_3$ （事／レース）で $j_4$ （賞）を競って $b_2$ （競技用トラック）を $b_3$ （足）で $b_4$ （調子／足取り）で走って競走する'
   ps: 4
-  notes: '{bajra} {jivna}'
+  cf: [bajra, jivna]
   score: {bajyjvi: 0}
 -
   word: bakfu
@@ -429,7 +430,7 @@
   sense: [量販店]
   def: '$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のスーパー（量販店）／デパート '
   ps: 3
-  notes: '{banli} {zarci}'
+  cf: [banli, zarci]
   score: {balzai: 0}
 -
   word: bancu
@@ -473,7 +474,7 @@
   ps: 3
   exams: ['「.e''o lo jbobau ko bangu／ロジバンを使ってください」']
   pun: '＜晩の愚行＞. language'
-  cf: [tance, cusku, 've tavla', valsi, gerna, jufra, natmi, slaka]
+  cf: [tance, cusku, ve, tavla, valsi, gerna, jufra, natmi, slaka]
   score: {bangu: 50, bang: 0, ban: 1, bau: 0}
 -
   word: banjupunu
@@ -481,7 +482,7 @@
   ja: [日本語, にほんご]
   def: '$x_1$ はコード ISO-639-3 jpn (Japanese) の言語（日本語）'
   ps: 1
-  notes: '{ponbau}'
+  cf: [ponbau]
   score: {banjupunu: 3}
 -
   word: banli
@@ -493,7 +494,7 @@
   notes: 「barda」が客観的な大きさを表すのたいし、「banli」は主観的な大きさ。
   exams: ['「la al,lax. cu banli／アッラーフは偉大なり」']
   pun: '＜万事リーダー＞,  gran'
-  cf: [barda, nobli, 'se sinma', pluja, misno, vajni, fasnu, cizra, traji, mutce, 'se manci']
+  cf: [barda, nobli, se, sinma, pluja, misno, vajni, fasnu, cizra, traji, mutce, manci]
   score: {banli: 101, banl: 0, bal: 32, 'ba''i': 0}
   rank: 155
 -
@@ -591,7 +592,7 @@
   ps: 3
   exams: ['「ko jo''u mi bu''u lo barja cu pinxe／一緒に酒場で飲もう」']
   pun: '＜バー邪魔＞, bar, jian（間）'
-  cf: [gusta, birje, jikru, sanmi, vanju, xotli, ckafi, 'se pinxe']
+  cf: [gusta, birje, jikru, sanmi, vanju, xotli, ckafi, se, pinxe]
   score: {barja: 1, barj: 0}
 -
   word: barkla
@@ -600,7 +601,7 @@
   sense: [外へ出る]
   def: '$k_1$ は $k_3$ （起点）から $k_4$ （経路）・ $k_5$ （方法）で外へ出る'
   ps: 5
-  notes: '{bartu} {klama}'
+  cf: [bartu, klama]
   score: {barkla: 24}
 -
   word: 'barli''a'
@@ -609,7 +610,7 @@
   sense: [外へ去る, 外へ離れる]
   def: '$c_1$ は $c_2=b_2$ の外へ $c_3$ （経路）を通って離れる／去る'
   ps: 3
-  notes: '{bartu} {cliva}'
+  cf: [bartu, cliva]
   score: {'barli''a': 0}
 -
   word: barna
@@ -621,7 +622,7 @@
   notes: '［様式を伴うものは ba''armo''a。］'
   exams: ['「ko catke lo xunre barna／赤い印を押してください」']
   pun: '＜バーない＞, ban(瘢), mark'
-  cf: [sinxa, pixra, 'se ciska', 'se prina']
+  cf: [sinxa, pixra, se, ciska, prina]
   score: {barna: 18, barn: 0, 'ba''a': 0}
 -
   word: bartu
@@ -731,14 +732,14 @@
   ja: [麦湯, 麦茶]
   def: '$c_1$ は $b_2$ （大麦の種類）の麦茶'
   ps: 2
-  notes: '{bavmi} {ckafi}'
+  cf: [bavmi, ckafi]
   score: {bavmyckafi: 0}
 -
   word: baxseljibri
   type: lujvo
   def: '$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員'
   ps: 3
-  notes: '{banxa} {se} {jibri}'
+  cf: [banxa, se, jibri]
   score: {baxseljibri: 1}
 -
   word: baxso
@@ -845,7 +846,7 @@
   type: lujvo
   def: '$br_1$ は $br_2=be_1$ からの $br_3$ （速度）の北風'
   ps: 3
-  notes: '{berti} {brife}'
+  cf: [berti, brife]
   score: {'berbi''e': 0}
 -
   word: bersa
@@ -950,7 +951,7 @@
   type: lujvo
   def: '$x_1=s_1$ は花 $x_2=s_2$ ・成分 $x_3=s_3$ の蜂蜜'
   ps: 3
-  notes: '{bifce} {sakta}'
+  cf: [bifce, sakta]
   score: {bicysakta: 0}
 -
   word: bidju
@@ -975,7 +976,7 @@
   def: '$x_1$ は $x_2$ （種類）のハチ目昆虫'
   ps: 2
   pun: '＜ビーフ・シェア＞. bee, fen(蜂)'
-  cf: ['manti  < cinki (上位概念)', sfani, lakse]
+  cf: [manti, "", '<', cinki, sfani, lakse]
   score: {bifce: 11, bifc: 0, bic: 0}
 -
   word: 'bi''i'
@@ -1057,7 +1058,7 @@
   ps: 3
   exams: ['「.ei binxo lo ka''e frili pilno be lo ka stace .e lo ka lazni／正直と横着とが自由自在に使へるやうにならなければならない」（山頭火『行乞記（二）』）']
   pun: '＜ビンがホット＞, become,  bian(変)'
-  cf: [cenba, galfi, 'stika; zasni']
+  cf: [cenba, galfi, stika, zasni]
   score: {binxo: 181, binx: 0, bix: 3, 'bi''o': 0}
   rank: 112
 -
@@ -1086,7 +1087,7 @@
   def: '$x_1$ は $x_2$ （本体）の腕'
   ps: 2
   pun: '＜ビールかかえる＞,  bi(臂), brazo'
-  cf: [jimca, janco, xance, rebla]
+  cf: [jimca, "", janco, xance, rebla]
   score: {birka: 75, birk: 0, bir: 6}
 -
   word: birti
@@ -1126,7 +1127,7 @@
   def: '新情報 （ bi''u 新情報 - bi''unai 古情報）'
   notes: 心態詞「こういう件があるんですが」
   exams: ['「bi''u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました（振り込め詐欺）」']
-  cf: ['cnino datni']
+  cf: [cnino, datni]
   score: {'bi''u': 87}
 -
   word: 'bi''unai'
@@ -1136,7 +1137,7 @@
   def: '古情報 （ bi''u 新情報 - bi''unai 古情報）'
   notes: 心態詞「あの件についてですが」
   exams: ['「bi''unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」']
-  cf: ['slabu datni']
+  cf: [slabu, datni]
   score: {'bi''unai': 5}
 -
   word: blabi
@@ -1227,7 +1228,7 @@
   type: lujvo
   def: '$x_1$ は $x_2$（もの）のデコボコ面'
   ps: 2
-  notes: '{boxna} {sefta}'
+  cf: [boxna, sefta]
   score: {bonsfe: 0}
 -
   word: botpi
@@ -1342,7 +1343,7 @@
   type: lujvo
   def: '$x_1$ は体が命題を表している人'
   ps: 1
-  notes: '{bridi} {prenu}'
+  cf: [bridi, prenu]
   score: {bripre: 0}
 -
   word: brito
@@ -1361,8 +1362,8 @@
   ja: ['第一 selbri 変数']
   def: 代ブリディその1［$x_1$を始めとするPS全体が文脈次第］
   ps: 1
-  notes: '{cei}を使って{selbri}を代入できる。'
-  cf: ['bu''a', 'bu''e', 'bu''i']
+  notes: を使ってを代入できる。
+  cf: [ceiselbri, 'bu''a', 'bu''e', 'bu''i']
   score: {broda: 11, brod: 0, rod: 0}
 -
   word: brode
@@ -1371,8 +1372,8 @@
   ja: ['第二 selbri 変数']
   def: 代ブリディその2［$x_1$を始めとするPS全体が文脈次第］
   ps: 1
-  notes: '{cei} を使って {selbri} を代入できる。'
-  cf: ['bu''a', 'bu''e', 'bu''i']
+  notes: 'を使って を代入できる。'
+  cf: [cei, selbri, 'bu''a', 'bu''e', 'bu''i']
   score: {brode: 0, brod: 0, 'bo''e': 0}
 -
   word: brodi
@@ -1380,8 +1381,8 @@
   ja: ['第三 selbri 変数']
   def: 代ブリディその3［$x_1$を始めとするPS全体が文脈次第］
   ps: 1
-  notes: '{cei} を使って {selbri} を代入できる。'
-  cf: ['bu''a', 'bu''e', 'bu''i']
+  notes: 'を使って を代入できる。'
+  cf: [cei, selbri, 'bu''a', 'bu''e', 'bu''i']
   score: {brodi: 13, brod: 0}
 -
   word: brodo
@@ -1389,8 +1390,8 @@
   ja: ['第四 selbri 変数']
   def: 代ブリディその4［$x_1$を始めとするPS全体が文脈次第］
   ps: 1
-  notes: '{cei} を使って {selbri} を代入できる。'
-  cf: ['bu''a', 'bu''e', 'bu''i']
+  notes: 'を使って を代入できる。'
+  cf: [cei, selbri, 'bu''a', 'bu''e', 'bu''i']
   score: {brodo: 0, brod: 0}
 -
   word: brodu
@@ -1398,8 +1399,8 @@
   ja: ['第五 selbri 変数']
   def: 代ブリディその5［$x_1$を始めとするPS全体が文脈次第］
   ps: 1
-  notes: '{cei} を使って {selbri} を代入できる。'
-  cf: ['bu''a', 'bu''e', 'bu''i']
+  notes: 'を使って を代入できる。'
+  cf: [cei, selbri, 'bu''a', 'bu''e', 'bu''i']
   score: {brodu: 0, brod: 0}
 -
   word: bruna
@@ -1437,8 +1438,8 @@
   ja: [高階, 3階]
   sense: [述語論理]
   def: '量化型 selbri 変数抽象 ： 抽象詞； bridi の左に付いて、第3階以上の述語論理で使われる束縛 selbri 変数とする'
-  notes: '第1階の述語論理では {zo''e} が定項、 {da} が束縛変項であり、第2階の述語論理では {co''e} が selbri 定数、 {bu''a} が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する {su''u} ・ {bu''ai} はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 {bu''ai} が取る selbri 変数が2個以上になる場合は {ju''e} などで繋げる。 {bu''ai} を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su''o bu''ai xe''u kei su''o bu''a ro da zo''u bu''ai da bu''a （この {xe''u} はNU類を冠頭に置くためのダミー的な {selbrisle}）'
-  cf: ['su''u', 'bu''a; xe''u.']
+  notes: '第1階の述語論理では が定項、 が束縛変項であり、第2階の述語論理では が selbri 定数、 が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する ・ はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 が取る selbri 変数が2個以上になる場合は などで繋げる。 を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su''o bu''ai xe''u kei su''o bu''a ro da zo''u bu''ai da bu''a （この はNU類を冠頭に置くためのダミー的な ）'
+  cf: ['zo''e', da, 'co''e', 'bu''a', 'su''u', 'bu''ai', 'ju''e', 'xe''u', selbrisle, 'xe''u.']
   experimental: true
   unofficial: true
   score: {'bu''ai': 0}
@@ -1606,7 +1607,7 @@
   ps: 3
   notes: 「minji」と違い、自動性が含意されない。
   pun: '＜社のブランド＞, apparatus'
-  cf: [tutci, minji, 'finti; girzu', ganzu, pilno]
+  cf: [tutci, minji, finti, girzu, ganzu, pilno]
   score: {cabra: 1, cabr: 0, 'ca''a': 0}
 -
   word: cacra
@@ -1682,7 +1683,7 @@
   def: '$x_1$ は $x_2$ を覆う、 $x_3$ （成分）の殻'
   ps: 3
   pun: '＜シャーロック＞, シェル, shell,'
-  cf: [pilka, skapi, gacri, bartu]
+  cf: [pilka, "", skapi, gacri, bartu]
   score: {calku: 7, calk: 1, cak: 65}
 -
   word: canci
@@ -1723,9 +1724,9 @@
   sense: [所有権の取引]
   def: '$x_1$ は $x_2$ （差し出す対象）を $x_3$ （受け取る対象）と、 $x_4$ と交換する；  $x_1$ ・ $x_4$ は貿易業者／投機家／相場師／物々交換する者'
   ps: 4
-  notes: '$x_{1}$, $x_{4}$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら {posycanja}）。 やりとりされる費用と価格の違いについては {jdima} の注を参照。'
+  notes: '$x_$, $x_$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら ）。 やりとりされる費用と価格の違いについては の注を参照。'
   pun: exchage
-  cf: [dunda, friti, vecnu, zarci, jdini, pleji, jdima, jerna, 'kargu; jdima', banxa, cirko, janta, kargu, prali, sfasa, zivle]
+  cf: [14posycanjajdima, dunda, friti, vecnu, zarci, jdini, pleji, jdima, jerna, kargu, banxa, cirko, janta, prali, sfasa, zivle]
   score: {canja: 11, canj: 0, caj: 2}
 -
   word: canko
@@ -1835,7 +1836,7 @@
   ps: 3
   notes: 或る総体から分離／分散して落ちること。
   pun: 'rain,lluvia'
-  cf: [sicpi, farlu, bratu, snime, bumru, tcima, dilnu, santa]
+  cf: [sicpi, "", farlu, bratu, snime, bumru, tcima, dilnu, santa]
   score: {carvi: 46, carv: 1, cav: 0}
 -
   word: casnu
@@ -1990,7 +1991,7 @@
   def: '$x_1$ は $x_2$ （性質）に関して $x_3$ （数量／度合）ほど $x_4$ （環境条件）において変化／変質／変身する／変わる'
   ps: 4
   pun: 'cen(参), change'
-  cf: [cenba, galfi, 'stika; stodi', zasni, binxo]
+  cf: [cenba, galfi, stika, stodi, zasni, binxo]
   score: {cenba: 18, cenb: 0, cne: 2}
 -
   word: censa
@@ -2129,7 +2130,7 @@
   ja: [文章表現, 書いて表現する]
   def: '$cu_1=ci_1$ は $cu_2=ci_2$ （文字列／内容）を $cu_3$ （読み手）に向けて $ci_3$ （媒体）に $ci_4$ （道具）で書いて表現する'
   ps: 4
-  notes: '{ciska} {cusku}'
+  cf: [ciska, cusku]
   score: {'ci''asku': 0}
 -
   word: ciblu
@@ -2174,7 +2175,7 @@
   def: '$x_1$ は $x_2$ （肢）・ $x_3$ （本体）の関節（膝／肘／腰／手首／足首）'
   ps: 3
   pun: 'シドニー, knee'
-  cf: [cnebo, korcu, jarco, jganu]
+  cf: [cnebo, "", korcu, jarco, jganu]
   score: {cidni: 17, cidn: 0, cid: 4}
 -
   word: cidro
@@ -2198,7 +2199,7 @@
   type: lujvo
   def: '$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件$x_3=b_3$の下における革命'
   ps: 3
-  notes: '{ciste} {nu} {binxo}'
+  cf: [ciste, nu, binxo]
   score: {'ci''ernunbi''o': 2}
 -
   word: cifnu
@@ -2345,7 +2346,7 @@
   def: '$x_1$ は $x_2$ （種類）のライオン／獅子'
   ps: 2
   pun: シンフォニー
-  cf: ['mlatu  < mabru (上位概念)', tirxu]
+  cf: [mlatu, "", '<', mabru, tirxu]
   score: {cinfo: 190, cinf: 0}
   rank: 107
 -
@@ -2449,7 +2450,7 @@
   def: '$x_1$ は $x_2$ （種類）のトリ綱（ダチョウ／キジ／カモ／カッコウ／オウム／ツバメ／フクロウ／ハト／ツル／コウノトリ／ペリカン／フラミンゴ／ペンギン…目）'
   ps: 2
   pun: shipに鳥
-  cf: ['datka  < gunse (下位概念)', jipci, xruki, nalci, pimlu, danlu, vofli]
+  cf: [datka, "", '<', gunse, jipci, xruki, nalci, pimlu, danlu, vofli]
   score: {cipni: 49, cipn: 0, cpi: 25}
 -
   word: cipnrpaseru
@@ -2617,7 +2618,7 @@
   ja: [コーヒー]
   def: '$x_1$ は $x_2$ （種類）のコーヒー'
   ps: 2
-  cf: [tcati, 'brewed from a leaf', barja, cakla]
+  cf: [tcati, brewed, from, a, leaf, barja, cakla]
   score: {ckafi: 2, ckaf: 0, kaf: 0}
 -
   word: ckaji
@@ -2646,7 +2647,7 @@
   ja: [危険]
   def: '$x_1$ は $x_2$ にとって $x_3$ （条件）において危険；  $x_1$ はおっかない'
   ps: 3
-  cf: ['te bandu', 'te kajde', 'te marbi', 'se snura', 'se xalni']
+  cf: [te, bandu, kajde, marbi, se, snura, xalni]
   score: {ckape: 27, ckap: 0, cap: 3}
 -
   word: ckasu
@@ -2739,7 +2740,7 @@
   ja: [製本, 出版]
   def: '$cup_1$ は $cup_2=cuk_1$ （本）を $cup_3$ （過程）によって出版する／製本する'
   ps: 3
-  notes: '{cukta} {cupra}'
+  cf: [cukta, cupra]
   score: {ckupra: 2}
 -
   word: cladu
@@ -2849,7 +2850,7 @@
   ps: 2
   notes: 「丘」「土手」も。
   pun: 島なし山国
-  cf: [punli, derxi]
+  cf: [punli, "", derxi]
   score: {cmana: 50, cman: 0, 'ma''a': 0}
 -
   word: cmavo
@@ -2946,14 +2947,14 @@
   type: lujvo
   def: '$j_1=c_1$ は $j_2=c_1$ と、 $j_3=c_2$ （感情）を共に覚える点で近い／（感情）に同感する'
   ps: 2
-  notes: '{cinmo} {jibni}; {o''e}'
+  cf: [cinmo, jibni, 'o''e']
   score: {cnijbi: 1}
 -
   word: cnikansa
   type: lujvo
   def: '$k_1$ は $k_2$ と $c_2$ （感情を）共感する'
   ps: 2
-  notes: '{cinmo} {kansa}; {dai}'
+  cf: [cinmo, kansa, dai]
   score: {cnikansa: 2}
 -
   word: cnino
@@ -2962,7 +2963,7 @@
   ja: [新しい]
   def: '$x_1$ は $x_2$ （者）にとって、 $x_3$ （性質）・ $x_4$ （基準）に関して新しい'
   ps: 4
-  cf: [nuzba, slabu, citno, 'se djuno']
+  cf: [nuzba, slabu, citno, se, djuno]
   score: {cnino: 37, cnin: 0, nin: 2, 'ni''o': 2591}
   rank: 7
 -
@@ -3097,7 +3098,7 @@
   ps: 3
   notes: 日本語には適語が無い概念。「galtu」「gapru」との違いに注意。
   pun: 表面でしっぱなし
-  cf: ['se vasru', jbini, zvati, nenri, vreta, ckana, diklo, jibni, lamji, zutse, punji, sarji, zbepi]
+  cf: [se, vasru, jbini, zvati, nenri, vreta, ckana, diklo, jibni, lamji, zutse, punji, sarji, zbepi]
   score: {cpana: 71, cpan: 5}
 -
   word: cpare
@@ -3117,7 +3118,7 @@
   def: '$x_1$ は $x_2$ （事）を $x_3$ （者）に $x_4$ （態度／方法）で頼む'
   ps: 4
   notes: 「依頼」「懇願」「注文」「呼ぶ」など。
-  cf: [pikci, 'te preti', 'te frati', 'se spuda', danfu]
+  cf: [pikci, te, preti, frati, se, spuda, danfu]
   score: {cpedu: 59, cped: 0, cpe: 14}
 -
   word: cpina
@@ -3175,7 +3176,7 @@
   sense: [練習する]
   def: '$zu_1=ze_1$ は $zu_2=c_2$ （事／行為）の練習をする'
   ps: 2
-  notes: '{certu} {zenba} {zukte} {rapcreze''a} {xadyplijvi}'
+  cf: [certu, zenba, zukte, 'rapcreze''a', xadyplijvi]
   score: {'crezenzu''e': 2}
 -
   word: cribe
@@ -3406,7 +3407,7 @@
   ps: 2
   notes: 「あなたには関係のない事でしょ」などの「事」。
   pun: 春闘の催し
-  cf: [fasnu, jikca, srana]
+  cf: [fasnu, "", jikca, srana]
   score: {cuntu: 33, cunt: 0, 'cu''u': 0}
 -
   word: 'cu''o'
@@ -3468,9 +3469,9 @@
   ja: [サンダル, ブーツ, 靴]
   def: '$x_1$ は $x_2$ （足／ひづめ）を覆う／守るための $x_3$ （素材）の靴'
   ps: 3
-  notes: '「ブーツ (={tupcutci})」「サンダル」「下駄」「草履」も。'
+  notes: '「ブーツ (=)」「サンダル」「下駄」「草履」も。'
   pun: シュー小さい
-  cf: [smoka, taxfu, skiji]
+  cf: [tupcutci, smoka, taxfu, skiji]
   score: {cutci: 63, cutc: 0, cuc: 7}
 -
   word: cutne
@@ -3487,7 +3488,7 @@
   ja: [サロペット, つなぎ, オーバーオール]
   def: '$p_1=g_1$ は $p_2$ （素材）のオーバーオール'
   ps: 2
-  notes: '{cutne} {gacri} {palku}'
+  cf: [cutne, gacri, palku]
   score: {cutygaipalku: 0}
 -
   word: 'cu''u'
@@ -3591,7 +3592,7 @@
   def: '非現実 （ da''i 非現実 - da''inai 現実）'
   notes: '心態詞（談話系）； 「もし~なら」「仮に～」'
   exams: ['「da''i trina lo nalglico selbangu／仮に非英語話者を惹きつけられたら」', '「lonu da''i la betis. klama le te salci cu vajni lenu la bil. gleki／ビルが喜ぶには、ベティがパーティに来ることが重要だった（実際には来なかった）」', '「lo li''i pu da''i lifri／既視体験」']
-  cf: ['xanri; da''inai']
+  cf: [xanri, 'da''inai']
   score: {'da''i': 186}
   rank: 110
 -
@@ -3604,7 +3605,7 @@
   def: '現実 （ da''i 非現実 - da''inai 現実）'
   notes: '心態詞（談話系）； 「実際～」「本当に～」'
   exams: ['「da''inai fatci nanba .i e''u ko citka／本物のパンです。どうぞ召し上がれ。」', '「le si''o sidju cu cinri mi .i ku''i da''inai du''eda cuntu mi／援助には興味あるけど、実際にはやることが多すぎてね」']
-  cf: ['fatci; da''i']
+  cf: [fatci, 'da''i']
   score: {'da''inai': 0}
 -
   word: dakfu
@@ -3821,9 +3822,9 @@
   ja: [着用]
   def: '$x_1$ は $x_2$ を $x_3$ （着用様式）で着ている／履いている／被っている／身に付けている'
   ps: 3
-  notes: '身に着けている状態を表す。 「{co''a} {dasni}／着る」「{co''u} {dasni}／脱ぐ」 $x_2$ は、 {taxfu} と違って、着用目的で作られたものでなくても構わない。'
+  notes: '身に着けている状態を表す。 「／着る」「／脱ぐ」 $x_2$ は、 と違って、着用目的で作られたものでなくても構わない。'
   pun: ＜ダサいニット＞
-  cf: [taxfu]
+  cf: ['co''a', 'dasnico''u', dasnitaxfu, taxfu]
   score: {dasni: 79, dasn: 0, das: 8}
 -
   word: daspo
@@ -3853,7 +3854,7 @@
   def: '$x_1$ は $x_2$ （種類）のアヒル'
   ps: 2
   pun: ダチョウか
-  cf: ['gunse  < cipni (上位概念)']
+  cf: [gunse, "", '<', cipni]
   score: {datka: 4, datk: 3}
 -
   word: datni
@@ -3909,8 +3910,8 @@
   type: cmavo
   selmaho: ROI
   def: 左の数量詞について基準日（デフォルトは発話時点の日、「今日」）から何番目の日かを表す。
-  notes: '「{ni''u} de''ei／昨日」「{no} de''ei／今日」「{pa} de''ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。'
-  cf: ['zu''oi', djedi]
+  notes: '「de''ei／昨日」「de''ei／今日」「de''ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。'
+  cf: ['ni''u', no, pa, 'zu''oi', djedi]
   experimental: true
   unofficial: true
   score: {'de''ei': 0}
@@ -4030,7 +4031,7 @@
   type: lujvo
   def: '$g_1$ は地面よりも上'
   ps: 1
-  notes: '{dertu} {gapru}'
+  cf: [dertu, gapru]
   score: {dergapru: 0}
 -
   word: dertu
@@ -4049,7 +4050,7 @@
   def: '$x_1$ は $x_2$ （物質）・ $x_3$ （所）の堆積／やま／積み重ね'
   ps: 3
   pun: 出る杭の堆積物
-  cf: [cmana]
+  cf: [cmana, ""]
   score: {derxi: 14, derx: 0, dre: 1}
 -
   word: desku
@@ -4068,7 +4069,8 @@
   sense: [同じ日付の再来]
   def: '日付 [日、週、月、年] $x_1=d_1=k_1$ は、 最初の事象 $x_2=d_2$ の日付 [日、週、月、年] の繰り返し／再来、 $x_3=k_3$回目の、 $x_4$ （体系）における。'
   ps: 4
-  notes: '{detri} zei {krefu}。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi''e pano pi''e re detke''u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke''u lo nu la gandis noi banli cu jbena kei li pa zo''e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke''u lo nu lo mamymamta cu mrobi''o kei zo''e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke''u tu''a lo festi zo''e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke''u lo nu lo morsi jelgau stuzi cu cando kei zi''o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）'
+  notes: 'zei 。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi''e pano pi''e re detke''u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke''u lo nu la gandis noi banli cu jbena kei li pa zo''e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke''u lo nu lo mamymamta cu mrobi''o kei zo''e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke''u tu''a lo festi zo''e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke''u lo nu lo morsi jelgau stuzi cu cando kei zi''o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）'
+  cf: [detri, krefu]
   score: {'detke''u': 0}
 -
   word: detri
@@ -4254,7 +4256,7 @@
   ja: [Rn, ラドン]
   def: '$x_1$ はラドン (Rn)'
   ps: 1
-  notes: '{dirce} {navni}; {ratni}'
+  cf: [dirce, navni, ratni]
   score: {dircynavni: 0}
 -
   word: dirgo
@@ -4317,7 +4319,7 @@
   ja: [新聞, 日刊紙]
   def: '$k_1$ は $k_2$ （内容）・ $k_3$ （出版社）・ $k_4$ （読者）の日刊紙'
   ps: 4
-  notes: '{djedi} {karni}'
+  cf: [djedi, karni]
   score: {djekarni: 4}
 -
   word: djica
@@ -4326,8 +4328,8 @@
   ja: [欲求, 欲する]
   def: '$x_1$ は $x_2$ （事）を $x_3$ （目的）のために欲する／求める；　$x_1$ は $x_3$ （目的）のために $x_2$ （事）という欲求を満たしたい'
   ps: 3
-  notes: 'x2にモノを入れたい場合は、{tu''a} や {zo''e} {pe} を使う。本能的欲求も。'
-  cf: [taske, xagji, mukti, nitcu, nelci, pacna, prami, rigni, trina, xebni, xlura]
+  notes: 'x2にモノを入れたい場合は、や を使う。本能的欲求も。'
+  cf: ['tu''a', 'zo''e', pe, taske, xagji, mukti, nitcu, nelci, pacna, prami, rigni, trina, xebni, xlura]
   score: {djica: 185, djic: 0, dji: 41}
   rank: 87
 -
@@ -4346,7 +4348,7 @@
   ja: [知る]
   def: '$x_1$ は $x_2$ （命題）・ $x_3$ （題目）を $x_4$ （認識体系）で知る'
   ps: 4
-  cf: ['se slabu', 'na''e cnino', 'na''e fange; du''o', cilre, certu, facki, jijnu, jimpe, senpi, smadi, kakne, birti, mipri, morji, saske, viska]
+  cf: [se, slabu, 'na''e', cnino, fange, 'du''o', cilre, certu, facki, jijnu, jimpe, senpi, smadi, kakne, birti, mipri, morji, saske, viska]
   score: {djuno: 233, djun: 0, jun: 74, 'ju''o': 0}
   rank: 68
 -
@@ -4475,7 +4477,7 @@
   ja: [屋根]
   def: '$x_1$ は $x_2$ （本体）の屋根／天井／屋上／蓋'
   ps: 2
-  cf: [bitmu, stedu, galtu, gapru, loldi, marbi, gacri, 'mapku; drudi', mapku]
+  cf: [bitmu, stedu, galtu, gapru, loldi, marbi, gacri, mapku, drudi]
   score: {drudi: 24, drud: 0, rud: 1, dru: 7}
 -
   word: du
@@ -4857,7 +4859,7 @@
   sense: [陸地の探検, 陸地の探険]
   def: '$l_1=f_1$ は $l_2=t_1$ （土地）を $l_3$ （方法）で、 $f_2$ （命題）を発見しながら探検する'
   ps: 3
-  notes: '{facki} {tumla} {litru}'
+  cf: [facki, tumla, litru]
   score: {'faktumli''u': 0}
 -
   word: falnu
@@ -4903,7 +4905,7 @@
   ja: [Xe, キセノン]
   def: '$x_1$ はキセノン (Xe)'
   ps: 1
-  notes: '{fange} {navni}; {ratni}'
+  cf: [fange, navni, ratni]
   score: {fangynavni: 0}
 -
   word: fanmo
@@ -4923,7 +4925,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ （材料）から製造する工場／鋳造工場／工業プラント／製作所'
   ps: 3
   pun: ＜ファンをリクルート＞factory
-  cf: [molki, gundi]
+  cf: [molki, "", gundi]
   score: {fanri: 1, fanr: 0}
 -
   word: fanta
@@ -4984,9 +4986,9 @@
   ja: [落ちる, 落下]
   def: '$x_1$ は $x_2$ に $x_3$ から、 $x_4$ （照合枠／重力井戸）において落ちる／降る'
   ps: 4
-  notes: '「落とす」は {falcru}, {falri''a}.'
+  notes: '「落とす」は .'
   pun: '＜ファー（毛皮）、ルーズ＞, furu'
-  cf: [lafti, cpare, klama, sfubu]
+  cf: [falcru, 'falri''a', lafti, cpare, klama, sfubu]
   score: {farlu: 82, farl: 0, fal: 22, 'fa''u': 0}
   rank: 209
 -
@@ -5017,7 +5019,7 @@
   def: '$x_1$ は事／出来事／事件／事象／現象；  $x_1$ は起こる／生じる／発生する'
   ps: 1
   pun: 'fan(発), happen'
-  cf: [fau, krefu, lifri, fatci, 'rapli; gasnu', zukte, banli]
+  cf: [fau, krefu, lifri, fatci, rapli, gasnu, zukte, banli]
   score: {fasnu: 69, fasn: 0, fau: 0}
 -
   word: fatci
@@ -5071,7 +5073,7 @@
   ja: [ごめんなさい, 許して, ごめん]
   sense: [許しを請う]
   def: ごめんなさい
-  notes: '{fraxu}, {u''u}'
+  cf: [fraxu, 'u''u']
   experimental: true
   unofficial: true
   score: {'fau''u': 0}
@@ -5310,7 +5312,7 @@
   ja: [コンビニ, コンビニエンスストア]
   def: '$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のコンビニ'
   ps: 3
-  notes: '{frili} {zarci}'
+  cf: [frili, zarci]
   score: {filzai: 0}
 -
   word: finpe
@@ -5375,7 +5377,7 @@
   ja: [政党, 議会政党]
   def: '$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための議会政党'
   ps: 3
-  notes: '{flalu} {jecyxlube''e} {jecta} {xlura} {bende}'
+  cf: [flalu, 'jecyxlube''e', jecta, xlura, bende]
   score: {'flajecyxlube''e': 0}
 -
   word: flakamni
@@ -5383,7 +5385,7 @@
   ja: [審議, 議会, 議案]
   def: '$k_1=f_5$ は、 $f_1$ （法律／条令）を制定するための $k_3=f_3$ （共同体）の議会'
   ps: 5
-  notes: '{flalu} {kamni}'
+  cf: [flalu, kamni]
   score: {flakamni: 0}
 -
   word: flalu
@@ -5409,7 +5411,7 @@
   type: lujvo
   def: '$x_1$ は $x_2$ を押し流す $x_3$ の流れ'
   ps: 3
-  notes: '{flecu} {catke}'
+  cf: [flecu, catke]
   score: {'fleca''e': 0}
 -
   word: flecu
@@ -5492,7 +5494,8 @@
   type: lujvo
   def: $g_1$は$g_2=f_1$(電話)・$f_2$(ネットワーク／システム)で電話する
   ps: 2
-  notes: 'f_2には電話会社や回線名など。 同じような意味を持つlujvoに{fonpli}がある。 BAI類のひとつであるtecu''uを用いて電話の着信者を指定できる。'
+  notes: 'f_2には電話会社や回線名など。 同じような意味を持つlujvoにがある。 BAI類のひとつであるtecu''uを用いて電話の着信者を指定できる。'
+  cf: [fonpli]
   score: {fongau: 0}
 -
   word: fonmo
@@ -5510,7 +5513,8 @@
   type: lujvo
   def: $p_1$は$p_2=f_1$(電話)を$p_3$(目的)のために$f_2$(ネットワーク／システム)で使う
   ps: 3
-  notes: 'p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoに{fongau}がある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』'
+  notes: 'p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoにがある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』'
+  cf: [fongau]
   score: {fonpli: 0}
 -
   word: fonxa
@@ -5617,8 +5621,7 @@
   type: lujvo
   def: '$x_1$ は有理数'
   ps: 1
-  notes: '{frinu} {namcu}'
-  cf: ['tolfrinyna''u', 'xarna''u', 'tolxarna''u', 'mrena''u', 'lujna''u']
+  cf: [frinu, namcu, 'tolfrinyna''u', 'xarna''u', 'tolxarna''u', 'mrena''u', 'lujna''u']
   score: {'frinyna''u': 0}
 -
   word: friti
@@ -5773,7 +5776,7 @@
   ps: 2
   notes: 「仮面」なども。
   pun: がっしり覆う
-  cf: [pilka, gapru, marbi, drudi, 've botpi', bitmu, calku]
+  cf: [pilka, gapru, marbi, drudi, ve, botpi, bitmu, calku]
   score: {gacri: 47, gacr: 0, gai: 0}
 -
   word: gadri
@@ -5831,7 +5834,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ に改変する／変える'
   ps: 3
   notes: 「cenba」と違い、他動的で、結果が含意される。
-  cf: [stika, binxo, 'cenba; zasni']
+  cf: [stika, binxo, cenba, zasni]
   score: {galfi: 22, galf: 0, gaf: 1, 'ga''i': 0}
 -
   word: galtu
@@ -5978,7 +5981,8 @@
   type: lujvo
   def: '$x_1$ （事／経験）は $x_2$ （者）を欺いて／騙して $x_3$ （性質）を感じさせる感覚機能 $x_4$ に関する条件 $x_5$ の下での錯覚'
   ps: 5
-  notes: '$x_1$ が物である場合は jai gastcica; {ganse} {tcica}; {prugastcica}, {narprugastcica}'
+  notes: '$x_1$ が物である場合は jai gastcica; '
+  cf: [ganse, tcica, prugastcica, narprugastcica]
   score: {gastcica: 0}
 -
   word: gau
@@ -6076,7 +6080,7 @@
   def: '$x_1$ は $x_2$ （種類）のイヌ科動物（オオカミ／イエイヌ／コヨーテ／ジャッカル／リカオン／タヌキ／キツネ等）'
   ps: 2
   pun: ＜下痢で苦しむ＞狗
-  cf: [lorxu, labno, mlatu]
+  cf: [lorxu, "", labno, mlatu]
   score: {gerku: 38, gerk: 0, ger: 13, 'ge''u': 0}
 -
   word: gerna
@@ -6116,7 +6120,7 @@
   def: '$x_1$ （者／物／事）は $x_2$ （者）を $x_3$ （事）について案内する'
   ps: 3
   notes: 'x1は案内者だが、 x2 の行動を制限／支配する指揮者（jatna）とは区別される。'
-  cf: [jitro, ralju, sazri, 'te bende', jatna, fukpi, morna]
+  cf: [jitro, ralju, sazri, te, bende, jatna, fukpi, morna]
   score: {gidva: 22, gidv: 0, gid: 0, 'gi''a': 0}
 -
   word: 'gi''e'
@@ -6223,8 +6227,8 @@
   ja: [エッチ, つがう, やる, セックス, 交尾, 性交]
   def: '$x_1$ は $x_2$ と性交／交尾／セックスする'
   ps: 2
-  notes: '比喩的に「（対称物の）合体」も。 {cpanygle}=マウンティング.'
-  cf: [cinse, pinji, plibu, vibna, vlagi, mabla, speni]
+  notes: '比喩的に「（対称物の）合体」も。 =マウンティング.'
+  cf: [cpanygle, cinse, pinji, plibu, vibna, vlagi, mabla, speni]
   score: {gletu: 14, glet: 0, let: 0, gle: 10}
 -
   word: 'gleve''u'
@@ -6241,8 +6245,8 @@
   ja: [英語]
   def: '$x_1$ は $x_2$ （性質面）に関して英語系（言語／文化／民族／地理）'
   ps: 2
-  notes: '{gligu''e}=イングランド, gligli-=ブリティッシュ・イングリッシュ系, {gliglibau}=ブリティッシュ・イングリッシュ'
-  cf: [brito=UK, merko, sralo, kadno, skoto]
+  notes: '=イングランド, gligli-=ブリティッシュ・イングリッシュ系, =ブリティッシュ・イングリッシュ'
+  cf: ['gligu''egliglibau', brito=UK, merko, sralo, kadno, skoto]
   score: {glico: 9, glic: 0, gic: 1, gli: 8}
 -
   word: gluta
@@ -6386,7 +6390,7 @@
   def: '$x_1$ は $x_2$ （種類）の果実／フルーツ'
   ps: 2
   pun: 果実グルテン
-  cf: [badna, dembi, figre, guzme, narge, perli, pilka, plise, spati, stagi, tamca, tsiju, tarbi, panzi, rorci, 'te pruce', jbari, nimre]
+  cf: [badna, dembi, figre, guzme, narge, perli, pilka, plise, spati, stagi, tamca, tsiju, tarbi, panzi, rorci, te, pruce, jbari, nimre]
   score: {grute: 20, grut: 0, rut: 8}
 -
   word: gu
@@ -6414,7 +6418,7 @@
   sense: [生産手段共有化の思想]
   def: '$s_1$ は $t_2$ （民衆／領土）の統治の、 $s_3$ （思想家）による生産手段共有化の思想、共産主義、社会主義'
   ps: 3
-  notes: '{gubni} {gundi} {trusi''o} {turni} {sidbo}'
+  cf: [gubni, gundi, 'trusi''o', turni, sidbo]
   score: {'gubgudytrusi''o': 0}
 -
   word: gubni
@@ -6446,7 +6450,7 @@
   type: 'fu''ivla'
   def: '$x_1$ はコード ISO-3166 CN (China) の、 $x_2$ （民衆）からなる国（中国）'
   ps: 2
-  notes: '{jugygu''e} {djunguos} {xa''anzu}'
+  cf: ['jugygu''e', djunguos, 'xa''anzu']
   score: {gugdecunu: 0}
 -
   word: gugdejupu
@@ -6490,7 +6494,7 @@
   def: '$x_1$ は $x_2$ （動作／行動）を $x_3$ （目的／目標）のために働く／労働／勤務する；  $x_1$ は労働者'
   ps: 3
   pun: '軍歌, gun（工）, work'
-  cf: [sazri, gasnu, 'se jibri; zukte; ni muvyselbai', briju, jibri, lazni, selfu]
+  cf: [sazri, gasnu, se, jibri, zukte, ni, muvyselbai, briju, lazni, selfu]
   score: {gunka: 40, gunk: 1, gun: 1, 'gu''a': 0}
 -
   word: gunma
@@ -6677,7 +6681,7 @@
   def: '叱責 （ i''a 受容 - i''anai 叱責）'
   notes: '心態詞； それを受け容れずに責める／咎める／拒否する気持'
   exams: ['「.i''a nai ta mi za''o na mansa／いや、それでもまだ不満だ」']
-  cf: [tolselmansa, 'fi''i nai']
+  cf: [tolselmansa, 'fi''i', nai]
   score: {'i''anai': 0}
 -
   word: ibu
@@ -6851,7 +6855,7 @@
   def: '尊敬 （ io 尊敬 - ionai 軽蔑）'
   notes: '心態詞； それを敬う気持'
   exams: ['「.io ko mi jersi doi nolnau／旦那様、どうぞこちらへ」']
-  cf: [sinma, clite, 'ga''i nai']
+  cf: [sinma, clite, 'ga''i', nai]
   score: {io: 21}
 -
   word: 'i''o'
@@ -6971,7 +6975,7 @@
   type: lujvo
   def: '$b_1=j_1$ は $b_2$ （素材）の $j_2$ （音）を奏でる鈴'
   ps: 2
-  notes: '{janbe} {bolci}'
+  cf: [janbe, bolci]
   score: {jabyboi: 0}
 -
   word: 'jacre''ipenbi'
@@ -6980,7 +6984,7 @@
   sense: [ペン]
   def: '$x_1=p_1$ は手順 $x_2=p_3$ に従って使われる油性ペン／マーカー'
   ps: 3
-  notes: '{djacu} {renvi} {penbi}'
+  cf: [djacu, renvi, penbi]
   score: {'jacre''ipenbi': 2}
 -
   word: jadni
@@ -7042,7 +7046,7 @@
   ja: [結果]
   def: '$x_1$ （事）は $x_2$ （事）の結果／結末；  $x_2$ は $x_1$ に終結する'
   ps: 2
-  cf: ['se mukti', 'te zukte', 'se rinka', 'se krinu', 'se nibli', mulno, sumji, pilji, mekso, 'ja''e', ciksi]
+  cf: [se, mukti, te, zukte, rinka, krinu, nibli, mulno, sumji, pilji, mekso, 'ja''e', ciksi]
   score: {jalge: 44, jalg: 0, jag: 0, 'ja''e': 0}
 -
   word: jalna
@@ -7149,7 +7153,7 @@
   ja: [郊外]
   def: '$x_1$ は $x_2$ （都市）の郊外／都市近郊'
   ps: 2
-  cf: [nurma, 'se tcadu', 've tcadu']
+  cf: [nurma, se, tcadu, ve]
   score: {jarbu: 0, jarb: 0}
 -
   word: jarco
@@ -7176,7 +7180,7 @@
   ja: [旅券]
   def: '$x_1$ は $x_2$ （者）の、 $x_3$ （権限）によって $x_4$ （行動）を認可された旅券／パスポート'
   ps: 4
-  cf: [pikta, catni, curmi]
+  cf: [pikta, "", catni, curmi]
   score: {jaspu: 0, jasp: 0, jap: 0}
 -
   word: jatna
@@ -7187,7 +7191,7 @@
   ps: 2
   notes: 'x2 は指揮対象も。'
   pun: 長じゃとな！？
-  cf: [jitro, lidne, 'te bende', minde, ralju, gidva, bloti]
+  cf: [jitro, lidne, te, bende, minde, ralju, gidva, bloti]
   score: {jatna: 29, jatn: 0, 'ja''a': 0}
 -
   word: jau
@@ -7202,14 +7206,14 @@
   sense: [上水道や中水道の水道管]
   def: '$t_1$ は $t_2$ （素材）の、上水道や中水道の水道管／給水管'
   ps: 2
-  notes: '{djacu} {sabji} {tubnu}'
+  cf: [djacu, sabji, tubnu]
   score: {'jaursabytu''u': 0}
 -
   word: 'jaursabytu''uvro'
   type: lujvo
   def: '$v_1$ は水道の蛇口'
   ps: 1
-  notes: '{jaursabytu''u} {vorme} {djacu} {sabji} {tubnu}'
+  cf: ['jaursabytu''u', vorme, djacu, sabji, tubnu]
   score: {'jaursabytu''uvro': 0}
 -
   word: javni
@@ -7267,21 +7271,22 @@
   ps: 3
   notes: 「midju」と違い、何かに挟まれていることが特に意味される。x3は配列や力など。
   pun: 'jian(間), between'
-  cf: ['se vasru', nenri, zvati, cpana, snuji, senta, bitmu, jimte, kuspe, jibni, lamji, sruri, vanbi, midju, cmima, setca]
+  cf: [se, vasru, nenri, zvati, cpana, snuji, senta, bitmu, jimte, kuspe, jibni, lamji, sruri, vanbi, midju, cmima, setca]
   score: {jbini: 34, jbin: 0, bin: 0, 'bi''i': 0}
 -
   word: jborida
   type: 'fu''ivla'
   def: '$x_1$ は $x_2$ （表現者）によって具現化した $x_3$（性格／気質／容姿）の ロジバン妖精'
   ps: 3
-  notes: '【joke】{lojbo} + {crida}から。※PSは完全に暫定的。'
+  notes: '【joke】+ から。※PSは完全に暫定的。'
+  cf: [lojbo, crida]
   score: {jborida: 0}
 -
   word: jboselkei
   type: lujvo
   def: '$x_1=l_1=s_1$ はプレイヤー $x_2=s_2$ の、 $x_3=l_2$（性質面）に関してロジバン系のゲーム'
   ps: 2
-  notes: '{lojbo} {se} {kelci}'
+  cf: [lojbo, se, kelci]
   score: {jboselkei: 0}
 -
   word: jdari
@@ -7317,8 +7322,8 @@
   rafsi: {CVV: 'di''a'}
   ja: [価格, 値段]
   def: '量 $x_{1}$ は商品 $x_{2}$ の、買い手 $x_{3}$ に対して売り手 $x_{4}$ が設定した価格／値段'
-  notes: '$x_{2}$ は物や事象、性質など。 商品の所有権という概念から、 $x_{1}$ として「所有権の価格」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posydi''a}, {posyseldi''a}）。 jdima の価格 $x_{1}$ は売り手 $x_{4}$ が決めるのに対して、 {friti} の条件 $x_{4}$ は受け取る者が決めても良い。 jdima の価格 $x_{1}$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は {vecnu} の $x_{4}$ や {canja} の $x_{2}$, $x_{3}$ に相当する。 またこれらの概念は、価値を表す {vamji} とは直接関係ない。'
-  cf: [canja, friti, janta, jdini, kargu, pleji, 'dapma; 「価値」は vamji; 実際の取引価格・費用は ve vecnu; canja', fepni, jerna, jinga, prali, rupnu, sfasa, vamji]
+  notes: '$x_$ は物や事象、性質など。 商品の所有権という概念から、 $x_$ として「所有権の価格」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 jdima の価格 $x_$ は売り手 $x_$ が決めるのに対して、 の条件 $x_$ は受け取る者が決めても良い。 jdima の価格 $x_$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は の $x_$ や の $x_$, $x_$ に相当する。 またこれらの概念は、価値を表す とは直接関係ない。'
+  cf: ['212posydi''a', 'posyseldi''a14friti', 41vecnu, 4canja, 23vamji, canja, friti, janta, jdini, kargu, pleji, dapma, 「価値」は, vamji, 実際の取引価格・費用は, ve, vecnu, fepni, jerna, jinga, prali, rupnu, sfasa]
   score: {jdima: 4, jdim: 0, 'di''a': 0}
 -
   word: jdini
@@ -7363,7 +7368,7 @@
   sense: [政体に関わるもの]
   def: '$s_1$ は $j_2$ （領域）の政体に関わるもの／政治的なもの'
   ps: 2
-  notes: '{jecta} {srana}'
+  cf: [jecta, srana]
   score: {'jecra''a': 0}
 -
   word: jecta
@@ -7380,7 +7385,7 @@
   type: lujvo
   def: '$b_1$ は $b_2$ （職員）の $j_2$ （行政領域）の役所'
   ps: 2
-  notes: '{jecta} {briju}'
+  cf: [jecta, briju]
   score: {jecybriju: 0}
 -
   word: 'jecyxlube''e'
@@ -7388,7 +7393,7 @@
   ja: [利益団体, 圧力団体, 政治団体]
   def: '$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための政治団体／圧力団体／利益団体'
   ps: 3
-  notes: '{jecta} {xlura} {bende}'
+  cf: [jecta, xlura, bende]
   score: {'jecyxlube''e': 0}
 -
   word: 'je''e'
@@ -7482,7 +7487,7 @@
   ja: [軸]
   def: '$x_1$ は $x_2$ （回転物）・ $x_3$ （素材）の軸／車軸／心棒／つむ／スピンドル／シャフト'
   ps: 3
-  cf: ['se carna', gunro, tutci]
+  cf: [se, carna, gunro, tutci]
   score: {jendu: 1, jend: 0, jed: 1}
 -
   word: jenmi
@@ -7541,7 +7546,7 @@
   type: lujvo
   def: '$s_1$は$s_2$（種）の茨 / 棘のある茎'
   ps: 2
-  notes: '{stani} {jesni}'
+  cf: [stani, jesni]
   score: {jesystani: 0}
 -
   word: jetce
@@ -7573,7 +7578,7 @@
   def: '真実 （ je''u 真実 - je''unai 虚偽）'
   notes: 心態詞（談話系）
   exams: ['「je''u pei／まじで？」', '「je''u zukte tu''a lo nabmi se bilga .i po''o pu nai ca sanji lo si''o bevri ri ti／本当に宿題やりました。持ってくるのを忘れただけです。」', '「.ue mi pu krici lo du''u do se bloti lo je''u te falnu／えっ、あなたが乗ってきたボートが本当に帆で動いていると思い込んでいたよ」']
-  cf: ['jetnu; da''inai']
+  cf: [jetnu, 'da''inai']
   score: {'je''u': 76}
 -
   word: 'je''unai'
@@ -7585,7 +7590,7 @@
   def: '虚偽 （ je''u 真実 - je''unai 虚偽）'
   notes: 心態詞（談話系）いわゆる（真実はそうではない）
   exams: ['「mi terpa lo cidjrmanju .i ca terpa lo glare tcati je''unai／まんじゅう怖い。今は濃いお茶が怖い（嘘）。」', '「le je''unai palci cu xanri le menli poi na jimpe le manku sevzi／いわゆる悪というのは、暗黒の自己を理解できない心が見る幻だ」']
-  cf: ['jitfa; da''i']
+  cf: [jitfa, 'da''i']
   score: {'je''unai': 0}
 -
   word: jgalu
@@ -7673,7 +7678,7 @@
   def: 追加
   notes: 心態詞（談話系）「～も」「～だって」
   exams: ['「lo plise cu xamgu lo nu kanro .i ji''a py. kukte／林檎は健康に良いし、それに美味しい」', '「mi ji''a nelci lo plise／私も林檎が好きだ」']
-  cf: ['jmina; ji''asai']
+  cf: [jmina, 'ji''asai']
   score: {'ji''a': 264}
   rank: 77
 -
@@ -7684,7 +7689,7 @@
   def: さえも
   notes: 心態詞（談話系）
   exams: ['「lo smani ji''a sai cu farlu fi lo tricu／猿も木から落ちる」', '「lo xagji cribe cu citka lo cinki ku ji''a sai／飢えた熊は虫さえも食べる」']
-  cf: ['ji''a sai']
+  cf: ['ji''a', sai]
   score: {'ji''asai': 1}
 -
   word: jibni
@@ -7705,7 +7710,7 @@
   def: '$x_1$ は $x_2$ （者）の職／仕事；  $x_2$ は $x_1$ に就職している'
   ps: 2
   pun: ジブリの職
-  cf: [briju, gunka, 'te jerna', 'te pilno', 'se gasnu', 'se zukte']
+  cf: [briju, gunka, te, jerna, pilno, se, gasnu, zukte]
   score: {jibri: 19, jibr: 0, jib: 1}
 -
   word: jicla
@@ -7796,7 +7801,7 @@
   type: lujvo
   def: '$b_1=m_2=j_1$ は $b_3$ （分類の） $b_2$ （症状）の自閉症の者'
   ps: 3
-  notes: '{jikca} {menbi''a} {menli} {bilma} {ka''enri''u}'
+  cf: [jikca, 'menbi''a', menli, bilma, 'ka''enri''u']
   score: {'jikmenbi''a': 0}
 -
   word: jikru
@@ -8046,7 +8051,8 @@
   ja: [なれずし, 漬物, ピクルス]
   def: '$x_1=v_1=c_1$ は $x_2=j_2$ に漬けた保存食'
   ps: 2
-  notes: '$x_2=j_2$ は塩 (= {silna})・酢 (= {slami})・アルコール (= {xalka})・砂糖 (= {sakta})・蜂蜜 (= {bicysakta})・醤油 (= {sobysanso})・味噌 (= {furso''epesxu})・麹 (= {mledi} {pesxu}) など。 {jinru} {vitno} {cidja}, {slamystogau}.'
+  notes: '$x_2=j_2$ は塩 (= )・酢 (= )・アルコール (= )・砂糖 (= )・蜂蜜 (= )・醤油 (= )・味噌 (= )・麹 (= ) など。 .'
+  cf: ['silnaslamixalkasaktabicysaktasobysansofurso''epesxumledi', pesxujinru, vitno, cidja, slamystogau]
   score: {'jirvi''odja': 0}
 -
   word: jisra
@@ -8076,7 +8082,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ （動作／事）に関して制御／指揮／引率する'
   ps: 3
   pun: control
-  cf: [bapli, vlipa, xlura, turni, minde, gidva, 'te bende', jatna, macnu, ponse, ralju, rinka, sazri, xance]
+  cf: [bapli, "", vlipa, xlura, turni, minde, gidva, te, bende, jatna, macnu, ponse, ralju, rinka, sazri, xance]
   score: {jitro: 25, jitr: 0, tro: 47}
 -
   word: 'ji''u'
@@ -8431,7 +8437,7 @@
   def: '$x_1$ は $x_2$ （種類）の細菌／ばい菌／バクテリア／微生物／原生動物／アメーバ'
   ps: 2
   pun: じゅるじゅるアメーバ
-  cf: [vidru]
+  cf: [vidru, ""]
   score: {jurme: 1, jurm: 0, jum: 0}
 -
   word: jursa
@@ -8530,7 +8536,7 @@
   type: lujvo
   def: '$p_1$ は $p_2$ （主題）の $p_3$ （作者）による $p_4=k_3$ （現像媒体）の写真'
   ps: 3
-  notes: '{kacma} {pixra}'
+  cf: [kacma, pixra]
   score: {kacmyxra: 10}
 -
   word: kadno
@@ -8555,7 +8561,7 @@
   ja: [障がいのある人, 障がい者, 障がい児, 障がいのある方, 障碍者, 障害者, 障害児]
   def: '$r_1$ は $r_2$ （障害）のために $r_3=k_2$ （事）が制限される障害者'
   ps: 2
-  notes: '{kakne} {rinju} {tolka''e} {xadri''u} {menri''u} {menbi''a}'
+  cf: [kakne, rinju, 'tolka''e', 'xadri''u', 'menri''u', 'menbi''a']
   score: {'ka''enri''u': 0}
 -
   word: kafke
@@ -8796,7 +8802,7 @@
   def: '$x_1$ は $x_2$ （性質／動作）の量子'
   ps: 2
   notes: 「光子」なども。
-  cf: ['selci; ratni', gradu, gusni, nejni, linji]
+  cf: [selci, ratni, gradu, gusni, nejni, linji]
   score: {kantu: 18, kant: 0, 'ka''u': 0}
 -
   word: kanxe
@@ -8880,7 +8886,7 @@
   def: '$x_1$ （用具／刃／力）は $x_2$ を切って $x_3$ （部分）にする'
   ps: 3
   pun: カットな！
-  cf: [kakpa, 'sraku; plixa', dakfu, jinci, porpi, spofu, tunta, xrani, fatri, fendi, balre, dilcu]
+  cf: [kakpa, sraku, plixa, dakfu, jinci, porpi, spofu, tunta, xrani, fatri, fendi, balre, dilcu]
   score: {katna: 59, katn: 0, 'ka''a': 0}
 -
   word: kau
@@ -8910,7 +8916,7 @@
   type: lujvo
   def: '$x_1$ (du''u) は  $x_2$（観点）にとって $x_3$（題目）について $x_4$（認識体系）の下で常識'
   ps: 4
-  notes: '{kampu} {se} {djuno}'
+  cf: [kampu, se, djuno]
   score: {'kaurselju''o': 0}
 -
   word: kavbu
@@ -8920,7 +8926,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ （罠／拘束力）で捕らえる／捕獲／捕捉／逮捕する'
   ps: 3
   notes: '「ボール（ x2 ）をキャッチする」も。'
-  cf: [jersi, kalte, pinfu, sisku, 'se rinju']
+  cf: [jersi, kalte, pinfu, sisku, se, rinju]
   score: {kavbu: 30, kavb: 0, kav: 0}
 -
   word: ke
@@ -9146,8 +9152,8 @@
   type: lujvo
   def: '$x_1=k_1=s_1$ はインターネットでクライアント $x_2=k_1=s_2$ にサービス $x_3=s_3$ を提供するサーバ'
   ps: 3
-  notes: '-kib- は{kibro} の3文字 rafsi. ネットワークのノードは {samseltcana}_2.'
-  cf: ['kibro selfu; kibdu''a', kibycpa, 'kibyca''o.']
+  notes: '-kib- はの3文字 rafsi. ネットワークのノードは _2.'
+  cf: [kibro, samseltcana, selfu, 'kibdu''a', kibycpa, 'kibyca''o.']
   score: {'kibyse''u': 0}
 -
   word: kicne
@@ -9235,7 +9241,8 @@
   type: lujvo
   def: '$c1$は呼ぶ/招集する/呼び出す $c_3=k_1$(人/組織/プログラム)を $k2$(場所)へ $c4$(方法/形態)で'
   ps: 1
-  notes: '比較せよ:{cpedu}'
+  notes: '比較せよ:'
+  cf: [cpedu]
   score: {klacpe: 21}
 -
   word: klaji
@@ -9301,9 +9308,9 @@
   ja: [透過]
   def: '$x_1$ （物／媒体）は $x_2$ （伝わるもの）に関して明らか／透過性がある／遮られていない；  $x_2$ は減衰も散乱もあまりせずにそのまま伝わる'
   ps: 2
-  notes: 'x2 は光や電波や音波など。「理解できる」ということを表すには {filseljmi} や {filsmu} という表現を使う。 klina を比喩的な意味で使うことは推奨されない。'
+  notes: 'x2 は光や電波や音波など。「理解できる」ということを表すには や という表現を使う。 klina を比喩的な意味で使うことは推奨されない。'
   pun: 'クリスタルな透過, clear,cin（清）'
-  cf: [kandi, zunti, 'nalzu''i']
+  cf: [filseljmi, filsmu, kandi, zunti, 'nalzu''i']
   score: {klina: 12, klin: 0, kli: 5}
 -
   word: kliru
@@ -9349,8 +9356,8 @@
   type: cmavo
   selmaho: KOhA3
   def: '命令 ： 代詞（sumti）； do の代わりに用いて命令を表す； 「～しろ」から「～してください」まで広いニュアンスをカバーする'
-  notes: '{do} に、命令一般を表す心態が追加された代詞。'
-  cf: ['ko''oi; au', 'a''o', 'e''o', 'e''u', 'e''a', 'ei; minde', cpedu, curmi, pacna, stidi, djica, bilga]
+  notes: に、命令一般を表す心態が追加された代詞。
+  cf: [do, 'ko''oi', au, 'a''o', 'e''o', 'e''u', 'e''a', ei, minde, cpedu, curmi, pacna, stidi, djica, bilga]
   score: {ko: 316}
   rank: 64
 -
@@ -9440,9 +9447,9 @@
   selmaho: UI6
   selmaho2: UI
   def: 談話系：命令
-  notes: '``{ko}'''' は ''''{do} {ko''oi}'''' の短縮形。{au}, {a''o}, {e''o}, {e''u}, {e''a}, {ei} の上位語。'
+  notes: '``'''' は '''''''' の短縮形。の上位語。'
   exams: ['「do .onai ko''oi lo mi speni co''a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』）', '「ra ko''oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko''oi se platu be do ku te snada／あなたの計画がうまく行きますように」', '「mi ko''oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」']
-  cf: [minde, cpedu, curmi, pacna, stidi, djica, bilga]
+  cf: [kodo, 'ko''oiau', 'a''o', 'e''o', 'e''u', 'e''a', ei, minde, cpedu, curmi, pacna, stidi, djica, bilga]
   experimental: true
   unofficial: true
   score: {'ko''oi': 8}
@@ -9558,7 +9565,7 @@
   def: '$x_1$ （事）は $x_2$ （事）を許容する理由'
   ps: 2
   pun: 理由くりぬき
-  cf: [ciksi, rinka, nibli, mukti, 'se jalge', 'te zukte', 'ki''u', bapli]
+  cf: [ciksi, rinka, nibli, mukti, se, jalge, te, zukte, 'ki''u', bapli]
   score: {krinu: 47, krin: 0, rin: 1, 'ki''u': 0}
 -
   word: krixa
@@ -9624,7 +9631,7 @@
   ps: 3
   notes: '通常は三次元（ x2 ）・六面（ x3 ）。'
   pun: キューブリック
-  cf: [kurfa, 'bliku; tanbo', tapla, tarmi]
+  cf: [kurfa, bliku, tanbo, tapla, tarmi]
   score: {kubli: 1, kubl: 0, kub: 1}
 -
   word: kucli
@@ -9632,7 +9639,7 @@
   ja: [好奇心]
   def: '$x_1$ は $x_2$ にたいして好奇心がある／興味を覚える；  $x_1$ は詮索好き'
   ps: 2
-  cf: [manci, sisku, 'se cinri']
+  cf: [manci, sisku, se, cinri]
   score: {kucli: 33, kucl: 0}
 -
   word: 'ku''e'
@@ -9849,7 +9856,7 @@
   ja: [狼]
   def: '$x_1$ は $x_2$ （種類）の狼'
   ps: 2
-  cf: [gerku]
+  cf: [gerku, ""]
   score: {labno: 30, labn: 0}
 -
   word: lacpu
@@ -9902,7 +9909,7 @@
   type: lujvo
   def: '$b_1$ は $b_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $b_3$ （原動力）のクレーン船'
   ps: 3
-  notes: '{lafti} {dandu} {bloti} {lafydadma''e}'
+  cf: [lafti, dandu, bloti, 'lafydadma''e']
   score: {lafydadblo: 0}
 -
   word: 'lafydadma''e'
@@ -9911,7 +9918,7 @@
   sense: [運搬機, 移動式クレーン（運搬機）]
   def: '$m_1$ は $m_2=d_1=l_2$ （運搬物）を $m_3=d_2$ （クレーン）で吊り上げる $m_4$ （原動力）の移動式クレーン（運搬機）'
   ps: 4
-  notes: '{lafti} {dandu} {marce} {lafydadykarce} {lafydadblo}'
+  cf: [lafti, dandu, marce, lafydadykarce, lafydadblo]
   score: {'lafydadma''e': 0}
 -
   word: lafydadykarce
@@ -9919,7 +9926,7 @@
   ja: [ホイールクレーン, オールテレーンクレーン, トラッククレーン, ラフテレーンクレーン, トラック搭載型クレーン, クローラークレーン, クレーン車, クレーン]
   def: '$k_1$ は $k_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $k_3$ （原動力）のクレーン車'
   ps: 3
-  notes: '{lafti} {dandu} {karce} {lafydadma''e}'
+  cf: [lafti, dandu, karce, 'lafydadma''e']
   score: {lafydadykarce: 0}
 -
   word: lai
@@ -9962,7 +9969,7 @@
   ja: [古い]
   def: '$x_1$ は $x_2$ （基準）において古い／高齢／年寄り'
   ps: 2
-  cf: [citno, cnino, slabu]
+  cf: [citno, "", cnino, slabu]
   experimental: true
   unofficial: true
   score: {laldo: 6, lald: 3}
@@ -10048,7 +10055,7 @@
   ja: [均衡]
   def: '$x_1$ は $x_2$ （量群）によってバランスがとれている／平衡／均衡状態にある'
   ps: 2
-  cf: [midju, 'nutli; fapro', nutli]
+  cf: [midju, nutli, fapro]
   score: {lanxe: 3, lanx: 0, lax: 1}
 -
   word: lanzu
@@ -10084,7 +10091,7 @@
   ja: [アートギャラリー, 美術館]
   def: '$m_1$ は美術品 $m_2=l_1$ を展示する $m_3$ （所）の美術館／アートギャラリー'
   ps: 3
-  notes: '{larcu} {muzga}'
+  cf: [larcu, muzga]
   score: {larmuzga: 0}
 -
   word: lasna
@@ -10155,7 +10162,7 @@
   ja: [Ar, アルゴン]
   def: '$x_1$ はアルゴン (Ar)'
   ps: 1
-  notes: '{lazni} {navni}; {ratni}'
+  cf: [lazni, navni, ratni]
   score: {laznynavni: 0}
 -
   word: lazyzukykei
@@ -10186,8 +10193,8 @@
   type: cmavo
   selmaho: LEhAI
   def: '境界詞； 誤り訂正引用構造の末端を示す。'
-  notes: '{lo''ai} ... {sa''ai} ... le''ai の置換構造を使うことで、聴き手に {lo''ai}の後の語句を{sa''ai} の後の語句で置き換えるよう要請することができる。{sa''ai} ... {lo''ai} ... le''ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le''ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le''ai の構造にSAI類をつけることも可能である： le''ai {dai} （= le''ai {da''oi} ko''a）は他の誰かが誤ったということを示す。また、 le''ai {pei} は、他の誰かが誤ったかどうかを尋ねる。そして、{sai}, {ru''e}, {cu''i} はその誤りの訂正の重要性を示す。さらに、le''ai {nai} はその訂正を認めずに、誤りを明確に否定するのに使われる。'
-  cf: ['lo''ai', 'sa''ai']
+  notes: '... ... le''ai の置換構造を使うことで、聴き手に の後の語句をの後の語句で置き換えるよう要請することができる。... ... le''ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le''ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le''ai の構造にSAI類をつけることも可能である： le''ai （= le''ai ko''a）は他の誰かが誤ったということを示す。また、 le''ai は、他の誰かが誤ったかどうかを尋ねる。そして、はその誤りの訂正の重要性を示す。さらに、le''ai はその訂正を認めずに、誤りを明確に否定するのに使われる。'
+  cf: ['lo''ai', 'sa''ai', 'lo''aisa''ai', dai, 'da''oi', pei, sai, 'ru''e', 'cu''i', nai]
   experimental: true
   unofficial: true
   score: {'le''ai': 0}
@@ -10431,7 +10438,7 @@
   def: '$x_1$ は $x_2$ （基準）において軽い／軽量'
   ps: 2
   pun: 軽いかりんとう
-  cf: [junta, 'tilju; se xalbo', kandi]
+  cf: [junta, tilju, se, xalbo, kandi]
   score: {linto: 3, lint: 0, 'li''o': 0}
 -
   word: 'li''o'
@@ -10449,7 +10456,7 @@
   type: lujvo
   def: '$x_1$ は フッ素（F）'
   ps: 1
-  cf: ['塩素 ri''orkliru', '臭素 xunkliru', 'ヨウ素 zirkliru', linto, kliru]
+  cf: [塩素, 'ri''orkliru', 臭素, xunkliru, ヨウ素, zirkliru, linto, kliru]
   score: {'li''orkliru': 0}
 -
   word: lisri
@@ -10668,8 +10675,7 @@
   type: lujvo
   def: '$x_1$ は複素数'
   ps: 1
-  notes: '{pluja} {namcu}'
-  cf: ['xarna''u; tolxarna''u', 'mrena''u; ka''o']
+  cf: [pluja, namcu, 'xarna''u', 'tolxarna''u', 'mrena''u', 'ka''o']
   score: {'lujna''u': 0}
 -
   word: lujvo
@@ -10841,7 +10847,8 @@
   type: lujvo
   def: '$c_1$ は $c_2$ にとってジャンクフード.'
   ps: 2
-  notes: 'Cf. {cidja}.'
+  notes: 'Cf. .'
+  cf: [cidja]
   score: {maldja: 0}
 -
   word: malsi
@@ -10891,7 +10898,7 @@
   ja: [暗い]
   def: '$x_1$ は暗い／闇'
   ps: 1
-  cf: [blabi, gusni, 'ctino; kandi', xekri, ctino]
+  cf: [blabi, gusni, ctino, kandi, xekri]
   score: {manku: 48, mank: 2, man: 1}
 -
   word: manri
@@ -10919,7 +10926,7 @@
   def: '$x_1$ は $x_2$ （種類）のアリ科'
   ps: 2
   pun: アント
-  cf: ['bifce  < cinki (上位概念)', jalra]
+  cf: [bifce, "", '<', cinki, jalra]
   score: {manti: 1, mant: 0}
 -
   word: 'ma''o'
@@ -11206,7 +11213,7 @@
   ja: [精神障がい者, 精神障碍者, 精神障害者, 精神障がいのある人, 精神障がいのある方, 精神障害]
   def: '$b_1=m_2$ は $b_3$ （障害）のある $b_2$ （症状）の精神障害者'
   ps: 3
-  notes: '{menli} {bilma} {ka''enri''u}'
+  cf: [menli, bilma, 'ka''enri''u']
   score: {'menbi''a': 0}
 -
   word: menli
@@ -11224,7 +11231,7 @@
   ja: [知的障がいのある方, 知的障がい児, 知的障害者, 知的障碍者, 知的障がいのある人, 知的障がい者, 知的障害児]
   def: '$r_1=m_2$ は $r_2$ （障害）のために $r_3$ が制限される知的障害者'
   ps: 3
-  notes: '{menli} {rinju} {ka''enri''u}'
+  cf: [menli, rinju, 'ka''enri''u']
   score: {'menri''u': 0}
 -
   word: mensi
@@ -11309,7 +11316,7 @@
   ja: [薬, 医薬品, 薬品]
   def: '$xu_1=m_4$ は $xu_2$ （薬の種類）の $m_3$ （病気／怪我）のための医薬品'
   ps: 4
-  notes: '{mikce} {xukmi}'
+  cf: [mikce, xukmi]
   score: {'micyxu''i': 0}
 -
   word: midju
@@ -11399,7 +11406,7 @@
   def: '$x_1$ は $x_2$ （者）に $x_3$ （事）が起こるよう／を行うよう命令／指令／指図する'
   ps: 3
   pun: '＜みんな出ろと命令＞,市民で命令'
-  cf: [lacri, 'te bende', jatna, ralju, jitro, turni, tinbe]
+  cf: [lacri, te, bende, jatna, ralju, jitro, turni, tinbe]
   score: {minde: 70, mind: 0, mid: 1, 'mi''e': 0}
 -
   word: minji
@@ -11408,9 +11415,9 @@
   ja: [機械]
   def: '$x_1$ は $x_2$ （機能／用途）の機械'
   ps: 2
-  notes: '自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は {zukte}.'
+  notes: '自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は .'
   pun: '＜みんな自動の機械＞,machine, ミンチ'
-  cf: [cabra, matra, tutci, zukte, pilno, skami]
+  cf: [zukte, cabra, matra, tutci, pilno, skami]
   score: {minji: 15, minj: 1, 'mi''i': 0}
 -
   word: minli
@@ -11457,7 +11464,7 @@
   ja: [クリプトン, Kr]
   def: '$x_1$ はクリプトン (Kr)'
   ps: 1
-  notes: '{mipri} {navni}; {ratni}'
+  cf: [mipri, navni, ratni]
   score: {mipnavni: 0}
 -
   word: mipri
@@ -11485,7 +11492,7 @@
   ps: 2
   notes: 「人気」「セレブ」も。
   pun: ミスの有名な・・・
-  cf: ['se sinma', banli]
+  cf: [se, sinma, banli]
   score: {misno: 17, misn: 0, mis: 2, 'mi''o': 0}
 -
   word: misro
@@ -11512,7 +11519,7 @@
   def: '同様に（ mi''u 同様に - mi''unai 異なって）'
   notes: '心態詞（談話系）； 先に述べた事物と同じ事物を指すことを表す （BPFK による新しい意味）'
   exams: ['「mi pu zi ca''o cusku di''u mi''u la .djan.／私はさっきそれと全く同じセリフをジャンに言っていた」']
-  cf: ['mintu; va''inai']
+  cf: [mintu, 'va''inai']
   score: {'mi''u': 2}
 -
   word: 'mi''unai'
@@ -11532,7 +11539,7 @@
   def: '$x_1$ は $x_2$ （成分）を混ぜ合わせたもの／調合したもの'
   ps: 2
   pun: mix
-  cf: [salta, 'te runta', stasu, jicla, sanso]
+  cf: [salta, te, runta, stasu, jicla, sanso]
   score: {mixre: 17, mixr: 0, mix: 0, xre: 3}
 -
   word: mlana
@@ -11584,7 +11591,7 @@
   def: '$x_1$ は $x_2$ を周回する、 $x_3$ （衛星特性）・ $x_4$ （軌道特性）の衛星'
   ps: 4
   notes: 「月」や「人工衛星」などの上位概念。
-  cf: [plini, solri, lunra]
+  cf: [plini, solri, lunra, ""]
   score: {mluni: 3, mlun: 0, lun: 0}
 -
   word: mo
@@ -11634,8 +11641,9 @@
   selmaho: MOI
   def: '$x_1$ は $x_2$ （単位）・$x_3$ （基準）（デフォルトは「今現在」）で $x_4$ （観点／暦／慣習）における PA 番目の日付／時刻'
   ps: 4
-  notes: 'x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si''o {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si''o  {masti})は 11月、0番目の昼（lo si''o {donri}）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si''o {nicte}）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；'
+  notes: 'x_3 は時刻の基準点（PA = )。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si''o ）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si''o  )は 11月、0番目の昼（lo si''o ）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si''o ）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；'
   exams: ['「lo no moi''o be lo si''o djedi／今日」', '「lo pa moi''o be lo nanca／来年」', '「lo ni''u moi''o be lo si''o masti／先月」', '「.e''o ko klama lo zdani be mi ca lo pa moi''o be lo si''o nicte／今夜、私の家に来てください。」']
+  cf: [nodjedimastidonrinicte]
   experimental: true
   unofficial: true
   score: {'moi''o': 0}
@@ -11669,7 +11677,7 @@
   def: '$x_1$ は $x_2$ （生産過程）に携わる製造場／製錬場／鋳造場'
   ps: 2
   notes: 製品や商品そのものの完成には携わらず、特に材料や製材を準備する所
-  cf: [gasta, gurni, tirse, fanri, zalvi]
+  cf: [gasta, gurni, tirse, fanri, "", zalvi]
   score: {molki: 0, molk: 0, mlo: 0}
 -
   word: molro
@@ -11760,14 +11768,14 @@
   def: '$x_1$ は実数'
   ps: 1
   notes: '同じ意味の lujvo として {tolxarna''u} もある。'
-  cf: ['to''e xanri namcu', 'tolxarna''u; xarna''u', 'lujna''u; ka''o']
+  cf: ['to''e', xanri, namcu, 'tolxarna''u', 'xarna''u', 'lujna''u', 'ka''o']
   score: {'mrena''u': 0}
 -
   word: mribriju
   type: lujvo
   def: '$x_1=b_1$ は、郵便局員 $x_2=b_2$の、場所 $x_3=b_3$ にある、郵便システム $x_4=m_5$ のための郵便局'
   ps: 5
-  notes: '{mrilu} {briju}'
+  cf: [mrilu, briju]
   score: {mribriju: 0}
 -
   word: mrilu
@@ -11881,7 +11889,7 @@
   def: '$x_1$ （事）は $x_2$ （事）を $x_3$ （者）に動機する；  $x_3$ は $x_1$ に鼓舞されて $x_2$ をする'
   ps: 3
   pun: 'mudi（目的）,motive'
-  cf: ['mu''i', nibli, 'te zukte', 'se jalge', krinu, rinka, ciksi, djica, xlura]
+  cf: ['mu''i', nibli, te, zukte, se, jalge, krinu, rinka, ciksi, djica, xlura]
   score: {mukti: 20, mukt: 0, muk: 1, 'mu''i': 0}
 -
   word: mulno
@@ -11898,14 +11906,14 @@
   type: lujvo
   def: '$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言律詩'
   ps: 3
-  notes: '{mu} {valsi} {bi} {linji}; {mumvlavonli''i}, {zelvlavonli''i}, {zelvlabivli''i}'
+  cf: [mu, valsi, bi, linji, 'mumvlavonli''i', 'zelvlavonli''i', 'zelvlabivli''i']
   score: {'mumvlabivli''i': 0}
 -
   word: 'mumvlavonli''i'
   type: lujvo
   def: '$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言絶句'
   ps: 3
-  notes: '{mu} {valsi} {vo} {linji}; {zelvlavonli''i}, {mumvlabivli''i}, {zelvlabivli''i}'
+  cf: [mu, valsi, vo, linji, 'zelvlavonli''i', 'mumvlabivli''i', 'zelvlabivli''i']
   score: {'mumvlavonli''i': 0}
 -
   word: munje
@@ -12004,7 +12012,7 @@
   def: '$x_1$ （物）は $x_2$ （終点）に $x_3$ （始点）から $x_4$ （経路）にわたって動く；  $x_1$ は動的'
   ps: 4
   pun: 'ムーヴ　ドゥ, move,dun(動)'
-  cf: [rinci, klama, litru, cliva, 'fatri; dunda', benji, preja, bevri, vimcu]
+  cf: [rinci, klama, litru, cliva, fatri, dunda, benji, preja, bevri, vimcu]
   score: {muvdu: 54, muvd: 1, muv: 16, 'mu''u': 0}
 -
   word: 'muvyca''e'
@@ -12012,7 +12020,8 @@
   ja: [押して動かす, 動かして押す, 押し動かす]
   def: '$c_1$ は $c_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして押す'
   ps: 4
-  notes: '押す「対象箇所」（ catke3 ）は di''o によって表せる ; {muvdu} {catke}'
+  notes: '押す「対象箇所」（ catke3 ）は di''o によって表せる ; '
+  cf: [muvdu, catke]
   score: {'muvyca''e': 0}
 -
   word: muvycpu
@@ -12020,7 +12029,8 @@
   ja: [引っ張って動かす, 引き動かす, 引いて動かす, 動かして引く, 動かして引っ張る, 動かし引っ張る]
   def: '$l_1$ は $l_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして引く'
   ps: 4
-  notes: '引く「対象箇所」（ lacpu3 ）は di''o によって表せる ; {muvdu} {lacpu}'
+  notes: '引く「対象箇所」（ lacpu3 ）は di''o によって表せる ; '
+  cf: [muvdu, lacpu]
   score: {muvycpu: 0}
 -
   word: muvzva
@@ -12028,7 +12038,7 @@
   ja: [徘徊, うろつく]
   def: '$x_1$ は $x_2$ を徘徊する'
   ps: 2
-  notes: '{muvdu} {zvati}'
+  cf: [muvdu, zvati]
   score: {muvzva: 1}
 -
   word: muzga
@@ -12047,7 +12057,7 @@
   sense: [部屋]
   def: '$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室'
   ps: 2
-  notes: '{muzga} {kumfa}'
+  cf: [muzga, kumfa]
   score: {'muzyku''a': 2}
 -
   word: my
@@ -12112,7 +12122,8 @@
   selmaho: NAI
   selmaho2: UI
   def: '小構造否定 ： 左の語を否定する。命題否定か、対義否定か、段階否定かは、左の語の selma''o によって異なる。'
-  notes: 'TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 {na''e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to''e} と同じ意味になる。'
+  notes: 'TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 と同じ意味になる。 UI, CAI, COI に付くと、対義否定 と同じ意味になる。'
+  cf: [na, 'na''e', 'to''e', ""]
   score: {nai: 407}
   rank: 50
 -
@@ -12187,7 +12198,7 @@
   type: lujvo
   def: '$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の南風'
   ps: 3
-  notes: '{snanu} {brife}'
+  cf: [snanu, brife]
   score: {'nanbi''e': 0}
 -
   word: nanca
@@ -12283,7 +12294,8 @@
   sense: [jamais-vu]
   def: '$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で未視感 (jamais-vu) を与える'
   ps: 4
-  notes: '$x_1$ が物である場合は jai narprugastcica; {pu}{nai}, {ganse} {tcica}; {gastcica}, {prugastcica}'
+  notes: '$x_1$ が物である場合は jai narprugastcica; '
+  cf: [punai, ganse, tcica, gastcica, prugastcica]
   score: {narprugastcica: 0}
 -
   word: natfe
@@ -12326,7 +12338,7 @@
   ja: [男性配偶者, 旦那, 夫, 亭主, 主人, だんな]
   def: '$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での男性配偶者'
   ps: 3
-  notes: '{nanmu} {speni}'
+  cf: [nanmu, speni]
   score: {nauspe: 0}
 -
   word: navni
@@ -12335,7 +12347,7 @@
   def: '$x_1$ は $x_2$ （元素）の貴ガス'
   ps: 2
   notes: '天然にある貴ガスは、ヘリウム He、ネオン Ne、アルゴン Ar、クリプトン Kr、キセノン Xe、ラドン Rn。'
-  cf: [xukmi, 'gapci; tolfragapci; solnavni', ninynavni, laznynavni, mipnavni, fangynavni, dircynavni.]
+  cf: [xukmi, gapci, tolfragapci, solnavni, ninynavni, laznynavni, mipnavni, fangynavni, dircynavni.]
   score: {navni: 12, navn: 0}
 -
   word: naxle
@@ -12428,7 +12440,7 @@
   def: '$x_1$ は $x_2$ の中（にある）；  $x_1$ は内部／内側；  $x_2$ は $x_1$ を内蔵する'
   ps: 2
   pun: 内部念入り
-  cf: ['se vasru', jbini, zvati, cpana, sruri, senta, snuji, bartu, diklo, jibni, jinru, setca]
+  cf: [se, vasru, jbini, zvati, cpana, sruri, senta, snuji, bartu, diklo, jibni, jinru, setca]
   score: {nenri: 88, nenr: 0, ner: 70, 'ne''i': 0}
   rank: 135
 -
@@ -12529,7 +12541,7 @@
   ja: [女性配偶者, 妻, 家内, 女房, カミさん, 奥さん, 奥様, 嫁, ヨメ]
   def: '$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での女性配偶者'
   ps: 3
-  notes: '{ninmu} {speni}'
+  cf: [ninmu, speni]
   score: {nimspe: 0}
 -
   word: ninja
@@ -12557,7 +12569,7 @@
   ja: [ネオン, Ne]
   def: '$x_1$ はネオン (Ne)'
   ps: 1
-  notes: '{cnino} {navni}; {ratni}'
+  cf: [cnino, navni, ratni]
   score: {ninynavni: 0}
 -
   word: nirna
@@ -12568,7 +12580,7 @@
   ps: 2
   notes: 比喩として「ネットワーク」なども。
   pun: 神経煮るな
-  cf: ['ve benji']
+  cf: [ve, benji]
   score: {nirna: 4, nirn: 0, nir: 2}
 -
   word: nitcu
@@ -12643,7 +12655,7 @@
   rafsi: {CVC: nor, CVV: 'no''e'}
   ja: ['段階： 中間']
   def: '段階中間 ： 段階詞； je''a と to''e の中間'
-  cf: [nutli, midju, 'milxe; je''a', 'na''e', 'to''e']
+  cf: [nutli, midju, milxe, 'je''a', 'na''e', 'to''e']
   score: {'no''e': 16, nor: 6}
 -
   word: noi
@@ -12659,7 +12671,7 @@
   ja: [王女, 姫]
   sense: [王家の娘]
   def: '$x1$ は $x3$ を統治する $x2$ (王/女王) の娘、王女'
-  notes: '{nobli} {turni} {tixnu}'
+  cf: [nobli, turni, tixnu]
   score: {'noltruti''u': 52}
 -
   word: 'no''o'
@@ -12728,7 +12740,7 @@
   selmaho: NUhI
   def: '名辞グループ開始（前置型） ： 同じ述辞のPS上に複数の名辞（項辞や付辞）を並べる際、その名辞のグループの始まりを示す； グループの終わりは nu''u で示す'
   notes: '「klama nu''i ge lo zarci ($x_2$) lo briju ($x_3$) nu''u gi lo zdani ($x_2$) lo ckule ($x_3$) [nu''u]／店($x_2$)から会社($x_3$)に行き、家($x_2$)から学校($x_3$)に行く」'
-  cf: ['ce''e; nu''u']
+  cf: ['ce''e', 'nu''u']
   score: {'nu''i': 3}
 -
   word: nukni
@@ -12746,7 +12758,7 @@
   ja: [授業, 講義]
   def: '$n_1$ は $c_1$ （教師）が $c_2$ （生徒）に $c_3$ （命題）・ $c_4$ （題目）を $c_5$ （方法）で教える授業'
   ps: 5
-  notes: '{nu} {ctuca}'
+  cf: [nu, ctuca]
   score: {nunctu: 2}
 -
   word: 'nunka''oku''i'
@@ -12754,14 +12766,15 @@
   ja: [保健, 医療, 健康管理, 衛生]
   def: '$n_1$ は $ku_1$ による $ka_1$ の健康管理／医療／保健／衛生'
   ps: 1
-  notes: 'x2 と x3 は同一でありうる。; {nu} {kanro} {kurji}'
+  notes: 'x2 と x3 は同一でありうる。; '
+  cf: [nu, kanro, kurji]
   score: {'nunka''oku''i': 0}
 -
   word: 'nunka''okujbriju'
   type: lujvo
   def: '$b_1$ は $b_2$ （職員）の保健所'
   ps: 2
-  notes: '{nunka''oku''i} {briju} {kanro} {kurji}'
+  cf: ['nunka''oku''i', briju, kanro, kurji]
   score: {'nunka''okujbriju': 0}
 -
   word: 'nu''o'
@@ -12862,7 +12875,7 @@
   def: '謙遜 （ o''a 誇り - o''acu''i 謙遜 - o''anai 恥辱）'
   notes: '心態詞； それにたいする誇りに関して謙遜する気持'
   exams: ['「.o''a cu''i ba''e mi lumci pi su''o po''o le loldi／いやあ、私なんて床をちょっと掃除しただけです」']
-  cf: [cumla, 'ga''i nai']
+  cf: [cumla, 'ga''i', nai]
   score: {'o''acu''i': 0}
 -
   word: 'o''anai'
@@ -13041,8 +13054,8 @@
   ja: [望む, 期待する, 願う, 希望する, 希望]
   def: '$x_1$ は $x_2$ （事）を $x_3$ （見込み／確率 0-1）で期待する／希望する／願う；  $x_2$ は望まれている'
   ps: 3
-  notes: 'x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（{li} {piso''u} から {li} {piro} まで）によって表される。'
-  cf: [djica]
+  notes: 'x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（から まで）によって表される。'
+  cf: [li, 'piso''u', piro, djica]
   score: {pacna: 36, pacn: 0, 'pa''a': 0}
 -
   word: 'pa''e'
@@ -13106,8 +13119,8 @@
   ja: [審判]
   def: '$x_1$ は $x_2$ （抽象（事／性質／量／真理値））について判断する／審判する／仲裁する'
   ps: 2
-  notes: '「レフェリー」も。　x2 の抽象詞（NU類）によっては、 {jei} = 判決する、{ni} = 推定する、{ka} = 評価する、 {nu} = 判定／仲裁する、と言った意味にもなりうる。'
-  cf: [cuxna, jdice, vajni, cipra, zekri, manri, mansa]
+  notes: '「レフェリー」も。　x2 の抽象詞（NU類）によっては、 = 判決する、= 推定する、= 評価する、 = 判定／仲裁する、と言った意味にもなりうる。'
+  cf: [jei, ni, ka, nu, cuxna, jdice, vajni, cipra, zekri, manri, mansa]
   score: {pajni: 6, pajn: 0, pai: 0}
 -
   word: pajnjalge
@@ -13128,7 +13141,7 @@
   ja: [サスペンダー, ズボン吊り, 吊りバンド, ズボンつり]
   def: '$d_1$ は $d_2$ （素材）のズボンつり／サスペンダー'
   ps: 2
-  notes: '{palku} {dandu} {dasri}'
+  cf: [palku, dandu, dasri]
   score: {pakydadysri: 0}
 -
   word: palci
@@ -13179,7 +13192,7 @@
   ja: [ポンプ]
   def: '$x_1$ は $x_2$ （内容）を $x_3$ に $x_4$ から $x_5$ （方法）で送るポンプ／揚水器'
   ps: 5
-  cf: [gapci, litki, 'rinci; fepri', risna, rinci, tutci]
+  cf: [gapci, litki, rinci, fepri, risna, tutci]
   score: {pambe: 7, pamb: 2}
 -
   word: panci
@@ -13234,7 +13247,7 @@
   def: '$x_1$ は $x_2$ と平和／和平の関係にある；  $x_1$ は平和な状態にある'
   ps: 2
   pun: パンピーの平和
-  cf: ['jamna; sarxe', smaji, tugni, cilce]
+  cf: [jamna, sarxe, smaji, tugni, cilce]
   score: {panpi: 6, panp: 0, pap: 0}
 -
   word: panra
@@ -13263,7 +13276,7 @@
   def: '$x_1$ は $x_2$ （親）の生物学的子孫'
   ps: 2
   notes: いわゆる「実の子」。
-  cf: [grute, verba, bersa, tixnu, 'se rorci', patfu]
+  cf: [grute, verba, bersa, tixnu, se, rorci, patfu]
   score: {panzi: 12, panz: 0, paz: 0}
 -
   word: 'pa''o'
@@ -13339,7 +13352,7 @@
   def: '$x_1$ は $x_2$ （内容）・ $x_3$ （素材）の壷／鉢／かめ／やかん／ポット'
   ps: 3
   pun: 'ポット, pot,  xu(壷)'
-  cf: [tansi, 'palne; baktu', botpi]
+  cf: [tansi, palne, baktu, botpi]
   score: {patxu: 16, patx: 0, pax: 2}
 -
   word: pau
@@ -13373,14 +13386,14 @@
   type: lujvo
   def: '$b_1=m_1$ は $b_2$ の息子の１番目・長男'
   ps: 2
-  notes: '{pa} {moi} {bersa}'
+  cf: [pa, moi, bersa]
   score: {'pavmoibe''a': 0}
 -
   word: 'pavmoiti''u'
   type: lujvo
   def: '$t_1=m_1$ は $t_2$ の娘の１番目・長女'
   ps: 2
-  notes: '{pa} {moi} {tixnu}'
+  cf: [pa, moi, tixnu]
   score: {'pavmoiti''u': 0}
 -
   word: pe
@@ -13499,7 +13512,7 @@
   ja: [思慮]
   def: '$x_1$ は $x_2$ （概念）について思慮する／考慮する／熟考する／思いを巡らす；  $x_2$ は考え深い'
   ps: 2
-  cf: ['pe''i', jijnu, menli, morji, sidbo, jinvi, 'se nabmi', minra, lanli, besna, saske, skami]
+  cf: ['pe''i', jijnu, menli, morji, sidbo, jinvi, se, nabmi, minra, lanli, besna, saske, skami]
   score: {pensi: 161, pens: 0, pes: 0, pei: 0}
   rank: 133
 -
@@ -13523,7 +13536,8 @@
   type: lujvo
   def: '$p_1=k_1$ は $p_2=k_2$ に思いやりがある.'
   ps: 2
-  notes: 'Cf. {pensi}, {kurji}.'
+  notes: 'Cf. .'
+  cf: [pensi, kurji]
   score: {'pesku''i': 0}
 -
   word: pesxu
@@ -13671,7 +13685,7 @@
   def: '$x_1$ は $x_2$ を覆う皮／外面／表層'
   ps: 2
   pun: pi（皮）
-  cf: [grute, calku, 'skapi (pilka as a general term includes skapi', gacri]
+  cf: [grute, calku, skapi, (pilka, as, a, general, term, includes, gacri]
   score: {pilka: 9, pilk: 0, pil: 1, 'pi''a': 0}
 -
   word: pilno
@@ -13748,7 +13762,7 @@
   ps: 2
   notes: 使っていて削れてくる筆記具全般
   pun: ペンスィル
-  cf: [ciska, 'penbi (unlike the English equivalents', 'pinsi is the more general term over penbi', burcu, bakri]
+  cf: [ciska, penbi, (unlike, the, English, equivalents, pinsi, is, more, general, term, over, burcu, bakri]
   score: {pinsi: 5, pins: 0, pis: 0}
 -
   word: pinta
@@ -13920,7 +13934,7 @@
   ja: [経路]
   def: '$x_1$ は $x_2$ （終点）・ $x_3$ （起点）・ $x_4$ （途中の点の集合）の経路／道筋'
   ps: 4
-  cf: [litru, naxle, tcana, dargu, klaji, 've klama; tadji', zukte, klama, pagre]
+  cf: [litru, naxle, tcana, dargu, klaji, ve, klama, tadji, zukte, pagre]
   score: {pluta: 30, plut: 0, lut: 0, 'lu''a': 0}
 -
   word: po
@@ -14009,7 +14023,7 @@
   ja: [砕ける]
   def: '$x_1$ は砕けて／壊れて $x_2$ （破片）になる'
   ps: 2
-  cf: [xrani, spofu, 'se katna']
+  cf: [xrani, spofu, se, katna]
   score: {porpi: 25, porp: 0, pop: 7, 'po''i': 0}
 -
   word: porsi
@@ -14041,7 +14055,8 @@
   type: lujvo
   def: '$j_1$ は $j_2=c_2$ （商品／サービス）を生産するための資本．'
   ps: 2
-  notes: 'cf. {cupra}, {zbasu}, {jdini}.'
+  notes: 'cf. .'
+  cf: [cupra, zbasu, jdini]
   score: {pracmu: 1}
 -
   word: prali
@@ -14115,7 +14130,7 @@
   type: lujvo
   def: '$v_1=p_1$ は $v_2$ （性質）の点で多種多様な人々の集まり／大衆'
   ps: 2
-  notes: '{prenu} {vrici}'
+  cf: [prenu, vrici]
   score: {prevrici: 0}
 -
   word: prexra
@@ -14123,7 +14138,8 @@
   ja: [肖像, 彫像, 塑像, 肖像画]
   def: '$x_1=pi_1$ はモチーフ$x_2=pi_2=pr_1$の作者$x_3=pi_3$による肖像'
   ps: 3
-  notes: '{vi''a} {prexra} で肖像画; {vi''u} {prexra} で立体像。 cf. {prenu} {pixra}'
+  notes: 'で肖像画; で立体像。 cf. '
+  cf: ['vi''a', prexra, 'vi''u', prenu, pixra]
   score: {prexra: 1}
 -
   word: prije
@@ -14180,7 +14196,8 @@
   sense: [déjà-vu]
   def: '$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で既視感 (déjà-vu) を与える'
   ps: 4
-  notes: '$x_1$ が物である場合は jai prugastcica; {pu} {ganse} {tcica}; {gastcica}, {narprugastcica}'
+  notes: '$x_1$ が物である場合は jai prugastcica; '
+  cf: [pu, ganse, tcica, gastcica, narprugastcica]
   score: {prugastcica: 0}
 -
   word: pruni
@@ -14240,7 +14257,7 @@
   ja: [塵]
   def: '$x_1$ は $x_2$ （起源）の、 $x_3$ （媒体／表面）における塵／沈殿物'
   ps: 3
-  cf: ['te zalvi', danmo, purmo, sligu]
+  cf: [te, zalvi, danmo, purmo, sligu]
   score: {pulce: 9, pulc: 0, puc: 0, 'pu''e': 0}
 -
   word: pulji
@@ -14418,7 +14435,8 @@
   selmaho: UI5
   selmaho2: UI
   def: 'このままでいたい （{ra''i''au} このままでいたい - {ra''i''aucu''i} あるがままを受け入れる - {ra''i''aunai} はやく脱したい）'
-  notes: '心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； {ranji} + {au} から；'
+  notes: '心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； + から；'
+  cf: [ranji, au, ""]
   experimental: true
   unofficial: true
   score: {'ra''i''au': 0}
@@ -14428,7 +14446,8 @@
   selmaho: UI5
   selmaho2: UI
   def: 'あるがままを受け入れる （{ra''i''au} このままでいたい - {ra''i''aucu''i} あるがままを受け入れる - {ra''i''aunai} はやく脱したい）'
-  notes: '心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； {ranji} + {au} から；'
+  notes: '心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； + から；'
+  cf: [ranji, au, ""]
   score: {'ra''i''aucu''i': 0}
 -
   word: 'ra''i''aunai'
@@ -14436,7 +14455,8 @@
   selmaho: UI5
   selmaho2: UI
   def: 'はやく脱したい （{ra''i''au} このままでいたい - {ra''i''aucu''i} あるがままを受け入れる - {ra''i''aunai} はやく脱したい）'
-  notes: '心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； {ranji} + {au} から；'
+  notes: '心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； + から；'
+  cf: [ranji, au, ""]
   score: {'ra''i''aunai': 0}
 -
   word: rakso
@@ -14473,7 +14493,7 @@
   ja: [主要]
   def: '$x_1$ は $x_2$ （集合）・ $x_3$ （性質）において主要／大本'
   ps: 3
-  cf: [vajni, 'te bende', minde, lidne, jatna, jitro, gidva, midju]
+  cf: [vajni, te, bende, minde, lidne, jatna, jitro, gidva, midju]
   score: {ralju: 37, ralj: 0, ral: 8}
 -
   word: ralte
@@ -14492,7 +14512,7 @@
   def: '$x_1$ は $x_2$ （力／者）にたいして $x_3$ （条件）のもと降伏／降参／譲歩する'
   ps: 3
   pun: 降伏並んだ
-  cf: [jdari, renvi, ranti, 'se bapli']
+  cf: [jdari, renvi, ranti, se, bapli]
   score: {randa: 2, rand: 0, rad: 0}
 -
   word: rango
@@ -14608,7 +14628,7 @@
   ps: 3
   exams: ['「lo ratni be li pa bei li re／重水素原子（D）」']
   pun: 元素、ラットに
-  cf: ['kantu; selci']
+  cf: [kantu, selci]
   score: {ratni: 25, ratn: 0, rat: 1}
 -
   word: ratyjbama
@@ -14677,7 +14697,7 @@
   def: '$x_1$ は $x_2$ （本体）の尾／しっぽ'
   ps: 2
   notes: 比喩的に「おまけ」も。
-  cf: [nalci, pimlu, 'se lidne', trixe, birka, jimca]
+  cf: [nalci, pimlu, se, lidne, trixe, birka, jimca]
   score: {rebla: 25, rebl: 0, reb: 8}
 -
   word: rectu
@@ -14730,7 +14750,7 @@
   type: lujvo
   def: '$t_1=c_1$ は二重丸'
   ps: 1
-  notes: '{re}, {cukla}, {tarmi}; {cuktai}'
+  cf: [re, cukla, tarmi, cuktai]
   score: {relcuktai: 0}
 -
   word: relkanol
@@ -14743,7 +14763,7 @@
   type: lujvo
   def: '$m_1$ は$m_2$ を $m_3$ （媒体）・ $m_4$ （原動力）で運ぶ自転車／モーターバイク'
   ps: 4
-  cf: ['re xislu marce']
+  cf: [re, xislu, marce]
   score: {'relxilma''e': 2}
 -
   word: remcalxra
@@ -14757,7 +14777,8 @@
   type: lujvo
   def: '$c_1=r_1$ （殺すヒト）は $c_2=r_1$ （殺されるヒト）を $c_3$ （動作／方法）で殺す； $c_1=r_1$ は人殺し'
   ps: 3
-  notes: '殺す者と殺される者は、両方ともヒト。 {remna} {catra}; {remselcatra}'
+  notes: '殺す者と殺される者は、両方ともヒト。 '
+  cf: [remna, catra, remselcatra]
   score: {remcatra: 0}
 -
   word: remna
@@ -14773,7 +14794,8 @@
   type: lujvo
   def: $s_1=r_1$（殺されるヒト）は$s_2=r_1$（殺すヒト）に$s_3$（動作／方法）で殺される；$s_1=r_1$は殺人被害者
   ps: 3
-  notes: '殺される者と殺す者は、両方ともヒト。 {remna} {se} {catra}; {remcatra}'
+  notes: '殺される者と殺す者は、両方ともヒト。 '
+  cf: [remna, se, catra, remcatra]
   score: {remselcatra: 0}
 -
   word: renro
@@ -14783,7 +14805,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ （方向）に投げる'
   ps: 3
   pun: 'ren (扔)'
-  cf: ['cecla (more general term', danti]
+  cf: [cecla, (more, general, term, danti]
   score: {renro: 27, renr: 0, rer: 1, 're''o': 0}
 -
   word: renvi
@@ -14818,7 +14840,7 @@
   sense: [神]
   def: '$c_1$ は $c_2$ （者／宗教）の、 $c_3$ （領域）をつかさどる竜の神／龍神／ドラゴンの神'
   ps: 3
-  notes: '{respa} {cevni} {resycrida}'
+  cf: [respa, cevni, resycrida]
   score: {resycei: 0}
 -
   word: resycrida
@@ -14827,7 +14849,7 @@
   sense: [想像上の動物]
   def: '$c_1$ は $c_2$ （物語）の竜／龍／ドラゴン'
   ps: 2
-  notes: '{respa} {crida} {resycei}'
+  cf: [respa, crida, resycei]
   score: {resycrida: 0}
 -
   word: 're''u'
@@ -14955,7 +14977,7 @@
   ps: 3
   exams: ['「lo kamgla cu rinka lo nu febvi／熱が沸騰を引き起こす」', '「zo''e rinka lo nu mi tolmo''i／何らかが私に忘れさせる」']
   pun: 引き起こすのは隣家
-  cf: [gasnu, krinu, nibli, 'te zukte', 'se jalge', bapli, jitro, 'ri''a', mukti, ciksi, xruti]
+  cf: [gasnu, krinu, nibli, te, zukte, se, jalge, bapli, jitro, 'ri''a', mukti, ciksi, xruti]
   score: {rinka: 58, rink: 0, rik: 0, 'ri''a': 0}
 -
   word: rinsa
@@ -14989,7 +15011,7 @@
   type: lujvo
   def: '$x_1$ は塩素（Cl）'
   ps: 1
-  cf: ['フッ素 li''orkliru', '臭素 xunkliru', 'ヨウ素 zirkliru', crino, kliru]
+  cf: [フッ素, 'li''orkliru', 臭素, xunkliru, ヨウ素, zirkliru, crino, kliru]
   score: {'ri''orkliru': 0}
 -
   word: rirci
@@ -15018,7 +15040,7 @@
   def: '$x_1$ は $x_2$ （土地）の $x_3$ （流域）が $x_4$ （河口）に流れる河川'
   ps: 4
   pun: 川借りるけ
-  cf: [flecu, 'senta; daplu', djacu, lalxu, xamsi, rinci, naxle]
+  cf: [flecu, senta, daplu, djacu, lalxu, xamsi, rinci, naxle]
   score: {rirxe: 47, rirx: 1, 'ri''e': 0}
 -
   word: rismi
@@ -15065,7 +15087,7 @@
   def: '$x_1$ は $x_2$ （事）を $x_3$ （事）によって避ける／回避する／逃れる'
   ps: 3
   notes: 「遠回り」「迂回」も。
-  cf: [bandu, fanta, 'se jersi', sisku, kalte, fapro]
+  cf: [bandu, fanta, se, jersi, sisku, kalte, fapro]
   score: {rivbi: 32, rivb: 0, riv: 1}
 -
   word: 'rivli''a'
@@ -15074,7 +15096,7 @@
   sense: [避けて離れる, 避けて去る]
   def: '$c_1=r_1$ は $c_2=r_2$ から $c_3$ （経路）を通って逃げる'
   ps: 3
-  notes: '{rivbi} {cliva}'
+  cf: [rivbi, cliva]
   score: {'rivli''a': 1}
 -
   word: ro
@@ -15166,7 +15188,7 @@
   type: lujvo
   def: '$x_1$ （事） は$x_2$ （条件）の下で必然的／避けられない／仕方ない； $x_2$ の下では全ての可能性が $x_1$ に終結する'
   ps: 2
-  cf: ['narfaunarcu''i', 'to''e cunso']
+  cf: ['narfaunarcu''i', 'to''e', cunso]
   score: {'rolcumja''e': 0}
 -
   word: 'roldepre''e'
@@ -15174,7 +15196,8 @@
   ja: [鈍行列車, 各駅停車の列車]
   def: '$x_1$ は $x_2$ （荷／客）・ $x_3$ （線路網／軌道）・ $x_4$ （原動力）の 各駅停車の 列車／鉄道／電車／汽車／地下鉄'
   ps: 4
-  notes: '{ro} zei {denpa} {trene}'
+  notes: 'zei '
+  cf: [ro, denpa, trene]
   score: {'roldepre''e': 0}
 -
   word: romge
@@ -15200,7 +15223,8 @@
   type: cmavo
   selmaho: PA4
   def: ∀（全）を表す複数量化子
-  notes: '``{ro''oi} {da}'''' = ``{na} {ku} {su''oi} {da} {na} {ku}.'''' cf. {ro} は ∀ を表す単数量化子'
+  notes: '``'''' = ``.'''' cf. は ∀ を表す単数量化子'
+  cf: ['ro''oi', dana, ku, 'su''oi', da, na, kuro, ""]
   experimental: true
   unofficial: true
   score: {'ro''oi': 9}
@@ -15228,7 +15252,7 @@
   ja: [生殖]
   def: '$x_1$ は $x_2$ （子）を $x_3$ との間にもうける'
   ps: 3
-  cf: [grute, gutra, rirni, 'se panzi', mamta, patfu, tarbi, bersa, ferti, jbena, sovda]
+  cf: [grute, gutra, rirni, se, panzi, mamta, patfu, tarbi, bersa, ferti, jbena, sovda]
   score: {rorci: 10, rorc: 0, ror: 1}
 -
   word: rotsu
@@ -15305,7 +15329,7 @@
   type: lujvo
   def: '$x_1$ は $x_2$（もの）のザラザラ面'
   ps: 2
-  notes: '{rufsu} {sefta}'
+  cf: [rufsu, sefta]
   score: {rufsfe: 0}
 -
   word: rufsu
@@ -15348,10 +15372,10 @@
   ja: [分散]
   def: '$x_1$ は $x_2$ （溶媒）の中で分解／分散し、 $x_3$ （溶液）を成す、 $x_4$ （条件）において；  $x_1$ はばらける'
   ps: 4
-  notes: '「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は{runme}；'
+  notes: 「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は；
   exams: ['「lo te runta be lo djacu bei lo sakta／砂糖水」']
   pun: ばらけるンた
-  cf: [litki, mixre, sligu, sudga]
+  cf: [runme, litki, mixre, sligu, sudga]
   score: {runta: 2, runt: 1}
 -
   word: 'ru''o'
@@ -15396,7 +15420,7 @@
   def: '$x_1$ は人工物；  $x_1$ は人為的'
   ps: 1
   pun: 人工ルートに
-  cf: [rarna, 'se zbasu', gundi, slasi]
+  cf: [rarna, se, zbasu, gundi, slasi]
   score: {rutni: 4, rutn: 0, run: 6}
 -
   word: 'ru''u'
@@ -16100,7 +16124,7 @@
   type: lujvo
   def: '$x_1$ はタンル・ユニット／セルブリの最小単位'
   ps: 1
-  notes: '{selbri} {selci}'
+  cf: [selbri, selci]
   score: {selbrisle: 0}
 -
   word: selbritcita
@@ -16108,7 +16132,8 @@
   ja: [述語のタグ, タグ]
   def: '$x_1$ は $x_2$ （情報）を表す selbri のタグ'
   ps: 2
-  notes: '{selbri} {tcita}; {se} {bridi}.'
+  notes: .
+  cf: [selbri, tcita, se, bridi]
   score: {selbritcita: 0}
 -
   word: selci
@@ -16118,7 +16143,7 @@
   def: '$x_1$ は $x_2$ （本体）の細胞／分子／原子／最小単位'
   ps: 2
   pun: セル、室
-  cf: ['kantu; ratni', gradu]
+  cf: [kantu, ratni, gradu]
   score: {selci: 6, selc: 0, sle: 5}
 -
   word: 'sele''a'
@@ -16204,7 +16229,7 @@
   def: '$x_1$ は $x_2$ （性質面）に関してセム系（言語／文化／民族）'
   ps: 2
   notes: アラビア／ヘブライ／アラム／エチオピア等
-  cf: [xrabo/xebro]
+  cf: [xrabo/xebro, ""]
   score: {semto: 2, semt: 0, sme: 2}
 -
   word: 'semu''i'
@@ -16474,7 +16499,7 @@
   type: lujvo
   def: '$x_1=se_2=p_3=sp_1$ は題目$x_2=p_2$について自問自答する'
   ps: 2
-  notes: '{sevzi} {preti} {spuda}'
+  cf: [sevzi, preti, spuda]
   score: {sezreispu: 1}
 -
   word: 'sezu''e'
@@ -16549,7 +16574,7 @@
   type: lujvo
   def: '$k_1=s_3$ は $k_2$ （相手）と $s_1$ （理念）を $s_2$ についての理念として共有する同志'
   ps: 3
-  notes: '{sidbo} {kansa}'
+  cf: [sidbo, kansa]
   score: {sibykansa: 0}
 -
   word: siclu
@@ -16577,7 +16602,7 @@
   ja: [雨]
   def: '$x_1$ は雨'
   ps: 1
-  cf: [carvi]
+  cf: [carvi, ""]
   experimental: true
   unofficial: true
   score: {sicpi: 0, sicp: 0}
@@ -16586,7 +16611,7 @@
   type: lujvo
   def: '$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の西風'
   ps: 3
-  notes: '{stici} {brife}'
+  cf: [stici, brife]
   score: {'sicybi''e': 0}
 -
   word: sidbo
@@ -16841,7 +16866,7 @@
   sense: [下着]
   def: '$p_1=s_1$ は $p_2$ （素材）の下着のパンツ、パンティー、ショーツ、トランクス、ブリーフ、ボクサーパンツ'
   ps: 2
-  notes: '{sivni} {palku}'
+  cf: [sivni, palku]
   score: {sivypalku: 0}
 -
   word: skaci
@@ -16871,7 +16896,7 @@
   ps: 2
   notes: 'x2 はx1の元／現の持ち主'
   pun: スキン、革、皮（ぴ）
-  cf: [pilka, calku, kerfa]
+  cf: [pilka, "", calku, kerfa]
   score: {skapi: 13, skap: 3, kap: 2}
 -
   word: skari
@@ -16973,7 +16998,7 @@
   def: '$x_1$ は $x_2$ （素材）の円柱（形状）'
   ps: 2
   notes: シリンダー.
-  cf: [kamju, 'gunro; tubnu']
+  cf: [kamju, gunro, tubnu]
   score: {slanu: 3, slan: 4}
 -
   word: slari
@@ -17290,7 +17315,7 @@
   ja: [He, ヘリウム]
   def: '$x_1$ はヘリウム (He)'
   ps: 1
-  notes: '{solri} {navni}; {ratni}'
+  cf: [solri, navni, ratni]
   score: {solnavni: 0}
 -
   word: solri
@@ -17336,7 +17361,7 @@
   def: '$x_1$ は $x_2$ （資源／エネルギー）の、 $x_3$ （容器）による貯蔵／蓄積'
   ps: 3
   notes: x3は物体に限らず電磁力などの壁や場所空間なども。
-  cf: ['panka; vreji; sabji', banxa, panka]
+  cf: [panka, vreji, sabji, banxa]
   score: {sorcu: 1, sorc: 0, soc: 0, sro: 2}
 -
   word: sorgu
@@ -17355,7 +17380,7 @@
   type: lujvo
   def: '$k_1$ は $k_2=p_1$ （乗客／運転手）・ $k_3$ （動力）の（交通）バス'
   ps: 3
-  notes: '{so''i} {prenu} {karce}'
+  cf: ['so''i', prenu, karce]
   score: {sorprekarce: 0}
 -
   word: 'so''u'
@@ -17374,7 +17399,7 @@
   ps: 2
   notes: 'x2 は「父／母」も。'
   pun: ソヴダ、卵を食べよう
-  cf: [ganti, gutra, mamta, patfu, rorci, tsiju, lanbi, 'tarbi; djine', konju, tarbi]
+  cf: [ganti, gutra, mamta, patfu, rorci, tsiju, lanbi, tarbi, djine, konju]
   score: {sovda: 15, sovd: 0, sov: 2, 'so''a': 0}
 -
   word: spaji
@@ -17448,7 +17473,7 @@
   ja: [故障]
   def: '$x_1$ は $x_2$ （機能）に関して故障している／使用不可能'
   ps: 2
-  cf: [daspo, katna, porpi, 'se xrani', cikre]
+  cf: [daspo, katna, porpi, se, xrani, cikre]
   score: {spofu: 2, spof: 0, pof: 0, 'po''u': 0}
 -
   word: spoja
@@ -17497,7 +17522,7 @@
   ja: [掻く（かく）]
   def: '$x_1$ （物）は $x_2$ を掻く'
   ps: 2
-  cf: [guska, katna, mosra, plixa, 'kakpa (unlike kakpa', 'sraku does not imply material is removed', spali]
+  cf: [guska, katna, mosra, plixa, kakpa, (unlike, sraku, does, not, imply, material, is, removed, spali]
   score: {sraku: 14, srak: 0, rak: 1}
 -
   word: sralo
@@ -17564,7 +17589,7 @@
   def: '$x_1$ は $x_2$ を $x_3$ （方向／次元／面）に関して包囲する／取り囲む'
   ps: 3
   pun: 包囲をするりと抜ける
-  cf: [karli, senta, snuji, vanbi, 'se nenri', 'se jbini', bartu, djine]
+  cf: [karli, senta, snuji, vanbi, se, nenri, jbini, bartu, djine]
   score: {sruri: 47, srur: 0, rur: 0, sru: 19}
 -
   word: stace
@@ -17656,7 +17681,7 @@
   def: '$x_1$ （性質）は $x_2$ （個）の $x_3$ （集合）における特質／個性； $x_2$ （個）は $x_1$ （性質）の点で $x_3$ （集合）において特別／特有だ'
   ps: 3
   notes: ある集合においてその個がもつ、他の要素にはみられない性質。
-  cf: [srana, 'se ponse', ckini, tcila, tutra]
+  cf: [srana, se, ponse, ckini, tcila, tutra]
   score: {steci: 23, stec: 0, tec: 1, 'te''i': 2}
 -
   word: stedu
@@ -17875,7 +17900,7 @@
   ja: [項のタグ, タグ]
   def: '$x_1$ は $x_2$ （情報）を表す sumti のタグ'
   ps: 2
-  notes: '{sumti} {tcita}'
+  cf: [sumti, tcita]
   score: {sumtcita: 0}
 -
   word: sumti
@@ -17891,7 +17916,7 @@
   type: lujvo
   def: '$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の東風'
   ps: 3
-  notes: '{stuna} {brife}'
+  cf: [stuna, brife]
   score: {'sunbi''e': 0}
 -
   word: sunga
@@ -17900,7 +17925,7 @@
   ja: [ニンニク]
   def: '$x_1$ は $x_2$ （種類）のニンニク'
   ps: 2
-  cf: ['sluni < stagi (上位概念)']
+  cf: [sluni, '<', stagi, ""]
   score: {sunga: 0, sung: 0, sug: 0}
 -
   word: sunla
@@ -17926,7 +17951,8 @@
   type: cmavo
   selmaho: PA4
   def: ∃（存在）を表す複数量化子
-  notes: '``{su''oi} {da}'''' = ``{na} {ku} {ro''oi} {da} {na} {ku}.'''' cf. {su''o} は ∃ を表す単数量化子'
+  notes: '``'''' = ``.'''' cf. は ∃ を表す単数量化子'
+  cf: ['su''oi', dana, ku, 'ro''oi', da, na, 'kusu''o', ""]
   experimental: true
   unofficial: true
   score: {'su''oi': 7}
@@ -17976,7 +18002,7 @@
   rafsi: {CVC: taz}
   ja: [それ]
   def: 'それ（そこのもの） ： 代詞（sumti）；'
-  notes: '聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（{ti} と {tu} の間）ことも。'
+  notes: '聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（と の間）ことも。'
   cf: [ti, tu]
   score: {ta: 116, taz: 0}
   rank: 182
@@ -18098,7 +18124,7 @@
   ja: [親指]
   def: '$x_1$ は $x_2$ （肢）・ $x_3$ （本体）の親指'
   ps: 3
-  cf: [xantamji, 'jmatamji; degji', tance, xance, jamfu]
+  cf: [xantamji, jmatamji, degji, tance, xance, jamfu]
   score: {tamji: 0, tamj: 0, taj: 4}
 -
   word: tamne
@@ -18114,8 +18140,8 @@
   type: lujvo
   def: '$x_1$ は $x_2$ に $x_3$（形態／形状） ・$x_4$（性質）の点で似ている'
   ps: 4
-  notes: '{tai} の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。'
-  cf: [simsa, tarmi, tai]
+  notes: 'の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。'
+  cf: [tai, simsa, tarmi]
   score: {tamsmi: 4}
 -
   word: tanbo
@@ -18221,14 +18247,14 @@
   def: '$x_1$ は $x_2$ （素材）・ $x_3$ （形状）・ $x_4$ （厚さ）の瓦／タイル'
   ps: 4
   notes: 「ケーキ」も。比喩的に「街区」も。
-  cf: [bliku, kubli, 'matci; karda', kurfa, matci, plita, tarmi]
+  cf: [bliku, kubli, matci, karda, kurfa, plita, tarmi]
   score: {tapla: 3, tapl: 0}
 -
   word: tapydansu
   type: lujvo
   def: '$x_1=s_1=d_1$ は $x_2=d_2$ （音楽／リズム）に合わせてタップダンスをする'
   ps: 2
-  notes: '{stapa} {dansu}'
+  cf: [stapa, dansu]
   score: {tapydansu: 0}
 -
   word: tarbi
@@ -18269,7 +18295,7 @@
   notes: 'x1は観念的で、その性質を具現しているのが x2 。「キラキラの（x1）の指輪（ x2 ）」。'
   exams: ['「lo vi plise cu se tarmi lo si''o xunre／このリンゴは赤を具現化している。；このリンゴは『赤い』。」']
   pun: 'tai(態), form, たるみのある形'
-  cf: [nejni, 'morna; te marji', tapla, bliku, kubli, kurfa, cukla, mapti, morna, sarlu]
+  cf: [nejni, morna, te, marji, tapla, bliku, kubli, kurfa, cukla, mapti, sarlu]
   score: {tarmi: 47, tarm: 2, tam: 6, tai: 0}
 -
   word: tarti
@@ -18384,7 +18410,7 @@
   ja: [駅]
   def: '$x_1$ は $x_2$ （交通／コミュニケーション／配給のネットワーク）の駅／局／ノード'
   ps: 2
-  cf: [dargu, litru, pluta, trene, ciste, 've mrilu', tivni, cradi, 've benji', fonxa, dikca, fatri]
+  cf: [dargu, litru, pluta, trene, ciste, ve, mrilu, tivni, cradi, benji, fonxa, dikca, fatri]
   score: {tcana: 3, tcan: 0}
 -
   word: tcapau
@@ -18392,7 +18418,7 @@
   ja: [村, 町村区, 町]
   def: '$p_1$ は $p_2=t_1$ （市）の町村区'
   ps: 1
-  notes: '{tcadu} {pagbu}'
+  cf: [tcadu, pagbu]
   score: {tcapau: 0}
 -
   word: tcati
@@ -18481,7 +18507,7 @@
   ps: 2
   notes: ［物・事・過程の一時的な環境。］
   pun: 地に状況
-  cf: [stuzi, zvati, vanbi, 've pruce', ckaji, zasni]
+  cf: [stuzi, zvati, vanbi, ve, pruce, ckaji, zasni]
   score: {tcini: 32, tcin: 2}
 -
   word: tcita
@@ -18727,7 +18753,7 @@
   def: '$x_1$ は $x_2$ （時点）から $x_3$ （時点）までの間隔／経過／時間'
   ps: 3
   notes: 「ditcu」と違い、特定の開始時点と終了時点が含意される。
-  cf: [ditcu, cacra, cedra, citsi, ranji, tcika, junla, renvi]
+  cf: [ditcu, "", cacra, cedra, citsi, ranji, tcika, junla, renvi]
   score: {temci: 64, temc: 0, tem: 2, tei: 0}
 -
   word: 'teme''a'
@@ -18775,7 +18801,7 @@
   ps: 2
   notes: 「でこぼこ」「ざらざら」などの類。
   pun: 天狗の質感
-  cf: [rufsu, xutla]
+  cf: [rufsu, "", xutla]
   score: {tengu: 1, teng: 0, teg: 0, 'te''u': 0}
 -
   word: 'teni''i'
@@ -18840,7 +18866,7 @@
   def: '$x_1$ は $x_2$ （生物種）の地球／主要惑星／母星'
   ps: 2
   notes: 形容詞的に「地球外」にたいする「地球内」も。
-  cf: [lunra, plini, solri, kensa, 'tsani; dertu']
+  cf: [lunra, plini, solri, kensa, tsani, dertu]
   score: {terdi: 81, terd: 0, ted: 6}
 -
   word: 'teri''a'
@@ -18855,7 +18881,7 @@
   ja: [辺, 稜, 面, 頂点]
   sense: [多面体の]
   def: '$x_{1}$ は $x_{2}$ 次元多面体 $x_{3}$ の $x_{4}$ （デフォルトで $x_{2}$-1）次元辺； $x_{4}$=1 のとき $x_{1}$ は稜； $x_{4}$=0 のとき $x_{1}$ は頂点'
-  notes: '{te} {kubli}, {cimde}'
+  cf: [te, kubli, cimde]
   score: {terkubli: 0}
 -
   word: termifckiku
@@ -19010,7 +19036,7 @@
   ps: 2
   exams: ['「lo bakni ke tilju selbei zo''u viska je badri／牛の重荷は見てかなしい」（山頭火『行乞記（二）』）']
   pun: 'juu 重'
-  cf: ['linto; carmi', 'se junri', bunda, junta]
+  cf: [linto, carmi, se, junri, bunda, junta]
   score: {tilju: 17, tilj: 0, tij: 0}
 -
   word: tinbe
@@ -19177,36 +19203,38 @@
   ja: [蝶]
   def: '$x_1$ は $x_2$ （種類）のチョウ目（もく）昆虫'
   ps: 2
-  cf: [cinki]
+  cf: [cinki, ""]
   score: {toldi: 2, told: 0, tod: 2}
 -
   word: tolfragapci
   type: lujvo
   def: '$x_1=t_1=g_1$ は、物質 $x_2=g_2$ からなる、条件 $x_3=g_3$ における不活性気体'
   ps: 3
-  notes: '不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 {to''e} {frati} {gapci}; {navni}'
+  notes: '不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 '
+  cf: ['to''e', frati, gapci, navni]
   score: {tolfragapci: 0}
 -
   word: 'tolfrinyna''u'
   type: lujvo
   def: '$x_1$ は無理数'
   ps: 1
-  notes: '{to''e} {frinu} {namcu}'
-  cf: ['frinyna''u', 'xarna''u', 'tolxarna''u', 'mrena''u', 'lujna''u']
+  cf: ['to''e', frinu, namcu, 'frinyna''u', 'xarna''u', 'tolxarna''u', 'mrena''u', 'lujna''u']
   score: {'tolfrinyna''u': 0}
 -
   word: 'tolja''e'
   type: lujvo
   def: '非$x_1$（事）は$x_2$（事）の結果／結末； $x_1$は$x_2$に妨げられる'
   ps: 2
-  notes: '{to''e} {jalge}。 「lo nu broda cu tolja''e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。'
+  notes: '。 「lo nu broda cu tolja''e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。'
+  cf: ['to''e', jalge]
   score: {'tolja''e': 0}
 -
   word: 'tolki''u'
   type: lujvo
   def: '$x_1$（事）は非$x_2$（事）の理由； $x_1$は$x_2$を妨げる'
   ps: 2
-  notes: '{to''e} {krinu}。 「lo nu broda cu tolki''u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。'
+  notes: '。 「lo nu broda cu tolki''u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。'
+  cf: ['to''e', krinu]
   score: {'tolki''u': 0}
 -
   word: 'tolmifybi''o'
@@ -19222,21 +19250,24 @@
   type: lujvo
   def: '$x_1$（事）は非$x_2$（事）を $x_3$（者）に動機する； $x_1$は$x_2$を妨げる'
   ps: 3
-  notes: '{to''e} {mukti}。 「lo nu broda cu tolmu''i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。'
+  notes: '。 「lo nu broda cu tolmu''i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。'
+  cf: ['to''e', mukti]
   score: {'tolmu''i': 0}
 -
   word: 'tolni''i'
   type: lujvo
   def: '$x_1$（事）は非$x_2$（事）を$x_3$（法則／論理／体系）において余儀なく含意する／もたらす； $x_1$は$x_2$を妨げる'
   ps: 3
-  notes: '{to''e} {nibli}。 「lo nu broda cu tolni''i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。'
+  notes: '。 「lo nu broda cu tolni''i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。'
+  cf: ['to''e', nibli]
   score: {'tolni''i': 0}
 -
   word: 'tolri''a'
   type: lujvo
   def: '$x_1$（事）は非$x_2$（事）を引き起こす； $x_1$は$x_2$を妨げる'
   ps: 2
-  notes: '{to''e} {rinka}。 「lo nu broda cu tolri''a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。'
+  notes: '。 「lo nu broda cu tolri''a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。'
+  cf: ['to''e', rinka]
   score: {'tolri''a': 0}
 -
   word: 'tolxarna''u'
@@ -19244,7 +19275,7 @@
   def: '$x_1$ は実数'
   ps: 1
   notes: '同じ意味の lujvo として {mrena''u} もある。'
-  cf: ['to''e xanri namcu', 'mrena''u; xarna''u', 'lujna''u; ka''o']
+  cf: ['to''e', xanri, namcu, 'mrena''u', 'xarna''u', 'lujna''u', 'ka''o']
   score: {'tolxarna''u': 0}
 -
   word: tonga
@@ -19388,7 +19419,7 @@
   ja: [イデオロギー, 政治理念, 政治思想]
   def: '$s_1$ は $t_1$ （統治者）・ $t_2$ （民衆／領土）の統治の $s_3$ （思想家）による政治思想／政治理念／イデオロギー'
   ps: 3
-  notes: '{turni} {sidbo}'
+  cf: [turni, sidbo]
   score: {'trusi''o': 0}
 -
   word: tsakura
@@ -19432,7 +19463,7 @@
   ja: [種]
   def: '$x_1$ は $x_2$ （有機体）の $x_3$ （子）になる種／種子／胞子／芽胞／生殖細胞'
   ps: 3
-  cf: [tarbi, dembi, grute, jbari, sombo, spati, sovda]
+  cf: [tarbi, "", dembi, grute, jbari, sombo, spati, sovda]
   score: {tsiju: 14, tsij: 0, tsi: 1}
 -
   word: tsina
@@ -19469,8 +19500,8 @@
   sense: [中空の]
   def: '$x_1$ は $x_2$ （素材）・ $x_3$ （内容）の管／筒／パイプ／シリンダー／チューブ'
   ps: 3
-  notes: '{slanu} と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。'
-  cf: [kevna, canlu]
+  notes: 'と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。'
+  cf: [slanu, kevna, canlu]
   score: {tubnu: 22, tubn: 1, 'tu''u': 0}
 -
   word: 'tu''e'
@@ -19512,7 +19543,7 @@
   ps: 2
   notes: 「大陸」も。
   pun: 'tu（土）, land'
-  cf: [vacri, 'xamsi; tutra', gugde, xamsi]
+  cf: [vacri, xamsi, tutra, gugde]
   score: {tumla: 44, tuml: 0, tum: 2, 'tu''a': 0}
 -
   word: tunba
@@ -19574,7 +19605,7 @@
   ja: [くるぶし, 踝, 足首]
   def: '$c_1$ は $c_2=t_1$ （足）の $t_2$ （足の本体）の足首'
   ps: 2
-  notes: '{tuple} {cnebo}'
+  cf: [tuple, cnebo]
   score: {'tupne''o': 0}
 -
   word: turni
@@ -19596,7 +19627,7 @@
   ps: 2
   notes: 「楽器」「教材」も。
   pun: '道具で土掘る, tool, ci（器）'
-  cf: [cabra, minji, 'se pilno', zukte, sazri, salpo, pulni, cfine, klupe, jendu, xislu, 'vraga; forca', smuci, 'dakfu; balre', mruli, cinza, garna, pijne, pambe, canpa, pilno, vraga]
+  cf: [cabra, minji, se, pilno, zukte, sazri, salpo, pulni, cfine, klupe, jendu, xislu, vraga, forca, smuci, dakfu, balre, mruli, cinza, garna, pijne, pambe, canpa]
   score: {tutci: 7, tutc: 0, tci: 47}
 -
   word: tutra
@@ -19757,9 +19788,9 @@
   selmaho: 'UI*1'
   selmaho2: UI
   def: '悲嘆 （ ui 幸福 - uinai 悲嘆）'
-  notes: '心態詞； それについて悲しむ気持； 哀れみの {uu} や後悔の {u''u} と異なる'
+  notes: '心態詞； それについて悲しむ気持； 哀れみの や後悔の と異なる'
   exams: ['「.ui nai ti pu melbi jarbu／ここは素敵な裏山だったのになあ」']
-  cf: [badri]
+  cf: [uu, 'u''u', badri]
   score: {uinai: 3}
 -
   word: 'u''inai'
@@ -19944,7 +19975,7 @@
   ja: [重要]
   def: '$x_1$ （物／事）は $x_2$ （人／事）にとって、 $x_3$ （性質／理由）に関して重要／大事'
   ps: 3
-  cf: [banli, ralju, vamji, dirba, kargu, pajni]
+  cf: [banli, "", ralju, vamji, dirba, kargu, pajni]
   score: {vajni: 47, vajn: 2, vaj: 4, vai: 0}
 -
   word: valsi
@@ -19963,7 +19994,7 @@
   ja: [価値]
   def: '$x_1$ （数量／性質）は $x_2$ （物／事）の、 $x_3$ （観点）・ $x_4$ （用途／査定）における価値；  $x_2$ は $x_3$ にとって $x_1$ の値打ちがある'
   ps: 4
-  cf: [jdima, vajni, kargu, dirba, jerna, vecnu, janta, pleji]
+  cf: [jdima, "", vajni, kargu, dirba, jerna, vecnu, janta, pleji]
   score: {vamji: 11, vamj: 0, vam: 2, 'va''i': 0}
 -
   word: vamtu
@@ -19981,7 +20012,7 @@
   ja: [環境]
   def: '$x_1$ （個／群）は $x_2$ の環境／周囲／文脈／雰囲気'
   ps: 2
-  cf: ['va''o', sruri, tcini, jibni, jbini]
+  cf: ['va''o', sruri, "", tcini, jibni, jbini]
   score: {vanbi: 24, vanb: 0, vab: 3}
 -
   word: vanci
@@ -20082,8 +20113,8 @@
   ja: [売る, うる, はんばい, 売買, 販売, 販売員, 購入者]
   def: '$x_1$ （売り手） は $x_2$ （品物やサービス）を $x_3$ （買い手）に $x_4$ の額／費用／出費で売る'
   ps: 4
-  notes: 'x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve''u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve''u は「費用である」になる）。 売りに出す（ fitselve''u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_{1}$ として「所有権を手放す者」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posyve''u}, {posyselve''u}）。 費用と価格の違いについては {jdima} の注を参照。'
-  cf: [canja, dunda, janta, pleji, jerna, kargu, prali, zarci, vamji, jdima, fepni, friti, rupnu]
+  notes: 'x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve''u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve''u は「費用である」になる）。 売りに出す（ fitselve''u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_$ として「所有権を手放す者」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 費用と価格の違いについては の注を参照。'
+  cf: ['12posyve''u', 'posyselve''ujdima', canja, dunda, janta, pleji, jerna, kargu, prali, zarci, vamji, jdima, fepni, friti, rupnu]
   score: {vecnu: 31, vecn: 0, ven: 5, 've''u': 0}
 -
   word: 'vecu''u'
@@ -20218,7 +20249,7 @@
   def: '$x_1$ は $x_2$ （年齢）の、 $x_3$ （観点）での子供'
   ps: 3
   notes: 人間とは限らない。
-  cf: [cifnu, panzi, citno, nanla, nixli, 'se rirni', bersa, makcu]
+  cf: [cifnu, "", panzi, citno, nanla, nixli, se, rirni, bersa, makcu]
   score: {verba: 42, verb: 0, ver: 1, 've''a': 0}
 -
   word: 'verku''i'
@@ -20226,7 +20257,7 @@
   ja: [保育士, 保育]
   def: '$k_1$ は $k_2=v_1$ （子供）を保育する'
   ps: 1
-  notes: '{verba} {kurji}'
+  cf: [verba, kurji]
   score: {'verku''i': 0}
 -
   word: 'verku''istu'
@@ -20234,7 +20265,7 @@
   ja: [保育園, 保育所]
   def: '$s_1$ は $s_2=k_2=v_1$ （子供）の、 $k_1$ （保育士）の保育所'
   ps: 1
-  notes: '{verba} {kurji} {stuzi}'
+  cf: [verba, kurji, stuzi]
   score: {'verku''istu': 0}
 -
   word: vetai
@@ -20291,7 +20322,7 @@
   ja: [画面]
   def: '$x_1$ は画面／映像モニター／スクリーン'
   ps: 1
-  cf: [skina, 've tivni']
+  cf: [skina, ve, tivni]
   score: {vidni: 2, vidn: 0}
 -
   word: vidru
@@ -20301,7 +20332,7 @@
   def: '$x_1$ は $x_2$ （特性）の、 $x_3$ （対象）に寄生しうる病原体／ウィルス　'
   ps: 3
   pun: 'virus ウィルス'
-  cf: [jurme, parji]
+  cf: [jurme, "", parji]
   score: {vidru: 1, vidr: 0, vir: 0}
 -
   word: 'vi''e'
@@ -20363,7 +20394,7 @@
   sense: [トイレの部屋]
   def: '$k_1$ は $v_1$ （排泄者）・ $v_2$ （排泄物）のための $k_2$ （建物／構造）内の $k_3$ （壁／天井／床）で仕切られた便所／トイレの部屋'
   ps: 3
-  notes: '{vikmi} {kumfa}'
+  cf: [vikmi, kumfa]
   score: {'vimku''a': 0}
 -
   word: vimsivypalku
@@ -20371,7 +20402,7 @@
   ja: [オムツ, おむつ, おしめ, オシメ]
   def: '$p_1=s_1$ は $p_2$ （素材）のオムツ'
   ps: 2
-  notes: '{vikmi} {sivypalku} {sivni} {palku}'
+  cf: [vikmi, sivypalku, sivni, palku]
   score: {vimsivypalku: 0}
 -
   word: vindu
@@ -20425,7 +20456,8 @@
   sense: [医学]
   def: $p_1=v_1$(ウイルス/病原体)は$p_2=v_2$に感染する
   ps: 2
-  notes: 'parjiは{parji}{vidru}'
+  notes: parjiは
+  cf: [parjividru]
   score: {virparji: 0}
 -
   word: viska
@@ -20436,7 +20468,7 @@
   ps: 3
   notes: x3は、空間の灯りや背景など、視覚できる対象を左右する条件。x1は光や色を感知するカメラなども。
   pun: ヴィジョン視覚
-  cf: [catlu, jvinu, zgana, ganse, kanla, minra, simlu, djuno, jimpe]
+  cf: [catlu, "", jvinu, zgana, ganse, kanla, minra, simlu, djuno, jimpe]
   score: {viska: 309, visk: 0, vis: 25, 'vi''a': 0}
   rank: 57
 -
@@ -20517,7 +20549,7 @@
   def: '$x_1$ は $x_2$ （事）を $x_3$ （状態条件）のもとにもたらす力能を持つ；  $x_1$ は $x_2$ に関して有力／有能'
   ps: 3
   notes: 物理的な力でなく人格や権威の力。
-  cf: [jitro, tsali, ruble]
+  cf: [jitro, "", tsali, ruble]
   score: {vlipa: 39, vlip: 1, vli: 12}
 -
   word: vo
@@ -20588,7 +20620,8 @@
   ja: [戻す, 返す]
   def: '$g_1$ は $v_1$ （対象）を $v_2$ に $v_3$ から戻す／返す'
   ps: 3
-  notes: 'さんによる {volve} の再定義（ x1 は x2 に x3 から戻る）に拠る。; {volve} {gasnu}'
+  notes: 'さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。; '
+  cf: [volve, gasnu]
   score: {volvygau: 0}
 -
   word: 'vo''o'
@@ -20786,7 +20819,7 @@
   ja: [身体障碍者, 身体障がいのある人, 身体障がいのある方, 身体障がい児, 身体障がい者, 身体障害児, 身体障害者]
   def: '$r_1=xa_2$ は $r_2$ （障害）のために $r_3$ が制限される身体障害者'
   ps: 3
-  notes: '{xadni} {rinju} {ka''enri''u}'
+  cf: [xadni, rinju, 'ka''enri''u']
   score: {'xadri''u': 0}
 -
   word: xagji
@@ -20889,9 +20922,9 @@
   sense: [まあまあである]
   def: '$x_1$ は $x_2$ にとって、 $x_3$ （基準）で良い／好ましい'
   ps: 3
-  notes: '「まあまあである／可」は {mlixau}, {norxau}, {xaurselcru}.'
+  notes: '「まあまあである／可」は .'
   pun: 'よくかむグッド, xau(好), good,bon'
-  cf: [melbi, xlali, vrude, zabna]
+  cf: [mlixau, norxau, xaurselcru, melbi, xlali, vrude, zabna]
   score: {xamgu: 103, xamg: 0, xag: 50, xau: 14}
   rank: 127
 -
@@ -20930,7 +20963,7 @@
   ja: [手を取る, 手をつなぐ, 手を取り合う, 手を握り合う, 手を握る, 握手]
   def: '$s_1$ は互いに手をつなぐ／握手する'
   ps: 1
-  notes: '{xance} {jgari} {simxu}'
+  cf: [xance, jgari, simxu]
   score: {'xanjaisi''u': 2}
 -
   word: xanka
@@ -21100,7 +21133,8 @@
   type: cmavo
   selmaho: PA2
   def: '16進法E/10進法14 ： 数量詞；'
-  notes: '{rei} は {re} と聞き間違えやすいので、 {rei} の代わりに使われる'
+  notes: 'は と聞き間違えやすいので、 の代わりに使われる'
+  cf: [rei, re, ""]
   experimental: true
   unofficial: true
   score: {xei: 1}
@@ -21255,7 +21289,7 @@
   ja: [不特定の数, ある数]
   def: 不特定の数：数量詞；
   notes: '「ある数」。 no''o と違い、典型的な数であるとは限らない。'
-  cf: ['no''o', 'zo''e; tu''o', xo, 'co''e', 'do''e']
+  cf: ['no''o', 'zo''e', 'tu''o', xo, 'co''e', 'do''e']
   experimental: true
   unofficial: true
   score: {'xo''e': 0}
@@ -21301,7 +21335,7 @@
   type: lujvo
   def: '$c_1$ は $c_2$ （内容）の $c_3$ （著者）の $c_4$ （読者）の $c_5$ （媒体）の絵本'
   ps: 5
-  notes: '{pixra} {cukta}'
+  cf: [pixra, cukta]
   score: {xracku: 0}
 -
   word: xrani
@@ -21349,7 +21383,8 @@
   sense: [帰っていく／帰ってくる, 戻る、戻っていく／戻ってくる, 帰る、帰っていく／帰ってくる, 戻っていく／戻ってくる]
   def: '$k_1=xr_1$ は $k_2=xr_2$ （元の所）へ $k_3=xr_3$ から $k_4$ （経路）を通り $k_5$ （手段）で戻る'
   ps: 5
-  notes: 'xorxes さんによる {xruti} の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; {xruti} {klama}'
+  notes: 'xorxes さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; '
+  cf: [xruti, klama]
   score: {xrukla: 18}
 -
   word: xrula
@@ -21397,7 +21432,7 @@
   type: lujvo
   def: '$x_1$ は臭素 （Br）'
   ps: 1
-  cf: ['フッ素 li''orkliru', '塩素 ri''orkliru', 'ヨウ素 zirkliru', xunre, kliru]
+  cf: [フッ素, 'li''orkliru', 塩素, 'ri''orkliru', ヨウ素, zirkliru, xunre, kliru]
   score: {xunkliru: 0}
 -
   word: xunre
@@ -21486,7 +21521,7 @@
   ja: [好意的]
   def: '$x_1$ は $x_2$ （性質）において、 $x_3$（基準）で好ましい／すぐれている／実に見事だ／すばらしい／すてきだ／一流だ／傑出している／あっぱれだ／見事だ／称賛に値する／立派だ／望ましい／楽しい／感じのよい／愛すべき／精好だ／クールだ'
   ps: 3
-  notes: '「最高」「ナイス」「イケてる」など。 {mabla}の対義。'
+  notes: '「最高」「ナイス」「イケてる」など。 の対義。'
   cf: [mabla, xamgu, funca, vrude, banli]
   score: {zabna: 3, zabn: 0, zan: 19, 'za''a': 0}
 -
@@ -21602,7 +21637,7 @@
   ja: [宿泊, 滞在, 泊まる]
   def: '$x_1$ （宿泊者）は $x_2$ （宿泊施設／場所）に泊まる／一時滞在する'
   ps: 2
-  notes: '{zasni} {xabju}; {vitke}'
+  cf: [zasni, xabju, vitke]
   score: {'zasxa''u': 0}
 -
   word: zau
@@ -21667,7 +21702,7 @@
   def: '$x_1$ は $x_2$ の（ための）巣／家／ねぐら／アジト'
   ps: 2
   notes: 拡張すれば「家庭」も。
-  cf: [dinju, ginka, kumfa, 'se xabju']
+  cf: [dinju, ginka, kumfa, se, xabju]
   score: {zdani: 147, zdan: 0, zda: 48}
   rank: 102
 -
@@ -21709,7 +21744,8 @@
   type: cmavo
   selmaho: SI
   def: 'cmavo 造成： 2つの単語の間に置き、意味上は前者、文法上は後者と同じになるような新語を形成する'
-  notes: '「{zo''e} ze''ei {pa}／不特定の数（＝{xo''e}）」'
+  notes: '「ze''ei ／不特定の数（＝）」'
+  cf: ['zo''e', 'paxo''e']
   experimental: true
   unofficial: true
   score: {'ze''ei': 0}
@@ -21743,14 +21779,14 @@
   type: lujvo
   def: '$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言律詩'
   ps: 3
-  notes: '{ze} {valsi} {bi} {linji}; {mumvlavonli''i}, {zelvlavonli''i}, {mumvlabivli''i}'
+  cf: [ze, valsi, bi, linji, 'mumvlavonli''i', 'zelvlavonli''i', 'mumvlabivli''i']
   score: {'zelvlabivli''i': 0}
 -
   word: 'zelvlavonli''i'
   type: lujvo
   def: '$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言絶句'
   ps: 3
-  notes: '{ze} {valsi} {vo} {linji}; {mumvlavonli''i}, {mumvlabivli''i}, {zelvlabivli''i}'
+  cf: [ze, valsi, vo, linji, 'mumvlavonli''i', 'mumvlabivli''i', 'zelvlabivli''i']
   score: {'zelvlavonli''i': 0}
 -
   word: zenba
@@ -21867,7 +21903,7 @@
   type: lujvo
   def: '$x_1$ はヨウ素（I）'
   ps: 1
-  cf: ['フッ素 li''orkliru', '塩素 ri''orkliru', '臭素 xunkliru', zirpu, kliru]
+  cf: [フッ素, 'li''orkliru', 塩素, 'ri''orkliru', 臭素, xunkliru, zirpu, kliru]
   score: {zirkliru: 0}
 -
   word: zirpu
@@ -22115,7 +22151,7 @@
   ps: 2
   notes: 本質的な所在でなく、一時的な所在。
   pun: '＜ずっとバチカンに居る＞, zai 在'
-  cf: [stuzi, jbini, nenri, 'se vasru', cpana, diklo, jibni, cabna, lamji, tcini, xabju, jmive, jundi, vitke]
+  cf: [stuzi, "", jbini, nenri, se, vasru, cpana, diklo, jibni, cabna, lamji, tcini, xabju, jmive, jundi, vitke]
   score: {zvati: 233, zvat: 0, zva: 31}
   rank: 77
 -
