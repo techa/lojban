@@ -4,8 +4,7 @@
     "type": "cmavo",
     "selmaho": [
       "A",
-      "JOI",
-      "A"
+      "JOI"
     ],
     "def": "sumti 論理和（OR）／～や～ ： 接続詞（論理・後置・sumti）； 前部と後部はどちらか或いは共に真",
     "exams": [
@@ -17,9 +16,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "謹聴",
@@ -41,10 +38,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "無頓着",
@@ -58,8 +52,7 @@
     ],
     "cf": [
       "nalju'i",
-      "re'i",
-      "nai"
+      "re'i nai"
     ]
   },
   "a'anai": {
@@ -67,10 +60,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "忌避 （ a'a 謹聴／注目 - a'acu'i 無頓着／無愛想 - a'anai 忌避）",
     "notes": "心態詞； 対応するの嫌う気持； 相手にしたくない気持「やってられないよ」",
@@ -87,9 +77,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "感動",
@@ -105,9 +93,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY*",
-      "BY",
-      "BY",
-      true
+      "BY"
     ],
     "def": "a ： 字詞",
     "exams": [
@@ -119,9 +105,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "注意",
@@ -143,10 +127,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "消耗 （ a'e 警戒／注意 - a'enai 消耗）",
     "notes": "心態詞； 物事に対して感覚が鈍る／疲労した気持ち",
@@ -163,9 +144,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "志向 （ ai 志向 - aicu'i 不断 - ainai 無為）",
     "notes": "心態詞； それを行為する、それにたいして働きかけるつもりがある気持",
@@ -184,9 +163,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "努力 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）",
     "notes": "心態詞； 努める、頑張る気持",
@@ -201,8 +178,7 @@
       "slunandu",
       "troci",
       "selprogunka",
-      "fu'i",
-      "nai"
+      "fu'i nai"
     ]
   },
   "a'icu'i": {
@@ -210,10 +186,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "余裕 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）",
     "notes": "心態詞； 頑張らなくてもいいという気持",
@@ -231,10 +204,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "不断 （ ai 志向 - aicu'i 不断 - ainai 無為）",
     "notes": "心態詞； それをするかどうか決断できていない気持； 気乗り薄な情況「どうしよっかなー」",
@@ -251,10 +221,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "無為 （ ai 志向 - aicu'i 不断 - ainai 無為）",
     "notes": "心態詞； それをするつもりがない／その予定ではない／不作為の気持",
@@ -273,10 +240,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "休息 （ a'i 努力 - a'icu'i 余裕 - a'inai 休息）",
     "notes": "心態詞； 頑張らずに休む／怠ける気持",
@@ -294,9 +258,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "希望 （ a'o 希望 - a'onai 絶望）",
     "notes": "心態詞； それについて望みをかける気持",
@@ -312,10 +274,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "絶望 （ a'o 希望 - a'onai 絶望）",
     "notes": "心態詞； それについて望めることが無いという気持",
@@ -332,9 +291,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "欲望",
@@ -355,9 +312,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "関心",
@@ -379,10 +334,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "無関心 （ a'u 関心 - a'ucu'i 無関心 - a'unai 反感）",
     "notes": "心態詞； それについて興味が湧かない情況",
@@ -399,10 +351,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "無欲求 （ au 欲求 - aucu'i 無欲求 - aunai 抵抗）",
     "notes": "心態詞； それを特に欲しくはないという気持",
@@ -419,10 +368,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "抵抗 （ au 欲求 - aucu'i 無欲求 - aunai 抵抗）",
     "notes": "心態詞； それが嫌で手中にしたくない気持",
@@ -438,10 +384,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "反感 （ a'u 関心 - a'ucu'i 無関心 - a'unai 反感）",
     "notes": "心態詞； それに醜悪さを覚えて拒んでしまう気持",
@@ -458,8 +401,7 @@
     "type": "cmavo",
     "selmaho": [
       "PU",
-      "BAI",
-      "PU"
+      "BAI"
     ],
     "def": "未来 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] よりも以降の時点で [selbri] が起こることを表す； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）"
   },
@@ -468,9 +410,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "def": "予期 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）",
     "notes": "心態詞；",
@@ -488,10 +428,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*2",
-      "UI",
-      "UI",
-      2,
-      true
+      "UI"
     ],
     "def": "経験 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）",
     "notes": "心態詞；",
@@ -504,10 +441,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*2",
-      "UI",
-      "UI",
-      2,
-      true
+      "UI"
     ],
     "def": "回想 （ ba'a 予期 - ba'acu'i 経験 - ba'anai 回想）",
     "notes": "心態詞；",
@@ -534,7 +468,6 @@
     "pun": "＜口走る＞, utter",
     "cf": [
       "krixa",
-      "",
       "cusku",
       "casnu",
       "tavla",
@@ -593,20 +526,12 @@
     "type": "lujvo",
     "def": "$x_1=b_1$ は $x_2=kerf_2=kerl_2=c_3$ （本体）のもみあげ",
     "ps": 3,
-    "notes": ". bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。",
-    "cf": [
-      "bakfu",
-      "co",
-      "kerlo",
-      "crane",
-      "kerfa"
-    ]
+    "notes": "{bakfu} {co} {kerlo} {crane} {kerfa}. bafcolkercrakre の長さは、毛の長さではなく、もみあげ全体の長さ。"
   },
   "bai": {
     "word": "bai",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -616,7 +541,6 @@
     "word": "ba'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -653,10 +577,7 @@
     ],
     "def": "$j_1=b_1$ は $j_2$ （相手）と $j_3$ （事／レース）で $j_4$ （賞）を競って $b_2$ （競技用トラック）を $b_3$ （足）で $b_4$ （調子／足取り）で走って競走する",
     "ps": 4,
-    "cf": [
-      "bajra",
-      "jivna"
-    ]
+    "notes": "{bajra} {jivna}"
   },
   "bakfu": {
     "word": "bakfu",
@@ -847,10 +768,7 @@
     ],
     "def": "$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のスーパー（量販店）／デパート ",
     "ps": 3,
-    "cf": [
-      "banli",
-      "zarci"
-    ]
+    "notes": "{banli} {zarci}"
   },
   "bancu": {
     "word": "bancu",
@@ -939,8 +857,7 @@
     "cf": [
       "tance",
       "cusku",
-      "ve",
-      "tavla",
+      "ve tavla",
       "valsi",
       "gerna",
       "jufra",
@@ -957,9 +874,7 @@
     ],
     "def": "$x_1$ はコード ISO-639-3 jpn (Japanese) の言語（日本語）",
     "ps": 1,
-    "cf": [
-      "ponbau"
-    ]
+    "notes": "{ponbau}"
   },
   "banli": {
     "word": "banli",
@@ -981,8 +896,7 @@
     "cf": [
       "barda",
       "nobli",
-      "se",
-      "sinma",
+      "se sinma",
       "pluja",
       "misno",
       "vajni",
@@ -990,7 +904,7 @@
       "cizra",
       "traji",
       "mutce",
-      "manci"
+      "se manci"
     ]
   },
   "banro": {
@@ -1068,8 +982,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "完了（～の事後において） ： 相制詞；"
   },
@@ -1190,8 +1103,7 @@
       "vanju",
       "xotli",
       "ckafi",
-      "se",
-      "pinxe"
+      "se pinxe"
     ]
   },
   "barkla": {
@@ -1211,10 +1123,7 @@
     ],
     "def": "$k_1$ は $k_3$ （起点）から $k_4$ （経路）・ $k_5$ （方法）で外へ出る",
     "ps": 5,
-    "cf": [
-      "bartu",
-      "klama"
-    ]
+    "notes": "{bartu} {klama}"
   },
   "barli'a": {
     "word": "barli'a",
@@ -1232,10 +1141,7 @@
     ],
     "def": "$c_1$ は $c_2=b_2$ の外へ $c_3$ （経路）を通って離れる／去る",
     "ps": 3,
-    "cf": [
-      "bartu",
-      "cliva"
-    ]
+    "notes": "{bartu} {cliva}"
   },
   "barna": {
     "word": "barna",
@@ -1256,9 +1162,8 @@
     "cf": [
       "sinxa",
       "pixra",
-      "se",
-      "ciska",
-      "prina"
+      "se ciska",
+      "se prina"
     ]
   },
   "bartu": {
@@ -1367,7 +1272,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "~語で ： 法制詞； bangu の $x_1$"
@@ -1377,9 +1281,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "誇張 （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）",
     "notes": "心態詞",
@@ -1395,10 +1297,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "まさに",
@@ -1422,10 +1321,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "控えめ （ ba'u 誇張 - ba'ucu'i 的確 - ba'unai 控えめ）",
     "notes": "心態詞",
@@ -1462,21 +1358,14 @@
     ],
     "def": "$c_1$ は $b_2$ （大麦の種類）の麦茶",
     "ps": 2,
-    "cf": [
-      "bavmi",
-      "ckafi"
-    ]
+    "notes": "{bavmi} {ckafi}"
   },
   "baxseljibri": {
     "word": "baxseljibri",
     "type": "lujvo",
     "def": "$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員",
     "ps": 3,
-    "cf": [
-      "banxa",
-      "se",
-      "jibri"
-    ]
+    "notes": "{banxa} {se} {jibri}"
   },
   "baxso": {
     "word": "baxso",
@@ -1504,9 +1393,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA1",
-      "BAI",
-      "FAhA",
-      1
+      "BAI"
     ],
     "def": "～の北方に／北側で ： 間制詞（空間・方向）"
   },
@@ -1553,7 +1440,6 @@
     "word": "be'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -1662,10 +1548,7 @@
     "type": "lujvo",
     "def": "$br_1$ は $br_2=be_1$ からの $br_3$ （速度）の北風",
     "ps": 3,
-    "cf": [
-      "berti",
-      "brife"
-    ]
+    "notes": "{berti} {brife}"
   },
   "bersa": {
     "word": "bersa",
@@ -1776,9 +1659,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "ja": [
       "欠如",
@@ -1800,10 +1681,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "有 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）",
     "notes": "心態詞（修飾系）何らかの感情が有る。"
@@ -1813,10 +1691,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "充溢 （ be'u 欠如 - be'ucu'i 有 - be'unai 充溢）",
     "notes": "心態詞（修飾系）感情に溢れている。"
@@ -1861,10 +1736,7 @@
     "type": "lujvo",
     "def": "$x_1=s_1$ は花 $x_2=s_2$ ・成分 $x_3=s_3$ の蜂蜜",
     "ps": 3,
-    "cf": [
-      "bifce",
-      "sakta"
-    ]
+    "notes": "{bifce} {sakta}"
   },
   "bidju": {
     "word": "bidju",
@@ -1903,10 +1775,7 @@
     "ps": 2,
     "pun": "＜ビーフ・シェア＞. bee, fen(蜂)",
     "cf": [
-      "manti",
-      "",
-      "<",
-      "cinki",
+      "manti  < cinki (上位概念)",
       "sfani",
       "lakse"
     ]
@@ -1916,8 +1785,7 @@
     "type": "cmavo",
     "selmaho": [
       "BIhI",
-      "JOI",
-      "BIhI"
+      "JOI"
     ],
     "rafsi": {
       "CVC": "biz"
@@ -2070,8 +1938,7 @@
     "type": "cmavo",
     "selmaho": [
       "BIhI",
-      "JOI",
-      "BIhI"
+      "JOI"
     ],
     "def": "~から~まで（順序あり） ： 接続詞（非論理・間隔）",
     "exams": [
@@ -2110,7 +1977,6 @@
     "pun": "＜ビールかかえる＞,  bi(臂), brazo",
     "cf": [
       "jimca",
-      "",
       "janco",
       "xance",
       "rebla"
@@ -2194,9 +2060,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "新情報 （ bi'u 新情報 - bi'unai 古情報）",
     "notes": "心態詞「こういう件があるんですが」",
@@ -2204,8 +2068,7 @@
       "「bi'u lo do panzi pu snuti xrani lo drata／お子さんが事故で相手に怪我をさせました（振り込め詐欺）」"
     ],
     "cf": [
-      "cnino",
-      "datni"
+      "cnino datni"
     ]
   },
   "bi'unai": {
@@ -2213,10 +2076,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3a",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "古情報 （ bi'u 新情報 - bi'unai 古情報）",
     "notes": "心態詞「あの件についてですが」",
@@ -2224,8 +2084,7 @@
       "「bi'unai ko sorcu benji pleji lo binra jdini ti／さきほどの件ですが、賠償金はこちらに振り込んでください。（振り込め詐欺）」"
     ],
     "cf": [
-      "slabu",
-      "datni"
+      "slabu datni"
     ]
   },
   "blabi": {
@@ -2407,10 +2266,7 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$（もの）のデコボコ面",
     "ps": 2,
-    "cf": [
-      "boxna",
-      "sefta"
-    ]
+    "notes": "{boxna} {sefta}"
   },
   "botpi": {
     "word": "botpi",
@@ -2621,10 +2477,7 @@
     "type": "lujvo",
     "def": "$x_1$ は体が命題を表している人",
     "ps": 1,
-    "cf": [
-      "bridi",
-      "prenu"
-    ]
+    "notes": "{bridi} {prenu}"
   },
   "brito": {
     "word": "brito",
@@ -2656,9 +2509,8 @@
     ],
     "def": "代ブリディその1［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "を使ってを代入できる。",
+    "notes": "{cei}を使って{selbri}を代入できる。",
     "cf": [
-      "ceiselbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -2675,10 +2527,8 @@
     ],
     "def": "代ブリディその2［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "を使って を代入できる。",
+    "notes": "{cei} を使って {selbri} を代入できる。",
     "cf": [
-      "cei",
-      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -2692,10 +2542,8 @@
     ],
     "def": "代ブリディその3［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "を使って を代入できる。",
+    "notes": "{cei} を使って {selbri} を代入できる。",
     "cf": [
-      "cei",
-      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -2709,10 +2557,8 @@
     ],
     "def": "代ブリディその4［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "を使って を代入できる。",
+    "notes": "{cei} を使って {selbri} を代入できる。",
     "cf": [
-      "cei",
-      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -2726,10 +2572,8 @@
     ],
     "def": "代ブリディその5［$x_1$を始めとするPS全体が文脈次第］",
     "ps": 1,
-    "notes": "を使って を代入できる。",
+    "notes": "{cei} を使って {selbri} を代入できる。",
     "cf": [
-      "cei",
-      "selbri",
       "bu'a",
       "bu'e",
       "bu'i"
@@ -2811,17 +2655,10 @@
       "述語論理"
     ],
     "def": "量化型 selbri 変数抽象 ： 抽象詞； bridi の左に付いて、第3階以上の述語論理で使われる束縛 selbri 変数とする",
-    "notes": "第1階の述語論理では が定項、 が束縛変項であり、第2階の述語論理では が selbri 定数、 が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する ・ はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 が取る selbri 変数が2個以上になる場合は などで繋げる。 を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su'o bu'ai xe'u kei su'o bu'a ro da zo'u bu'ai da bu'a （この はNU類を冠頭に置くためのダミー的な ）",
+    "notes": "第1階の述語論理では {zo'e} が定項、 {da} が束縛変項であり、第2階の述語論理では {co'e} が selbri 定数、 {bu'a} が束縛 selbri 変数である。 第3階以上の述語論理を表現するためには、第2階の selbri 全体を対象領域とする selbri が必要である。 NU類に属する {su'u} ・ {bu'ai} はそれぞれ、第2階の selbri 全体を対象領域とする selbri 定数・束縛 selbri 変数を構成することができる。 {bu'ai} が取る selbri 変数が2個以上になる場合は {ju'e} などで繋げる。 {bu'ai} を入れ子状に使えば、さらに高階の述語論理も構成できる。 例： su'o bu'ai xe'u kei su'o bu'a ro da zo'u bu'ai da bu'a （この {xe'u} はNU類を冠頭に置くためのダミー的な {selbrisle}）",
     "cf": [
-      "zo'e",
-      "da",
-      "co'e",
-      "bu'a",
       "su'u",
-      "bu'ai",
-      "ju'e",
-      "xe'u",
-      "selbrisle",
+      "bu'a",
       "xe'u."
     ],
     "experimental": true,
@@ -2950,9 +2787,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI7",
-      "UI",
-      "UI",
-      7
+      "UI"
     ],
     "def": "感じ始め （ bu'o 感じ始め - bu'ocu'i まだ感じて - bu'onai もう感じず）",
     "notes": "修飾系； 心情や態度を感覚し始めている"
@@ -2962,10 +2797,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*7",
-      "UI",
-      "UI",
-      7,
-      true
+      "UI"
     ],
     "def": "まだ感じて （ bu'o 感じ始め - bu'ocu'i まだ感じて - bu'onai もう感じず）",
     "notes": "修飾系； 心情や態度をまだ感覚している"
@@ -2975,10 +2807,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*7",
-      "UI",
-      "UI",
-      7,
-      true
+      "UI"
     ],
     "def": "もう感じず （ bu'o 感じ始め - bu'ocu'i まだ感じて - bu'onai もう感じず）",
     "notes": "修飾系； 心情や態度をもう感覚していない"
@@ -3019,9 +2848,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "~（場所）にて ： 間制詞（空間・方向）； 同所性を現す； 時間における ca に相当"
   },
@@ -3030,9 +2857,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "b ： 字詞；"
   },
@@ -3041,8 +2866,7 @@
     "type": "cmavo",
     "selmaho": [
       "PU",
-      "BAI",
-      "PU"
+      "BAI"
     ],
     "def": "現在 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] と同時／現在の時点で [selbri] が起こっているを表す； 必ずしも発話そのもの現在時点とは限らない（それは nau で表す）； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）"
   },
@@ -3051,8 +2875,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAhA",
-      "BAI",
-      "CAhA"
+      "BAI"
     ],
     "rafsi": {
       "CVC": "caz"
@@ -3158,9 +2981,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "def": "定義",
     "notes": "心態詞（認識系）； それがどうであるかを定義しようとしている認識態度",
@@ -3200,8 +3021,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "烈",
     "notes": "心態詞； 心情や態度の強烈性を表す",
@@ -3213,7 +3033,6 @@
     "word": "ca'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -3246,7 +3065,6 @@
     "pun": "＜シャーロック＞, シェル, shell,",
     "cf": [
       "pilka",
-      "",
       "skapi",
       "gacri",
       "bartu"
@@ -3325,10 +3143,9 @@
     ],
     "def": "$x_1$ は $x_2$ （差し出す対象）を $x_3$ （受け取る対象）と、 $x_4$ と交換する；  $x_1$ ・ $x_4$ は貿易業者／投機家／相場師／物々交換する者",
     "ps": 4,
-    "notes": "$x_$, $x_$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら ）。 やりとりされる費用と価格の違いについては の注を参照。",
+    "notes": "$x_{1}$, $x_{4}$ として「所有権を交換する者」という sumti を引き出す（意味論的により厳密に言うなら {posycanja}）。 やりとりされる費用と価格の違いについては {jdima} の注を参照。",
     "pun": "exchage",
     "cf": [
-      "14posycanjajdima",
       "dunda",
       "friti",
       "vecnu",
@@ -3449,8 +3266,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "進行（～の間／～において） ： 相制詞；"
   },
@@ -3555,7 +3371,6 @@
     "pun": "rain,lluvia",
     "cf": [
       "sicpi",
-      "",
       "farlu",
       "bratu",
       "snime",
@@ -3664,7 +3479,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "~が欠いて ： claxu 法制詞, $x_1$",
@@ -3675,9 +3489,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の前方に／前側で ： 間制詞（空間・方向）；"
   },
@@ -3707,7 +3519,6 @@
     "type": "cmavo",
     "selmaho": [
       "JOI",
-      "JOI",
       "JOI"
     ],
     "rafsi": {
@@ -3728,8 +3539,7 @@
     "type": "cmavo",
     "selmaho": [
       "LAU",
-      "BY",
-      "LAU"
+      "BY"
     ],
     "def": "フォント変換 ： 次の語が示すフォントに字詞を変換する"
   },
@@ -3916,7 +3726,6 @@
     "word": "ce'o",
     "type": "cmavo",
     "selmaho": [
-      "JOI",
       "JOI",
       "JOI"
     ],
@@ -4129,10 +3938,7 @@
     ],
     "def": "$cu_1=ci_1$ は $cu_2=ci_2$ （文字列／内容）を $cu_3$ （読み手）に向けて $ci_3$ （媒体）に $ci_4$ （道具）で書いて表現する",
     "ps": 4,
-    "cf": [
-      "ciska",
-      "cusku"
-    ]
+    "notes": "{ciska} {cusku}"
   },
   "ciblu": {
     "word": "ciblu",
@@ -4210,7 +4016,6 @@
     "pun": "シドニー, knee",
     "cf": [
       "cnebo",
-      "",
       "korcu",
       "jarco",
       "jganu"
@@ -4238,7 +4043,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "~を体系として ： ciste 法制詞, $x_1$"
@@ -4248,11 +4052,7 @@
     "type": "lujvo",
     "def": "$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件$x_3=b_3$の下における革命",
     "ps": 3,
-    "cf": [
-      "ciste",
-      "nu",
-      "binxo"
-    ]
+    "notes": "{ciste} {nu} {binxo}"
   },
   "cifnu": {
     "word": "cifnu",
@@ -4509,10 +4309,7 @@
     "ps": 2,
     "pun": "シンフォニー",
     "cf": [
-      "mlatu",
-      "",
-      "<",
-      "mabru",
+      "mlatu  < mabru (上位概念)",
       "tirxu"
     ]
   },
@@ -4681,7 +4478,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "~が感じて ： cinmo 法制詞, $x_1$"
@@ -4713,10 +4509,7 @@
     "ps": 2,
     "pun": "shipに鳥",
     "cf": [
-      "datka",
-      "",
-      "<",
-      "gunse",
+      "datka  < gunse (下位概念)",
       "jipci",
       "xruki",
       "nalci",
@@ -4964,7 +4757,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "~を尺度として ： ckilu 法制詞, $x_1$"
@@ -5030,10 +4822,7 @@
     "ps": 2,
     "cf": [
       "tcati",
-      "brewed",
-      "from",
-      "a",
-      "leaf",
+      "brewed from a leaf",
       "barja",
       "cakla"
     ]
@@ -5095,13 +4884,11 @@
     "def": "$x_1$ は $x_2$ にとって $x_3$ （条件）において危険；  $x_1$ はおっかない",
     "ps": 3,
     "cf": [
-      "te",
-      "bandu",
-      "kajde",
-      "marbi",
-      "se",
-      "snura",
-      "xalni"
+      "te bandu",
+      "te kajde",
+      "te marbi",
+      "se snura",
+      "se xalni"
     ]
   },
   "ckasu": {
@@ -5264,10 +5051,7 @@
     ],
     "def": "$cup_1$ は $cup_2=cuk_1$ （本）を $cup_3$ （過程）によって出版する／製本する",
     "ps": 3,
-    "cf": [
-      "cukta",
-      "cupra"
-    ]
+    "notes": "{cukta} {cupra}"
   },
   "cladu": {
     "word": "cladu",
@@ -5460,7 +5244,6 @@
     "pun": "島なし山国",
     "cf": [
       "punli",
-      "",
       "derxi"
     ]
   },
@@ -5660,22 +5443,14 @@
     "type": "lujvo",
     "def": "$j_1=c_1$ は $j_2=c_1$ と、 $j_3=c_2$ （感情）を共に覚える点で近い／（感情）に同感する",
     "ps": 2,
-    "cf": [
-      "cinmo",
-      "jibni",
-      "o'e"
-    ]
+    "notes": "{cinmo} {jibni}; {o'e}"
   },
   "cnikansa": {
     "word": "cnikansa",
     "type": "lujvo",
     "def": "$k_1$ は $k_2$ と $c_2$ （感情を）共感する",
     "ps": 2,
-    "cf": [
-      "cinmo",
-      "kansa",
-      "dai"
-    ]
+    "notes": "{cinmo} {kansa}; {dai}"
   },
   "cnino": {
     "word": "cnino",
@@ -5693,8 +5468,7 @@
       "nuzba",
       "slabu",
       "citno",
-      "se",
-      "djuno"
+      "se djuno"
     ]
   },
   "cnisa": {
@@ -5754,8 +5528,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "co'a"
@@ -5804,8 +5577,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "到達 ： 相制詞；",
     "exams": [
@@ -5886,8 +5658,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "co'u"
@@ -5936,8 +5707,7 @@
     "notes": "日本語には適語が無い概念。「galtu」「gapru」との違いに注意。",
     "pun": "表面でしっぱなし",
     "cf": [
-      "se",
-      "vasru",
+      "se vasru",
       "jbini",
       "zvati",
       "nenri",
@@ -5986,11 +5756,9 @@
     "notes": "「依頼」「懇願」「注文」「呼ぶ」など。",
     "cf": [
       "pikci",
-      "te",
-      "preti",
-      "frati",
-      "se",
-      "spuda",
+      "te preti",
+      "te frati",
+      "se spuda",
       "danfu"
     ]
   },
@@ -6111,13 +5879,7 @@
     ],
     "def": "$zu_1=ze_1$ は $zu_2=c_2$ （事／行為）の練習をする",
     "ps": 2,
-    "cf": [
-      "certu",
-      "zenba",
-      "zukte",
-      "rapcreze'a",
-      "xadyplijvi"
-    ]
+    "notes": "{certu} {zenba} {zukte} {rapcreze'a} {xadyplijvi}"
   },
   "cribe": {
     "word": "cribe",
@@ -6343,9 +6105,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU3",
-      "JOI",
-      "VUhU",
-      3
+      "JOI"
     ],
     "def": "絶対値 ： 数理演算子（単一項）； [|a|]"
   },
@@ -6354,8 +6114,7 @@
     "type": "cmavo",
     "selmaho": [
       "CUhE",
-      "BAI",
-      "CUhE"
+      "BAI"
     ],
     "def": "制詞質問 ： どの制詞が当てはまるかをその箇所に置いて尋ねる"
   },
@@ -6364,8 +6123,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "中性",
     "notes": "心態詞（修飾系）； 尺度上の中間"
@@ -6517,7 +6275,6 @@
     "pun": "春闘の催し",
     "cf": [
       "fasnu",
-      "",
       "jikca",
       "srana"
     ]
@@ -6644,10 +6401,9 @@
     ],
     "def": "$x_1$ は $x_2$ （足／ひづめ）を覆う／守るための $x_3$ （素材）の靴",
     "ps": 3,
-    "notes": "「ブーツ (=)」「サンダル」「下駄」「草履」も。",
+    "notes": "「ブーツ (={tupcutci})」「サンダル」「下駄」「草履」も。",
     "pun": "シュー小さい",
     "cf": [
-      "tupcutci",
       "smoka",
       "taxfu",
       "skiji"
@@ -6681,17 +6437,12 @@
     ],
     "def": "$p_1=g_1$ は $p_2$ （素材）のオーバーオール",
     "ps": 2,
-    "cf": [
-      "cutne",
-      "gacri",
-      "palku"
-    ]
+    "notes": "{cutne} {gacri} {palku}"
   },
   "cu'u": {
     "word": "cu'u",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -6721,9 +6472,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "c ： 字詞；"
   },
@@ -6828,9 +6577,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "共感",
     "notes": "心態詞（修飾系）； 先行の心態詞にたいする話者の共感／同情を表す； 話者以外の感情を表す",
@@ -6846,9 +6593,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "なら",
@@ -6875,10 +6620,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "事実",
@@ -7123,8 +6865,7 @@
     "type": "cmavo",
     "selmaho": [
       "DAhO",
-      "UI",
-      "DAhO"
+      "UI"
     ],
     "def": "代sumti・代selbriの指示の取り消し／リセット",
     "notes": ""
@@ -7312,12 +7053,9 @@
     ],
     "def": "$x_1$ は $x_2$ を $x_3$ （着用様式）で着ている／履いている／被っている／身に付けている",
     "ps": 3,
-    "notes": "身に着けている状態を表す。 「／着る」「／脱ぐ」 $x_2$ は、 と違って、着用目的で作られたものでなくても構わない。",
+    "notes": "身に着けている状態を表す。 「{co'a} {dasni}／着る」「{co'u} {dasni}／脱ぐ」 $x_2$ は、 {taxfu} と違って、着用目的で作られたものでなくても構わない。",
     "pun": "＜ダサいニット＞",
     "cf": [
-      "co'a",
-      "dasnico'u",
-      "dasnitaxfu",
       "taxfu"
     ]
   },
@@ -7368,10 +7106,7 @@
     "ps": 2,
     "pun": "ダチョウか",
     "cf": [
-      "gunse",
-      "",
-      "<",
-      "cipni"
+      "gunse  < cipni (上位概念)"
     ]
   },
   "datni": {
@@ -7418,8 +7153,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "休止 ： 相制詞；"
   },
@@ -7482,11 +7216,8 @@
       "ROI"
     ],
     "def": "左の数量詞について基準日（デフォルトは発話時点の日、「今日」）から何番目の日かを表す。",
-    "notes": "「de'ei／昨日」「de'ei／今日」「de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。",
+    "notes": "「{ni'u} de'ei／昨日」「{no} de'ei／今日」「{pa} de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。",
     "cf": [
-      "ni'u",
-      "no",
-      "pa",
       "zu'oi",
       "djedi"
     ],
@@ -7524,7 +7255,6 @@
     "word": "de'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -7739,9 +7469,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU3",
-      "JOI",
-      "VUhU",
-      3
+      "JOI"
     ],
     "def": "対数 ： 数理演算子（2変数）；log a 底 b (デフォルトで 10 あるいは e)"
   },
@@ -7750,10 +7478,7 @@
     "type": "lujvo",
     "def": "$g_1$ は地面よりも上",
     "ps": 1,
-    "cf": [
-      "dertu",
-      "gapru"
-    ]
+    "notes": "{dertu} {gapru}"
   },
   "dertu": {
     "word": "dertu",
@@ -7786,8 +7511,7 @@
     "ps": 3,
     "pun": "出る杭の堆積物",
     "cf": [
-      "cmana",
-      ""
+      "cmana"
     ]
   },
   "desku": {
@@ -7823,11 +7547,7 @@
     ],
     "def": "日付 [日、週、月、年] $x_1=d_1=k_1$ は、 最初の事象 $x_2=d_2$ の日付 [日、週、月、年] の繰り返し／再来、 $x_3=k_3$回目の、 $x_4$ （体系）における。",
     "ps": 4,
-    "notes": "zei 。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi'e pano pi'e re detke'u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke'u lo nu la gandis noi banli cu jbena kei li pa zo'e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke'u lo nu lo mamymamta cu mrobi'o kei zo'e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke'u tu'a lo festi zo'e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke'u lo nu lo morsi jelgau stuzi cu cando kei zi'o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）",
-    "cf": [
-      "detri",
-      "krefu"
-    ]
+    "notes": "{detri} zei {krefu}。 krefu_2 は最初の事象の日付に対応するが、簡単のため、その場所をテルブリに含めていない。 $x_4$ で繰り返しのシステムを表せる：週／月の中の日；年の中の日／月；世紀の中の年など。 例） li renopavo pi'e pano pi'e re detke'u lo nu la gandis noi banli cu jbena kei li pavomu lo pa nanca be fi la gregoris （グレゴリオ暦の年で数えると、2014年10月2日はマハトマ・ガンディーの145回目の誕生日だ。）／ li pasoxaso detke'u lo nu la gandis noi banli cu jbena kei li pa zo'e loi panono nanca be fi la gregoris （グレゴリオ暦の世紀で数えると、1969年はマハトマ・ガンディーの生誕100周年だ。）／ li reci detke'u lo nu lo mamymamta cu mrobi'o kei zo'e lo pa masti be fi la gregoris （グレゴリオ暦の月で数えると、23日は祖母の月命日だ。）／ lo vondei cu detke'u tu'a lo festi zo'e lo jeftu be fi la gregoris （グレゴリオ暦の曜日で数えると、この町の木曜日はゴミの日だ。）／ la pendo lacpu cu detke'u lo nu lo morsi jelgau stuzi cu cando kei zi'o lo ponjo ke xamei jeftu （日本の六曜で友引は日本の火葬場が休みの日だ。）"
   },
   "detri": {
     "word": "detri",
@@ -7871,8 +7591,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "再開 ： 相制詞；"
   },
@@ -7937,8 +7656,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE",
-      "BAI",
-      "TAhE"
+      "BAI"
     ],
     "def": "規則的に ： 相制詞（時間・間隔）；"
   },
@@ -7947,9 +7665,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE*",
-      "BAI",
-      "TAhE",
-      true
+      "BAI"
     ],
     "def": "不規則的に ： 相制詞（時間・間隔）；"
   },
@@ -8105,7 +7821,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を局所的なものとして ： diklo 法制詞, $x_1$"
@@ -8156,11 +7871,7 @@
     ],
     "def": "$x_1$ はラドン (Rn)",
     "ps": 1,
-    "cf": [
-      "dirce",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{dirce} {navni}; {ratni}"
   },
   "dirgo": {
     "word": "dirgo",
@@ -8284,10 +7995,7 @@
     ],
     "def": "$k_1$ は $k_2$ （内容）・ $k_3$ （出版社）・ $k_4$ （読者）の日刊紙",
     "ps": 4,
-    "cf": [
-      "djedi",
-      "karni"
-    ]
+    "notes": "{djedi} {karni}"
   },
   "djica": {
     "word": "djica",
@@ -8301,11 +8009,8 @@
     ],
     "def": "$x_1$ は $x_2$ （事）を $x_3$ （目的）のために欲する／求める；　$x_1$ は $x_3$ （目的）のために $x_2$ （事）という欲求を満たしたい",
     "ps": 3,
-    "notes": "x2にモノを入れたい場合は、や を使う。本能的欲求も。",
+    "notes": "x2にモノを入れたい場合は、{tu'a} や {zo'e} {pe} を使う。本能的欲求も。",
     "cf": [
-      "tu'a",
-      "zo'e",
-      "pe",
       "taske",
       "xagji",
       "mukti",
@@ -8353,11 +8058,9 @@
     "def": "$x_1$ は $x_2$ （命題）・ $x_3$ （題目）を $x_4$ （認識体系）で知る",
     "ps": 4,
     "cf": [
-      "se",
-      "slabu",
-      "na'e",
-      "cnino",
-      "fange",
+      "se slabu",
+      "na'e cnino",
+      "na'e fange",
       "du'o",
       "cilre",
       "certu",
@@ -8394,9 +8097,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "大目に見れば",
@@ -8422,10 +8123,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "少なくとも",
@@ -8445,7 +8143,6 @@
     "word": "do'e",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -8627,9 +8324,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA1",
-      "BAI",
-      "FAhA",
-      1
+      "BAI"
     ],
     "def": "～の東方に／東側で ： 間制詞（空間・方向）；"
   },
@@ -8660,7 +8355,6 @@
     "word": "du'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -8799,7 +8493,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～によると ： djuno 法制詞, $x_1$"
@@ -8823,9 +8516,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "d ： 字詞；"
   },
@@ -8871,8 +8562,7 @@
     "type": "cmavo",
     "selmaho": [
       "A",
-      "JOI",
-      "A"
+      "JOI"
     ],
     "def": "sumti 論理積（AND）／～と～ ： 接続詞（論理・後置・sumti）； 前部と後部は共に真",
     "exams": [
@@ -8884,9 +8574,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "許可 （ e'a 許可 - e'anai 禁止）",
     "notes": "心態詞； それをしてもいい、そうであってもいいということを権威者として表す気持",
@@ -8903,10 +8591,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "禁止 （ e'a 許可 - e'anai 禁止）",
     "notes": "心態詞； それをしてはならないということを権威者として表す気持",
@@ -8923,9 +8608,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY*",
-      "BY",
-      "BY",
-      true
+      "BY"
     ],
     "def": "e ： 字詞",
     "exams": [
@@ -8937,9 +8620,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "奨励 （ e'e 奨励 - e'enai 阻止）",
     "notes": "心態詞； 励ます／挑発する気持",
@@ -8958,10 +8639,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "阻止 （ e'e 奨励 - e'enai 阻止）",
     "notes": "心態詞； 落胆させる／阻止する気持 「悪いけど」",
@@ -8978,9 +8656,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "義務 （ ei 義務 - einai 自由）",
     "notes": "心態詞； それが義務である／当然であると見なす気持",
@@ -9001,9 +8677,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "制約 （ e'i 制約 - e'inai 放任）",
     "notes": "心態詞； それについて制約を与える／求める／義務を負わせる気持",
@@ -9021,10 +8695,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "自由 （ ei 義務 - einai 自由）",
     "notes": "心態詞； それが義務ではない／そうである必要はないと見なす気持",
@@ -9041,10 +8712,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "放任 （ e'i 制約 - e'inai 放任）",
     "notes": "心態詞； それについて制約を与えない／求めない／解放する気持",
@@ -9061,9 +8729,7 @@
     "type": "cmavo",
     "selmaho": [
       "A*",
-      "JOI",
-      "A",
-      true
+      "JOI"
     ],
     "def": "sumti ～だが～ではない ： 接続詞（論理・後置・sumti）； 前部は真で後部は偽",
     "exams": [
@@ -9075,9 +8741,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "要請 （ e'o 要請 - e'onai 提供）",
     "notes": "心態詞； それをしてほしいという気持「してください」「おねがいします」「.e'o [do] vimku'a jinsa ralte／トイレをきれいに」",
@@ -9095,10 +8759,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "提供 （ e'o 要請 - e'onai 提供）",
     "notes": "心態詞； それをしてあげるという気持 「どうぞ」",
@@ -9114,9 +8775,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "提案 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）",
     "notes": "心態詞； 行為や概念を勧める気持「どうぞこれを」「これなどどうでしょう」",
@@ -9132,10 +8791,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "放棄 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）",
     "notes": "心態詞； 行為や概念を勧めとどまる気持「いや、なんでもありません」",
@@ -9148,10 +8804,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "警告 （ e'u 提案 - e'ucu'i 放棄 - e'unai 警告）",
     "notes": "心態詞； 行為や概念を勧めない、控えるよう求める気持「よしたほうがいいでしょう」",
@@ -9176,9 +8829,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA4",
-      "BAI",
-      "FAhA",
-      4
+      "BAI"
     ],
     "def": "～へ／に／～を方向として ： 間制詞（空間・方向）；",
     "exams": [
@@ -9236,7 +8887,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が逆で ： fatne 法制詞, $x_1$"
@@ -9273,9 +8923,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU2",
-      "JOI",
-      "VUhU",
-      2
+      "JOI"
     ],
     "def": "逆数 ： 数理演算子（単一項）； [1/a]"
   },
@@ -9300,11 +8948,7 @@
     ],
     "def": "$l_1=f_1$ は $l_2=t_1$ （土地）を $l_3$ （方法）で、 $f_2$ （命題）を発見しながら探検する",
     "ps": 3,
-    "cf": [
-      "facki",
-      "tumla",
-      "litru"
-    ]
+    "notes": "{facki} {tumla} {litru}"
   },
   "falnu": {
     "word": "falnu",
@@ -9383,11 +9027,7 @@
     ],
     "def": "$x_1$ はキセノン (Xe)",
     "ps": 1,
-    "cf": [
-      "fange",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{fange} {navni}; {ratni}"
   },
   "fanmo": {
     "word": "fanmo",
@@ -9425,7 +9065,6 @@
     "pun": "＜ファンをリクルート＞factory",
     "cf": [
       "molki",
-      "",
       "gundi"
     ]
   },
@@ -9541,11 +9180,9 @@
     ],
     "def": "$x_1$ は $x_2$ に $x_3$ から、 $x_4$ （照合枠／重力井戸）において落ちる／降る",
     "ps": 4,
-    "notes": "「落とす」は .",
+    "notes": "「落とす」は {falcru}, {falri'a}.",
     "pun": "＜ファー（毛皮）、ルーズ＞, furu",
     "cf": [
-      "falcru",
-      "falri'a",
       "lafti",
       "cpare",
       "klama",
@@ -9698,7 +9335,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～という事と共に／～をして ： fasnu 法制詞, $x_1$"
@@ -9707,7 +9343,6 @@
     "word": "fa'u",
     "type": "cmavo",
     "selmaho": [
-      "JOI",
       "JOI",
       "JOI"
     ],
@@ -9728,10 +9363,7 @@
       "許しを請う"
     ],
     "def": "ごめんなさい",
-    "cf": [
-      "fraxu",
-      "u'u"
-    ],
+    "notes": "{fraxu}, {u'u}",
     "experimental": true,
     "unofficial": true
   },
@@ -9748,9 +9380,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU3",
-      "JOI",
-      "VUhU",
-      3
+      "JOI"
     ],
     "def": "平方根 ： 数理演算子（2変数）；a の b乗根 (デフォルトで平方根 $b=2$)"
   },
@@ -9794,8 +9424,7 @@
     "type": "cmavo",
     "selmaho": [
       "FEhE",
-      "NAhE",
-      "FEhE"
+      "NAhE"
     ],
     "def": "空間相の標識 ： 時間の相制を空間に変える"
   },
@@ -9812,9 +9441,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU1",
-      "JOI",
-      "VUhU",
-      1
+      "JOI"
     ],
     "def": "割り算 ： 数理演算子（n変数）； [(((a / b) / c) / ...)]"
   },
@@ -10091,7 +9718,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が創って ： finti 法制詞, $x_1$"
@@ -10163,10 +9789,7 @@
     ],
     "def": "$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のコンビニ",
     "ps": 3,
-    "cf": [
-      "frili",
-      "zarci"
-    ]
+    "notes": "{frili} {zarci}"
   },
   "finpe": {
     "word": "finpe",
@@ -10266,13 +9889,7 @@
     ],
     "def": "$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための議会政党",
     "ps": 3,
-    "cf": [
-      "flalu",
-      "jecyxlube'e",
-      "jecta",
-      "xlura",
-      "bende"
-    ]
+    "notes": "{flalu} {jecyxlube'e} {jecta} {xlura} {bende}"
   },
   "flakamni": {
     "word": "flakamni",
@@ -10284,10 +9901,7 @@
     ],
     "def": "$k_1=f_5$ は、 $f_1$ （法律／条令）を制定するための $k_3=f_3$ （共同体）の議会",
     "ps": 5,
-    "cf": [
-      "flalu",
-      "kamni"
-    ]
+    "notes": "{flalu} {kamni}"
   },
   "flalu": {
     "word": "flalu",
@@ -10327,10 +9941,7 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$ を押し流す $x_3$ の流れ",
     "ps": 3,
-    "cf": [
-      "flecu",
-      "catke"
-    ]
+    "notes": "{flecu} {catke}"
   },
   "flecu": {
     "word": "flecu",
@@ -10438,8 +10049,7 @@
     "type": "cmavo",
     "selmaho": [
       "FOI",
-      "BY",
-      "FOI"
+      "BY"
     ],
     "def": "複合文字終止 ： 境界詞； 複合文字の範囲の終わりを示す； 省略できない"
   },
@@ -10480,10 +10090,7 @@
     "type": "lujvo",
     "def": "$g_1$は$g_2=f_1$(電話)・$f_2$(ネットワーク／システム)で電話する",
     "ps": 2,
-    "notes": "f_2には電話会社や回線名など。 同じような意味を持つlujvoにがある。 BAI類のひとつであるtecu'uを用いて電話の着信者を指定できる。",
-    "cf": [
-      "fonpli"
-    ]
+    "notes": "f_2には電話会社や回線名など。 同じような意味を持つlujvoに{fonpli}がある。 BAI類のひとつであるtecu'uを用いて電話の着信者を指定できる。"
   },
   "fonmo": {
     "word": "fonmo",
@@ -10508,10 +10115,7 @@
     "type": "lujvo",
     "def": "$p_1$は$p_2=f_1$(電話)を$p_3$(目的)のために$f_2$(ネットワーク／システム)で使う",
     "ps": 3,
-    "notes": "p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoにがある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』",
-    "cf": [
-      "fongau"
-    ]
+    "notes": "p_3には電話の宛先も。f_2には電話会社や回線名など。 同じような意味のlujvoに{fongau}がある。 ;p_3が受信者ならば、『p_1はp_3に電話をかける』"
   },
   "fonxa": {
     "word": "fonxa",
@@ -10693,9 +10297,8 @@
     "type": "lujvo",
     "def": "$x_1$ は有理数",
     "ps": 1,
+    "notes": "{frinu} {namcu}",
     "cf": [
-      "frinu",
-      "namcu",
       "tolfrinyna'u",
       "xarna'u",
       "tolxarna'u",
@@ -10763,8 +10366,7 @@
     "type": "cmavo",
     "selmaho": [
       "FUhE",
-      "UI",
-      "FUhE"
+      "UI"
     ],
     "def": "係り範囲の開始 ： ある語が修飾する／係る範囲の始点を表す； 修飾語は fu'e の直後に置く"
   },
@@ -10773,9 +10375,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "簡単 （ fu'i 簡単 - fu'inai 困難）",
     "notes": "心態詞（修飾系）；",
@@ -10788,10 +10388,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "困難 （ fu'i 簡単 - fu'inai 困難）",
     "notes": "心態詞（修飾系）；"
@@ -10856,8 +10453,7 @@
     "type": "cmavo",
     "selmaho": [
       "FUhO",
-      "UI",
-      "FUhO"
+      "UI"
     ],
     "def": "係り範囲の終了 ： ある語が修飾する／係る範囲の終点を表す"
   },
@@ -10896,8 +10492,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU0",
-      "JOI",
-      "VUhU"
+      "JOI"
     ],
     "def": "不特定MEX演算子 ： 数理演算子（n変数）；"
   },
@@ -10922,9 +10517,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "f ： 字詞；"
   },
@@ -10940,7 +10533,6 @@
     "word": "ga'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -10964,8 +10556,7 @@
       "gapru",
       "marbi",
       "drudi",
-      "ve",
-      "botpi",
+      "ve botpi",
       "bitmu",
       "calku"
     ]
@@ -10992,9 +10583,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "大文字変換 ： 字詞を大文字に変換する"
   },
@@ -11011,9 +10600,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "上位 （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）",
     "notes": "心態詞（修飾系）「高慢」「横柄」",
@@ -11027,10 +10614,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "タメ （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）",
     "notes": "心態詞（修飾系）"
@@ -11040,10 +10624,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "下位 （ ga'i 上位 - ga'icu'i タメ - ga'inai 下位）",
     "notes": "心態詞（修飾系）「従順」"
@@ -11239,8 +10820,7 @@
     "type": "cmavo",
     "selmaho": [
       "GAhO",
-      "UI",
-      "GAhO"
+      "UI"
     ],
     "def": "包含間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれることを表す； 含まれないのを表すのは ke'i； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」"
   },
@@ -11353,19 +10933,12 @@
     "type": "lujvo",
     "def": "$x_1$ （事／経験）は $x_2$ （者）を欺いて／騙して $x_3$ （性質）を感じさせる感覚機能 $x_4$ に関する条件 $x_5$ の下での錯覚",
     "ps": 5,
-    "notes": "$x_1$ が物である場合は jai gastcica; ",
-    "cf": [
-      "ganse",
-      "tcica",
-      "prugastcica",
-      "narprugastcica"
-    ]
+    "notes": "$x_1$ が物である場合は jai gastcica; {ganse} {tcica}; {prugastcica}, {narprugastcica}"
   },
   "gau": {
     "word": "gau",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -11379,9 +10952,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の上方に／上側で ： 間制詞（空間・方向）；"
   },
@@ -11398,8 +10969,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU0",
-      "JOI",
-      "VUhU"
+      "JOI"
     ],
     "def": "ヌル文字 ： 数理演算子；「被演算子なし」"
   },
@@ -11408,9 +10978,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI6",
-      "UI",
-      "UI",
-      6
+      "UI"
     ],
     "ja": [
       "不特定の感情",
@@ -11424,9 +10992,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU2",
-      "JOI",
-      "VUhU",
-      2
+      "JOI"
     ],
     "def": "指数 ： 数理演算子（3変数）；b × (c [デフォルトで 10] の a 乗)"
   },
@@ -11499,9 +11065,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "ギリシャ文字変換 ： 字詞をギリシャ文字に変換する"
   },
@@ -11520,7 +11084,6 @@
     "pun": "＜下痢で苦しむ＞狗",
     "cf": [
       "lorxu",
-      "",
       "labno",
       "mlatu"
     ]
@@ -11587,8 +11150,7 @@
       "jitro",
       "ralju",
       "sazri",
-      "te",
-      "bende",
+      "te bende",
       "jatna",
       "fukpi",
       "morna"
@@ -11809,9 +11371,8 @@
     ],
     "def": "$x_1$ は $x_2$ と性交／交尾／セックスする",
     "ps": 2,
-    "notes": "比喩的に「（対称物の）合体」も。 =マウンティング.",
+    "notes": "比喩的に「（対称物の）合体」も。 {cpanygle}=マウンティング.",
     "cf": [
-      "cpanygle",
       "cinse",
       "pinji",
       "plibu",
@@ -11858,9 +11419,8 @@
     ],
     "def": "$x_1$ は $x_2$ （性質面）に関して英語系（言語／文化／民族／地理）",
     "ps": 2,
-    "notes": "=イングランド, gligli-=ブリティッシュ・イングリッシュ系, =ブリティッシュ・イングリッシュ",
+    "notes": "{gligu'e}=イングランド, gligli-=ブリティッシュ・イングリッシュ系, {gliglibau}=ブリティッシュ・イングリッシュ",
     "cf": [
-      "gligu'egliglibau",
       "brito=UK",
       "merko",
       "sralo",
@@ -12192,8 +11752,7 @@
       "tarbi",
       "panzi",
       "rorci",
-      "te",
-      "pruce",
+      "te pruce",
       "jbari",
       "nimre"
     ]
@@ -12237,13 +11796,7 @@
     ],
     "def": "$s_1$ は $t_2$ （民衆／領土）の統治の、 $s_3$ （思想家）による生産手段共有化の思想、共産主義、社会主義",
     "ps": 3,
-    "cf": [
-      "gubni",
-      "gundi",
-      "trusi'o",
-      "turni",
-      "sidbo"
-    ]
+    "notes": "{gubni} {gundi} {trusi'o} {turni} {sidbo}"
   },
   "gubni": {
     "word": "gubni",
@@ -12294,11 +11847,7 @@
     "type": "fu'ivla",
     "def": "$x_1$ はコード ISO-3166 CN (China) の、 $x_2$ （民衆）からなる国（中国）",
     "ps": 2,
-    "cf": [
-      "jugygu'e",
-      "djunguos",
-      "xa'anzu"
-    ]
+    "notes": "{jugygu'e} {djunguos} {xa'anzu}"
   },
   "gugdejupu": {
     "word": "gugdejupu",
@@ -12370,12 +11919,11 @@
     "cf": [
       "sazri",
       "gasnu",
-      "se",
-      "jibri",
+      "se jibri",
       "zukte",
-      "ni",
-      "muvyselbai",
+      "ni muvyselbai",
       "briju",
+      "jibri",
       "lazni",
       "selfu"
     ]
@@ -12639,9 +12187,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "g ： 字詞；"
   },
@@ -12659,9 +12205,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "信念 （ ia 信念 - iacu'i 懐疑 - ianai 不信）",
     "notes": "心態詞； 事実的根拠が十分でない状態でそれを認める気持",
@@ -12679,9 +12223,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "受容 （ i'a 受容 - i'anai 叱責）",
     "notes": "心態詞； それを受け容れる気持「うん、いいよ」",
@@ -12701,10 +12243,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "懐疑 （ ia 信念 - iacu'i 懐疑 - ianai 不信）",
     "notes": "心態詞； それを信じとどまる気持",
@@ -12720,10 +12259,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "不信 （ ia 信念 - iacu'i 懐疑 - ianai 不信）",
     "notes": "心態詞； それを信じない気持",
@@ -12739,10 +12275,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "叱責 （ i'a 受容 - i'anai 叱責）",
     "notes": "心態詞； それを受け容れずに責める／咎める／拒否する気持",
@@ -12751,8 +12284,7 @@
     ],
     "cf": [
       "tolselmansa",
-      "fi'i",
-      "nai"
+      "fi'i nai"
     ]
   },
   "ibu": {
@@ -12760,9 +12292,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY*",
-      "BY",
-      "BY",
-      true
+      "BY"
     ],
     "def": "i ： 字詞"
   },
@@ -12771,9 +12301,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "同意",
@@ -12793,9 +12321,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "是認",
@@ -12817,10 +12343,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "保留 （ i'e 喝采 - i'ecu'i 保留 - i'enai 非難）",
     "notes": "心態詞； それの良さを未だ認めることができずに支持しとどまる気持",
@@ -12837,10 +12360,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "不賛成 （ ie 賛成 - ienai 不賛成）",
     "notes": "心態詞； それに賛同しない気持",
@@ -12856,10 +12376,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "非難 （ i'e 喝采 - i'ecu'i 保留 - i'enai 非難）",
     "notes": "心態詞； それの良さを認めずに支持しない気持",
@@ -12875,9 +12392,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "恐怖 （ ii 恐怖 - iinai 安全）",
     "notes": "心態詞； 怖れる／怯える気持",
@@ -12893,9 +12408,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "連帯 （ i'i 連帯 - i'inai 内密）",
     "notes": "心態詞； それについて他者との連帯感を覚える気持",
@@ -12913,10 +12426,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "安全 （ ii 恐怖 - iinai 安全）",
     "notes": "心態詞； 恐怖が無く安全を覚える情況",
@@ -12932,10 +12442,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "内密 （ i'i 連帯 - i'inai 内密）",
     "notes": "心態詞； それについて他者との関わりを覚えず、私的な事物として保っていたい気持",
@@ -12952,9 +12459,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文論理和（OR）／～や～ ： 接続詞（論理・後置・文）； 左部と右部はどちらか或いは共に真"
   },
@@ -12963,9 +12468,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文論理含有／～なら～ ： 接続詞（論理・後置・文）； 前部は真、後部が真なら"
   },
@@ -12974,9 +12477,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文論理積（AND）／～と～ ： 接続詞（論理・後置・文）； 前部と後部は共に真",
     "exams": [
@@ -12988,9 +12489,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文接続詞質問 ： 接続詞（論理・後置・文）； 前部と後部の論理関係を尋ねる"
   },
@@ -12999,9 +12498,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文 ～だが～ではない ： 接続詞（論理・後置・文）； 前部は真で、後部は偽"
   },
@@ -13010,9 +12507,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・文）； 前部と後部は共に真あるいは共に偽"
   },
@@ -13021,9 +12516,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文排他的論理和（XOR） ： 接続詞（論理・後置・文）； 前部と後部はどちらかだけ真"
   },
@@ -13032,9 +12525,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文 ～にかかわらず ： 接続詞（論理・後置・文）； 前部は真、後部がどうかにかかわらず"
   },
@@ -13043,9 +12534,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "文論理含有／～なら～ ： 接続詞（論理・後置・文）； 前部が真なら後部は真",
     "exams": [
@@ -13057,9 +12546,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "尊敬 （ io 尊敬 - ionai 軽蔑）",
     "notes": "心態詞； それを敬う気持",
@@ -13069,8 +12556,7 @@
     "cf": [
       "sinma",
       "clite",
-      "ga'i",
-      "nai"
+      "ga'i nai"
     ]
   },
   "i'o": {
@@ -13078,9 +12564,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "鑑賞 （ i'o 鑑賞 - i'onai 嫉妬）",
     "notes": "心態詞； それの良さを鑑賞して味わう気持； 良さを公的に認めて支持する i'e と異なる「いいねえ」",
@@ -13096,10 +12580,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "軽蔑 （ io 尊敬 - ionai 軽蔑）",
     "notes": "心態詞； それを蔑む気持",
@@ -13116,10 +12597,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "嫉妬 （ i'o 鑑賞 - i'onai 嫉妬）",
     "notes": "心態詞； それの良さを妬む気持「ふんっだ」",
@@ -13135,9 +12613,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "愛好",
@@ -13159,9 +12635,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "既知 （ i'u 既知 - i'unai 未知）",
     "notes": "心態詞； それに見覚え／聞き覚え等がある情況「ああ、あれね」",
@@ -13197,10 +12671,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "憎悪 （ iu 愛好 - iunai 憎悪）",
     "notes": "心態詞； それを嫌って憎む気持",
@@ -13216,10 +12687,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "未知 （ i'u 既知 - i'unai 未知）",
     "notes": "心態詞； それを見たことも聞いたこともない情況",
@@ -13245,8 +12713,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA",
-      "JOI",
-      "JA"
+      "JOI"
     ],
     "rafsi": {
       "CVC": "jav"
@@ -13282,10 +12749,7 @@
     "type": "lujvo",
     "def": "$b_1=j_1$ は $b_2$ （素材）の $j_2$ （音）を奏でる鈴",
     "ps": 2,
-    "cf": [
-      "janbe",
-      "bolci"
-    ]
+    "notes": "{janbe} {bolci}"
   },
   "jacre'ipenbi": {
     "word": "jacre'ipenbi",
@@ -13299,11 +12763,7 @@
     ],
     "def": "$x_1=p_1$ は手順 $x_2=p_3$ に従って使われる油性ペン／マーカー",
     "ps": 3,
-    "cf": [
-      "djacu",
-      "renvi",
-      "penbi"
-    ]
+    "notes": "{djacu} {renvi} {penbi}"
   },
   "jadni": {
     "word": "jadni",
@@ -13328,7 +12788,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を結果として／～となって ： jalge 法制詞, $x_1$"
@@ -13338,9 +12797,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～という事にはならずに ： jalge 法制詞, $x_1$",
     "exams": [
@@ -13371,7 +12828,6 @@
     "word": "ja'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -13406,13 +12862,11 @@
     "def": "$x_1$ （事）は $x_2$ （事）の結果／結末；  $x_2$ は $x_1$ に終結する",
     "ps": 2,
     "cf": [
-      "se",
-      "mukti",
-      "te",
-      "zukte",
-      "rinka",
-      "krinu",
-      "nibli",
+      "se mukti",
+      "te zukte",
+      "se rinka",
+      "se krinu",
+      "se nibli",
       "mulno",
       "sumji",
       "pilji",
@@ -13590,9 +13044,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "つまり",
@@ -13619,9 +13071,8 @@
     "ps": 2,
     "cf": [
       "nurma",
-      "se",
-      "tcadu",
-      "ve"
+      "se tcadu",
+      "ve tcadu"
     ]
   },
   "jarco": {
@@ -13677,7 +13128,6 @@
     "ps": 4,
     "cf": [
       "pikta",
-      "",
       "catni",
       "curmi"
     ]
@@ -13698,8 +13148,7 @@
     "cf": [
       "jitro",
       "lidne",
-      "te",
-      "bende",
+      "te bende",
       "minde",
       "ralju",
       "gidva",
@@ -13729,24 +13178,14 @@
     ],
     "def": "$t_1$ は $t_2$ （素材）の、上水道や中水道の水道管／給水管",
     "ps": 2,
-    "cf": [
-      "djacu",
-      "sabji",
-      "tubnu"
-    ]
+    "notes": "{djacu} {sabji} {tubnu}"
   },
   "jaursabytu'uvro": {
     "word": "jaursabytu'uvro",
     "type": "lujvo",
     "def": "$v_1$ は水道の蛇口",
     "ps": 1,
-    "cf": [
-      "jaursabytu'u",
-      "vorme",
-      "djacu",
-      "sabji",
-      "tubnu"
-    ]
+    "notes": "{jaursabytu'u} {vorme} {djacu} {sabji} {tubnu}"
   },
   "javni": {
     "word": "javni",
@@ -13857,8 +13296,7 @@
     "notes": "「midju」と違い、何かに挟まれていることが特に意味される。x3は配列や力など。",
     "pun": "jian(間), between",
     "cf": [
-      "se",
-      "vasru",
+      "se vasru",
       "nenri",
       "zvati",
       "cpana",
@@ -13881,22 +13319,14 @@
     "type": "fu'ivla",
     "def": "$x_1$ は $x_2$ （表現者）によって具現化した $x_3$（性格／気質／容姿）の ロジバン妖精",
     "ps": 3,
-    "notes": "【joke】+ から。※PSは完全に暫定的。",
-    "cf": [
-      "lojbo",
-      "crida"
-    ]
+    "notes": "【joke】{lojbo} + {crida}から。※PSは完全に暫定的。"
   },
   "jboselkei": {
     "word": "jboselkei",
     "type": "lujvo",
     "def": "$x_1=l_1=s_1$ はプレイヤー $x_2=s_2$ の、 $x_3=l_2$（性質面）に関してロジバン系のゲーム",
     "ps": 2,
-    "cf": [
-      "lojbo",
-      "se",
-      "kelci"
-    ]
+    "notes": "{lojbo} {se} {kelci}"
   },
   "jdari": {
     "word": "jdari",
@@ -13964,13 +13394,8 @@
       "値段"
     ],
     "def": "量 $x_{1}$ は商品 $x_{2}$ の、買い手 $x_{3}$ に対して売り手 $x_{4}$ が設定した価格／値段",
-    "notes": "$x_$ は物や事象、性質など。 商品の所有権という概念から、 $x_$ として「所有権の価格」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 jdima の価格 $x_$ は売り手 $x_$ が決めるのに対して、 の条件 $x_$ は受け取る者が決めても良い。 jdima の価格 $x_$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は の $x_$ や の $x_$, $x_$ に相当する。 またこれらの概念は、価値を表す とは直接関係ない。",
+    "notes": "$x_{2}$ は物や事象、性質など。 商品の所有権という概念から、 $x_{1}$ として「所有権の価格」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posydi'a}, {posyseldi'a}）。 jdima の価格 $x_{1}$ は売り手 $x_{4}$ が決めるのに対して、 {friti} の条件 $x_{4}$ は受け取る者が決めても良い。 jdima の価格 $x_{1}$ は、実際の取引価格・費用に等しいとは限らない。 実際の取引価格・費用は {vecnu} の $x_{4}$ や {canja} の $x_{2}$, $x_{3}$ に相当する。 またこれらの概念は、価値を表す {vamji} とは直接関係ない。",
     "cf": [
-      "212posydi'a",
-      "posyseldi'a14friti",
-      "41vecnu",
-      "4canja",
-      "23vamji",
       "canja",
       "friti",
       "janta",
@@ -13978,17 +13403,15 @@
       "kargu",
       "pleji",
       "dapma",
-      "「価値」は",
-      "vamji",
-      "実際の取引価格・費用は",
-      "ve",
-      "vecnu",
+      "「価値」は vamji",
+      "実際の取引価格・費用は ve vecnu",
       "fepni",
       "jerna",
       "jinga",
       "prali",
       "rupnu",
-      "sfasa"
+      "sfasa",
+      "vamji"
     ]
   },
   "jdini": {
@@ -14033,8 +13456,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA",
-      "JOI",
-      "JA"
+      "JOI"
     ],
     "rafsi": {
       "CVC": "jev",
@@ -14049,7 +13471,6 @@
     "word": "je'a",
     "type": "cmavo",
     "selmaho": [
-      "NAhE",
       "NAhE",
       "NAhE"
     ],
@@ -14068,10 +13489,7 @@
     ],
     "def": "$s_1$ は $j_2$ （領域）の政体に関わるもの／政治的なもの",
     "ps": 2,
-    "cf": [
-      "jecta",
-      "srana"
-    ]
+    "notes": "{jecta} {srana}"
   },
   "jecta": {
     "word": "jecta",
@@ -14101,10 +13519,7 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2$ （職員）の $j_2$ （行政領域）の役所",
     "ps": 2,
-    "cf": [
-      "jecta",
-      "briju"
-    ]
+    "notes": "{jecta} {briju}"
   },
   "jecyxlube'e": {
     "word": "jecyxlube'e",
@@ -14116,11 +13531,7 @@
     ],
     "def": "$b_1$ は $b_2$ （構成員）・ $b_3$ （引率者／党首／代表）の、 $j_2$ （領域）の政体に影響を及ぼすための政治団体／圧力団体／利益団体",
     "ps": 3,
-    "cf": [
-      "jecta",
-      "xlura",
-      "bende"
-    ]
+    "notes": "{jecta} {xlura} {bende}"
   },
   "je'e": {
     "word": "je'e",
@@ -14199,8 +13610,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA",
-      "JOI",
-      "JA"
+      "JOI"
     ],
     "def": "tanru 接続詞質問 ： 接続詞（論理・後置・tanru）； 前部と後部の論理関係を問う",
     "exams": [
@@ -14253,9 +13663,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "tanru ～だが～ではない ： 接続詞（論理・後置・tanru）； 前部は真で後部は偽"
   },
@@ -14289,8 +13697,7 @@
     "def": "$x_1$ は $x_2$ （回転物）・ $x_3$ （素材）の軸／車軸／心棒／つむ／スピンドル／シャフト",
     "ps": 3,
     "cf": [
-      "se",
-      "carna",
+      "se carna",
       "gunro",
       "tutci"
     ]
@@ -14318,9 +13725,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "ヘブライ文字変換 ： 字詞をヘブライ文字に変換"
   },
@@ -14407,10 +13812,7 @@
     "type": "lujvo",
     "def": "$s_1$は$s_2$（種）の茨 / 棘のある茎",
     "ps": 2,
-    "cf": [
-      "stani",
-      "jesni"
-    ]
+    "notes": "{stani} {jesni}"
   },
   "jetce": {
     "word": "jetce",
@@ -14456,9 +13858,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "真実",
@@ -14487,10 +13887,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "いわゆる",
@@ -14643,8 +14040,7 @@
     "type": "cmavo",
     "selmaho": [
       "A",
-      "JOI",
-      "A"
+      "JOI"
     ],
     "def": "sumti 接続詞質問 ： 接続詞（論理）； 前部と後部の論理関係を問う"
   },
@@ -14653,9 +14049,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "も",
@@ -14680,10 +14074,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3b",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "さえも",
     "notes": "心態詞（談話系）",
@@ -14692,8 +14083,7 @@
       "「lo xagji cribe cu citka lo cinki ku ji'a sai／飢えた熊は虫さえも食べる」"
     ],
     "cf": [
-      "ji'a",
-      "sai"
+      "ji'a sai"
     ]
   },
   "jibni": {
@@ -14736,12 +14126,10 @@
     "cf": [
       "briju",
       "gunka",
-      "te",
-      "jerna",
-      "pilno",
-      "se",
-      "gasnu",
-      "zukte"
+      "te jerna",
+      "te pilno",
+      "se gasnu",
+      "se zukte"
     ]
   },
   "jicla": {
@@ -14782,7 +14170,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～まで（限界） ： 法制詞； jimte の $x_1$"
@@ -14792,9 +14179,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "有生（ji'ei 有生 - ji'einai 無生）",
     "notes": "心態詞；それが生を有しているように感じていることを表す。 照応や指示表現において、特にそれが生き物である（彼／彼女）ことを明示したいときに使う。",
@@ -14813,10 +14198,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "無生（ji'ei 有生 - ji'einai 無生）",
     "notes": "心態詞；それが生を有していないように感じていることを表す。 照応や指示表現において、特にそれが無機物（それ／it）であることを明示したいときに使う。",
@@ -14898,13 +14280,7 @@
     "type": "lujvo",
     "def": "$b_1=m_2=j_1$ は $b_3$ （分類の） $b_2$ （症状）の自閉症の者",
     "ps": 3,
-    "cf": [
-      "jikca",
-      "menbi'a",
-      "menli",
-      "bilma",
-      "ka'enri'u"
-    ]
+    "notes": "{jikca} {menbi'a} {menli} {bilma} {ka'enri'u}"
   },
   "jikru": {
     "word": "jikru",
@@ -15324,7 +14700,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～の管轄下で ： 法制詞； jitro の $x_1$"
@@ -15386,14 +14761,7 @@
     ],
     "def": "$x_1=v_1=c_1$ は $x_2=j_2$ に漬けた保存食",
     "ps": 2,
-    "notes": "$x_2=j_2$ は塩 (= )・酢 (= )・アルコール (= )・砂糖 (= )・蜂蜜 (= )・醤油 (= )・味噌 (= )・麹 (= ) など。 .",
-    "cf": [
-      "silnaslamixalkasaktabicysaktasobysansofurso'epesxumledi",
-      "pesxujinru",
-      "vitno",
-      "cidja",
-      "slamystogau"
-    ]
+    "notes": "$x_2=j_2$ は塩 (= {silna})・酢 (= {slami})・アルコール (= {xalka})・砂糖 (= {sakta})・蜂蜜 (= {bicysakta})・醤油 (= {sobysanso})・味噌 (= {furso'epesxu})・麹 (= {mledi} {pesxu}) など。 {jinru} {vitno} {cidja}, {slamystogau}."
   },
   "jisra": {
     "word": "jisra",
@@ -15450,14 +14818,12 @@
     "pun": "control",
     "cf": [
       "bapli",
-      "",
       "vlipa",
       "xlura",
       "turni",
       "minde",
       "gidva",
-      "te",
-      "bende",
+      "te bende",
       "jatna",
       "macnu",
       "ponse",
@@ -15471,7 +14837,6 @@
     "word": "ji'u",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -15585,8 +14950,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA",
-      "JOI",
-      "JA"
+      "JOI"
     ],
     "rafsi": {
       "CVC": "jov"
@@ -15601,9 +14965,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "そのとおり",
@@ -15642,7 +15004,6 @@
     "type": "cmavo",
     "selmaho": [
       "JOI",
-      "JOI",
       "JOI"
     ],
     "rafsi": {
@@ -15657,7 +15018,6 @@
     "word": "joi",
     "type": "cmavo",
     "selmaho": [
-      "JOI",
       "JOI",
       "JOI"
     ],
@@ -15678,8 +15038,7 @@
     "type": "cmavo",
     "selmaho": [
       "JOhI",
-      "JOI",
-      "JOhI"
+      "JOI"
     ],
     "def": "配列 ： MEX（数式）の演算子を結合して配列にする"
   },
@@ -15688,9 +15047,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "tanru 排他的論理和（XOR） ： 接続詞（論理）； 前部と後部はどちらかだけ真"
   },
@@ -15699,9 +15056,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "アラビア文字シフト ： 字詞をアラビア文字コードにシフトする"
   },
@@ -15746,7 +15101,6 @@
     "type": "cmavo",
     "selmaho": [
       "JOI",
-      "JOI",
       "JOI"
     ],
     "rafsi": {
@@ -15762,8 +15116,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA",
-      "JOI",
-      "JA"
+      "JOI"
     ],
     "rafsi": {
       "CVC": "juv"
@@ -15778,9 +15131,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "提言",
@@ -15838,7 +15189,6 @@
     "word": "ju'e",
     "type": "cmavo",
     "selmaho": [
-      "JOI",
       "JOI",
       "JOI"
     ],
@@ -16034,9 +15384,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "ja": [
       "まちがいなく",
@@ -16058,10 +15406,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "ja": [
       "わからない",
@@ -16079,10 +15424,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "ja": [
       "不可能",
@@ -16104,8 +15446,7 @@
     "ps": 2,
     "pun": "じゅるじゅるアメーバ",
     "cf": [
-      "vidru",
-      ""
+      "vidru"
     ]
   },
   "jursa": {
@@ -16146,9 +15487,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU2",
-      "JOI",
-      "VUhU",
-      2
+      "JOI"
     ],
     "def": "進数（数字列 a, 底を b として） ： 数理演算子（2変数）；"
   },
@@ -16198,9 +15537,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "j ： 字詞；"
   },
@@ -16231,7 +15568,6 @@
     "word": "ka'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -16272,10 +15608,7 @@
     "type": "lujvo",
     "def": "$p_1$ は $p_2$ （主題）の $p_3$ （作者）による $p_4=k_3$ （現像媒体）の写真",
     "ps": 3,
-    "cf": [
-      "kacma",
-      "pixra"
-    ]
+    "notes": "{kacma} {pixra}"
   },
   "kadno": {
     "word": "kadno",
@@ -16295,8 +15628,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAhA",
-      "BAI",
-      "CAhA"
+      "BAI"
     ],
     "def": "できる ： 相制詞（モダリティ）； 内在的可能性；",
     "exams": [
@@ -16317,14 +15649,7 @@
     ],
     "def": "$r_1$ は $r_2$ （障害）のために $r_3=k_2$ （事）が制限される障害者",
     "ps": 2,
-    "cf": [
-      "kakne",
-      "rinju",
-      "tolka'e",
-      "xadri'u",
-      "menri'u",
-      "menbi'a"
-    ]
+    "notes": "{kakne} {rinju} {tolka'e} {xadri'u} {menri'u} {menbi'a}"
   },
   "kafke": {
     "word": "kafke",
@@ -16366,7 +15691,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が象徴して ： ckaji 法制詞, $x_1$"
@@ -16375,7 +15699,6 @@
     "word": "ka'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -16937,9 +16260,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "か",
@@ -16963,9 +16284,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "文化的知識",
@@ -16985,11 +16304,7 @@
     "type": "lujvo",
     "def": "$x_1$ (du'u) は  $x_2$（観点）にとって $x_3$（題目）について $x_4$（認識体系）の下で常識",
     "ps": 4,
-    "cf": [
-      "kampu",
-      "se",
-      "djuno"
-    ]
+    "notes": "{kampu} {se} {djuno}"
   },
   "kavbu": {
     "word": "kavbu",
@@ -17008,8 +16323,7 @@
       "kalte",
       "pinfu",
       "sisku",
-      "se",
-      "rinju"
+      "se rinju"
     ]
   },
   "ke": {
@@ -17101,8 +16415,7 @@
     "type": "cmavo",
     "selmaho": [
       "GAhO",
-      "UI",
-      "GAhO"
+      "UI"
     ],
     "def": "除外間隔 ： 合間を表す bi'i や bi'o の左か右に付いて、その側の sumti が間隔範疇に含まれないことを表す； 含まれるのを表すのは ga'oi； 「A ga'obi'ike'i B／A（含む）からB（含まない）まで」"
   },
@@ -17286,9 +16599,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "だってば",
@@ -17316,10 +16627,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "さらに",
@@ -17362,8 +16670,7 @@
     "type": "cmavo",
     "selmaho": [
       "KI",
-      "BAI",
-      "KI"
+      "BAI"
     ],
     "def": "制詞設定／初期化 ： 間制詞／相制詞／法制詞の右に付いてそれらを以降の文にも効くように設定する、あるいは単独で置いて全ての制詞をリセットする；",
     "exams": [
@@ -17375,9 +16682,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI6",
-      "UI",
-      "UI",
-      6
+      "UI"
     ],
     "def": "逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）",
     "notes": "心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；「{ mi penmi ko'a } { ko'a ki'a }／｛彼女に会った。｝｛“彼女”って誰のこと？｝」",
@@ -17406,10 +16711,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*6",
-      "UI",
-      "UI",
-      6,
-      true
+      "UI"
     ],
     "def": "逐語的理解 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）",
     "notes": "心態詞； 語句が何を意味しているのかを理解している"
@@ -17435,11 +16737,9 @@
     "type": "lujvo",
     "def": "$x_1=k_1=s_1$ はインターネットでクライアント $x_2=k_1=s_2$ にサービス $x_3=s_3$ を提供するサーバ",
     "ps": 3,
-    "notes": "-kib- はの3文字 rafsi. ネットワークのノードは _2.",
+    "notes": "-kib- は{kibro} の3文字 rafsi. ネットワークのノードは {samseltcana}_2.",
     "cf": [
-      "kibro",
-      "samseltcana",
-      "selfu",
+      "kibro selfu",
       "kibdu'a",
       "kibycpa",
       "kibyca'o."
@@ -17486,7 +16786,6 @@
     "word": "ki'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -17601,7 +16900,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を理由として ： krinu 法制詞, $x_1$； 「to'e ki'u nai」で「～という理由に妨げられることなく」から「～にも関わらず」"
@@ -17611,10 +16909,7 @@
     "type": "lujvo",
     "def": "$c1$は呼ぶ/招集する/呼び出す $c_3=k_1$(人/組織/プログラム)を $k2$(場所)へ $c4$(方法/形態)で",
     "ps": 1,
-    "notes": "比較せよ:",
-    "cf": [
-      "cpedu"
-    ]
+    "notes": "比較せよ:{cpedu}"
   },
   "klaji": {
     "word": "klaji",
@@ -17742,11 +17037,9 @@
     ],
     "def": "$x_1$ （物／媒体）は $x_2$ （伝わるもの）に関して明らか／透過性がある／遮られていない；  $x_2$ は減衰も散乱もあまりせずにそのまま伝わる",
     "ps": 2,
-    "notes": "x2 は光や電波や音波など。「理解できる」ということを表すには や という表現を使う。 klina を比喩的な意味で使うことは推奨されない。",
+    "notes": "x2 は光や電波や音波など。「理解できる」ということを表すには {filseljmi} や {filsmu} という表現を使う。 klina を比喩的な意味で使うことは推奨されない。",
     "pun": "クリスタルな透過, clear,cin（清）",
     "cf": [
-      "filseljmi",
-      "filsmu",
       "kandi",
       "zunti",
       "nalzu'i"
@@ -17827,9 +17120,8 @@
       "KOhA3"
     ],
     "def": "命令 ： 代詞（sumti）； do の代わりに用いて命令を表す； 「～しろ」から「～してください」まで広いニュアンスをカバーする",
-    "notes": "に、命令一般を表す心態が追加された代詞。",
+    "notes": "{do} に、命令一般を表す心態が追加された代詞。",
     "cf": [
-      "do",
       "ko'oi",
       "au",
       "a'o",
@@ -17883,7 +17175,6 @@
     "word": "koi",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -17987,25 +17278,16 @@
     "type": "cmavo",
     "selmaho": [
       "UI6",
-      "UI",
-      "UI",
-      6
+      "UI"
     ],
     "def": "談話系：命令",
-    "notes": "``'' は '''' の短縮形。の上位語。",
+    "notes": "``{ko}'' は ''{do} {ko'oi}'' の短縮形。{au}, {a'o}, {e'o}, {e'u}, {e'a}, {ei} の上位語。",
     "exams": [
       "「do .onai ko'oi lo mi speni co'a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』）",
       "「ra ko'oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko'oi se platu be do ku te snada／あなたの計画がうまく行きますように」",
       "「mi ko'oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」"
     ],
     "cf": [
-      "kodo",
-      "ko'oiau",
-      "a'o",
-      "e'o",
-      "e'u",
-      "e'a",
-      "ei",
       "minde",
       "cpedu",
       "curmi",
@@ -18251,10 +17533,8 @@
       "rinka",
       "nibli",
       "mukti",
-      "se",
-      "jalge",
-      "te",
-      "zukte",
+      "se jalge",
+      "te zukte",
       "ki'u",
       "bapli"
     ]
@@ -18346,7 +17626,6 @@
     "type": "cmavo",
     "selmaho": [
       "JOI",
-      "JOI",
       "JOI"
     ],
     "rafsi": {
@@ -18389,8 +17668,7 @@
     "cf": [
       "manci",
       "sisku",
-      "se",
-      "cinri"
+      "se cinri"
     ]
   },
   "ku'e": {
@@ -18421,9 +17699,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "ところが",
@@ -18450,10 +17726,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3b",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "だって",
@@ -18711,7 +17984,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～（文化）のもと ： kulnu 法制詞, $x_1$"
@@ -18721,9 +17993,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "k ： 字詞；"
   },
@@ -18732,8 +18002,7 @@
     "type": "cmavo",
     "selmaho": [
       "LA",
-      "LE",
-      "LA"
+      "LE"
     ],
     "def": "名付けられたもの ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；",
     "exams": [
@@ -18745,9 +18014,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "かもしれない",
@@ -18775,10 +18042,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "ありそうもない",
@@ -18803,8 +18067,7 @@
     "def": "$x_1$ は $x_2$ （種類）の狼",
     "ps": 2,
     "cf": [
-      "gerku",
-      ""
+      "gerku"
     ]
   },
   "lacpu": {
@@ -18895,12 +18158,7 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $b_3$ （原動力）のクレーン船",
     "ps": 3,
-    "cf": [
-      "lafti",
-      "dandu",
-      "bloti",
-      "lafydadma'e"
-    ]
+    "notes": "{lafti} {dandu} {bloti} {lafydadma'e}"
   },
   "lafydadma'e": {
     "word": "lafydadma'e",
@@ -18915,13 +18173,7 @@
     ],
     "def": "$m_1$ は $m_2=d_1=l_2$ （運搬物）を $m_3=d_2$ （クレーン）で吊り上げる $m_4$ （原動力）の移動式クレーン（運搬機）",
     "ps": 4,
-    "cf": [
-      "lafti",
-      "dandu",
-      "marce",
-      "lafydadykarce",
-      "lafydadblo"
-    ]
+    "notes": "{lafti} {dandu} {marce} {lafydadykarce} {lafydadblo}"
   },
   "lafydadykarce": {
     "word": "lafydadykarce",
@@ -18938,20 +18190,14 @@
     ],
     "def": "$k_1$ は $k_2=d_1=l_2$ （運搬物）をクレーンで吊り上げる $k_3$ （原動力）のクレーン車",
     "ps": 3,
-    "cf": [
-      "lafti",
-      "dandu",
-      "karce",
-      "lafydadma'e"
-    ]
+    "notes": "{lafti} {dandu} {karce} {lafydadma'e}"
   },
   "lai": {
     "word": "lai",
     "type": "cmavo",
     "selmaho": [
       "LA",
-      "LE",
-      "LA"
+      "LE"
     ],
     "def": "名付けられた群 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；",
     "exams": [
@@ -18963,8 +18209,7 @@
     "type": "cmavo",
     "selmaho": [
       "LA",
-      "LE",
-      "LA"
+      "LE"
     ],
     "def": "名付けられた集合 ： 冠詞（渾名系）； selbri あるいは cmevla を冠する；",
     "exams": [
@@ -19021,7 +18266,6 @@
     "ps": 2,
     "cf": [
       "citno",
-      "",
       "cnino",
       "slabu"
     ],
@@ -19239,10 +18483,7 @@
     ],
     "def": "$m_1$ は美術品 $m_2=l_1$ を展示する $m_3$ （所）の美術館／アートギャラリー",
     "ps": 3,
-    "cf": [
-      "larcu",
-      "muzga"
-    ]
+    "notes": "{larcu} {muzga}"
   },
   "lasna": {
     "word": "lasna",
@@ -19323,8 +18564,7 @@
     "type": "cmavo",
     "selmaho": [
       "LAU",
-      "BY",
-      "LAU"
+      "BY"
     ],
     "def": "句読点標識 ： 「... bu」の左に付いてそれが句読点であることを表す"
   },
@@ -19332,7 +18572,6 @@
     "word": "la'u",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -19366,11 +18605,7 @@
     ],
     "def": "$x_1$ はアルゴン (Ar)",
     "ps": 1,
-    "cf": [
-      "lazni",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{lazni} {navni}; {ratni}"
   },
   "lazyzukykei": {
     "word": "lazyzukykei",
@@ -19384,7 +18619,6 @@
     "type": "cmavo",
     "selmaho": [
       "LE",
-      "LE",
       "LE"
     ],
     "def": "形容されたもの ： 冠詞（主観系）； selbri を冠する； 指示対象は必ずしもその selbri に真に当てはまるとは限らない；",
@@ -19396,7 +18630,6 @@
     "word": "le'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -19412,18 +18645,10 @@
       "LEhAI"
     ],
     "def": "境界詞； 誤り訂正引用構造の末端を示す。",
-    "notes": "... ... le'ai の置換構造を使うことで、聴き手に の後の語句をの後の語句で置き換えるよう要請することができる。... ... le'ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le'ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le'ai の構造にSAI類をつけることも可能である： le'ai （= le'ai ko'a）は他の誰かが誤ったということを示す。また、 le'ai は、他の誰かが誤ったかどうかを尋ねる。そして、はその誤りの訂正の重要性を示す。さらに、le'ai はその訂正を認めずに、誤りを明確に否定するのに使われる。",
+    "notes": "{lo'ai} ... {sa'ai} ... le'ai の置換構造を使うことで、聴き手に {lo'ai}の後の語句を{sa'ai} の後の語句で置き換えるよう要請することができる。{sa'ai} ... {lo'ai} ... le'ai という順序も許容されるほか、片方（もしくは両方とも）を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、le'ai は、その詳細は文脈に任せるが、誤りがあったということを明示する。le'ai の構造にSAI類をつけることも可能である： le'ai {dai} （= le'ai {da'oi} ko'a）は他の誰かが誤ったということを示す。また、 le'ai {pei} は、他の誰かが誤ったかどうかを尋ねる。そして、{sai}, {ru'e}, {cu'i} はその誤りの訂正の重要性を示す。さらに、le'ai {nai} はその訂正を認めずに、誤りを明確に否定するのに使われる。",
     "cf": [
       "lo'ai",
-      "sa'ai",
-      "lo'aisa'ai",
-      "dai",
-      "da'oi",
-      "pei",
-      "sai",
-      "ru'e",
-      "cu'i",
-      "nai"
+      "sa'ai"
     ],
     "experimental": true,
     "unofficial": true
@@ -19455,7 +18680,6 @@
     "type": "cmavo",
     "selmaho": [
       "LE",
-      "LE",
       "LE"
     ],
     "rafsi": {
@@ -19472,7 +18696,6 @@
     "type": "cmavo",
     "selmaho": [
       "LE",
-      "LE",
       "LE"
     ],
     "def": "形容された群 ： 冠詞（主観系）； selbri を冠する"
@@ -19481,7 +18704,6 @@
     "word": "le'i",
     "type": "cmavo",
     "selmaho": [
-      "LE",
       "LE",
       "LE"
     ],
@@ -19528,9 +18750,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "ja": [
       "攻勢",
@@ -19549,10 +18769,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "無抵抗 （ le'o 攻勢 - le'ocu'i 無抵抗 - le'onai 守勢）",
     "notes": "心態詞（修飾系）；"
@@ -19562,10 +18779,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "守勢 （ le'o 攻勢 - le'ocu'i 無抵抗 - le'onai 守勢）",
     "notes": "心態詞（修飾系）；"
@@ -19630,9 +18844,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "当然",
@@ -19659,10 +18871,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "そこはかとなく",
@@ -19722,7 +18931,6 @@
     "word": "li'e",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -19881,8 +19089,7 @@
     "cf": [
       "junta",
       "tilju",
-      "se",
-      "xalbo",
+      "se xalbo",
       "kandi"
     ]
   },
@@ -19891,9 +19098,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "など",
@@ -19915,12 +19120,9 @@
     "def": "$x_1$ は フッ素（F）",
     "ps": 1,
     "cf": [
-      "塩素",
-      "ri'orkliru",
-      "臭素",
-      "xunkliru",
-      "ヨウ素",
-      "zirkliru",
+      "塩素 ri'orkliru",
+      "臭素 xunkliru",
+      "ヨウ素 zirkliru",
       "linto",
       "kliru"
     ]
@@ -20097,7 +19299,6 @@
     "type": "cmavo",
     "selmaho": [
       "LE",
-      "LE",
       "LE"
     ],
     "def": "それであるもの ： 冠詞（客観系）； selbri を冠する； 指示対象は真にその selbri に当てはまる"
@@ -20107,9 +19308,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "ロジバン文字変換 ： 字詞をロジバン文字（通常はローマ字）に変換する"
   },
@@ -20132,7 +19331,6 @@
     "word": "lo'e",
     "type": "cmavo",
     "selmaho": [
-      "LE",
       "LE",
       "LE"
     ],
@@ -20164,7 +19362,6 @@
     "type": "cmavo",
     "selmaho": [
       "LE",
-      "LE",
       "LE"
     ],
     "def": "そうである群 ： 冠詞（客観系）； selbri を冠する"
@@ -20173,7 +19370,6 @@
     "word": "lo'i",
     "type": "cmavo",
     "selmaho": [
-      "LE",
       "LE",
       "LE"
     ],
@@ -20312,9 +19508,8 @@
     "type": "lujvo",
     "def": "$x_1$ は複素数",
     "ps": 1,
+    "notes": "{pluja} {namcu}",
     "cf": [
-      "pluja",
-      "namcu",
       "xarna'u",
       "tolxarna'u",
       "mrena'u",
@@ -20442,9 +19637,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "l ： 字詞；"
   },
@@ -20541,7 +19734,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を物質として ： marji 法制詞, $x_1$",
@@ -20564,7 +19756,6 @@
     "word": "ma'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -20635,10 +19826,7 @@
     "type": "lujvo",
     "def": "$c_1$ は $c_2$ にとってジャンクフード.",
     "ps": 2,
-    "notes": "Cf. .",
-    "cf": [
-      "cidja"
-    ]
+    "notes": "Cf. {cidja}."
   },
   "malsi": {
     "word": "malsi",
@@ -20790,10 +19978,7 @@
     "ps": 2,
     "pun": "アント",
     "cf": [
-      "bifce",
-      "",
-      "<",
-      "cinki",
+      "bifce  < cinki (上位概念)",
       "jalra"
     ]
   },
@@ -21094,7 +20279,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が勝って（に劣って）／が超えて（に超されて） ： zmadu 法制詞, $x_1$"
@@ -21151,7 +20335,6 @@
     "type": "cmavo",
     "selmaho": [
       "ME",
-      "ME",
       "ME"
     ],
     "def": "sumti → selbri 変換 ： sumti の左に付いてそれを「$x_1$ は $x_2$ （性質）において [sumti] 的」というPSの selbri にする"
@@ -21160,7 +20343,6 @@
     "word": "me'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -21186,7 +20368,6 @@
     "word": "me'e",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -21340,11 +20521,7 @@
     ],
     "def": "$b_1=m_2$ は $b_3$ （障害）のある $b_2$ （症状）の精神障害者",
     "ps": 3,
-    "cf": [
-      "menli",
-      "bilma",
-      "ka'enri'u"
-    ]
+    "notes": "{menli} {bilma} {ka'enri'u}"
   },
   "menli": {
     "word": "menli",
@@ -21383,11 +20560,7 @@
     ],
     "def": "$r_1=m_2$ は $r_2$ （障害）のために $r_3$ が制限される知的障害者",
     "ps": 3,
-    "cf": [
-      "menli",
-      "rinju",
-      "ka'enri'u"
-    ]
+    "notes": "{menli} {rinju} {ka'enri'u}"
   },
   "mensi": {
     "word": "mensi",
@@ -21566,10 +20739,7 @@
     ],
     "def": "$xu_1=m_4$ は $xu_2$ （薬の種類）の $m_3$ （病気／怪我）のための医薬品",
     "ps": 4,
-    "cf": [
-      "mikce",
-      "xukmi"
-    ]
+    "notes": "{mikce} {xukmi}"
   },
   "midju": {
     "word": "midju",
@@ -21638,8 +20808,7 @@
     "type": "cmavo",
     "selmaho": [
       "BIhI",
-      "JOI",
-      "BIhI"
+      "JOI"
     ],
     "def": "中間（順序あり） ： 接続詞（非論理・sumti/selbri）；",
     "exams": [
@@ -21789,8 +20958,7 @@
     "pun": "＜みんな出ろと命令＞,市民で命令",
     "cf": [
       "lacri",
-      "te",
-      "bende",
+      "te bende",
       "jatna",
       "ralju",
       "jitro",
@@ -21809,13 +20977,13 @@
     ],
     "def": "$x_1$ は $x_2$ （機能／用途）の機械",
     "ps": 2,
-    "notes": "自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は .",
+    "notes": "自立的に稼動する機械全般。「仕掛」も。 自分を制御する機械は {zukte}.",
     "pun": "＜みんな自動の機械＞,machine, ミンチ",
     "cf": [
-      "zukte",
       "cabra",
       "matra",
       "tutci",
+      "zukte",
       "pilno",
       "skami"
     ]
@@ -21909,11 +21077,7 @@
     ],
     "def": "$x_1$ はクリプトン (Kr)",
     "ps": 1,
-    "cf": [
-      "mipri",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{mipri} {navni}; {ratni}"
   },
   "mipri": {
     "word": "mipri",
@@ -21963,8 +21127,7 @@
     "notes": "「人気」「セレブ」も。",
     "pun": "ミスの有名な・・・",
     "cf": [
-      "se",
-      "sinma",
+      "se sinma",
       "banli"
     ]
   },
@@ -22024,9 +21187,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "同様に（ mi'u 同様に - mi'unai 異なって）",
     "notes": "心態詞（談話系）； 先に述べた事物と同じ事物を指すことを表す （BPFK による新しい意味）",
@@ -22043,10 +21204,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3b",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "異なって（ mi'u 同様に - mi'unai 異なって）",
     "notes": "心態詞（談話系）； 異なる；先に述べた事物とは別の事物を指すことを表す （BPFK による新しい意味）",
@@ -22072,8 +21230,7 @@
     "pun": "mix",
     "cf": [
       "salta",
-      "te",
-      "runta",
+      "te runta",
       "stasu",
       "jicla",
       "sanso"
@@ -22173,8 +21330,7 @@
     "cf": [
       "plini",
       "solri",
-      "lunra",
-      ""
+      "lunra"
     ]
   },
   "mo": {
@@ -22233,8 +21389,7 @@
     "type": "cmavo",
     "selmaho": [
       "MOhI",
-      "NAhE",
-      "MOhI"
+      "NAhE"
     ],
     "rafsi": {
       "CVC": "mov"
@@ -22257,15 +21412,12 @@
     ],
     "def": "$x_1$ は $x_2$ （単位）・$x_3$ （基準）（デフォルトは「今現在」）で $x_4$ （観点／暦／慣習）における PA 番目の日付／時刻",
     "ps": 4,
-    "notes": "x_3 は時刻の基準点（PA = )。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si'o ）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si'o  )は 11月、0番目の昼（lo si'o ）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si'o ）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；",
+    "notes": "x_3 は時刻の基準点（PA = {no})。時間の区切り方は x_4に依る。たとえば、2014年11月14日14時03分時点において、0番目の日にち（lo si'o {djedi}）は 11月14日、0番目の世紀は 21世紀、0番目の月(lo si'o  {masti})は 11月、0番目の昼（lo si'o {donri}）は今日の昼（今の時間帯）を意味するが、0番目の夜（lo si'o {nicte}）はその時点が夜でないため、何も指さない。付番は未来を正の方向とする；；",
     "exams": [
       "「lo no moi'o be lo si'o djedi／今日」",
       "「lo pa moi'o be lo nanca／来年」",
       "「lo ni'u moi'o be lo si'o masti／先月」",
       "「.e'o ko klama lo zdani be mi ca lo pa moi'o be lo si'o nicte／今夜、私の家に来てください。」"
-    ],
-    "cf": [
-      "nodjedimastidonrinicte"
     ],
     "experimental": true,
     "unofficial": true
@@ -22328,7 +21480,6 @@
       "gurni",
       "tirse",
       "fanri",
-      "",
       "zalvi"
     ]
   },
@@ -22489,8 +21640,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "終了 ： 相制詞；"
   },
@@ -22517,9 +21667,7 @@
     "ps": 1,
     "notes": "同じ意味の lujvo として {tolxarna'u} もある。",
     "cf": [
-      "to'e",
-      "xanri",
-      "namcu",
+      "to'e xanri namcu",
       "tolxarna'u",
       "xarna'u",
       "lujna'u",
@@ -22531,10 +21679,7 @@
     "type": "lujvo",
     "def": "$x_1=b_1$ は、郵便局員 $x_2=b_2$の、場所 $x_3=b_3$ にある、郵便システム $x_4=m_5$ のための郵便局",
     "ps": 5,
-    "cf": [
-      "mrilu",
-      "briju"
-    ]
+    "notes": "{mrilu} {briju}"
   },
   "mrilu": {
     "word": "mrilu",
@@ -22588,9 +21733,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "例えば （ mu'a 例えば - mu'acu'i 例を挙げるまでもなく - mu'anai 例示終わり）",
     "notes": "心態詞（談話系）；といふことと「わからない」といふこととは同じでない。例へば、高等數學はむつかしい、しかしわからないものではない」（三木清『哲學はやさしくできないか』）",
@@ -22606,10 +21749,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "例を挙げるまでもなく （ mu'a 例えば - mu'acu'i 例を挙げるまでもなく - mu'anai 例示終わり）",
     "notes": "心態詞（談話系）；",
@@ -22622,10 +21762,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "など",
@@ -22711,7 +21848,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が動機となって ： mukti 法制詞, $x_1$"
@@ -22732,10 +21868,8 @@
     "cf": [
       "mu'i",
       "nibli",
-      "te",
-      "zukte",
-      "se",
-      "jalge",
+      "te zukte",
+      "se jalge",
       "krinu",
       "rinka",
       "ciksi",
@@ -22774,30 +21908,14 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言律詩",
     "ps": 3,
-    "cf": [
-      "mu",
-      "valsi",
-      "bi",
-      "linji",
-      "mumvlavonli'i",
-      "zelvlavonli'i",
-      "zelvlabivli'i"
-    ]
+    "notes": "{mu} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {zelvlabivli'i}"
   },
   "mumvlavonli'i": {
     "word": "mumvlavonli'i",
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む五言絶句",
     "ps": 3,
-    "cf": [
-      "mu",
-      "valsi",
-      "vo",
-      "linji",
-      "zelvlavonli'i",
-      "mumvlabivli'i",
-      "zelvlabivli'i"
-    ]
+    "notes": "{mu} {valsi} {vo} {linji}; {zelvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}"
   },
   "munje": {
     "word": "munje",
@@ -22937,7 +22055,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を例として ： mupli 法制詞, $x_1$",
@@ -22981,11 +22098,7 @@
     ],
     "def": "$c_1$ は $c_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして押す",
     "ps": 4,
-    "notes": "押す「対象箇所」（ catke3 ）は di'o によって表せる ; ",
-    "cf": [
-      "muvdu",
-      "catke"
-    ]
+    "notes": "押す「対象箇所」（ catke3 ）は di'o によって表せる ; {muvdu} {catke}"
   },
   "muvycpu": {
     "word": "muvycpu",
@@ -23000,11 +22113,7 @@
     ],
     "def": "$l_1$ は $l_2=m_1$ （対象本体）を、 $m_2$ （終点）に $m_3$ （始点）から $m_4$ （経路）にわたって動かして引く",
     "ps": 4,
-    "notes": "引く「対象箇所」（ lacpu3 ）は di'o によって表せる ; ",
-    "cf": [
-      "muvdu",
-      "lacpu"
-    ]
+    "notes": "引く「対象箇所」（ lacpu3 ）は di'o によって表せる ; {muvdu} {lacpu}"
   },
   "muvzva": {
     "word": "muvzva",
@@ -23015,10 +22124,7 @@
     ],
     "def": "$x_1$ は $x_2$ を徘徊する",
     "ps": 2,
-    "cf": [
-      "muvdu",
-      "zvati"
-    ]
+    "notes": "{muvdu} {zvati}"
   },
   "muzga": {
     "word": "muzga",
@@ -23049,19 +22155,14 @@
     ],
     "def": "$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室",
     "ps": 2,
-    "cf": [
-      "muzga",
-      "kumfa"
-    ]
+    "notes": "{muzga} {kumfa}"
   },
   "my": {
     "word": "my",
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "m ： 字詞；"
   },
@@ -23084,9 +22185,7 @@
     "type": "cmavo",
     "selmaho": [
       "A*",
-      "JOI",
-      "A",
-      true
+      "JOI"
     ],
     "def": "sumti 論理含有／～なら～ ： 接続詞（論理・後置・sumti）； 前部が真なら後部は真；"
   },
@@ -23095,9 +22194,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "文字コード・シフト解除 ："
   },
@@ -23130,7 +22227,6 @@
     "type": "cmavo",
     "selmaho": [
       "NAhE",
-      "NAhE",
       "NAhE"
     ],
     "rafsi": {
@@ -23154,26 +22250,17 @@
     "type": "cmavo",
     "selmaho": [
       "NAI",
-      "UI",
-      "NAI"
+      "UI"
     ],
     "def": "小構造否定 ： 左の語を否定する。命題否定か、対義否定か、段階否定かは、左の語の selma'o によって異なる。",
-    "notes": "TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 と同じ意味になる。 UI, CAI, COI に付くと、対義否定 と同じ意味になる。",
-    "cf": [
-      "na",
-      "na'e",
-      "to'e",
-      ""
-    ]
+    "notes": "TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 {na'e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to'e} と同じ意味になる。"
   },
   "na'i": {
     "word": "na'i",
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "メタ言語否定",
     "notes": "心態詞（談話系）； 命題を否定せずに心態面における否定を表す； 肯定文でも使える",
@@ -23190,9 +22277,7 @@
     "type": "cmavo",
     "selmaho": [
       "JA*",
-      "JOI",
-      "JA",
-      true
+      "JOI"
     ],
     "def": "tanru 論理含有／～なら～ ： 接続詞（論理・後置・tanru）； 前部が真なら後部は真；"
   },
@@ -23287,10 +22372,7 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の南風",
     "ps": 3,
-    "cf": [
-      "snanu",
-      "brife"
-    ]
+    "notes": "{snanu} {brife}"
   },
   "nanca": {
     "word": "nanca",
@@ -23420,8 +22502,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE",
-      "BAI",
-      "TAhE"
+      "BAI"
     ],
     "def": "典型的に／形式的に ： 相制詞（時間・間隔）； デフォルトは時間"
   },
@@ -23430,9 +22511,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE*",
-      "BAI",
-      "TAhE",
-      true
+      "BAI"
     ],
     "def": "型にはまらずに／形式から外れて ： 相制詞（時間・間隔）； デフォルトは時間",
     "exams": [
@@ -23494,14 +22573,7 @@
     ],
     "def": "$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で未視感 (jamais-vu) を与える",
     "ps": 4,
-    "notes": "$x_1$ が物である場合は jai narprugastcica; ",
-    "cf": [
-      "punai",
-      "ganse",
-      "tcica",
-      "gastcica",
-      "prugastcica"
-    ]
+    "notes": "$x_1$ が物である場合は jai narprugastcica; {pu}{nai}, {ganse} {tcica}; {gastcica}, {prugastcica}"
   },
   "natfe": {
     "word": "natfe",
@@ -23551,8 +22623,7 @@
     "type": "cmavo",
     "selmaho": [
       "CUhE",
-      "BAI",
-      "CUhE"
+      "BAI"
     ],
     "def": "照合点 ： 間制詞； 話者自身に関して現在の絶対時空間を表す（一方の ca は文脈に左右される相対的なもの）"
   },
@@ -23577,10 +22648,7 @@
     ],
     "def": "$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での男性配偶者",
     "ps": 3,
-    "cf": [
-      "nanmu",
-      "speni"
-    ]
+    "notes": "{nanmu} {speni}"
   },
   "navni": {
     "word": "navni",
@@ -23655,9 +22723,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "～の近隣に ： 間制詞（空間・方向）；"
   },
@@ -23680,8 +22746,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "対義 ",
     "notes": "対義語をつくる。 {to'e} と意味が同じの selma'o CAI 。",
@@ -23701,9 +22766,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "～の中に／内側で ： 間制詞（空間・方向）；"
   },
@@ -23766,8 +22829,7 @@
     "ps": 2,
     "pun": "内部念入り",
     "cf": [
-      "se",
-      "vasru",
+      "se vasru",
       "jbini",
       "zvati",
       "cpana",
@@ -23786,9 +22848,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU3",
-      "JOI",
-      "VUhU",
-      3
+      "JOI"
     ],
     "def": "階乗 ： 数理演算子（単一項）； [a!]"
   },
@@ -23797,9 +22857,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA1",
-      "BAI",
-      "FAhA",
-      1
+      "BAI"
     ],
     "def": "～の南方に／南側で ： 間制詞（空間・方向）；"
   },
@@ -23825,9 +22883,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の下方に／下側で ： 間制詞（空間・方向）；"
   },
@@ -23885,7 +22941,6 @@
     "word": "ni'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -23958,10 +23013,7 @@
     ],
     "def": "$s_1=n_1$ は $s_2$ にとっての $s_3$ （法律／慣習）での女性配偶者",
     "ps": 3,
-    "cf": [
-      "ninmu",
-      "speni"
-    ]
+    "notes": "{ninmu} {speni}"
   },
   "ninja": {
     "word": "ninja",
@@ -24003,11 +23055,7 @@
     ],
     "def": "$x_1$ はネオン (Ne)",
     "ps": 1,
-    "cf": [
-      "cnino",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{cnino} {navni}; {ratni}"
   },
   "nirna": {
     "word": "nirna",
@@ -24023,8 +23071,7 @@
     "notes": "比喩として「ネットワーク」なども。",
     "pun": "神経煮るな",
     "cf": [
-      "ve",
-      "benji"
+      "ve benji"
     ]
   },
   "nitcu": {
@@ -24143,7 +23190,6 @@
     "type": "cmavo",
     "selmaho": [
       "NAhE",
-      "NAhE",
       "NAhE"
     ],
     "rafsi": {
@@ -24185,11 +23231,7 @@
       "王家の娘"
     ],
     "def": "$x1$ は $x3$ を統治する $x2$ (王/女王) の娘、王女",
-    "cf": [
-      "nobli",
-      "turni",
-      "tixnu"
-    ]
+    "notes": "{nobli} {turni} {tixnu}"
   },
   "no'o": {
     "word": "no'o",
@@ -24254,8 +23296,7 @@
     "type": "cmavo",
     "selmaho": [
       "NUhA",
-      "ME",
-      "NUhA"
+      "ME"
     ],
     "def": "演算子 → selbri ： MEX（数式）演算子を selbri に変換する"
   },
@@ -24330,10 +23371,7 @@
     ],
     "def": "$n_1$ は $c_1$ （教師）が $c_2$ （生徒）に $c_3$ （命題）・ $c_4$ （題目）を $c_5$ （方法）で教える授業",
     "ps": 5,
-    "cf": [
-      "nu",
-      "ctuca"
-    ]
+    "notes": "{nu} {ctuca}"
   },
   "nunka'oku'i": {
     "word": "nunka'oku'i",
@@ -24346,32 +23384,21 @@
     ],
     "def": "$n_1$ は $ku_1$ による $ka_1$ の健康管理／医療／保健／衛生",
     "ps": 1,
-    "notes": "x2 と x3 は同一でありうる。; ",
-    "cf": [
-      "nu",
-      "kanro",
-      "kurji"
-    ]
+    "notes": "x2 と x3 は同一でありうる。; {nu} {kanro} {kurji}"
   },
   "nunka'okujbriju": {
     "word": "nunka'okujbriju",
     "type": "lujvo",
     "def": "$b_1$ は $b_2$ （職員）の保健所",
     "ps": 2,
-    "cf": [
-      "nunka'oku'i",
-      "briju",
-      "kanro",
-      "kurji"
-    ]
+    "notes": "{nunka'oku'i} {briju} {kanro} {kurji}"
   },
   "nu'o": {
     "word": "nu'o",
     "type": "cmavo",
     "selmaho": [
       "CAhA",
-      "BAI",
-      "CAhA"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "nu'o"
@@ -24492,9 +23519,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "n ： 字詞；"
   },
@@ -24503,8 +23528,7 @@
     "type": "cmavo",
     "selmaho": [
       "A",
-      "JOI",
-      "A"
+      "JOI"
     ],
     "def": "sumti 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・sumti）； 前部と後部は共に真あるいは共に偽"
   },
@@ -24513,9 +23537,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "誇り （ o'a 誇り - o'acu'i 謙遜 - o'anai 恥辱）",
     "notes": "心態詞； それを誇る気持",
@@ -24532,10 +23554,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "謙遜 （ o'a 誇り - o'acu'i 謙遜 - o'anai 恥辱）",
     "notes": "心態詞； それにたいする誇りに関して謙遜する気持",
@@ -24544,8 +23563,7 @@
     ],
     "cf": [
       "cumla",
-      "ga'i",
-      "nai"
+      "ga'i nai"
     ]
   },
   "o'anai": {
@@ -24553,10 +23571,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "恥すかしい",
@@ -24577,9 +23592,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY*",
-      "BY",
-      "BY",
-      true
+      "BY"
     ],
     "def": "o ： 字詞"
   },
@@ -24588,9 +23601,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "親近",
@@ -24612,10 +23623,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "隔絶 （ o'e 親近 - o'enai 隔絶）",
     "notes": "心態詞； それを身近に感じない気持； よそよそしい気持「赤の他人」",
@@ -24631,9 +23639,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "不快",
@@ -24653,9 +23659,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "用心 （ o'i 用心 - o'inai 軽率）",
     "notes": "心態詞； 可能性や危険にたいして備える気持； 焦らない気持「転ばぬ先の杖」",
@@ -24677,10 +23681,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "快適 （ oi 不快 - oinai 快適）",
     "notes": "心態詞； それにたいする文句が湧いてこない情況",
@@ -24697,10 +23698,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "いいから",
@@ -24721,9 +23719,7 @@
     "type": "cmavo",
     "selmaho": [
       "A*",
-      "JOI",
-      "A",
-      true
+      "JOI"
     ],
     "def": "sumti 排他的論理和（XOR） ： 接続詞（論理・後置・sumti）； 前部と後部はどちらかだけ真"
   },
@@ -24732,9 +23728,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "許容",
@@ -24757,10 +23751,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "辛抱",
@@ -24781,10 +23772,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "憤怒 （ o'o 寛容 - o'ocu'i 辛抱 - o'onai 憤怒）",
     "notes": "心態詞； もう我慢ならないという気持； 堪忍袋の緒が切れる",
@@ -24800,9 +23788,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "くつろぎ （ o'u くつろぎ - o'ucu'i 平静 - o'unai 緊張）",
     "notes": "心態詞； ゆったりくつろぐ気持",
@@ -24818,10 +23804,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "平静",
@@ -24842,10 +23825,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "ストレス",
@@ -24883,7 +23863,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が並行して／～が共に ： panra 法制詞, $x_1$"
@@ -24903,11 +23882,8 @@
     ],
     "def": "$x_1$ は $x_2$ （事）を $x_3$ （見込み／確率 0-1）で期待する／希望する／願う；  $x_2$ は望まれている",
     "ps": 3,
-    "notes": "x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（から まで）によって表される。",
+    "notes": "x3にはx1による主観的な起こりやすさの値（0-1）が入り、その値によって「希望」「願望」「期待」のいずれかの意味になる。x2が期待薄な（x3が0に近い）ときは「願望」、十分起こりやすそうであるならば「希望」、その確率がx1にとって1に近いときは「期待」になる。x3の値はふつうは非厳密数詞（{li} {piso'u} から {li} {piro} まで）によって表される。",
     "cf": [
-      "li",
-      "piso'u",
-      "piro",
       "djica"
     ]
   },
@@ -24916,9 +23892,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "公平",
@@ -24940,10 +23914,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "偏見",
@@ -25014,9 +23985,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU2",
-      "JOI",
-      "VUhU",
-      2
+      "JOI"
     ],
     "def": "比率 ： 数理演算子（2変数）；a の b に対する比, a:b"
   },
@@ -25031,12 +24000,8 @@
     ],
     "def": "$x_1$ は $x_2$ （抽象（事／性質／量／真理値））について判断する／審判する／仲裁する",
     "ps": 2,
-    "notes": "「レフェリー」も。　x2 の抽象詞（NU類）によっては、 = 判決する、= 推定する、= 評価する、 = 判定／仲裁する、と言った意味にもなりうる。",
+    "notes": "「レフェリー」も。　x2 の抽象詞（NU類）によっては、 {jei} = 判決する、{ni} = 推定する、{ka} = 評価する、 {nu} = 判定／仲裁する、と言った意味にもなりうる。",
     "cf": [
-      "jei",
-      "ni",
-      "ka",
-      "nu",
       "cuxna",
       "jdice",
       "vajni",
@@ -25073,11 +24038,7 @@
     ],
     "def": "$d_1$ は $d_2$ （素材）のズボンつり／サスペンダー",
     "ps": 2,
-    "cf": [
-      "palku",
-      "dandu",
-      "dasri"
-    ]
+    "notes": "{palku} {dandu} {dasri}"
   },
   "palci": {
     "word": "palci",
@@ -25319,8 +24280,7 @@
       "verba",
       "bersa",
       "tixnu",
-      "se",
-      "rorci",
+      "se rorci",
       "patfu"
     ]
   },
@@ -25329,9 +24289,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "～を通過して／通り越して ： 間制詞（空間・方向）；"
   },
@@ -25472,9 +24430,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "？",
@@ -25495,7 +24451,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を部分／要素として ： pagbu 法制詞, $x_1$"
@@ -25505,10 +24460,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "修辞的疑問 （ pau ？マーク - paunai 修辞的疑問）",
     "notes": "心態詞（談話系）； 本当に疑問に思っているのではなく、話の流れのために修辞的な疑問表現を使っていることを表す",
@@ -25521,22 +24473,14 @@
     "type": "lujvo",
     "def": "$b_1=m_1$ は $b_2$ の息子の１番目・長男",
     "ps": 2,
-    "cf": [
-      "pa",
-      "moi",
-      "bersa"
-    ]
+    "notes": "{pa} {moi} {bersa}"
   },
   "pavmoiti'u": {
     "word": "pavmoiti'u",
     "type": "lujvo",
     "def": "$t_1=m_1$ は $t_2$ の娘の１番目・長女",
     "ps": 2,
-    "cf": [
-      "pa",
-      "moi",
-      "tixnu"
-    ]
+    "notes": "{pa} {moi} {tixnu}"
   },
   "pe": {
     "word": "pe",
@@ -25579,8 +24523,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "心態疑問",
     "notes": "心態詞； 左の心態詞が表す感情を覚えるかどうかを相手に尋ねる"
@@ -25590,9 +24533,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "思考",
@@ -25769,8 +24710,7 @@
       "morji",
       "sidbo",
       "jinvi",
-      "se",
-      "nabmi",
+      "se nabmi",
       "minra",
       "lanli",
       "besna",
@@ -25807,11 +24747,7 @@
     "type": "lujvo",
     "def": "$p_1=k_1$ は $p_2=k_2$ に思いやりがある.",
     "ps": 2,
-    "notes": "Cf. .",
-    "cf": [
-      "pensi",
-      "kurji"
-    ]
+    "notes": "Cf. {pensi}, {kurji}."
   },
   "pesxu": {
     "word": "pesxu",
@@ -25931,9 +24867,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "行（row） ： 数理演算子（n変数）； 行のベクトルとしてオペランドが働く"
   },
@@ -26021,9 +24955,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU1",
-      "JOI",
-      "VUhU",
-      1
+      "JOI"
     ],
     "def": "掛け算 ： 数理演算子（n変数）； [(((a * b) * c) * ...)]"
   },
@@ -26117,13 +25049,7 @@
     "cf": [
       "grute",
       "calku",
-      "skapi",
-      "(pilka",
-      "as",
-      "a",
-      "general",
-      "term",
-      "includes",
+      "skapi (pilka as a general term includes skapi",
       "gacri"
     ]
   },
@@ -26280,17 +25206,8 @@
     "pun": "ペンスィル",
     "cf": [
       "ciska",
-      "penbi",
-      "(unlike",
-      "the",
-      "English",
-      "equivalents",
-      "pinsi",
-      "is",
-      "more",
-      "general",
-      "term",
-      "over",
+      "penbi (unlike the English equivalents",
+      "pinsi is the more general term over penbi",
       "burcu",
       "bakri"
     ]
@@ -26340,7 +25257,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が使って／～を使用者として ： pilno 法制詞, $x_1$"
@@ -26365,7 +25281,6 @@
     "word": "pi'u",
     "type": "cmavo",
     "selmaho": [
-      "JOI",
       "JOI",
       "JOI"
     ],
@@ -26632,10 +25547,10 @@
       "tcana",
       "dargu",
       "klaji",
-      "ve",
-      "klama",
+      "ve klama",
       "tadji",
       "zukte",
+      "klama",
       "pagre"
     ]
   },
@@ -26676,7 +25591,6 @@
     "word": "po'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -26764,9 +25678,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "だけ",
@@ -26802,8 +25714,7 @@
     "cf": [
       "xrani",
       "spofu",
-      "se",
-      "katna"
+      "se katna"
     ]
   },
   "porsi": {
@@ -26854,12 +25765,7 @@
     "type": "lujvo",
     "def": "$j_1$ は $j_2=c_2$ （商品／サービス）を生産するための資本．",
     "ps": 2,
-    "notes": "cf. .",
-    "cf": [
-      "cupra",
-      "zbasu",
-      "jdini"
-    ]
+    "notes": "cf. {cupra}, {zbasu}, {jdini}."
   },
   "prali": {
     "word": "prali",
@@ -27011,10 +25917,7 @@
     "type": "lujvo",
     "def": "$v_1=p_1$ は $v_2$ （性質）の点で多種多様な人々の集まり／大衆",
     "ps": 2,
-    "cf": [
-      "prenu",
-      "vrici"
-    ]
+    "notes": "{prenu} {vrici}"
   },
   "prexra": {
     "word": "prexra",
@@ -27027,14 +25930,7 @@
     ],
     "def": "$x_1=pi_1$ はモチーフ$x_2=pi_2=pr_1$の作者$x_3=pi_3$による肖像",
     "ps": 3,
-    "notes": "で肖像画; で立体像。 cf. ",
-    "cf": [
-      "vi'a",
-      "prexra",
-      "vi'u",
-      "prenu",
-      "pixra"
-    ]
+    "notes": "{vi'a} {prexra} で肖像画; {vi'u} {prexra} で立体像。 cf. {prenu} {pixra}"
   },
   "prije": {
     "word": "prije",
@@ -27146,14 +26042,7 @@
     ],
     "def": "$x_1$ （事／経験）は $x_2$ （者）に感覚機能 $x_3$ に関して条件 $x_4$ の下で既視感 (déjà-vu) を与える",
     "ps": 4,
-    "notes": "$x_1$ が物である場合は jai prugastcica; ",
-    "cf": [
-      "pu",
-      "ganse",
-      "tcica",
-      "gastcica",
-      "narprugastcica"
-    ]
+    "notes": "$x_1$ が物である場合は jai prugastcica; {pu} {ganse} {tcica}; {gastcica}, {narprugastcica}"
   },
   "pruni": {
     "word": "pruni",
@@ -27196,8 +26085,7 @@
     "type": "cmavo",
     "selmaho": [
       "PU",
-      "BAI",
-      "PU"
+      "BAI"
     ],
     "def": "過去 ： 間制詞（時間・方向）； [sumti] の左に付いて、その [sumti] よりも以前の時点で [selbri] が起こったことを表す； sumti は省略できる； sumti を欠いて selbri の左隣に来るときはその selbri と一体化して１つの selbri とみなされる（従ってこれをそのまま冠詞で sumti 化できる）； 他の制詞と組み合わせられる"
   },
@@ -27205,7 +26093,6 @@
     "word": "pu'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -27216,7 +26103,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を過程／プロセスとして ： pruce 法制詞, $x_1$"
@@ -27226,8 +26112,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAhA",
-      "BAI",
-      "CAhA"
+      "BAI"
     ],
     "rafsi": {
       "CVC": "pus"
@@ -27253,8 +26138,7 @@
     "def": "$x_1$ は $x_2$ （起源）の、 $x_3$ （媒体／表面）における塵／沈殿物",
     "ps": 3,
     "cf": [
-      "te",
-      "zalvi",
+      "te zalvi",
       "danmo",
       "purmo",
       "sligu"
@@ -27338,8 +26222,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "将前 ： 相制詞； 物事が起こるすぐ以前の段階にあるのを表す"
   },
@@ -27421,9 +26304,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "p ： 字詞；"
   },
@@ -27439,7 +26320,6 @@
     "word": "ra'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -27560,7 +26440,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を最上として／～が最高の ： traji 法制詞, $x_1$"
@@ -27569,7 +26448,6 @@
     "word": "ra'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -27580,17 +26458,10 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "このままでいたい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； + から；",
-    "cf": [
-      "ranji",
-      "au",
-      ""
-    ],
+    "notes": "心態詞（修飾系）；話者がその感情や状況が続いてほしいことを表す； {ranji} + {au} から；",
     "experimental": true,
     "unofficial": true
   },
@@ -27599,34 +26470,20 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "あるがままを受け入れる （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； + から；",
-    "cf": [
-      "ranji",
-      "au",
-      ""
-    ]
+    "notes": "心態詞（修飾系）；話者がその感情や状況を受け入れようとしていたり、あまり頓着していないことを表す； {ranji} + {au} から；"
   },
   "ra'i'aunai": {
     "word": "ra'i'aunai",
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "はやく脱したい （{ra'i'au} このままでいたい - {ra'i'aucu'i} あるがままを受け入れる - {ra'i'aunai} はやく脱したい）",
-    "notes": "心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； + から；",
-    "cf": [
-      "ranji",
-      "au",
-      ""
-    ]
+    "notes": "心態詞（修飾系）；話者がその感情や状況が早く終わってほしいことを表す； {ranji} + {au} から；"
   },
   "rakso": {
     "word": "rakso",
@@ -27693,8 +26550,7 @@
     "ps": 3,
     "cf": [
       "vajni",
-      "te",
-      "bende",
+      "te bende",
       "minde",
       "lidne",
       "jatna",
@@ -27740,8 +26596,7 @@
       "jdari",
       "renvi",
       "ranti",
-      "se",
-      "bapli"
+      "se bapli"
     ]
   },
   "rango": {
@@ -27862,8 +26717,7 @@
     "type": "cmavo",
     "selmaho": [
       "RAhO",
-      "UI",
-      "RAhO"
+      "UI"
     ],
     "def": "代詞更新 ： GOhA類代詞の右に付いてそれを文脈に即して更新する",
     "notes": "「A: mi ctidji B:go'i ra'o／A: おなかがすいた B: 私も」"
@@ -27984,9 +26838,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "特に （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）",
     "notes": "心態詞（談話系）；",
@@ -28003,10 +26855,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "同様に （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）",
     "notes": "心態詞（談話系）；",
@@ -28019,10 +26868,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "ついでながら （ ra'u 特に - ra'ucu'i 同様に - ra'unai ついでながら）",
     "notes": "心態詞（談話系）；",
@@ -28049,9 +26895,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "転置行列 ： 数理演算子（単一項）； ある行列の列と行を交換することで生ずる行列； [A*]"
   },
@@ -28070,8 +26914,7 @@
     "cf": [
       "nalci",
       "pimlu",
-      "se",
-      "lidne",
+      "se lidne",
       "trixe",
       "birka",
       "jimca"
@@ -28098,9 +26941,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "def": "崇拝 （ re'e 崇拝 - re'enai 冒涜）",
     "notes": "心態詞（修飾系・カテゴリ）；",
@@ -28113,10 +26954,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "冒涜 （ re'e 崇拝 - re'enai 冒涜）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -28156,12 +26994,7 @@
     "type": "lujvo",
     "def": "$t_1=c_1$ は二重丸",
     "ps": 1,
-    "cf": [
-      "re",
-      "cukla",
-      "tarmi",
-      "cuktai"
-    ]
+    "notes": "{re}, {cukla}, {tarmi}; {cuktai}"
   },
   "relkanol": {
     "word": "relkanol",
@@ -28175,9 +27008,7 @@
     "def": "$m_1$ は$m_2$ を $m_3$ （媒体）・ $m_4$ （原動力）で運ぶ自転車／モーターバイク",
     "ps": 4,
     "cf": [
-      "re",
-      "xislu",
-      "marce"
+      "re xislu marce"
     ]
   },
   "remcalxra": {
@@ -28192,12 +27023,7 @@
     "type": "lujvo",
     "def": "$c_1=r_1$ （殺すヒト）は $c_2=r_1$ （殺されるヒト）を $c_3$ （動作／方法）で殺す； $c_1=r_1$ は人殺し",
     "ps": 3,
-    "notes": "殺す者と殺される者は、両方ともヒト。 ",
-    "cf": [
-      "remna",
-      "catra",
-      "remselcatra"
-    ]
+    "notes": "殺す者と殺される者は、両方ともヒト。 {remna} {catra}; {remselcatra}"
   },
   "remna": {
     "word": "remna",
@@ -28222,13 +27048,7 @@
     "type": "lujvo",
     "def": "$s_1=r_1$（殺されるヒト）は$s_2=r_1$（殺すヒト）に$s_3$（動作／方法）で殺される；$s_1=r_1$は殺人被害者",
     "ps": 3,
-    "notes": "殺される者と殺す者は、両方ともヒト。 ",
-    "cf": [
-      "remna",
-      "se",
-      "catra",
-      "remcatra"
-    ]
+    "notes": "殺される者と殺す者は、両方ともヒト。 {remna} {se} {catra}; {remcatra}"
   },
   "renro": {
     "word": "renro",
@@ -28244,10 +27064,7 @@
     "ps": 3,
     "pun": "ren (扔)",
     "cf": [
-      "cecla",
-      "(more",
-      "general",
-      "term",
+      "cecla (more general term",
       "danti"
     ]
   },
@@ -28278,9 +27095,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "～と隣接／接触して ： 間制詞（空間・方向）；"
   },
@@ -28315,11 +27130,7 @@
     ],
     "def": "$c_1$ は $c_2$ （者／宗教）の、 $c_3$ （領域）をつかさどる竜の神／龍神／ドラゴンの神",
     "ps": 3,
-    "cf": [
-      "respa",
-      "cevni",
-      "resycrida"
-    ]
+    "notes": "{respa} {cevni} {resycrida}"
   },
   "resycrida": {
     "word": "resycrida",
@@ -28334,11 +27145,7 @@
     ],
     "def": "$c_1$ は $c_2$ （物語）の竜／龍／ドラゴン",
     "ps": 2,
-    "cf": [
-      "respa",
-      "crida",
-      "resycei"
-    ]
+    "notes": "{respa} {crida} {resycei}"
   },
   "re'u": {
     "word": "re'u",
@@ -28365,7 +27172,6 @@
     "word": "ri'a",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -28400,9 +27206,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "心態解放 （ ri'e 心態解放 - ri'enai 心態抑制）",
     "notes": "心態詞（修飾系）； 自らの心情や態度を隠さない／抑えない",
@@ -28416,10 +27220,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "心態抑制 （ ri'e 心態解放 - ri'enai 心態抑制）",
     "notes": "心態詞（修飾系）； 自らの心情や態度を隠す／抑える"
@@ -28449,7 +27250,6 @@
     "word": "ri'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -28577,10 +27377,8 @@
       "gasnu",
       "krinu",
       "nibli",
-      "te",
-      "zukte",
-      "se",
-      "jalge",
+      "te zukte",
+      "se jalge",
       "bapli",
       "jitro",
       "ri'a",
@@ -28609,9 +27407,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "積分 ： 数理演算子（3変数）；関数 a の積分、変数 b についての、区間 c にわたる"
   },
@@ -28619,7 +27415,6 @@
     "word": "ri'oi",
     "type": "cmavo",
     "selmaho": [
-      "LE",
       "LE",
       "LE"
     ],
@@ -28641,12 +27436,9 @@
     "def": "$x_1$ は塩素（Cl）",
     "ps": 1,
     "cf": [
-      "フッ素",
-      "li'orkliru",
-      "臭素",
-      "xunkliru",
-      "ヨウ素",
-      "zirkliru",
+      "フッ素 li'orkliru",
+      "臭素 xunkliru",
+      "ヨウ素 zirkliru",
       "crino",
       "kliru"
     ]
@@ -28775,9 +27567,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の右方に／～の右側で ： 間制詞（空間・方向）；"
   },
@@ -28796,8 +27586,7 @@
     "cf": [
       "bandu",
       "fanta",
-      "se",
-      "jersi",
+      "se jersi",
       "sisku",
       "kalte",
       "fapro"
@@ -28817,10 +27606,7 @@
     ],
     "def": "$c_1=r_1$ は $c_2=r_2$ から $c_3$ （経路）を通って逃げる",
     "ps": 3,
-    "cf": [
-      "rivbi",
-      "cliva"
-    ]
+    "notes": "{rivbi} {cliva}"
   },
   "ro": {
     "word": "ro",
@@ -28844,9 +27630,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "def": "社交 （ ro'a 社交 - ro'anai 反社会的）",
     "notes": "心態詞（修飾系・カテゴリ）；",
@@ -28862,10 +27646,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "反社会的 （ ro'a 社交 - ro'anai 反社会的）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -28875,9 +27656,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "ja": [
       "知的",
@@ -28894,10 +27673,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "非精神的 （ ro'e 知的／精神的 - ro'enai 非精神的）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -28930,9 +27706,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "def": "感情 （ ro'i 感情 - ro'inai 無情）",
     "notes": "心態詞（修飾系・カテゴリ）；",
@@ -28945,10 +27719,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "無情 （ ro'i 感情 - ro'inai 無情）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -28981,8 +27752,7 @@
     "ps": 2,
     "cf": [
       "narfaunarcu'i",
-      "to'e",
-      "cunso"
+      "to'e cunso"
     ]
   },
   "roldepre'e": {
@@ -28994,12 +27764,7 @@
     ],
     "def": "$x_1$ は $x_2$ （荷／客）・ $x_3$ （線路網／軌道）・ $x_4$ （原動力）の 各駅停車の 列車／鉄道／電車／汽車／地下鉄",
     "ps": 4,
-    "notes": "zei ",
-    "cf": [
-      "ro",
-      "denpa",
-      "trene"
-    ]
+    "notes": "{ro} zei {denpa} {trene}"
   },
   "romge": {
     "word": "romge",
@@ -29023,9 +27788,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "def": "身体的 （ ro'o 身体的 - ro'onai 非身体的）",
     "notes": "心態詞（修飾系・カテゴリ）；",
@@ -29040,17 +27803,7 @@
       "PA4"
     ],
     "def": "∀（全）を表す複数量化子",
-    "notes": "``'' = ``.'' cf. は ∀ を表す単数量化子",
-    "cf": [
-      "ro'oi",
-      "dana",
-      "ku",
-      "su'oi",
-      "da",
-      "na",
-      "kuro",
-      ""
-    ],
+    "notes": "``{ro'oi} {da}'' = ``{na} {ku} {su'oi} {da} {na} {ku}.'' cf. {ro} は ∀ を表す単数量化子",
     "experimental": true,
     "unofficial": true
   },
@@ -29059,10 +27812,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "非身体的 （ ro'o 身体的 - ro'onai 非身体的）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -29098,8 +27848,7 @@
       "grute",
       "gutra",
       "rirni",
-      "se",
-      "panzi",
+      "se panzi",
       "mamta",
       "patfu",
       "tarbi",
@@ -29139,9 +27888,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI4",
-      "UI",
-      "UI",
-      4
+      "UI"
     ],
     "def": "性的 （ ro'u 性的 - ro'unai 禁欲的）",
     "notes": "心態詞（修飾系・カテゴリ）；",
@@ -29154,10 +27901,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*4",
-      "UI",
-      "UI",
-      4,
-      true
+      "UI"
     ],
     "def": "禁欲的 （ ro'u 性的 - ro'unai 禁欲的）",
     "notes": "心態詞（修飾系・カテゴリ）；"
@@ -29194,9 +27938,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "def": "前提",
     "notes": "心態詞（認識系）； 前提のうえに説く態度",
@@ -29230,8 +27972,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "弱",
     "notes": "心態詞； 心情や態度が弱いことを表す"
@@ -29241,10 +27982,7 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$（もの）のザラザラ面",
     "ps": 2,
-    "cf": [
-      "rufsu",
-      "sefta"
-    ]
+    "notes": "{rufsu} {sefta}"
   },
   "rufsu": {
     "word": "rufsu",
@@ -29269,8 +28007,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE",
-      "BAI",
-      "TAhE"
+      "BAI"
     ],
     "def": "継続的に／ずっと ： 相制詞（時間・間隔）；",
     "exams": [
@@ -29282,9 +28019,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE*",
-      "BAI",
-      "TAhE",
-      true
+      "BAI"
     ],
     "def": "断続的に／ときたま ： 相制詞（時間・間隔）；"
   },
@@ -29316,13 +28051,12 @@
     ],
     "def": "$x_1$ は $x_2$ （溶媒）の中で分解／分散し、 $x_3$ （溶液）を成す、 $x_4$ （条件）において；  $x_1$ はばらける",
     "ps": 4,
-    "notes": "「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は；",
+    "notes": "「水に溶ける」の意味での「溶解」。相転移（氷が水になる）の意味での「溶解」は{runme}；",
     "exams": [
       "「lo te runta be lo djacu bei lo sakta／砂糖水」"
     ],
     "pun": "ばらけるンた",
     "cf": [
-      "runme",
       "litki",
       "mixre",
       "sligu",
@@ -29334,9 +28068,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "キリル文字変換 ： 字詞をキリル文字に変換する"
   },
@@ -29415,8 +28147,7 @@
     "pun": "人工ルートに",
     "cf": [
       "rarna",
-      "se",
-      "zbasu",
+      "se zbasu",
       "gundi",
       "slasi"
     ]
@@ -29426,9 +28157,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の周囲に／～を包囲して ： 間制詞（空間・方向）；"
   },
@@ -29437,9 +28166,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "r ： 字詞；"
   },
@@ -29456,9 +28183,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "編集挿入",
     "notes": "心態詞（談話系）； 発話者や編集者が挿入した語句であることを示す； しばしば to'i と併用すると言う」",
@@ -29566,9 +28291,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "精確 （ sa'e 精確 - sa'enai 不精確）",
     "notes": "心態詞（談話系）；「正確に言うと」",
@@ -29599,10 +28322,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "非精確 （ sa'e 精確 - sa'enai 不精確）",
     "notes": "心態詞（談話系）；「だいたいの寸法で言うと」",
@@ -29615,8 +28335,7 @@
     "type": "cmavo",
     "selmaho": [
       "CAI",
-      "UI",
-      "CAI"
+      "UI"
     ],
     "def": "強",
     "notes": "心態詞； 心情や態度が強いことを表す； ！に相当"
@@ -29626,9 +28345,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "列（columns） ： 数理演算子（n変数）； 列のベクトルがオペランドとして働く"
   },
@@ -29900,9 +28617,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "導関数／微分係数 ： 数理演算子（3変数）；関数 a の導関数、変数 b についての、第 c 次の (デフォルトで $c=1$)"
   },
@@ -30047,7 +28762,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を必要として／～が必須で ： sarcu 法制詞, $x_1$"
@@ -30057,9 +28771,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "簡潔 （ sa'u 簡潔 - sa'unai 厳密）",
     "notes": "心態詞（談話系）；「簡潔に言うと」「単に」",
@@ -30076,10 +28788,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "厳密 （ sa'u 簡潔 - sa'unai 厳密）",
     "notes": "心態詞（談話系）；「厳密に言うと」",
@@ -30148,9 +28857,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "ja": [
       "自己充足",
@@ -30169,10 +28876,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "依存 （ se'a 自己充足 - se'anai 依存）",
     "notes": "心態詞（修飾系）； 自分以外のものに頼らずにはやっていけないという気持"
@@ -30182,9 +28886,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を強いて ： bapli 法制詞, $x_2$ ； 何らかの力によって強いられている者／物／事"
   },
@@ -30193,9 +28895,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の代わりに／～に替わって ： basti 法制詞, $x_2$"
   },
@@ -30204,9 +28904,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（話者）の言語として ： bangu 法制詞, $x_2$"
   },
@@ -30215,9 +28913,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を送受信して ： benji 法制詞, $x_2$"
   },
@@ -30226,9 +28922,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を管轄して ： catni 法制詞, $x_2$ ；権力の行使対象、範囲内のもの"
   },
@@ -30237,9 +28931,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を欠いて／～無しで ： claxu 法制詞, $x_2$"
   },
@@ -30248,9 +28940,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～が（体系／システム内の）関係構造となって ： ciste 法制詞, $x_2$"
   },
@@ -30259,9 +28949,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を感じて ： cinmo 法制詞, $x_2$"
   },
@@ -30270,9 +28958,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を計測して ： ckilu 法制詞, $x_2$"
   },
@@ -30281,9 +28967,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を表現して／～と言って ： cusku 法制詞, $x_2$"
   },
@@ -30292,9 +28976,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（事）の日として ： detri 法制詞, $x_2$"
   },
@@ -30303,9 +28985,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を局所として ： diklo 法制詞, $x_2$"
   },
@@ -30314,9 +28994,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～と同等で ： dunli 法制詞, $x_2$"
   },
@@ -30325,9 +29003,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～ということを知って ： djuno 法制詞, $x_2$"
   },
@@ -30344,9 +29020,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "文字コード ： 次に続く数字が表す文字コード（ASCII、Unicode等）"
   },
@@ -30355,9 +29029,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～と逆になって ： fatne 法制詞, $x_2$"
   },
@@ -30366,9 +29038,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を創って／著して ： finti 法制詞, $x_2$"
   },
@@ -30396,9 +29066,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を観察して ： zgana 法制詞, $x_2$"
   },
@@ -30407,9 +29075,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（行動）をして ： gasnu 法制詞, $x_2$"
   },
@@ -30429,9 +29095,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "自己本位 （ se'i 自己本位 - se'inai 他人本位）",
     "notes": "心態詞（修飾系）；",
@@ -30445,10 +29109,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "他人本位 （ se'i 自己本位 - se'inai 他人本位）",
     "notes": "心態詞（修飾系）；"
@@ -30458,9 +29119,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を要因／前触れ／先行事件として ： jalge 法制詞, $x_2$"
   },
@@ -30469,9 +29128,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（事）が（規則で）要されて ： javni 法制詞, $x_2$"
   },
@@ -30480,9 +29137,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を抑えて／～の限度／限界となって ： jimte 法制詞, $x_2$"
   },
@@ -30491,9 +29146,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を制御して／～がコントロールされて ： jitro 法制詞, $x_2$"
   },
@@ -30502,9 +29155,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を支えて／～の基盤となって ： jicmu 法制詞, $x_2$"
   },
@@ -30513,9 +29164,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を目的地として／～行きで ： klama 法制詞, $x_2$"
   },
@@ -30524,9 +29173,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を特質／特徴として ： ckaji 法制詞, $x_2$"
   },
@@ -30535,9 +29182,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を代表して ： krati 法制詞, $x_2$"
   },
@@ -30546,9 +29191,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～と同類で ： ckini 法制詞, $x_2$"
   },
@@ -30557,9 +29200,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（理由によって）起こして ： krinu 法制詞, $x_2$"
   },
@@ -30568,9 +29209,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を境界内に／～の境界として ： korbi 法制詞, $x_2$"
   },
@@ -30579,9 +29218,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の文化として ： kulnu 法制詞, $x_2$"
   },
@@ -30590,9 +29227,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（数）を測定値として ： klani 法制詞, $x_2$"
   },
@@ -30608,10 +29243,7 @@
     "type": "lujvo",
     "def": "$x_1$ はタンル・ユニット／セルブリの最小単位",
     "ps": 1,
-    "cf": [
-      "selbri",
-      "selci"
-    ]
+    "notes": "{selbri} {selci}"
   },
   "selbritcita": {
     "word": "selbritcita",
@@ -30622,13 +29254,7 @@
     ],
     "def": "$x_1$ は $x_2$ （情報）を表す selbri のタグ",
     "ps": 2,
-    "notes": ".",
-    "cf": [
-      "selbri",
-      "tcita",
-      "se",
-      "bridi"
-    ]
+    "notes": "{selbri} {tcita}; {se} {bridi}."
   },
   "selci": {
     "word": "selci",
@@ -30653,9 +29279,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～のカテゴリーとして ： klesi 法制詞, $x_2$"
   },
@@ -30683,9 +29307,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を引率して／～の先となって ： lidne 法制詞, $x_2$"
   },
@@ -30720,9 +29342,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を材質として／～でできて ： marji 法制詞, $x_2$"
   },
@@ -30731,9 +29351,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の標準／照合枠として ： manri 法制詞, $x_2$"
   },
@@ -30742,9 +29360,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～よりも多くて ： zmadu 法制詞, $x_2$"
   },
@@ -30753,9 +29369,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～よりも少なくて ： mleca 法制詞, $x_2$"
   },
@@ -30764,9 +29378,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の名前として ： cmene 法制詞, $x_2$"
   },
@@ -30783,8 +29395,7 @@
     "ps": 2,
     "notes": "アラビア／ヘブライ／アラム／エチオピア等",
     "cf": [
-      "xrabo/xebro",
-      ""
+      "xrabo/xebro"
     ]
   },
   "semu'i": {
@@ -30792,9 +29403,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（動機によって）起こして ： mukti 法制詞, $x_2$"
   },
@@ -30803,9 +29412,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の例となって ： mupli 法制詞, $x_2$"
   },
@@ -30831,9 +29438,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～が（論理によって）必然で ： nibli 法制詞, $x_2$"
   },
@@ -30901,9 +29506,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "悟り",
@@ -30921,9 +29524,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～に並行して／～と同じように ： panra 法制詞, $x_2$",
     "exams": [
@@ -30935,9 +29536,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の部分として ： pagbu 法制詞, $x_2$"
   },
@@ -30946,9 +29545,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を使って／用いて ： pilno 法制詞, $x_2$"
   },
@@ -30980,9 +29577,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を並び方／配列の原理として ： porsi 法制詞, $x_2$"
   },
@@ -30991,9 +29586,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を楽しませて／～が楽しんで ： pluka 法制詞, $x_2$"
   },
@@ -31002,9 +29595,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を入力として ： pruce 法制詞, $x_2$"
   },
@@ -31013,9 +29604,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～に関連して ： srana 法制詞, $x_2$"
   },
@@ -31024,9 +29613,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）において最上で ： traji 法制詞, $x_2$"
   },
@@ -31035,9 +29622,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の起源として ： krasi 法制詞, $x_2$"
   },
@@ -31046,9 +29631,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～が（原因によって）起こって ： rinka 法制詞, $x_2$"
   },
@@ -31057,9 +29640,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を経験して ： lifri 法制詞, $x_2$"
   },
@@ -31086,9 +29667,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～にとって必須で ： sarcu 法制詞, $x_2$"
   },
@@ -31097,9 +29676,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を助けて／～の補助となって ： sidju 法制詞, $x_2$"
   },
@@ -31108,9 +29685,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～みたいに／～風に ： tamsmi 法制詞, $x_2$"
   },
@@ -31119,9 +29694,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の方法／手段として ： tadji 法制詞, $x_2$"
   },
@@ -31154,9 +29727,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を示唆して／勧めて ： stidi 法制詞, $x_2$"
   },
@@ -31165,9 +29736,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の時刻として ： tcika 法制詞, $x_2$"
   },
@@ -31176,9 +29745,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の場所として ： stuzi 法制詞, $x_2$"
   },
@@ -31199,9 +29766,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～の環境／状況として ： vanbi 法制詞, $x_2$"
   },
@@ -31210,9 +29775,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～のために／～の利益として ： xamgu 法制詞, $x_2$"
   },
@@ -31240,9 +29803,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を承認して ： zanru 法制詞, $x_2$"
   },
@@ -31251,20 +29812,14 @@
     "type": "lujvo",
     "def": "$x_1=se_2=p_3=sp_1$ は題目$x_2=p_2$について自問自答する",
     "ps": 2,
-    "cf": [
-      "sevzi",
-      "preti",
-      "spuda"
-    ]
+    "notes": "{sevzi} {preti} {spuda}"
   },
   "sezu'e": {
     "word": "sezu'e",
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を行為して／振舞って ： zukte 法制詞, $x_2$"
   },
@@ -31354,9 +29909,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "同様",
     "notes": "心態詞（談話系）；",
@@ -31373,10 +29926,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "うってかわって",
     "notes": ""
@@ -31386,10 +29936,7 @@
     "type": "lujvo",
     "def": "$k_1=s_3$ は $k_2$ （相手）と $s_1$ （理念）を $s_2$ についての理念として共有する同志",
     "ps": 3,
-    "cf": [
-      "sidbo",
-      "kansa"
-    ]
+    "notes": "{sidbo} {kansa}"
   },
   "siclu": {
     "word": "siclu",
@@ -31438,8 +29985,7 @@
     "def": "$x_1$ は雨",
     "ps": 1,
     "cf": [
-      "carvi",
-      ""
+      "carvi"
     ],
     "experimental": true,
     "unofficial": true
@@ -31449,10 +29995,7 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の西風",
     "ps": 3,
-    "cf": [
-      "stici",
-      "brife"
-    ]
+    "notes": "{stici} {brife}"
   },
   "sidbo": {
     "word": "sidbo",
@@ -31546,9 +30089,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU4",
-      "JOI",
-      "VUhU",
-      4
+      "JOI"
     ],
     "def": "総和記号／∑ ： 数理演算子（3変数）； a の総和、変数 b の区間 c にわたる"
   },
@@ -31867,7 +30408,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～が助けて／～が補助となって ： sidju 法制詞, $x_1$"
@@ -31930,10 +30470,7 @@
     ],
     "def": "$p_1=s_1$ は $p_2$ （素材）の下着のパンツ、パンティー、ショーツ、トランクス、ブリーフ、ボクサーパンツ",
     "ps": 2,
-    "cf": [
-      "sivni",
-      "palku"
-    ]
+    "notes": "{sivni} {palku}"
   },
   "skaci": {
     "word": "skaci",
@@ -31982,7 +30519,6 @@
     "pun": "スキン、革、皮（ぴ）",
     "cf": [
       "pilka",
-      "",
       "calku",
       "kerfa"
     ]
@@ -32775,11 +31311,7 @@
     ],
     "def": "$x_1$ はヘリウム (He)",
     "ps": 1,
-    "cf": [
-      "solri",
-      "navni",
-      "ratni"
-    ]
+    "notes": "{solri} {navni}; {ratni}"
   },
   "solri": {
     "word": "solri",
@@ -32905,11 +31437,7 @@
     "type": "lujvo",
     "def": "$k_1$ は $k_2=p_1$ （乗客／運転手）・ $k_3$ （動力）の（交通）バス",
     "ps": 3,
-    "cf": [
-      "so'i",
-      "prenu",
-      "karce"
-    ]
+    "notes": "{so'i} {prenu} {karce}"
   },
   "so'u": {
     "word": "so'u",
@@ -33092,8 +31620,7 @@
       "daspo",
       "katna",
       "porpi",
-      "se",
-      "xrani",
+      "se xrani",
       "cikre"
     ]
   },
@@ -33189,15 +31716,8 @@
       "katna",
       "mosra",
       "plixa",
-      "kakpa",
-      "(unlike",
-      "sraku",
-      "does",
-      "not",
-      "imply",
-      "material",
-      "is",
-      "removed",
+      "kakpa (unlike kakpa",
+      "sraku does not imply material is removed",
       "spali"
     ]
   },
@@ -33317,9 +31837,8 @@
       "senta",
       "snuji",
       "vanbi",
-      "se",
-      "nenri",
-      "jbini",
+      "se nenri",
+      "se jbini",
       "bartu",
       "djine"
     ]
@@ -33493,8 +32012,7 @@
     "notes": "ある集合においてその個がもつ、他の要素にはみられない性質。",
     "cf": [
       "srana",
-      "se",
-      "ponse",
+      "se ponse",
       "ckini",
       "tcila",
       "tutra"
@@ -33750,9 +32268,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "def": "一般化 （ su'a 一般化 - su'anai 特殊化）",
     "notes": "心態詞（認識系）；「一般には」",
@@ -33766,10 +32282,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*2",
-      "UI",
-      "UI",
-      2,
-      true
+      "UI"
     ],
     "def": "特殊化 （ su'a 一般化 - su'anai 特殊化）",
     "notes": "心態詞（認識系）；"
@@ -33857,9 +32370,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU1",
-      "JOI",
-      "VUhU",
-      1
+      "JOI"
     ],
     "def": "足し算 ： 数理演算子（n変数）； [(((a + b) + c) + ...)]"
   },
@@ -33927,10 +32438,7 @@
     ],
     "def": "$x_1$ は $x_2$ （情報）を表す sumti のタグ",
     "ps": 2,
-    "cf": [
-      "sumti",
-      "tcita"
-    ]
+    "notes": "{sumti} {tcita}"
   },
   "sumti": {
     "word": "sumti",
@@ -33954,10 +32462,7 @@
     "type": "lujvo",
     "def": "$b_1$ は $b_2=s_1$ からの $b_3$ （速度）の東風",
     "ps": 3,
-    "cf": [
-      "stuna",
-      "brife"
-    ]
+    "notes": "{stuna} {brife}"
   },
   "sunga": {
     "word": "sunga",
@@ -33971,10 +32476,7 @@
     "def": "$x_1$ は $x_2$ （種類）のニンニク",
     "ps": 2,
     "cf": [
-      "sluni",
-      "<",
-      "stagi",
-      ""
+      "sluni < stagi (上位概念)"
     ]
   },
   "sunla": {
@@ -34023,17 +32525,7 @@
       "PA4"
     ],
     "def": "∃（存在）を表す複数量化子",
-    "notes": "``'' = ``.'' cf. は ∃ を表す単数量化子",
-    "cf": [
-      "su'oi",
-      "dana",
-      "ku",
-      "ro'oi",
-      "da",
-      "na",
-      "kusu'o",
-      ""
-    ],
+    "notes": "``{su'oi} {da}'' = ``{na} {ku} {ro'oi} {da} {na} {ku}.'' cf. {su'o} は ∃ を表す単数量化子",
     "experimental": true,
     "unofficial": true
   },
@@ -34097,9 +32589,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "s ： 字詞；"
   },
@@ -34116,7 +32606,7 @@
       "それ"
     ],
     "def": "それ（そこのもの） ： 代詞（sumti）；",
-    "notes": "聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（と の間）ことも。",
+    "notes": "聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（{ti} と {tu} の間）ことも。",
     "cf": [
       "ti",
       "tu"
@@ -34198,8 +32688,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE",
-      "BAI",
-      "TAhE"
+      "BAI"
     ],
     "def": "習慣的に／いつものように ： 相制詞（時間・間隔）；"
   },
@@ -34208,9 +32697,7 @@
     "type": "cmavo",
     "selmaho": [
       "TAhE*",
-      "BAI",
-      "TAhE",
-      true
+      "BAI"
     ],
     "def": "： 相制詞（時間・間隔）；"
   },
@@ -34237,7 +32724,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～みたいに／～風に ： tamsmi 法制詞, $x_1$"
@@ -34246,7 +32732,6 @@
     "word": "ta'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -34342,11 +32827,11 @@
     "type": "lujvo",
     "def": "$x_1$ は $x_2$ に $x_3$（形態／形状） ・$x_4$（性質）の点で似ている",
     "ps": 4,
-    "notes": "の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。",
+    "notes": "{tai} の英語定義のNotesのPSに準拠。jbo定義では、「x1 は x2 に x3（性質）を具現しているという点で似ている」。　複数のPSの提案があるため、揺らぎがあることに注意すべし。",
     "cf": [
-      "tai",
       "simsa",
-      "tarmi"
+      "tarmi",
+      "tai"
     ]
   },
   "tanbo": {
@@ -34484,9 +32969,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "ja": [
       "ところで",
@@ -34508,10 +32991,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "回帰",
@@ -34547,10 +33027,7 @@
     "type": "lujvo",
     "def": "$x_1=s_1=d_1$ は $x_2=d_2$ （音楽／リズム）に合わせてタップダンスをする",
     "ps": 2,
-    "cf": [
-      "stapa",
-      "dansu"
-    ]
+    "notes": "{stapa} {dansu}"
   },
   "tarbi": {
     "word": "tarbi",
@@ -34624,8 +33101,7 @@
     "cf": [
       "nejni",
       "morna",
-      "te",
-      "marji",
+      "te marji",
       "tapla",
       "bliku",
       "kubli",
@@ -34711,8 +33187,7 @@
     "type": "cmavo",
     "selmaho": [
       "LAU",
-      "BY",
-      "LAU"
+      "BY"
     ],
     "def": "次字詞変換 ： 次の字詞１つ分の大小を変換する"
   },
@@ -34721,9 +33196,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3a",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "tanru 展開 （ ta'u tanru 展開 - ta'unai tanru 造成）",
     "notes": "心態詞（談話系）； tanru を関係節などを使った長い表現に展開して、意味を説明していることを表す",
@@ -34739,10 +33212,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3a",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "tanru 造成 （ ta'u tanru 展開 - ta'unai tanru 造成）",
     "notes": "心態詞（談話系）； 関係節などを使った長い表現からtanru を造っていることを表す",
@@ -34859,11 +33329,10 @@
       "pluta",
       "trene",
       "ciste",
-      "ve",
-      "mrilu",
+      "ve mrilu",
       "tivni",
       "cradi",
-      "benji",
+      "ve benji",
       "fonxa",
       "dikca",
       "fatri"
@@ -34879,10 +33348,7 @@
     ],
     "def": "$p_1$ は $p_2=t_1$ （市）の町村区",
     "ps": 1,
-    "cf": [
-      "tcadu",
-      "pagbu"
-    ]
+    "notes": "{tcadu} {pagbu}"
   },
   "tcati": {
     "word": "tcati",
@@ -35048,8 +33514,7 @@
       "stuzi",
       "zvati",
       "vanbi",
-      "ve",
-      "pruce",
+      "ve pruce",
       "ckaji",
       "zasni"
     ]
@@ -35088,9 +33553,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU2",
-      "JOI",
-      "VUhU",
-      2
+      "JOI"
     ],
     "def": "累乗 ： 数理演算子（2変数）； a の b 乗"
   },
@@ -35114,9 +33577,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を表す言語として ： bangu 法制詞, $x_3$"
   },
@@ -35125,9 +33586,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～に送って ： benji 法制詞, $x_3$"
   },
@@ -35136,9 +33595,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を権力の根源として ： catni 法制詞, $x_3$"
   },
@@ -35147,9 +33604,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（体系／システムの）構成要素として ： ciste 法制詞, $x_3$"
   },
@@ -35158,9 +33613,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～について感じて／～にたいする感情として ： cinmo 法制詞, $x_3$"
   },
@@ -35169,9 +33622,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～に言って／～を聞き手／読み手として ： cusku 法制詞, $x_3$"
   },
@@ -35180,9 +33631,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（場所）における日として ： detri 法制詞, $x_3$"
   },
@@ -35191,9 +33640,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（範囲）内の局所として ： diklo 法制詞, $x_3$"
   },
@@ -35202,9 +33649,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）に関して同等で ： dunli 法制詞, $x_3$"
   },
@@ -35213,9 +33658,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～について知って ： djuno 法制詞, $x_3$"
   },
@@ -35224,9 +33667,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA3",
-      "BAI",
-      "FAhA",
-      3
+      "BAI"
     ],
     "def": "～の境界で／～に際して ： 間制詞（空間・方向）；"
   },
@@ -35235,9 +33676,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（目的）のために創って／著して ： finti 法制詞, $x_3$"
   },
@@ -35246,9 +33685,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を観察方法として ： zgana 法制詞, $x_3$"
   },
@@ -35257,8 +33694,7 @@
     "type": "cmavo",
     "selmaho": [
       "TEI",
-      "BY",
-      "TEI"
+      "BY"
     ],
     "def": "複合字詞 ： 字詞のまとまりの範囲を開く"
   },
@@ -35267,9 +33703,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3b",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "特定的 （te'i'o 特定的 - te'i'onai 不特定的）",
     "notes": "心態詞（談話系）直前の語／構造（普通は項）に対して、その指示対象が話者にとって特定的であるという態度を表す。",
@@ -35285,9 +33719,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～における規則／原理として ： javni 法制詞, $x_3$"
   },
@@ -35296,9 +33728,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）に関する限度として ： jimte 法制詞, $x_3$"
   },
@@ -35307,9 +33737,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（事／動作）における制御として ： jitro 法制詞, $x_3$"
   },
@@ -35318,9 +33746,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を出発地として／～発で／～から来て ： klama 法制詞, $x_3$"
   },
@@ -35329,9 +33755,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（役割）に関して代表して ： krati 法制詞, $x_2$"
   },
@@ -35340,9 +33764,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を同類関係として ： ckini 法制詞, $x_3$"
   },
@@ -35351,9 +33773,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～への境界として／～が向こう側で ： korbi 法制詞, $x_3$"
   },
@@ -35362,9 +33782,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（概念）を測定の尺度として ： klani 法制詞, $x_3$",
     "notes": "「長さ」「強さ」など、測定単位を決めるための概念。"
@@ -35374,9 +33792,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～をカテゴリー特性として ： klesi 法制詞, $x_3$"
   },
@@ -35385,9 +33801,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を前後関係の順序として ： lidne 法制詞, $x_3$"
   },
@@ -35396,9 +33810,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（物質の）形状として ： marji 法制詞, $x_3$"
   },
@@ -35407,9 +33819,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を標準／照合枠の原理として ： manri 法制詞, $x_3$"
   },
@@ -35418,9 +33828,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）に関してより多くて ： zmadu 法制詞, $x_3$"
   },
@@ -35442,7 +33850,6 @@
     "notes": "「ditcu」と違い、特定の開始時点と終了時点が含意される。",
     "cf": [
       "ditcu",
-      "",
       "cacra",
       "cedra",
       "citsi",
@@ -35457,9 +33864,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）に関してより少なくて ： mleca 法制詞, $x_3$"
   },
@@ -35468,9 +33873,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～が呼ぶ名として／～に名付けられて ： cmene 法制詞, $x_3$"
   },
@@ -35479,9 +33882,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（者）を動機づけて ： mukti 法制詞, $x_3$"
   },
@@ -35490,9 +33891,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（集合）における例として ： mupli 法制詞, $x_3$"
   },
@@ -35527,7 +33926,6 @@
     "pun": "天狗の質感",
     "cf": [
       "rufsu",
-      "",
       "xutla"
     ]
   },
@@ -35536,9 +33934,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を論理体系として ： nibli 法制詞, $x_3$"
   },
@@ -35555,9 +33951,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）を相異点として ： panra 法制詞, $x_3$"
   },
@@ -35566,9 +33960,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を用途として ： pilno 法制詞, $x_3$"
   },
@@ -35577,9 +33969,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（要素）の配列として ： porsi 法制詞, $x_3$"
   },
@@ -35588,9 +33978,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（条件）で（何かが）楽しくて ： pluka 法制詞, $x_3$"
   },
@@ -35599,9 +33987,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を出力として ： pruce 法制詞, $x_3$"
   },
@@ -35610,9 +33996,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（極性／指向性）に関して最上で ： traji 法制詞, $x_3$"
   },
@@ -35642,9 +34026,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（条件）で起因して ： rinka 法制詞, $x_2$"
   },
@@ -35661,11 +34043,7 @@
       "多面体の"
     ],
     "def": "$x_{1}$ は $x_{2}$ 次元多面体 $x_{3}$ の $x_{4}$ （デフォルトで $x_{2}$-1）次元辺； $x_{4}$=1 のとき $x_{1}$ は稜； $x_{4}$=0 のとき $x_{1}$ は頂点",
-    "cf": [
-      "te",
-      "kubli",
-      "cimde"
-    ]
+    "notes": "{te} {kubli}, {cimde}"
   },
   "termifckiku": {
     "word": "termifckiku",
@@ -35742,9 +34120,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（条件）において必須で ： sarcu 法制詞, $x_3$"
   },
@@ -35753,9 +34129,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～において助けて／補助して ： sidju 法制詞, $x_3$"
   },
@@ -35764,9 +34138,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を類似点として ： tamsmi 法制詞, $x_3$"
   },
@@ -35775,9 +34147,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（条件）における方法／方式／手段として ： tadji 法制詞, $x_3$"
   },
@@ -35786,9 +34156,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～に示唆して／勧めて ： stidi 法制詞, $x_3$"
   },
@@ -35797,9 +34165,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（日）における時刻として ： tcika 法制詞, $x_3$"
   },
@@ -35816,9 +34182,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を価値基準／価値観として ： xamgu 法制詞, $x_3$"
   },
@@ -35827,9 +34191,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を目的／目標として ： zukte 法制詞, $x_3$"
   },
@@ -35857,9 +34219,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の後方に／後側で ： 間制詞（空間・方向）；"
   },
@@ -35868,9 +34228,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "ja": [
       "伝聞",
@@ -35908,7 +34266,6 @@
     "word": "ti'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -35949,8 +34306,7 @@
     "cf": [
       "linto",
       "carmi",
-      "se",
-      "junri",
+      "se junri",
       "bunda",
       "junta"
     ]
@@ -36112,7 +34468,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～を時刻として ： tcika 法制詞, $x_1$"
@@ -36172,9 +34527,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY1",
-      "BY",
-      "BY",
-      1
+      "BY"
     ],
     "def": "小文字変換 ： 字詞"
   },
@@ -36182,7 +34535,6 @@
     "word": "to'e",
     "type": "cmavo",
     "selmaho": [
-      "NAhE",
       "NAhE",
       "NAhE"
     ],
@@ -36246,8 +34598,7 @@
     "def": "$x_1$ は $x_2$ （種類）のチョウ目（もく）昆虫",
     "ps": 2,
     "cf": [
-      "cinki",
-      ""
+      "cinki"
     ]
   },
   "tolfragapci": {
@@ -36255,23 +34606,15 @@
     "type": "lujvo",
     "def": "$x_1=t_1=g_1$ は、物質 $x_2=g_2$ からなる、条件 $x_3=g_3$ における不活性気体",
     "ps": 3,
-    "notes": "不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 ",
-    "cf": [
-      "to'e",
-      "frati",
-      "gapci",
-      "navni"
-    ]
+    "notes": "不活性気体と貴ガスは、内包も外延も異なる。貴ガス、窒素の気体、及び、ある種の化合物の気体は、文脈によって不活性気体と呼ばれる。ただし、貴ガスの中でも重いものや、窒素は、ある条件下では他の物質と反応する。 {to'e} {frati} {gapci}; {navni}"
   },
   "tolfrinyna'u": {
     "word": "tolfrinyna'u",
     "type": "lujvo",
     "def": "$x_1$ は無理数",
     "ps": 1,
+    "notes": "{to'e} {frinu} {namcu}",
     "cf": [
-      "to'e",
-      "frinu",
-      "namcu",
       "frinyna'u",
       "xarna'u",
       "tolxarna'u",
@@ -36284,22 +34627,14 @@
     "type": "lujvo",
     "def": "非$x_1$（事）は$x_2$（事）の結果／結末； $x_1$は$x_2$に妨げられる",
     "ps": 2,
-    "notes": "。 「lo nu broda cu tolja'e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。",
-    "cf": [
-      "to'e",
-      "jalge"
-    ]
+    "notes": "{to'e} {jalge}。 「lo nu broda cu tolja'e lo nu brode」 と 「lo nu na broda cu jalge lo nu brode」 は同じ意味。"
   },
   "tolki'u": {
     "word": "tolki'u",
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）の理由； $x_1$は$x_2$を妨げる",
     "ps": 2,
-    "notes": "。 「lo nu broda cu tolki'u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。",
-    "cf": [
-      "to'e",
-      "krinu"
-    ]
+    "notes": "{to'e} {krinu}。 「lo nu broda cu tolki'u lo nu brode」 と 「lo nu broda cu krinu lo nu na brode」 は同じ意味。"
   },
   "tolmifybi'o": {
     "word": "tolmifybi'o",
@@ -36321,33 +34656,21 @@
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を $x_3$（者）に動機する； $x_1$は$x_2$を妨げる",
     "ps": 3,
-    "notes": "。 「lo nu broda cu tolmu'i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。",
-    "cf": [
-      "to'e",
-      "mukti"
-    ]
+    "notes": "{to'e} {mukti}。 「lo nu broda cu tolmu'i lo nu brode」 と 「lo nu broda cu mukti lo nu na brode」 は同じ意味。"
   },
   "tolni'i": {
     "word": "tolni'i",
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を$x_3$（法則／論理／体系）において余儀なく含意する／もたらす； $x_1$は$x_2$を妨げる",
     "ps": 3,
-    "notes": "。 「lo nu broda cu tolni'i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。",
-    "cf": [
-      "to'e",
-      "nibli"
-    ]
+    "notes": "{to'e} {nibli}。 「lo nu broda cu tolni'i lo nu brode」 と 「lo nu broda cu nibli lo nu na brode」 は同じ意味。"
   },
   "tolri'a": {
     "word": "tolri'a",
     "type": "lujvo",
     "def": "$x_1$（事）は非$x_2$（事）を引き起こす； $x_1$は$x_2$を妨げる",
     "ps": 2,
-    "notes": "。 「lo nu broda cu tolri'a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。",
-    "cf": [
-      "to'e",
-      "rinka"
-    ]
+    "notes": "{to'e} {rinka}。 「lo nu broda cu tolri'a lo nu brode」 と 「lo nu broda cu rinka lo nu na brode」 は同じ意味。"
   },
   "tolxarna'u": {
     "word": "tolxarna'u",
@@ -36356,9 +34679,7 @@
     "ps": 1,
     "notes": "同じ意味の lujvo として {mrena'u} もある。",
     "cf": [
-      "to'e",
-      "xanri",
-      "namcu",
+      "to'e xanri namcu",
       "mrena'u",
       "xarna'u",
       "lujna'u",
@@ -36391,9 +34712,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA4",
-      "BAI",
-      "FAhA",
-      4
+      "BAI"
     ],
     "def": "～から離れて／～の向こうで ： 間制詞（空間・方向）；"
   },
@@ -36439,9 +34758,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "手短 （ to'u 手短 - to'unai 全容）",
     "notes": "心態詞（談話系）； 話を手短に済ませる； 長さが焦点となっており、内容が集約されているとは限らず、話の一部だけを出して残りを伏せるという場合も",
@@ -36459,10 +34776,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "def": "全容 （ to'u 手短 - to'unai 全容）",
     "notes": "心態詞（談話系）； 事柄の全容を話す",
@@ -36641,10 +34955,7 @@
     ],
     "def": "$s_1$ は $t_1$ （統治者）・ $t_2$ （民衆／領土）の統治の $s_3$ （思想家）による政治思想／政治理念／イデオロギー",
     "ps": 3,
-    "cf": [
-      "turni",
-      "sidbo"
-    ]
+    "notes": "{turni} {sidbo}"
   },
   "tsakura": {
     "word": "tsakura",
@@ -36724,7 +35035,6 @@
     "ps": 3,
     "cf": [
       "tarbi",
-      "",
       "dembi",
       "grute",
       "jbari",
@@ -36795,9 +35105,8 @@
     ],
     "def": "$x_1$ は $x_2$ （素材）・ $x_3$ （内容）の管／筒／パイプ／シリンダー／チューブ",
     "ps": 3,
-    "notes": "と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。",
+    "notes": "{slanu} と違い、円柱形でなくても良く、外周 $x_2$ と内部 $x_3$ の素材の違いを表現できる。「スリーブ」「ホース」も。",
     "cf": [
-      "slanu",
       "kevna",
       "canlu"
     ]
@@ -36835,7 +35144,6 @@
     "word": "tu'i",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -36991,10 +35299,7 @@
     ],
     "def": "$c_1$ は $c_2=t_1$ （足）の $t_2$ （足の本体）の足首",
     "ps": 2,
-    "cf": [
-      "tuple",
-      "cnebo"
-    ]
+    "notes": "{tuple} {cnebo}"
   },
   "turni": {
     "word": "turni",
@@ -37034,8 +35339,7 @@
     "cf": [
       "cabra",
       "minji",
-      "se",
-      "pilno",
+      "se pilno",
       "zukte",
       "sazri",
       "salpo",
@@ -37054,7 +35358,8 @@
       "garna",
       "pijne",
       "pambe",
-      "canpa"
+      "canpa",
+      "pilno"
     ]
   },
   "tutra": {
@@ -37092,9 +35397,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "t ： 字詞；"
   },
@@ -37103,8 +35406,7 @@
     "type": "cmavo",
     "selmaho": [
       "A",
-      "JOI",
-      "A"
+      "JOI"
     ],
     "def": "sumti ～にかかわらず ： 接続詞（論理・後置・sumti）； 前部は真、後部がどうかにかかわらず"
   },
@@ -37113,9 +35415,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "発見",
@@ -37135,9 +35435,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "獲得 （ u'a 獲得 - u'anai 損失）",
     "notes": "心態詞； 有益／利用価値のあるそれを手に入れた気持「やった」",
@@ -37155,10 +35453,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "模索 （ ua 発見 - uanai 模索）",
     "notes": "心態詞； 探している気持； 物だけでなく事や性質についても",
@@ -37177,10 +35472,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "損失 （ u'a 獲得 - u'anai 損失）",
     "notes": "心態詞； それを失って損を感じる気持",
@@ -37196,9 +35488,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY*",
-      "BY",
-      "BY",
-      true
+      "BY"
     ],
     "def": "u ： 字詞"
   },
@@ -37207,9 +35497,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "驚嘆",
@@ -37230,9 +35518,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "畏敬 （ u'e 畏敬 - u'enai 平凡）",
     "notes": "心態詞； 崇高／壮大なそれにたいする畏れの気持",
@@ -37248,10 +35534,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "平然",
@@ -37271,10 +35554,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "覚悟 （ ue 驚嘆 - uecu'i 無動揺 - uenai 覚悟）",
     "notes": "心態詞； それを予期／覚悟していたのでまったく驚かない気持",
@@ -37290,10 +35570,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "平凡 （ u'e 畏敬 - u'enai 平凡）",
     "notes": "心態詞； それを普通／平凡なものと感じる気持",
@@ -37310,9 +35587,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "幸福",
@@ -37332,9 +35607,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "面白い",
@@ -37357,19 +35630,14 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "悲嘆 （ ui 幸福 - uinai 悲嘆）",
-    "notes": "心態詞； それについて悲しむ気持； 哀れみの や後悔の と異なる",
+    "notes": "心態詞； それについて悲しむ気持； 哀れみの {uu} や後悔の {u'u} と異なる",
     "exams": [
       "「.ui nai ti pu melbi jarbu／ここは素敵な裏山だったのになあ」"
     ],
     "cf": [
-      "uu",
-      "u'u",
       "badri"
     ]
   },
@@ -37378,10 +35646,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "退屈 （ u'i 愉快 - u'inai 退屈）",
     "notes": "心態詞； それをつまらなく感じて退屈を覚える気持",
@@ -37397,9 +35662,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "完了",
@@ -37423,9 +35686,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "def": "勇気 （ u'o 勇気 - u'ocu'i 内気 - u'onai 臆病）",
     "notes": "心態詞； それについて勇む、果敢となる気持",
@@ -37441,10 +35702,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "おそるおそる",
@@ -37464,10 +35722,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "未完成",
@@ -37489,10 +35744,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "臆病 （ u'o 勇気 - u'ocu'i 内気 - u'onai 臆病）",
     "notes": "心態詞； それに臆してまったく手が出せない気持",
@@ -37509,9 +35761,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "哀れむ",
@@ -37532,9 +35782,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI1",
-      "UI",
-      "UI",
-      1
+      "UI"
     ],
     "ja": [
       "遺憾",
@@ -37556,10 +35804,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "ja": [
       "無実",
@@ -37579,10 +35824,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "酷虐 （ uu 哀憫 - uunai 酷虐）",
     "notes": "心態詞； 苦境にあるそれを憐れまずに酷く当たって虐げる気持「ざまあみろ」",
@@ -37598,10 +35840,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*1",
-      "UI",
-      "UI",
-      1,
-      true
+      "UI"
     ],
     "def": "悪意 （ u'u 後悔 - u'ucu'i 潔白 - u'unai 悪意）",
     "notes": "心態詞； 既成のそれが悪意からであり、後ろめたさや罪悪感をまったく覚えない気持 「だからどうした」",
@@ -37617,8 +35856,7 @@
     "type": "cmavo",
     "selmaho": [
       "VA",
-      "BAI",
-      "VA"
+      "BAI"
     ],
     "rafsi": {
       "CVC": "vaz"
@@ -37633,9 +35871,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU3",
-      "JOI",
-      "VUhU",
-      3
+      "JOI"
     ],
     "def": "加法逆元 ： 数理演算子（単一項）； [- a]"
   },
@@ -37684,9 +35920,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "換言 （va'i 換言 - va'inai 言葉通り）",
     "notes": "心態詞（談話系）；「言い換えると」",
@@ -37704,10 +35938,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "まさしく",
@@ -37740,7 +35971,6 @@
     "ps": 3,
     "cf": [
       "banli",
-      "",
       "ralju",
       "vamji",
       "dirba",
@@ -37786,7 +36016,6 @@
     "ps": 4,
     "cf": [
       "jdima",
-      "",
       "vajni",
       "kargu",
       "dirba",
@@ -37828,7 +36057,6 @@
     "cf": [
       "va'o",
       "sruri",
-      "",
       "tcini",
       "jibni",
       "jbini"
@@ -37877,7 +36105,6 @@
     "word": "va'o",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -37938,7 +36165,6 @@
     "type": "cmavo",
     "selmaho": [
       "BAI",
-      "BAI",
       "BAI"
     ],
     "def": "～（良い何か）を享受して ： xamgu 法制詞, $x_1$"
@@ -37962,8 +36188,7 @@
     "type": "cmavo",
     "selmaho": [
       "VEhA",
-      "BAI",
-      "VEhA"
+      "BAI"
     ],
     "def": "空間間隔・中 ： 間制詞（空間・間隔）"
   },
@@ -37972,9 +36197,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～から送って／受け取って ： benji 法制詞, $x_4$"
   },
@@ -37983,9 +36206,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（体系／システムの）相乗作用として ： ciste 法制詞, $x_4$"
   },
@@ -38007,10 +36228,8 @@
     ],
     "def": "$x_1$ （売り手） は $x_2$ （品物やサービス）を $x_3$ （買い手）に $x_4$ の額／費用／出費で売る",
     "ps": 4,
-    "notes": "x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。 売りに出す（ fitselve'u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_$ として「所有権を手放す者」、 $x_$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら ）。 費用と価格の違いについては の注を参照。",
+    "notes": "x1 は売り手／販売員。 x3 は x2 （品）を x1 から買う購入者（ terve'u は「買う」になる）。 x4 は x2 （品）を売る際の x3 から受け取る額／が支払う額（ velve'u は「費用である」になる）。 売りに出す（ fitselve'u, selvenfriti ）。 x2 は特定の「品物」、あるいは群（集まり）としての「品物」、あるいは「～という事」、あるいは「～という性質」。  $x_{1}$ として「所有権を手放す者」、 $x_{2}$ として「所有権が移る商品」という sumti を引き出す（意味論的により厳密に言うなら {posyve'u}, {posyselve'u}）。 費用と価格の違いについては {jdima} の注を参照。",
     "cf": [
-      "12posyve'u",
-      "posyselve'ujdima",
       "canja",
       "dunda",
       "janta",
@@ -38031,9 +36250,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を表現媒体として ： cusku 法制詞, $x_4$"
   },
@@ -38042,9 +36259,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（暦）における日として ： detri 法制詞, $x_4$"
   },
@@ -38053,9 +36268,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を認識体系／エピステモロジーとして ： djuno 法制詞, $x_4$"
   },
@@ -38064,8 +36277,7 @@
     "type": "cmavo",
     "selmaho": [
       "VEhA",
-      "BAI",
-      "VEhA"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "ve'e"
@@ -38080,9 +36292,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（素材）から創って／～をインスピレーションとして ： finti 法制詞, $x_4$"
   },
@@ -38091,9 +36301,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（条件）において観察して ： zgana 法制詞, $x_4$"
   },
@@ -38110,8 +36318,7 @@
     "type": "cmavo",
     "selmaho": [
       "VEhA",
-      "BAI",
-      "VEhA"
+      "BAI"
     ],
     "def": "空間間隔・小 ： 間制詞（空間・間隔）"
   },
@@ -38120,9 +36327,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を経路／行路／筋道として ： klama 法制詞, $x_4$"
   },
@@ -38131,9 +36336,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（度量）の分多くて ： zmadu 法制詞, $x_4$"
   },
@@ -38142,9 +36345,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（度量）の分少なくて ： mleca 法制詞, $x_4$"
   },
@@ -38197,9 +36398,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（基準）で並行して ： panra 法制詞, $x_4$"
   },
@@ -38208,9 +36407,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～を（過程／プロセスの）段階として ： pruce 法制詞, $x_4$"
   },
@@ -38219,9 +36416,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（集合）の中で最上で ： traji 法制詞, $x_4$"
   },
@@ -38240,13 +36435,11 @@
     "notes": "人間とは限らない。",
     "cf": [
       "cifnu",
-      "",
       "panzi",
       "citno",
       "nanla",
       "nixli",
-      "se",
-      "rirni",
+      "se rirni",
       "bersa",
       "makcu"
     ]
@@ -38260,10 +36453,7 @@
     ],
     "def": "$k_1$ は $k_2=v_1$ （子供）を保育する",
     "ps": 1,
-    "cf": [
-      "verba",
-      "kurji"
-    ]
+    "notes": "{verba} {kurji}"
   },
   "verku'istu": {
     "word": "verku'istu",
@@ -38274,20 +36464,14 @@
     ],
     "def": "$s_1$ は $s_2=k_2=v_1$ （子供）の、 $k_1$ （保育士）の保育所",
     "ps": 1,
-    "cf": [
-      "verba",
-      "kurji",
-      "stuzi"
-    ]
+    "notes": "{verba} {kurji} {stuzi}"
   },
   "vetai": {
     "word": "vetai",
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（性質）に関して類似して ： tamsmi 法制詞, $x_4$"
   },
@@ -38296,9 +36480,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "～（場所）の時刻として ： tcika 法制詞, $x_4$"
   },
@@ -38307,8 +36489,7 @@
     "type": "cmavo",
     "selmaho": [
       "VEhA",
-      "BAI",
-      "VEhA"
+      "BAI"
     ],
     "def": "空間間隔・大 ： 間制詞（空間・間隔）"
   },
@@ -38317,8 +36498,7 @@
     "type": "cmavo",
     "selmaho": [
       "VA",
-      "BAI",
-      "VA"
+      "BAI"
     ],
     "rafsi": {
       "CVC": "viz"
@@ -38338,8 +36518,7 @@
     "type": "cmavo",
     "selmaho": [
       "VIhA",
-      "BAI",
-      "VIhA"
+      "BAI"
     ],
     "def": "空間カテゴリ・2次元 ： 間制詞（空間・カテゴリ）"
   },
@@ -38374,8 +36553,7 @@
     "ps": 1,
     "cf": [
       "skina",
-      "ve",
-      "tivni"
+      "ve tivni"
     ]
   },
   "vidru": {
@@ -38392,7 +36570,6 @@
     "pun": "virus ウィルス",
     "cf": [
       "jurme",
-      "",
       "parji"
     ]
   },
@@ -38401,8 +36578,7 @@
     "type": "cmavo",
     "selmaho": [
       "VIhA",
-      "BAI",
-      "VIhA"
+      "BAI"
     ],
     "def": "空間カテゴリ・4次元 ： 間制詞（空間・カテゴリ）"
   },
@@ -38427,8 +36603,7 @@
     "type": "cmavo",
     "selmaho": [
       "VIhA",
-      "BAI",
-      "VIhA"
+      "BAI"
     ],
     "def": "空間カテゴリ・1次元 ： 間制詞（空間・カテゴリ）"
   },
@@ -38504,10 +36679,7 @@
     ],
     "def": "$k_1$ は $v_1$ （排泄者）・ $v_2$ （排泄物）のための $k_2$ （建物／構造）内の $k_3$ （壁／天井／床）で仕切られた便所／トイレの部屋",
     "ps": 3,
-    "cf": [
-      "vikmi",
-      "kumfa"
-    ]
+    "notes": "{vikmi} {kumfa}"
   },
   "vimsivypalku": {
     "word": "vimsivypalku",
@@ -38520,12 +36692,7 @@
     ],
     "def": "$p_1=s_1$ は $p_2$ （素材）のオムツ",
     "ps": 2,
-    "cf": [
-      "vikmi",
-      "sivypalku",
-      "sivni",
-      "palku"
-    ]
+    "notes": "{vikmi} {sivypalku} {sivni} {palku}"
   },
   "vindu": {
     "word": "vindu",
@@ -38613,10 +36780,7 @@
     ],
     "def": "$p_1=v_1$(ウイルス/病原体)は$p_2=v_2$に感染する",
     "ps": 2,
-    "notes": "parjiは",
-    "cf": [
-      "parjividru"
-    ]
+    "notes": "parjiは{parji}{vidru}"
   },
   "viska": {
     "word": "viska",
@@ -38634,7 +36798,6 @@
     "pun": "ヴィジョン視覚",
     "cf": [
       "catlu",
-      "",
       "jvinu",
       "zgana",
       "ganse",
@@ -38720,8 +36883,7 @@
     "type": "cmavo",
     "selmaho": [
       "VIhA",
-      "BAI",
-      "VIhA"
+      "BAI"
     ],
     "def": "空間カテゴリ・3次元 ： 間制詞（空間・カテゴリ）"
   },
@@ -38792,7 +36954,6 @@
     "notes": "物理的な力でなく人格や権威の力。",
     "cf": [
       "jitro",
-      "",
       "tsali",
       "ruble"
     ]
@@ -38907,11 +37068,7 @@
     ],
     "def": "$g_1$ は $v_1$ （対象）を $v_2$ に $v_3$ から戻す／返す",
     "ps": 3,
-    "notes": "さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。; ",
-    "cf": [
-      "volve",
-      "gasnu"
-    ]
+    "notes": "さんによる {volve} の再定義（ x1 は x2 に x3 から戻る）に拠る。; {volve} {gasnu}"
   },
   "vo'o": {
     "word": "vo'o",
@@ -39065,8 +37222,7 @@
     "type": "cmavo",
     "selmaho": [
       "VA",
-      "BAI",
-      "VA"
+      "BAI"
     ],
     "rafsi": {
       "CVC": "vuz"
@@ -39089,9 +37245,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA1",
-      "BAI",
-      "FAhA",
-      1
+      "BAI"
     ],
     "def": "～の西方に／西側で ： 間制詞（空間・方向）；"
   },
@@ -39100,9 +37254,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "ja": [
       "徳",
@@ -39120,10 +37272,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "ja": [
       "穢れ",
@@ -39173,9 +37322,7 @@
     "type": "cmavo",
     "selmaho": [
       "VUhU1",
-      "JOI",
-      "VUhU",
-      1
+      "JOI"
     ],
     "def": "引き算 ： 数理演算子（n変数）； [(((a - b) - c) - ...)]"
   },
@@ -39184,9 +37331,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "v ： 字詞；"
   },
@@ -39281,11 +37426,7 @@
     ],
     "def": "$r_1=xa_2$ は $r_2$ （障害）のために $r_3$ が制限される身体障害者",
     "ps": 3,
-    "cf": [
-      "xadni",
-      "rinju",
-      "ka'enri'u"
-    ]
+    "notes": "{xadni} {rinju} {ka'enri'u}"
   },
   "xagji": {
     "word": "xagji",
@@ -39470,12 +37611,9 @@
     ],
     "def": "$x_1$ は $x_2$ にとって、 $x_3$ （基準）で良い／好ましい",
     "ps": 3,
-    "notes": "「まあまあである／可」は .",
+    "notes": "「まあまあである／可」は {mlixau}, {norxau}, {xaurselcru}.",
     "pun": "よくかむグッド, xau(好), good,bon",
     "cf": [
-      "mlixau",
-      "norxau",
-      "xaurselcru",
       "melbi",
       "xlali",
       "vrude",
@@ -39578,11 +37716,7 @@
     ],
     "def": "$s_1$ は互いに手をつなぐ／握手する",
     "ps": 1,
-    "cf": [
-      "xance",
-      "jgari",
-      "simxu"
-    ]
+    "notes": "{xance} {jgari} {simxu}"
   },
   "xanka": {
     "word": "xanka",
@@ -39646,8 +37780,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "早発 ： 相制詞； 既に； 早過ぎて； za'o の反対",
     "experimental": true,
@@ -39834,9 +37967,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "~を送信経路として ： benji 法制詞, $x_5$"
   },
@@ -39945,12 +38076,7 @@
       "PA2"
     ],
     "def": "16進法E/10進法14 ： 数量詞；",
-    "notes": "は と聞き間違えやすいので、 の代わりに使われる",
-    "cf": [
-      "rei",
-      "re",
-      ""
-    ],
+    "notes": "{rei} は {re} と聞き間違えやすいので、 {rei} の代わりに使われる",
     "experimental": true,
     "unofficial": true
   },
@@ -39959,9 +38085,7 @@
     "type": "cmavo",
     "selmaho": [
       "BAI*",
-      "BAI",
-      "BAI",
-      true
+      "BAI"
     ],
     "def": "~を移動手段として ： klama 法制詞, $x_5$"
   },
@@ -40319,8 +38443,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "def": "相制詞； mo'u の反対； 自然な開始点",
     "cf": [
@@ -40354,10 +38477,7 @@
     "type": "lujvo",
     "def": "$c_1$ は $c_2$ （内容）の $c_3$ （著者）の $c_4$ （読者）の $c_5$ （媒体）の絵本",
     "ps": 5,
-    "cf": [
-      "pixra",
-      "cukta"
-    ]
+    "notes": "{pixra} {cukta}"
   },
   "xrani": {
     "word": "xrani",
@@ -40449,11 +38569,7 @@
     ],
     "def": "$k_1=xr_1$ は $k_2=xr_2$ （元の所）へ $k_3=xr_3$ から $k_4$ （経路）を通り $k_5$ （手段）で戻る",
     "ps": 5,
-    "notes": "xorxes さんによる の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; ",
-    "cf": [
-      "xruti",
-      "klama"
-    ]
+    "notes": "xorxes さんによる {xruti} の再定義（ x1 は x2 に x3 から戻る）に拠る。 ; {xruti} {klama}"
   },
   "xrula": {
     "word": "xrula",
@@ -40495,9 +38611,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI6",
-      "UI",
-      "UI",
-      6
+      "UI"
     ],
     "def": "真偽質問",
     "notes": "心態詞（談話系）； 対象が真か偽かを尋ねる気持；",
@@ -40532,12 +38646,9 @@
     "def": "$x_1$ は臭素 （Br）",
     "ps": 1,
     "cf": [
-      "フッ素",
-      "li'orkliru",
-      "塩素",
-      "ri'orkliru",
-      "ヨウ素",
-      "zirkliru",
+      "フッ素 li'orkliru",
+      "塩素 ri'orkliru",
+      "ヨウ素 zirkliru",
       "xunre",
       "kliru"
     ]
@@ -40629,9 +38740,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "x ： 字詞；"
   },
@@ -40654,9 +38763,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "： 字詞"
   },
@@ -40665,8 +38772,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZI",
-      "BAI",
-      "ZI"
+      "BAI"
     ],
     "def": "時間程度・中 ： 間制詞（時間・程度）"
   },
@@ -40675,9 +38781,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI2",
-      "UI",
-      "UI",
-      2
+      "UI"
     ],
     "def": "観察",
     "notes": "心態詞（認識系）； 何かを観察している／眺めている情況を表す",
@@ -40698,7 +38802,7 @@
     ],
     "def": "$x_1$ は $x_2$ （性質）において、 $x_3$（基準）で好ましい／すぐれている／実に見事だ／すばらしい／すてきだ／一流だ／傑出している／あっぱれだ／見事だ／称賛に値する／立派だ／望ましい／楽しい／感じのよい／愛すべき／精好だ／クールだ",
     "ps": 3,
-    "notes": "「最高」「ナイス」「イケてる」など。 の対義。",
+    "notes": "「最高」「ナイス」「イケてる」など。 {mabla}の対義。",
     "cf": [
       "mabla",
       "xamgu",
@@ -40720,8 +38824,7 @@
     "type": "cmavo",
     "selmaho": [
       "LAU",
-      "BY",
-      "LAU"
+      "BY"
     ],
     "def": "表記文字選択 ： 表記文字体系の選択子が次に続くことを示す"
   },
@@ -40810,8 +38913,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZAhO",
-      "BAI",
-      "ZAhO"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "za'o"
@@ -40916,17 +39018,12 @@
     ],
     "def": "$x_1$ （宿泊者）は $x_2$ （宿泊施設／場所）に泊まる／一時滞在する",
     "ps": 2,
-    "cf": [
-      "zasni",
-      "xabju",
-      "vitke"
-    ]
+    "notes": "{zasni} {xabju}; {vitke}"
   },
   "zau": {
     "word": "zau",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -41031,8 +39128,7 @@
       "dinju",
       "ginka",
       "kumfa",
-      "se",
-      "xabju"
+      "se xabju"
     ]
   },
   "zdile": {
@@ -41072,8 +39168,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZEhA",
-      "BAI",
-      "ZEhA"
+      "BAI"
     ],
     "def": "時間隔・中 ： 間制詞（時間・間隔）"
   },
@@ -41082,8 +39177,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZEhA",
-      "BAI",
-      "ZEhA"
+      "BAI"
     ],
     "rafsi": {
       "CVV": "ze'e"
@@ -41100,11 +39194,7 @@
       "SI"
     ],
     "def": "cmavo 造成： 2つの単語の間に置き、意味上は前者、文法上は後者と同じになるような新語を形成する",
-    "notes": "「ze'ei ／不特定の数（＝）」",
-    "cf": [
-      "zo'e",
-      "paxo'e"
-    ],
+    "notes": "「{zo'e} ze'ei {pa}／不特定の数（＝{xo'e}）」",
     "experimental": true,
     "unofficial": true
   },
@@ -41125,8 +39215,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZEhA",
-      "BAI",
-      "ZEhA"
+      "BAI"
     ],
     "def": "時間隔・小 ： 間制詞（時間・間隔）"
   },
@@ -41163,30 +39252,14 @@
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言律詩",
     "ps": 3,
-    "cf": [
-      "ze",
-      "valsi",
-      "bi",
-      "linji",
-      "mumvlavonli'i",
-      "zelvlavonli'i",
-      "mumvlabivli'i"
-    ]
+    "notes": "{ze} {valsi} {bi} {linji}; {mumvlavonli'i}, {zelvlavonli'i}, {mumvlabivli'i}"
   },
   "zelvlavonli'i": {
     "word": "zelvlavonli'i",
     "type": "lujvo",
     "def": "$x_1$ は平仄 $x_2$の、 $x_3$ （箇所）で韻を踏む七言絶句",
     "ps": 3,
-    "cf": [
-      "ze",
-      "valsi",
-      "vo",
-      "linji",
-      "mumvlavonli'i",
-      "mumvlabivli'i",
-      "zelvlabivli'i"
-    ]
+    "notes": "{ze} {valsi} {vo} {linji}; {mumvlavonli'i}, {mumvlabivli'i}, {zelvlabivli'i}"
   },
   "zenba": {
     "word": "zenba",
@@ -41213,9 +39286,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA4",
-      "BAI",
-      "FAhA",
-      4
+      "BAI"
     ],
     "rafsi": {
       "CVC": "zev",
@@ -41319,8 +39390,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZEhA",
-      "BAI",
-      "ZEhA"
+      "BAI"
     ],
     "def": "時間隔・大 ： 間制詞（時間・間隔）"
   },
@@ -41386,8 +39456,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZI",
-      "BAI",
-      "ZI"
+      "BAI"
     ],
     "def": "時間程度・小 ： 間制詞（時間・程度）"
   },
@@ -41460,12 +39529,9 @@
     "def": "$x_1$ はヨウ素（I）",
     "ps": 1,
     "cf": [
-      "フッ素",
-      "li'orkliru",
-      "塩素",
-      "ri'orkliru",
-      "臭素",
-      "xunkliru",
+      "フッ素 li'orkliru",
+      "塩素 ri'orkliru",
+      "臭素 xunkliru",
       "zirpu",
       "kliru"
     ]
@@ -41566,9 +39632,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA4",
-      "BAI",
-      "FAhA",
-      4
+      "BAI"
     ],
     "rafsi": {
       "CVC": "zon",
@@ -41609,9 +39673,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA4",
-      "BAI",
-      "FAhA",
-      4
+      "BAI"
     ],
     "rafsi": {
       "CVC": "zor",
@@ -41631,9 +39693,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI5",
-      "UI",
-      "UI",
-      5
+      "UI"
     ],
     "def": "冗談 （ zo'o 冗談 - zo'onai 厳粛）",
     "notes": "心態詞（修飾系）",
@@ -41647,10 +39707,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*5",
-      "UI",
-      "UI",
-      5,
-      true
+      "UI"
     ],
     "def": "厳粛（ zo'o 冗談 - zo'onai 厳粛）",
     "notes": "心態詞（修飾系）"
@@ -41668,8 +39725,7 @@
     "type": "cmavo",
     "selmaho": [
       "ZI",
-      "BAI",
-      "ZI"
+      "BAI"
     ],
     "def": "時間程度・大 ： 間制詞（時間・程度）"
   },
@@ -41678,9 +39734,7 @@
     "type": "cmavo",
     "selmaho": [
       "FAhA2",
-      "BAI",
-      "FAhA",
-      2
+      "BAI"
     ],
     "def": "～の左方に／左側で ： 間制詞（空間・方向）"
   },
@@ -41688,7 +39742,6 @@
     "word": "zu'e",
     "type": "cmavo",
     "selmaho": [
-      "BAI",
       "BAI",
       "BAI"
     ],
@@ -41876,9 +39929,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI3",
-      "UI",
-      "UI",
-      3
+      "UI"
     ],
     "def": "一方で （ zu'u 一方で - zu'unai もう一方で）",
     "notes": "心態詞（談話系）",
@@ -41896,10 +39947,7 @@
     "type": "cmavo",
     "selmaho": [
       "UI*3",
-      "UI",
-      "UI",
-      3,
-      true
+      "UI"
     ],
     "ja": [
       "もう一方で",
@@ -41926,11 +39974,9 @@
     "pun": "＜ずっとバチカンに居る＞, zai 在",
     "cf": [
       "stuzi",
-      "",
       "jbini",
       "nenri",
-      "se",
-      "vasru",
+      "se vasru",
       "cpana",
       "diklo",
       "jibni",
@@ -41948,9 +39994,7 @@
     "type": "cmavo",
     "selmaho": [
       "BY2",
-      "BY",
-      "BY",
-      2
+      "BY"
     ],
     "def": "z ： 字詞；"
   }
