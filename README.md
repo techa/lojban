@@ -1,47 +1,58 @@
 Lojban Words Analysis
 ======================
-ロジバンの語根は話者数の多い言語から作られているが、ここでは意味や機能による規則で語の生成を行う。
+ロジバンの語根は話者数の多い言語から作られているが、ここでは意味や機能による規則的な語の生成を行う。  
 
-1) origin -> neatly -> thesaurus ->result
-   オリジナル、整頓、シソーラス
+1) origin -> neatly -> result  
+   オリジナル、整頓、
+
+## ゼルシー順
+アルファベット順は普及率だけで子音と母音すら分けられていない無能なので本稿では整理した自作の順を使う。※[ゼルシー](images/zercii.png)はこの順を利用して作った文字。
+
+    0 12345 678901 234567 8901 2 345
+    y iuaeo dzjbvg tscpfk rlmn x hqw
+
+![ゼルシー順](images/poizercii.png)
 
 ## Terminal commands
-node lib/step1-xml-parser.js
-node lib/step2-xml2js.js
-node lib/step3-make-dictionary.js
-node lib/step4-integrate-frequency.js
+node lib/step1-xml-parser.js  
+node lib/step2-xml2js.js  
+node lib/step3-make-dictionary.js  
+node lib/step4-integrate-frequency.js  
 node lib/yaml.js
 
-gismu patterns
--------------
+## gismu patterns
+全てのgismuはrafsiとして５文字目を抜いた４文字のものを持つため、実質４文字で意味を表す必要がある。  
+gismuは４つのパーツを組み合わせた２つのパターンで構成する。 
 
-全てのgismuはrafsiとして５文字目を抜いた４文字のものを持つため、実質４文字で意味を表す必要がある。
-gismuは４つのパーツを組み合わせた２つのパターンで構成する。  
-※ｘはなるべく使いたくないので別計算。
+	CCVcv  =  CC + V + c  + v
+	cVccv  =  c  + V + cc + v
 
-	cVccv   <= c  + V + cc + v
-	CCVcv   <= CC + V + c  + v
+* c) 子音
+* cc) 二重子音
+* CC) 語頭で許される二重子音
+* V) 最初の母音
+* v) 末尾母音
+
+
+### パーツ 
+gismuを漢字に例えるならパーツは部首に相当する。
+まずはそれぞれのパーツにどのような意味を持たせるかを考えるためにc、cc、CC、V、vを分析する。  
+17文字の子音があるがxは特殊な文字として残しておきたいので別計算とする。特殊な文字というのは、標準の単語ではないことを示したりするのに使うことなどを想定している。  
+ただし意味の分類などでｘを使用したほうが分かりやすいと思えば、標準の文字として使用していく方針。
 
 #### c) 子音 16 + 1 = (dzjbvg tscpfk rlmn) + (x)
- 大まかなカテゴリ。
- * 時間
- * 空間
- * 構造
- * 物理
 
-#### CC) 語頭で許される二重子音 44+2
-#### cc) 二重子音 163+16
-語頭でない場合でもなるべくCCの組み合わせを採用したい。  
-イタリア語、スペイン語、ドイツ語あたりから、よく使われる二重子音を出現頻度でリストアップして参考にしたい。
+#### CC) 語頭で許される二重子音 40+4+2
+dz dj ts tcの４つの二重子音はgismuでは使用しない。個人的見解だがdz djは発音が難しいので特に使用したくない。
 
      2  1  1  2  2  2  2  1  1  2  2  2 11 10  4  2  0  
-    -- dz dj -- -- -- -- -- -- -- -- -- dr -- -- -- --  3
+    -- dz dj -- -- -- -- -- -- -- -- -- dr -- -- -- --  1+2
     zd -- -- zb zv zg -- -- -- -- -- -- -- -- zm -- --  5
     jd -- -- jb jv jg -- -- -- -- -- -- -- -- jm -- --  5
     -- -- -- -- -- -- -- -- -- -- -- -- br bl -- -- --  2
     -- -- -- -- -- -- -- -- -- -- -- -- vr vl -- -- --  2
     -- -- -- -- -- -- -- -- -- -- -- -- gr gl -- -- --  2
-    -- -- -- -- -- -- -- ts tc -- -- -- tr -- -- -- --  3
+    -- -- -- -- -- -- -- ts tc -- -- -- tr -- -- -- --  1+2
     -- -- -- -- -- -- st -- -- sp sf sk sr sl sm sn --  8
     -- -- -- -- -- -- ct -- -- cp cf ck cr cl cm cn --  8
     -- -- -- -- -- -- -- -- -- -- -- -- pr pl -- -- --  2
@@ -52,16 +63,21 @@ gismuは４つのパーツを組み合わせた２つのパターンで構成す
     -- -- -- -- -- -- -- -- -- -- -- -- mr ml -- -- --  2
     -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
     -- -- -- -- -- -- -- -- -- -- -- -- xr xl -- -- --  0+2
-                                         1  1           =44+2
+                                         1  1           =40+4+2
+
+#### cc) 二重子音 159+4+16
+語頭でない場合でもなるべくCCの組み合わせを採用したい。  
+多言語でよく使われる二重子音を出現頻度でリストアップして参考にしたい。 
+lib/cc_frequency.js
 
      9  7  8  9  9  9  9  8  8  9  9  9 15 15 15 15  0
-    -- dz dj db dv dg -- -- -- -- -- -- dr dl dm dn --  9
+    -- dz dj db dv dg -- -- -- -- -- -- dr dl dm dn --  7 +2
     zd -- -- zb zv zg -- -- -- -- -- -- zr zl zm zn --  8
     jd -- -- jb jv jg -- -- -- -- -- -- jr jl jm jn --  8
     bd bz bj -- bv bg -- -- -- -- -- -- br bl bm bn --  9
     vd vz vj vb -- vg -- -- -- -- -- -- vr vl vm vn --  9
     gd gz gj gb gv -- -- -- -- -- -- -- gr gl gm gn --  9
-    -- -- -- -- -- -- -- ts tc tp tf tk tr tl tm tn tx  9 +1
+    -- -- -- -- -- -- -- ts tc tp tf tk tr tl tm tn tx  7 +2 +1
     -- -- -- -- -- -- st -- -- sp sf sk sr sl sm sn sx  8 +1
     -- -- -- -- -- -- ct -- -- cp cf ck cr cl cm cn --  8
     -- -- -- -- -- -- pt ps pc -- pf pk pr pl pm pn px  9 +1
@@ -72,23 +88,22 @@ gismuは４つのパーツを組み合わせた２つのパターンで構成す
     md -- mj mb mv mg mt ms mc mp mf mk mr ml -- mn mx  14+1
     nd nz nj nb nv ng nt ns nc np nf nk nr nl nm -- nx  15+1
     -- -- -- -- -- -- xt xs -- xp xf -- xr xl xm xn --  0 +8
-                       1  1     1  1     1  1  1  1  8  =163+16
+                       1  1     1  1     1  1  1  1  8  =159+4+16
 
+#### V) 最初の母音 5　iuaeo
 
-#### V) 最初の母音 5
+#### v) 末尾母音 5　iuaeo
+末尾母音は意味分類として使用しない。３文字rafsiのバリエーション。
 
+### パターン
+	CCVcv  = 40 * 5 * 16 = 3200
+	cVccv  = 16 * 5 * 159 = 12720
 
-
-#### v) 末尾母音 5
- * i - ps2 or ps3 !未定部分。ps2か3か多いほうをiに振り分け
- * u - ps1 & ps5
- * a - ps2
- * e - ps3
- * o - ps4
+パターンをどう使い分けるかアイディア
+* 意味の大小：CCVcvは意味の大きい言葉、生物や時間など。cVccvは意味の小さい言葉、牛、秒など
 
 
 # 使用する子音の厳選
-
 
      d  z  j  b  v  g  t  s  c  p  f  k  r  l  m  n
     ------------------------------------------------ c =16
@@ -97,6 +112,32 @@ gismuは４つのパーツを組み合わせた２つのパターンで構成す
              zb zv zg          sp sf sk sr sl sm sn
              jb jv jg          cp cf ck cr cl cm cn
     ------------------------------------------------ CC= 40
+             bd vd gd                   rd ld md nd 
+             bz vz gz                   rz lz    nz 
+             bj vj gj                   rj lj mj nj 
+    db          vb gb                   rb lb mb nb 
+    dv       bv    gv                   rv lv mv nv 
+    dg       bg vg                      rg lg mg ng 
+                               pt ft kt rt lt mt nt
+                            cs ps fs ks rs ls ms ns
+                               pc fc kc rc lc mc nc
+                            cp    fp kp rp lp mp np
+                            cf pf    kf rf lf mf nf
+                            ck pk fk    rk lk mk nk
+       zr jr                cr             lr mr nr
+    dl zl jl          tl    cl          rl    ml nl
+    dm       bm vm gm tm    cm pm fm km rm lm    nm
+    dn zn jn bn vn gn tn    cn pn fn kn rn ln mn 
+    ------------------------------------------------ cc-CC=
+    rd rz rj rb rv rg rt rs rc rp rf rk    rl rm rn
+    ld lz lj lb lv lg lt ls lc lp lf lk lr    lm ln
+    nd nz nj mb nv ng nt ns nc mp nf nk nr nl nm mn
+    dn zn jn bn vn gn tn    cn pn fn kn
+    ------------------------------------------------ 厳選cc
+
+    dz                ts
+    dj                tc
+    ------------------------------------------------ Cc= 4
 
 Sources
 -------
