@@ -1,424 +1,424 @@
-girzu	組	構造	セット、グループ、群	
-gunma	群	構造	セット、グループ、群	
-cmima	属する	構造	セット、グループ、群	
-pagbu	部分	構造	セット、グループ、群	
-klesi	部門	構造	セット、グループ、群	
-jbini	間	構造	セット、グループ、群	
-cuxna	選ぶ	構造	セット、グループ、群	
-mupli	例	構造	セット、グループ、群	
-basti	交替	構造	セット、グループ、群	
-kampu	普遍	構造	セット、グループ、群	
-fadni	平凡	構造	セット、グループ、群	
-rirci	珍しい	構造	セット、グループ、群	
-ralju	主要	構造	セット、グループ、群	
-steci	特質	構造	セット、グループ、群	
-manfo	均一	構造	セット、グループ、群	
-vrici	様々	構造	セット、グループ、群	
-cnano	模範	構造	セット、グループ、群	
-bende	仲間	構造	セット、グループ、群	
-stura	構造	構造	混沌/秩序	
-ciste	体系	構造	混沌/秩序	
-morna	型	構造	混沌/秩序	
-ganzu	組織する	構造	混沌/秩序	
-cnici	整然	構造	混沌/秩序	
-kalsa	混沌	構造	混沌/秩序	
-cunso	無作為	構造	混沌/秩序	
-pluja	複雑	構造	混沌/秩序	
-sampu	簡単	構造	混沌/秩序	
-krati	代表	構造	混沌/秩序	
-sarxe	調和	構造	混沌/秩序	
-vanbi	環境	構造	混沌/秩序	
-javni	規則	構造	混沌/秩序	
-porsi	序列	構造	線形秩序	
-liste	目録	構造	線形秩序	
-fatne	逆	構造	線形秩序	
-lidne	先行	構造	線形秩序	
-korbi	端	構造	範囲	
-jimte	限度	構造	範囲	
-traji	極致	構造	範囲	
-milxe	温和	構造	範囲	
-bancu	超越	構造	範囲	
-karbi	比較	構造	比較	
-mapti	相応しい	構造	比較	
-cimni	無限	構造	比較	
-zasni	一時的	構造	比較	
-mutce	とても	構造	比較	
-barda	大きい	構造	比較	
-cmalu	小さい	構造	比較	
-zmadu	卓越	構造	比較	
-mleca	少ない	構造	比較	
-zenba	増加	構造	比較	
-jdika	減る	構造	比較	
-stodi	不変	構造	比較	
-cenba	変化	構造	比較	
-banro	育つ	構造	比較	
-ctaru	潮	構造	比較	
-jmina	加える	構造	比較	
-banzu	充分	構造	比較	
-dukse	過剰	構造	比較	
-claxu	欠く	構造	比較	
-dunli	同等	構造	比較	
-simsa	相似	構造	比較	
-drata	他	構造	比較	
-mintu	mintu	構造	比較	
-frica	違う	構造	比較	
-dukti	正反対	構造	比較	
-cmaci	数学	構造	数学	
-mekso	MEX	構造	数学	
-namcu	数	構造	数学	
-kancu	数える	構造	数学	
-kanji	計算	構造	数学	
-saclu	小数	構造	数学	
-sumji	合計	構造	数学	
-vimcu	除去	構造	数学	
-pilji	乗算	構造	数学	
-dilcu	商	構造	数学	
-frinu	分数	構造	数学	
-tenfa	指数関数	構造	数学	
-dugri	対数	構造	数学	
-fancu	関数	構造	数学	
-sumti	項	構造	数学	
-sinso	正弦	構造	数学	
-tanjo	タンジェント	構造	数学	
-xadba	半分	構造	数学	
-judri	住所	構造	数学	
-bangu	言語	言語		
-sinxa	記号	言語		
-fanva	翻訳	言語		
-cmavo	機能語	言語		
-gadri	冠詞	言語		
-gerna	文法	言語		
-jufra	文	言語		
-rafsi	形態素	言語		
-rimni	韻	言語		
-slaka	音節	言語		
-tanru	複合語	言語		
-valsi	言葉	言語		
-broda	第一 selbri 変数	言語		
-brode	第二 selbri 変数	言語		
-brodi	第三 selbri 変数	言語		
-brodo	第四 selbri 変数	言語		
-brodu	第五 selbri 変数	言語		
-cmene	名前	言語		
-gismu	語根	言語		
-lujvo	合成語	言語		
-lerfu	文字	言語		
-pandi	句読点	言語		
-ciska	書く	言語	情報媒体	
-tcidu	読む	言語	情報媒体	
-cukta	本	言語	情報媒体	
-xatra	手紙	言語	情報媒体	
-karni	誌	言語	情報媒体	
-cartu	図表	言語	情報媒体	
-benji	送る	言語	情報媒体	
-cradi	無線通信	言語	情報媒体	
-tivni	放送	言語	情報媒体	
-fonxa	電話	言語	情報媒体	
-skami	コンピュータ	言語	情報媒体	
-vidni	スクリーン	言語	情報媒体	
-kacma	カメラ	言語	情報媒体	
-notci	覚え書き	言語	メッセージ	
-mifra	暗号	言語	メッセージ	
-mipri	匿う	言語	メッセージ	
-mrilu	郵便	言語	メッセージ	
-tcita	札	言語	メッセージ	
-citri	歴史	言語	メッセージ	
-lisri	物語	言語	メッセージ	
-cusku	表す	言語	メッセージ	
-tavla	語る	言語	メッセージ	
-skicu	描写	言語	メッセージ	
-stidi	示唆	言語	メッセージ	
-jarco	表示	言語	メッセージ	
-cmoni	呻く	言語	メッセージ	
-frumu	しかめつら	言語	メッセージ	
-cisma	ほほえむ	言語	メッセージ	
-pinka	コメント	言語	メッセージ	
-casnu	話し合う	言語	コミュニケーション	
-spuda	返信	言語	コミュニケーション	
-preti	質問	言語	コミュニケーション	
-danfu	答える	言語	コミュニケーション	
-cpedu	頼む	言語	コミュニケーション	
-darlu	擁護	言語	コミュニケーション	
-fraxu	許す	言語	コミュニケーション	
-friti	進呈	言語	コミュニケーション	
-kajde	警告	言語	コミュニケーション	
-nupre	約束	言語	コミュニケーション	
-pante	抗議	言語	コミュニケーション	
-pikci	請う	言語	コミュニケーション	
-rinsa	挨拶	言語	コミュニケーション	
-tcica	欺く	言語	コミュニケーション	
-mucti	形而上	言語	認知	
-menli	精神	言語	認知	
-xanri	想像	言語	認知	
-pruxi	魂	言語	認知	
-sanji	意識	言語	認知	
-pensi	思慮	言語	認知	
-prenu	人	言語	認知	
-sevzi	自己	言語	認知	
-sidbo	概念	言語	認知	
-nabmi	問題	言語	認知	
-cilre	習う	言語	認知	
-ctuca	教える	言語	認知	
-ckule	学習施設	言語	認知	
-datni	情報	言語	認知	
-djuno	知る	言語	認知	
-facki	発見	言語	認知	
-fatci	事実	言語	認知	
-jdice	決める	言語	認知	
-jetnu	真実	言語	認知	
-jitfa	偽（ぎ）	言語	認知	
-jijnu	直感	言語	認知	
-jimpe	理解	言語	認知	
-jinvi	考える	言語	認知	
-kanxe	連言	言語	認知	
-krici	信じる	言語	認知	
-logji	論理	言語	認知	
-morji	思い出す	言語	認知	
-natfe	否定	言語	認知	
-nuzba	ニュース	言語	認知	
-senpi	懐疑	言語	認知	
-sitna	引用	言語	認知	
-smadi	推測	言語	認知	
-sruma	仮定	言語	認知	
-tugni	賛成	言語	認知	
-vlina	選言	言語	認知	
-vreji	記録	言語	認知	
-xusra	断言	言語	認知	
-zasti	実在する	言語	認知	
-bridi	命題	言語	認知	
-birti	確信	言語	認知	
-ciksi	説明	言語	認知	
-cipra	試験	言語	認知	
-lanli	分析	言語	認知	
-saske	科学	言語	認知	
-sucta	抽象	言語	認知	
-tadji	方法	言語	認知	
-tadni	学ぶ	言語	認知	
-jicmu	基礎	言語	認知	
-manri	観点	言語	認知	
-mansa	満足	言語	認知	
-simlu	らしい	言語	認知	
-smuni	意味	言語	認知	
-srana	関連	言語	認知	
-cimde	次元	空間		
-canlu	空間	空間		
-diklo	局所	空間		
-stuzi	場所	空間		
-nenri	中	空間	相対位置	
-bartu	外部	空間	相対位置	
-mlana	側（がわ）	空間	相対位置	
-lamji	隣接	空間	相対位置	
-pritu	右	空間	相対位置	
-zunle	左	空間	相対位置	
-crane	前方	空間	相対位置	
-trixe	後ろ	空間	相対位置	
-cpana	の表面上に	空間	相対位置	
-gapru	上	空間	相対位置	
-cnita	下	空間	相対位置	
-dizlo	低い	空間	相対位置	
-galtu	高い	空間	相対位置	
-ragve	横断	空間	相対位置	
-berti	北	空間	相対位置	
-snanu	南	空間	相対位置	
-stici	西	空間	相対位置	
-stuna	東	空間	相対位置	
-darno	遠い	空間	相対位置	
-jibni	近い	空間	相対位置	
-sruri	包囲	空間	相対位置	
-vasru	含む	空間	相対位置	
-kalri	開く	空間	相対位置	
-ganlo	閉鎖	空間	相対位置	
-jorne	結合	空間	相対位置	
-kruca	交差	空間	相対位置	
-midju	中央	空間	相対位置	
-sepli	分離	空間	相対位置	
-sraji	垂直	空間	方向	
-pinta	水平	空間	方向	
-salpo	傾斜	空間	方向	
-tcena	伸びる	空間	範囲	
-kuspe	範囲	空間	範囲	
-loldi	床	空間	範囲	
-drudi	屋根	空間	範囲	
-tordu	短い	空間	寸法	
-clani	長い	空間	寸法	
-jarki	狭い	空間	寸法	
-ganra	広い	空間	寸法	
-cinla	細い	空間	寸法	
-rotsu	厚い	空間	寸法	
-plana	肥満	空間	寸法	
-condi	深い	空間	寸法	
-caxno	浅い	空間	寸法	
-tarmi	形	空間	フォーム	
-mokca	点	空間	点	
-jipno	先端	空間	点	
-kojna	角（かど）	空間	点	
-linji	線	空間	線	
-sirji	まっすぐ	空間	線	
-kruvi	湾曲	空間	線	
-clupa	回路	空間	線	
-sarlu	螺旋	空間	線	
-jgena	結び目	空間	線	
-jimca	枝	空間	線	
-sefta	表面	空間	線	
-jganu	角度	空間	線	
-plita	二次元面	空間	線	
-kurfa	四角形	空間	線	
-karda	カード	空間	線	
-cukla	円い	空間	線	
-djine	環	空間	線	
-punli	突起	空間	線	
-kevna	穴	空間	線	
-bliku	塊	空間	本体	
-kubli	立方体	空間	本体	
-tanbo	板	空間	本体	
-konju	錐（すい）	空間	本体	
-slanu	筒	空間	本体	
-tubnu	筒	空間	本体	
-lenjo	レンズ	空間	本体	
-cfine	角柱	空間	本体	
-gacri	覆い	空間	材質形状	
-lunbe	裸	空間	材質形状	
-derxi	堆積	空間	材質形状	
-bolci	球	空間	材質形状	
-dirgo	雫	空間	材質形状	
-boxfo	シーツ	空間	材質形状	
-karli	襟	空間	材質形状	
-cilta	糸	空間	材質形状	
-tapla	瓦	空間	材質形状	
-cinje	しわ	空間	材質形状	
-fenra	裂け目	空間	材質形状	
-foldi	地帯	空間	材質形状	
-senta	層	空間	材質形状	
-snuji	サンドイッチ	空間	材質形状	
-panlo	スライス	空間	材質形状	
-papri	ページ	空間	材質形状	
-bakfu	束	空間	材質形状	
-skuro	溝	空間	材質形状	
-bidju	数珠	空間	材質形状	
-genxu	鉤（かぎ）	空間	材質形状	
-grana	杖	空間	材質形状	
-jesni	針	空間	材質形状	
-calku	殻	空間	材質形状	
-pilka	皮	空間	材質形状	
-dasri	帯（おび）	空間	材質形状	
-culno	充満	空間	材質形状	
-kunti	空（から）	空間	材質形状	
-tagji	かっちり	空間	材質形状	
-kluza	緩い	空間	材質形状	
-trati	張る	空間	材質形状	
-korcu	歪む	空間	材質形状	
-bargu	アーチ	空間	材質形状	
-cabna	現在	時間		
-balvi	未来	時間		
-purci	過去	時間		
-temci	経過時間	時間		
-citno	若い	時間		
-clira	早い	時間		
-lerci	遅い（時期）	時間		
-djedi	日	時間	日	
-cerni	朝	時間	日	
-donri	昼間	時間	日	
-nicte	夜	時間	日	
-vanci	夕方	時間	日	
-murse	黎明	時間	日	
-detri	日付	時間	カレンダー	
-jeftu	週	時間	カレンダー	
-masti	暦月	時間	カレンダー	
-nanca	年	時間	カレンダー	
-cedra	時代	時間	カレンダー	
-citsi	季節	時間	カレンダー	
-dunra	冬	時間	カレンダー	
-vensa	春	時間	カレンダー	
-crisa	夏	時間	カレンダー	
-critu	秋	時間	カレンダー	
-junla	時計	時間	時計	
-tcika	時刻	時間	時計	
-cacra	時間	時間	時計	
-mentu	分	時間	時計	
-snidu	秒	時間	時計	
-pruce	過程	プロセス		
-fasnu	事	プロセス		
-tcini	状況	プロセス		
-tarti	振舞う	プロセス		
-lifri	経験	プロセス		
-bapli	力	プロセス		
-cfari	始まる	プロセス		
-ranji	継続	プロセス		
-fanmo	終わり	プロセス		
-rapli	繰り返す	プロセス		
-kansa	伴う	プロセス		
-cumki	ありえる	プロセス		
-lakne	ありえる	プロセス		
-fanta	防ぐ	プロセス		
-binxo	成る	プロセス		
-canci	消える	プロセス		
-farvi	発達	プロセス		
-cafne	頻繁	プロセス		
-dikni	周期的	プロセス		
-vitci	不定	プロセス		
-dimna	宿命	プロセス		
-xaksu	費やす	プロセス		
-festi	ごみ	プロセス		
-krefu	繰り返し	プロセス		
-rarna	自然	プロセス		
-renvi	耐え抜く	プロセス		
-rilti	リズム	プロセス		
-stika	調整	プロセス		
-suksa	突然	プロセス		
-vitno	永続	プロセス		
-gasnu	する	プロセス	因果	
-jalge	結果	プロセス	因果	
-krinu	理由	プロセス	因果	
-mukti	動機	プロセス	因果	
-nibli	必然	プロセス	因果	
-rinka	原因	プロセス	因果	
-zukte	行為	プロセス	因果	
-krasi	起源	プロセス	因果	
-sarcu	必須	プロセス	因果	
-nitcu	要する	プロセス	因果	
-jitro	制御	プロセス	制御プロセス	
-gidva	案内	プロセス	制御プロセス	
-xlura	影響	プロセス	制御プロセス	
-bredi	準備	プロセス	制御プロセス	
-denpa	待つ	プロセス	制御プロセス	
-sisti	終了	プロセス	制御プロセス	
-dicra	阻止	プロセス	制御プロセス	
-zunti	干渉	プロセス	制御プロセス	
-fliba	失敗	プロセス	制御プロセス	
-frili	容易	プロセス	制御プロセス	
-nandu	難しい	プロセス	制御プロセス	
-vlipa	力能	プロセス	制御プロセス	
-kakne	できる	プロセス	制御プロセス	
-sutra	速い	プロセス	制御プロセス	
-masno	遅い（速度）	プロセス	制御プロセス	
-platu	計画	プロセス	制御プロセス	
-prali	利益	プロセス	制御プロセス	
-randa	降伏	プロセス	制御プロセス	
-snada	成功	プロセス	制御プロセス	
-snuti	事故	プロセス	制御プロセス	
-srera	誤る	プロセス	制御プロセス	
-troci	努める	プロセス	制御プロセス	
-cuntu	沙汰	プロセス	対話活動	
-lacri	依存	プロセス	対話活動	
-selfu	奉仕	プロセス	対話活動	
-Pleji	支払う	プロセス	対話活動	
-sidju	助ける	プロセス	対話活動	
-jatna	指揮者	プロセス	対話活動	
-minde	命令	プロセス	対話活動	
-tinbe	服従	プロセス	対話活動	
-curmi	許容	プロセス	対話活動	
-fuzme	責任	プロセス	対話活動	
-sfasa	罰	プロセス	対話活動	
-fapro	対抗	プロセス	争い	
-damba	格闘	プロセス	争い	
-jinga	勝つ	プロセス	争い	
-nutli	中性	プロセス	争い	
-panpi	平和	プロセス	争い	
-jivna	競う	プロセス	争い	
-bradi	敵	プロセス	争い	
-venfu	報復	プロセス	争い	
-farna	方向	動作		
-penmi	会う	動作		
+girzu	組	構造	群
+gunma	群	構造	群
+cmima	属する	構造	群
+pagbu	部分	構造	群
+klesi	部門	構造	群
+jbini	間	構造	群
+cuxna	選ぶ	構造	群
+mupli	例	構造	群
+basti	交替	構造	群
+kampu	普遍	構造	群
+fadni	平凡	構造	群
+rirci	珍しい	構造	群
+ralju	主要	構造	群
+steci	特質	構造	群
+manfo	均一	構造	群
+vrici	様々	構造	群
+cnano	模範	構造	群
+bende	仲間	構造	群
+stura	構造	構造	混沌/秩序
+ciste	体系	構造	混沌/秩序
+morna	型	構造	混沌/秩序
+ganzu	組織する	構造	混沌/秩序
+cnici	整然	構造	混沌/秩序
+kalsa	混沌	構造	混沌/秩序
+cunso	無作為	構造	混沌/秩序
+pluja	複雑	構造	混沌/秩序
+sampu	簡単	構造	混沌/秩序
+krati	代表	構造	混沌/秩序
+sarxe	調和	構造	混沌/秩序
+vanbi	環境	構造	混沌/秩序
+javni	規則	構造	混沌/秩序
+porsi	序列	構造	線形秩序
+liste	目録	構造	線形秩序
+fatne	逆	構造	線形秩序
+lidne	先行	構造	線形秩序
+korbi	端	構造	範囲
+jimte	限度	構造	範囲
+traji	極致	構造	範囲
+milxe	温和	構造	範囲
+bancu	超越	構造	範囲
+karbi	比較	構造	比較
+mapti	相応しい	構造	比較
+cimni	無限	構造	比較
+zasni	一時的	構造	比較
+mutce	とても	構造	比較
+barda	大きい	構造	比較
+cmalu	小さい	構造	比較
+zmadu	卓越	構造	比較
+mleca	少ない	構造	比較
+zenba	増加	構造	比較
+jdika	減る	構造	比較
+stodi	不変	構造	比較
+cenba	変化	構造	比較
+banro	育つ	構造	比較
+ctaru	潮	構造	比較
+jmina	加える	構造	比較
+banzu	充分	構造	比較
+dukse	過剰	構造	比較
+claxu	欠く	構造	比較
+dunli	同等	構造	比較
+simsa	相似	構造	比較
+drata	他	構造	比較
+mintu	同種	構造	比較
+frica	違う	構造	比較
+dukti	正反対	構造	比較
+cmaci	数学	構造	数学
+mekso	MEX	構造	数学
+namcu	数	構造	数学
+kancu	数える	構造	数学
+kanji	計算	構造	数学
+saclu	小数	構造	数学
+sumji	合計	構造	数学
+vimcu	除去	構造	数学
+pilji	乗算	構造	数学
+dilcu	商	構造	数学
+frinu	分数	構造	数学
+tenfa	指数関数	構造	数学
+dugri	対数	構造	数学
+fancu	関数	構造	数学
+sumti	項	構造	数学
+sinso	正弦	構造	数学
+tanjo	タンジェント	構造	数学
+xadba	半分	構造	数学
+judri	住所	構造	数学
+bangu	言語	言語
+sinxa	記号	言語
+fanva	翻訳	言語
+cmavo	機能語	言語
+gadri	冠詞	言語
+gerna	文法	言語
+jufra	文	言語
+rafsi	形態素	言語
+rimni	韻	言語
+slaka	音節	言語
+tanru	複合語	言語
+valsi	言葉	言語
+broda	第一 selbri 変数	言語
+brode	第二 selbri 変数	言語
+brodi	第三 selbri 変数	言語
+brodo	第四 selbri 変数	言語
+brodu	第五 selbri 変数	言語
+cmene	名前	言語
+gismu	語根	言語
+lujvo	合成語	言語
+lerfu	文字	言語
+pandi	句読点	言語
+ciska	書く	言語	情報媒体
+tcidu	読む	言語	情報媒体
+cukta	本	言語	情報媒体
+xatra	手紙	言語	情報媒体
+karni	誌	言語	情報媒体
+cartu	図表	言語	情報媒体
+benji	送る	言語	情報媒体
+cradi	無線通信	言語	情報媒体
+tivni	放送	言語	情報媒体
+fonxa	電話	言語	情報媒体
+skami	コンピュータ	言語	情報媒体
+vidni	スクリーン	言語	情報媒体
+kacma	カメラ	言語	情報媒体
+notci	覚え書き	言語	メッセージ
+mifra	暗号	言語	メッセージ
+mipri	匿う	言語	メッセージ
+mrilu	郵便	言語	メッセージ
+tcita	札	言語	メッセージ
+citri	歴史	言語	メッセージ
+lisri	物語	言語	メッセージ
+cusku	表す	言語	メッセージ
+tavla	語る	言語	メッセージ
+skicu	描写	言語	メッセージ
+stidi	示唆	言語	メッセージ
+jarco	表示	言語	メッセージ
+cmoni	呻く	言語	メッセージ
+frumu	しかめつら	言語	メッセージ
+cisma	ほほえむ	言語	メッセージ
+pinka	コメント	言語	メッセージ
+casnu	話し合う	言語	コミュニケーション
+spuda	返信	言語	コミュニケーション
+preti	質問	言語	コミュニケーション
+danfu	答える	言語	コミュニケーション
+cpedu	頼む	言語	コミュニケーション
+darlu	擁護	言語	コミュニケーション
+fraxu	許す	言語	コミュニケーション
+friti	進呈	言語	コミュニケーション
+kajde	警告	言語	コミュニケーション
+nupre	約束	言語	コミュニケーション
+pante	抗議	言語	コミュニケーション
+pikci	請う	言語	コミュニケーション
+rinsa	挨拶	言語	コミュニケーション
+tcica	欺く	言語	コミュニケーション
+mucti	形而上	言語	認知
+menli	精神	言語	認知
+xanri	想像	言語	認知
+pruxi	魂	言語	認知
+sanji	意識	言語	認知
+pensi	思慮	言語	認知
+prenu	人	言語	認知
+sevzi	自己	言語	認知
+sidbo	概念	言語	認知
+nabmi	問題	言語	認知
+cilre	習う	言語	認知
+ctuca	教える	言語	認知
+ckule	学習施設	言語	認知
+datni	情報	言語	認知
+djuno	知る	言語	認知
+facki	発見	言語	認知
+fatci	事実	言語	認知
+jdice	決める	言語	認知
+jetnu	真実	言語	認知
+jitfa	偽（ぎ）	言語	認知
+jijnu	直感	言語	認知
+jimpe	理解	言語	認知
+jinvi	考える	言語	認知
+kanxe	連言	言語	認知
+krici	信じる	言語	認知
+logji	論理	言語	認知
+morji	思い出す	言語	認知
+natfe	否定	言語	認知
+nuzba	ニュース	言語	認知
+senpi	懐疑	言語	認知
+sitna	引用	言語	認知
+smadi	推測	言語	認知
+sruma	仮定	言語	認知
+tugni	賛成	言語	認知
+vlina	選言	言語	認知
+vreji	記録	言語	認知
+xusra	断言	言語	認知
+zasti	実在する	言語	認知
+bridi	命題	言語	認知
+birti	確信	言語	認知
+ciksi	説明	言語	認知
+cipra	試験	言語	認知
+lanli	分析	言語	認知
+saske	科学	言語	認知
+sucta	抽象	言語	認知
+tadji	方法	言語	認知
+tadni	学ぶ	言語	認知
+jicmu	基礎	言語	認知
+manri	観点	言語	認知
+mansa	満足	言語	認知
+simlu	らしい	言語	認知
+smuni	意味	言語	認知
+srana	関連	言語	認知
+cimde	次元	空間
+canlu	空間	空間
+diklo	局所	空間
+stuzi	場所	空間
+nenri	中	空間	相対位置
+bartu	外部	空間	相対位置
+mlana	側（がわ）	空間	相対位置
+lamji	隣接	空間	相対位置
+pritu	右	空間	相対位置
+zunle	左	空間	相対位置
+crane	前方	空間	相対位置
+trixe	後ろ	空間	相対位置
+cpana	の表面上に	空間	相対位置
+gapru	上	空間	相対位置
+cnita	下	空間	相対位置
+dizlo	低い	空間	相対位置
+galtu	高い	空間	相対位置
+ragve	横断	空間	相対位置
+berti	北	空間	相対位置
+snanu	南	空間	相対位置
+stici	西	空間	相対位置
+stuna	東	空間	相対位置
+darno	遠い	空間	相対位置
+jibni	近い	空間	相対位置
+sruri	包囲	空間	相対位置
+vasru	含む	空間	相対位置
+kalri	開く	空間	相対位置
+ganlo	閉鎖	空間	相対位置
+jorne	結合	空間	相対位置
+kruca	交差	空間	相対位置
+midju	中央	空間	相対位置
+sepli	分離	空間	相対位置
+sraji	垂直	空間	方向
+pinta	水平	空間	方向
+salpo	傾斜	空間	方向
+tcena	伸びる	空間	範囲
+kuspe	範囲	空間	範囲
+loldi	床	空間	範囲
+drudi	屋根	空間	範囲
+tordu	短い	空間	寸法
+clani	長い	空間	寸法
+jarki	狭い	空間	寸法
+ganra	広い	空間	寸法
+cinla	細い	空間	寸法
+rotsu	厚い	空間	寸法
+plana	肥満	空間	寸法
+condi	深い	空間	寸法
+caxno	浅い	空間	寸法
+tarmi	形	空間	フォーム
+mokca	点	空間	点
+jipno	先端	空間	点
+kojna	角（かど）	空間	点
+linji	線	空間	線
+sirji	まっすぐ	空間	線
+kruvi	湾曲	空間	線
+clupa	回路	空間	線
+sarlu	螺旋	空間	線
+jgena	結び目	空間	線
+jimca	枝	空間	線
+sefta	表面	空間	線
+jganu	角度	空間	線
+plita	二次元面	空間	線
+kurfa	四角形	空間	線
+karda	カード	空間	線
+cukla	円い	空間	線
+djine	環	空間	線
+punli	突起	空間	線
+kevna	穴	空間	線
+bliku	塊	空間	本体
+kubli	立方体	空間	本体
+tanbo	板	空間	本体
+konju	錐（すい）	空間	本体
+slanu	筒	空間	本体
+tubnu	筒	空間	本体
+lenjo	レンズ	空間	本体
+cfine	角柱	空間	本体
+gacri	覆い	空間	材質形状
+lunbe	裸	空間	材質形状
+derxi	堆積	空間	材質形状
+bolci	球	空間	材質形状
+dirgo	雫	空間	材質形状
+boxfo	シーツ	空間	材質形状
+karli	襟	空間	材質形状
+cilta	糸	空間	材質形状
+tapla	瓦	空間	材質形状
+cinje	しわ	空間	材質形状
+fenra	裂け目	空間	材質形状
+foldi	地帯	空間	材質形状
+senta	層	空間	材質形状
+snuji	サンドイッチ	空間	材質形状
+panlo	スライス	空間	材質形状
+papri	ページ	空間	材質形状
+bakfu	束	空間	材質形状
+skuro	溝	空間	材質形状
+bidju	数珠	空間	材質形状
+genxu	鉤（かぎ）	空間	材質形状
+grana	杖	空間	材質形状
+jesni	針	空間	材質形状
+calku	殻	空間	材質形状
+pilka	皮	空間	材質形状
+dasri	帯（おび）	空間	材質形状
+culno	充満	空間	材質形状
+kunti	空（から）	空間	材質形状
+tagji	かっちり	空間	材質形状
+kluza	緩い	空間	材質形状
+trati	張る	空間	材質形状
+korcu	歪む	空間	材質形状
+bargu	アーチ	空間	材質形状
+cabna	現在	時間
+balvi	未来	時間
+purci	過去	時間
+temci	経過時間	時間
+citno	若い	時間
+clira	早い	時間
+lerci	遅い（時期）	時間
+djedi	日	時間	日
+cerni	朝	時間	日
+donri	昼間	時間	日
+nicte	夜	時間	日
+vanci	夕方	時間	日
+murse	黎明	時間	日
+detri	日付	時間	カレンダー
+jeftu	週	時間	カレンダー
+masti	暦月	時間	カレンダー
+nanca	年	時間	カレンダー
+cedra	時代	時間	カレンダー
+citsi	季節	時間	カレンダー
+dunra	冬	時間	カレンダー
+vensa	春	時間	カレンダー
+crisa	夏	時間	カレンダー
+critu	秋	時間	カレンダー
+junla	時計	時間	時計
+tcika	時刻	時間	時計
+cacra	時間	時間	時計
+mentu	分	時間	時計
+snidu	秒	時間	時計
+pruce	過程	プロセス
+fasnu	事	プロセス
+tcini	状況	プロセス
+tarti	振舞う	プロセス
+lifri	経験	プロセス
+bapli	力	プロセス
+cfari	始まる	プロセス
+ranji	継続	プロセス
+fanmo	終わり	プロセス
+rapli	繰り返す	プロセス
+kansa	伴う	プロセス
+cumki	ありえる	プロセス
+lakne	ありえる	プロセス
+fanta	防ぐ	プロセス
+binxo	成る	プロセス
+canci	消える	プロセス
+farvi	発達	プロセス
+cafne	頻繁	プロセス
+dikni	周期的	プロセス
+vitci	不定	プロセス
+dimna	宿命	プロセス
+xaksu	費やす	プロセス
+festi	ごみ	プロセス
+krefu	繰り返し	プロセス
+rarna	自然	プロセス
+renvi	耐え抜く	プロセス
+rilti	リズム	プロセス
+stika	調整	プロセス
+suksa	突然	プロセス
+vitno	永続	プロセス
+gasnu	する	プロセス	因果
+jalge	結果	プロセス	因果
+krinu	理由	プロセス	因果
+mukti	動機	プロセス	因果
+nibli	必然	プロセス	因果
+rinka	原因	プロセス	因果
+zukte	行為	プロセス	因果
+krasi	起源	プロセス	因果
+sarcu	必須	プロセス	因果
+nitcu	要する	プロセス	因果
+jitro	制御	プロセス	制御プロセス
+gidva	案内	プロセス	制御プロセス
+xlura	影響	プロセス	制御プロセス
+bredi	準備	プロセス	制御プロセス
+denpa	待つ	プロセス	制御プロセス
+sisti	終了	プロセス	制御プロセス
+dicra	阻止	プロセス	制御プロセス
+zunti	干渉	プロセス	制御プロセス
+fliba	失敗	プロセス	制御プロセス
+frili	容易	プロセス	制御プロセス
+nandu	難しい	プロセス	制御プロセス
+vlipa	力能	プロセス	制御プロセス
+kakne	できる	プロセス	制御プロセス
+sutra	速い	プロセス	制御プロセス
+masno	遅い（速度）	プロセス	制御プロセス
+platu	計画	プロセス	制御プロセス
+prali	利益	プロセス	制御プロセス
+randa	降伏	プロセス	制御プロセス
+snada	成功	プロセス	制御プロセス
+snuti	事故	プロセス	制御プロセス
+srera	誤る	プロセス	制御プロセス
+troci	努める	プロセス	制御プロセス
+cuntu	沙汰	プロセス	対話活動
+lacri	依存	プロセス	対話活動
+selfu	奉仕	プロセス	対話活動
+Pleji	支払う	プロセス	対話活動
+sidju	助ける	プロセス	対話活動
+jatna	指揮者	プロセス	対話活動
+minde	命令	プロセス	対話活動
+tinbe	服従	プロセス	対話活動
+curmi	許容	プロセス	対話活動
+fuzme	責任	プロセス	対話活動
+sfasa	罰	プロセス	対話活動
+fapro	対抗	プロセス	争い
+damba	格闘	プロセス	争い
+jinga	勝つ	プロセス	争い
+nutli	中性	プロセス	争い
+panpi	平和	プロセス	争い
+jivna	競う	プロセス	争い
+bradi	敵	プロセス	争い
+venfu	報復	プロセス	争い
+farna	方向	動作
+penmi	会う	動作
 klama	行来	動作	自己移動	抽象概念
 litru	旅	動作	自己移動	抽象概念
 cliva	離れる	動作	自己移動	抽象概念
@@ -458,12 +458,12 @@ torni	ねじれ	動作	自己移動	受動的
 slilu	振動	動作	自己移動	受動的
 flecu	流れる	動作	自己移動	受動的
 jetce	ジェット	動作	自己移動	受動的
-galfi	改変	動作	物体操作	
-sisku	探す	動作	物体操作	
-jmaji	集まる	動作	物体操作	
-sabji	供給	動作	物体操作	
-fatri	分配	動作	物体操作	
-fendi	分ける	動作	物体操作	
+galfi	改変	動作	物体操作
+sisku	探す	動作	物体操作
+jmaji	集まる	動作	物体操作
+sabji	供給	動作	物体操作
+fatri	分配	動作	物体操作
+fendi	分ける	動作	物体操作
 simxu	相互	動作	物体操作	移動
 muvdu	動く	動作	物体操作	移動
 ralte	保持	動作	物体操作	移動
@@ -507,50 +507,50 @@ jicla	かき混ぜる	動作	物体操作	流体
 cokcu	吸収	動作	物体操作	流体
 rinci	排出	動作	物体操作	流体
 sakci	吸引	動作	物体操作	流体
-dacti	物体	物理世界	オントロジー	
-spisa	かけら	物理世界	オントロジー	
-ckini	親戚	物理世界	オントロジー	
-tcila	特徴	物理世界	オントロジー	
-ckaji	性質	物理世界	オントロジー	
-jinzi	内在	物理世界	オントロジー	
-panra	対応	物理世界	オントロジー	
-ratni	元素	物理世界	基本概念	
-kantu	量子	物理世界	基本概念	
-selci	分子	物理世界	基本概念	
-nejni	エネルギー	物理世界	基本概念	
-dirce	放射	物理世界	基本概念	
-boxna	波	物理世界	基本概念	
-maksi	磁力	物理世界	基本概念	
-dikca	電気	物理世界	基本概念	
-jdari	固い	物理世界	物性	
-tsali	強い	物理世界	物性	
-ruble	弱い	物理世界	物性	
-tinsa	固定	物理世界	物性	
-ranti	軟らかい	物理世界	物性	
-ralci	繊細	物理世界	物性	
-pruni	弾性	物理世界	物性	
-junta	重量	物理世界	物性	
-linto	軽い	物理世界	物性	
-tilju	重い	物理世界	物性	
-glare	熱い	物理世界	物性	
-lenku	冷たい	物理世界	物性	
-cilmo	濡れる	物理世界	物性	
-sudga	乾燥	物理世界	物性	
-denmi	濃厚	物理世界	物性	
-viknu	粘性	物理世界	物性	
-snipa	粘着	物理世界	物性	
-kinli	鋭い	物理世界	物性	
-klina	透過	物理世界	物性	
-minra	反映	物理世界	物性	
-tengu	質感	物理世界	物性	
-xutla	滑らか	物理世界	物性	
-rufsu	粗い	物理世界	物性	
-merli	計測	物理世界	計測	
-ckilu	測量単位	物理世界	計測	
-gradu	単位	物理世界	計測	
-klani	量	物理世界	計測	
-parbi	比率	物理世界	計測	
-satci	精確	物理世界	計測	
+dacti	物体	物理世界	オントロジー
+spisa	かけら	物理世界	オントロジー
+ckini	親戚	物理世界	オントロジー
+tcila	特徴	物理世界	オントロジー
+ckaji	性質	物理世界	オントロジー
+jinzi	内在	物理世界	オントロジー
+panra	対応	物理世界	オントロジー
+ratni	元素	物理世界	基本概念
+kantu	量子	物理世界	基本概念
+selci	分子	物理世界	基本概念
+nejni	エネルギー	物理世界	基本概念
+dirce	放射	物理世界	基本概念
+boxna	波	物理世界	基本概念
+maksi	磁力	物理世界	基本概念
+dikca	電気	物理世界	基本概念
+jdari	固い	物理世界	物性
+tsali	強い	物理世界	物性
+ruble	弱い	物理世界	物性
+tinsa	固定	物理世界	物性
+ranti	軟らかい	物理世界	物性
+ralci	繊細	物理世界	物性
+pruni	弾性	物理世界	物性
+junta	重量	物理世界	物性
+linto	軽い	物理世界	物性
+tilju	重い	物理世界	物性
+glare	熱い	物理世界	物性
+lenku	冷たい	物理世界	物性
+cilmo	濡れる	物理世界	物性
+sudga	乾燥	物理世界	物性
+denmi	濃厚	物理世界	物性
+viknu	粘性	物理世界	物性
+snipa	粘着	物理世界	物性
+kinli	鋭い	物理世界	物性
+klina	透過	物理世界	物性
+minra	反映	物理世界	物性
+tengu	質感	物理世界	物性
+xutla	滑らか	物理世界	物性
+rufsu	粗い	物理世界	物性
+merli	計測	物理世界	計測
+ckilu	測量単位	物理世界	計測
+gradu	単位	物理世界	計測
+klani	量	物理世界	計測
+parbi	比率	物理世界	計測
+satci	精確	物理世界	計測
 mitre	メートル	物理世界	計測	メトリック
 radno	ラジアン	物理世界	計測	メトリック
 stero	ステラジアン	物理世界	計測	メトリック
@@ -585,9 +585,9 @@ femti	フェムト	物理世界	計測	10の指数
 xatsi	アト	物理世界	計測	10の指数
 zepti	ゼプト	物理世界	計測	10の指数
 gocti	ヨクト	物理世界	計測	10の指数
-marji	物質	物理世界	物質	
-fagri	火	物理世界	物質	
-lindi	雷	物理世界	物質	
+marji	物質	物理世界	物質
+fagri	火	物理世界	物質
+lindi	雷	物理世界	物質
 sligu	固体	物理世界	物質	集合状態
 panje	スポンジ	物理世界	物質	集合状態
 pulce	塵	物理世界	物質	集合状態
@@ -629,16 +629,16 @@ zinki	亜鉛	物理世界	物質	元素
 tirse	鉄	物理世界	物質	元素
 cnisa	鉛	物理世界	物質	元素
 romge	クロム	物理世界	物質	元素
-munje	世界	自然	銀河	
-tarci	星	自然	銀河	
-plini	惑星	自然	銀河	
-mluni	衛星	自然	銀河	
-kensa	宇宙	自然	銀河	
-solri	太陽	自然	銀河	
-terdi	地球	自然	銀河	
-lunra	月	自然	銀河	
-tumla	陸	自然	地球	
-cmana	山	自然	地球	
+munje	世界	自然	銀河
+tarci	星	自然	銀河
+plini	惑星	自然	銀河
+mluni	衛星	自然	銀河
+kensa	宇宙	自然	銀河
+solri	太陽	自然	銀河
+terdi	地球	自然	銀河
+lunra	月	自然	銀河
+tumla	陸	自然	地球
+cmana	山	自然	地球
 djacu	水	自然	地球	水圏
 xamsi	海	自然	地球	水圏
 zbani	沿岸	自然	地球	水圏
@@ -669,26 +669,26 @@ kolme	石炭	自然	地球	鉱物
 ctile	石油	自然	地球	鉱物
 tarla	タール	自然	地球	鉱物
 dertu	土壌	自然	地球	鉱物
-jutsi	生物種	生命		
-jmive	生きている	生命		
-morsi	死	生命		
-catra	殺す	生命		
-makcu	成熟	生命		
-xadni	肉体	生命		
-panzi	子孫	生命		
-jgina	遺伝子	生命		
-lanbi	たんぱく質	生命		
-cecmu	共同体	生命		
-fusra	腐敗	生命		
-ferti	肥沃	生命		
-jurme	細菌	生命		
-vidru	病原体	生命		
-spati	植物	生命	植物	
-tricu	木	生命	植物	
-ckunu	松	生命	植物	
-srasu	草	生命	植物	
-clika	コケ類	生命	植物	
-mledi	菌類	生命	植物	
+jutsi	生物種	生命
+jmive	生きている	生命
+morsi	死	生命
+catra	殺す	生命
+makcu	成熟	生命
+xadni	肉体	生命
+panzi	子孫	生命
+jgina	遺伝子	生命
+lanbi	たんぱく質	生命
+cecmu	共同体	生命
+fusra	腐敗	生命
+ferti	肥沃	生命
+jurme	細菌	生命
+vidru	病原体	生命
+spati	植物	生命	植物
+tricu	木	生命	植物
+ckunu	松	生命	植物
+srasu	草	生命	植物
+clika	コケ類	生命	植物
+mledi	菌類	生命	植物
 genja	根	生命	植物	部分
 balji	球根	生命	植物	部分
 stani	茎	生命	植物	部分
@@ -729,8 +729,8 @@ rismi	稲	生命	植物	穀物
 cindu	ブナ科	生命	植物	その他の特定の植物
 tanko	タバコ（葉）	生命	植物	その他の特定の植物
 marna	麻	生命	植物	その他の特定の植物
-danlu	動物	生命	動物	
-cilce	野生	生命	動物	
+danlu	動物	生命	動物
+cilce	野生	生命	動物
 curnu	無脊椎動物	生命	動物	動物分類
 cinki	昆虫	生命	動物	動物分類
 Finpe	魚	生命	動物	動物分類
@@ -823,10 +823,10 @@ livga	肝臓	生命	動物	内臓
 vibna	膣	生命	動物	内臓
 gutra	子宮	生命	動物	内臓
 ganti	生殖腺	生命	動物	内臓
-vasxu	呼吸	生命	生理学	
-kafke	咳	生命	生理学	
-senci	くしゃみ	生命	生理学	
-xasne	汗	生命	生理学	
+vasxu	呼吸	生命	生理学
+kafke	咳	生命	生理学
+senci	くしゃみ	生命	生理学
+xasne	汗	生命	生理学
 citka	食べる	生命	生理学	消化
 pinxe	飲む	生命	生理学	消化
 cidja	食物	生命	生理学	消化
@@ -860,14 +860,14 @@ kelci	遊ぶ	生命	生理学	振る舞い
 tcaci	習慣	生命	生理学	振る舞い
 xabju	住む	生命	生理学	振る舞い
 zdani	家	生命	生理学	振る舞い
-ganse	感知	生命	知覚	
-tunta	突く	生命	知覚	
-zgana	観察	生命	知覚	
-carmi	激烈	生命	知覚	
-kandi	淡い	生命	知覚	
-savru	ノイズ	生命	知覚	
-kukte	おいしい	生命	知覚	
-cpina	辛い（からい）	生命	知覚	
+ganse	感知	生命	知覚
+tunta	突く	生命	知覚
+zgana	観察	生命	知覚
+carmi	激烈	生命	知覚
+kandi	淡い	生命	知覚
+savru	ノイズ	生命	知覚
+kukte	おいしい	生命	知覚
+cpina	辛い（からい）	生命	知覚
 sance	音	生命	知覚	聴覚
 tirna	聞く	生命	知覚	聴覚
 cladu	うるさい	生命	知覚	聴覚
@@ -904,439 +904,439 @@ cortu	痛い	生命	知覚	その他
 xagji	飢える	生命	知覚	その他
 taske	渇（かつ）	生命	知覚	その他
 tatpi	疲弊	生命	知覚	その他
-cinmo	感情	生命	感情	
-badri	悲しい	生命	感情	
-ckeji	恥じる	生命	感情	
-jgira	誇る	生命	感情	
-kecti	哀れむ	生命	感情	
-kufra	快適	生命	感情	
-manci	畏敬	生命	感情	
-prami	愛	生命	感情	
-steba	挫折	生命	感情	
-zungi	罪を感じる	生命	感情	
-cinri	関心	生命	感情	
-burna	どぎまぎ	生命	感情	
-cumla	慎ましい	生命	感情	
-kucli	好奇心	生命	感情	
-xebni	憎む	生命	感情	
-xalni	慌てる	生命	感情	
-xanka	緊張	生命	感情	
-dunku	苦悩	生命	感情	
-dirba	貴重	生命	感情	
-gleki	嬉しい	生命	感情	
-jilra	嫉妬	生命	感情	
-junri	まじめ	生命	感情	
-klaku	泣く	生命	感情	
-terpa	恐怖	生命	感情	
-xenru	悔やむ	生命	感情	
-fengu	憤慨	生命	感情	
-pluka	快い	生命	感情	
-raktu	厄介	生命	感情	
-spaji	驚き	生命	感情	
-jenca	驚愕	生命	感情	
-zdile	おもしろい	生命	感情	
-rigni	不快	生命	感情	
-xajmi	滑稽	生命	感情	
-betri	悲劇	生命	感情	
-fanza	気に障る	生命	感情	
-zanru	容認	生命	態度	
-xalbo	軽率	生命	態度	
-vajni	重要	生命	態度	
-trina	誘惑	生命	態度	
-talsa	挑む	生命	態度	
-surla	くつろぐ	生命	態度	
-senva	夢	生命	態度	
-ranxi	皮肉	生命	態度	
-pendo	友人	生命	態度	
-pacna	希望	生命	態度	
-nelci	好む	生命	態度	
-jundi	懇ろ（ねんごろ）	生命	態度	
-kurji	世話	生命	態度	
-djica	欲求	生命	態度	
-dapma	呪う	生命	態度	
-ckire	感謝	生命	態度	
-ckasu	嘲る（あざける）	生命	態度	
-cfipu	紛らわしい	生命	態度	
-cizra	怪しい	生命	態度	
-cmila	笑う	生命	態度	
-xrani	損傷	生命	評価	
-zabna	好意的	生命	評価	
-xarnu	頑固	生命	評価	
-xendo	親切	生命	評価	
-xamgu	良い	生命	評価	
-xlali	悪い	生命	評価	
-vifne	新鮮	生命	評価	
-virnu	勇敢	生命	評価	
-stati	才能	生命	評価	
-stace	正直	生命	評価	
-snura	安全	生命	評価	
-sinma	尊敬	生命	評価	
-prane	完全	生命	評価	
-mulno	完了	生命	評価	
-misno	有名	生命	評価	
-melbi	美しい	生命	評価	
-mabla	中傷	生命	評価	
-lazni	怠惰	生命	評価	
-kusru	酷い（むごい）	生命	評価	
-jursa	辛辣	生命	評価	
-vlile	暴力	生命	評価	
-juxre	不器用	生命	評価	
-funca	運	生命	評価	
-fenki	狂気	生命	評価	
-drani	正しい	生命	評価	
-fange	異質	生命	評価	
-darsi	大胆	生命	評価	
-curve	純粋	生命	評価	
-cnino	新しい	生命	評価	
-slabu	懐かしい	生命	評価	
-clite	礼儀正しい	生命	評価	
-ckape	危険	生命	評価	
-bandu	保護	生命	評価	
-marbi	保護施設	生命	評価	
-banli	偉大	生命	評価	
-basna	強調	生命	評価	
-racli	理性的	生命	評価	
-prije	賢い	生命	評価	
-bebna	愚か	生命	評価	
-bilga	義務	生命	評価	
-zifre	自由	生命	評価	
-marde	倫理	生命	評価	
-palci	悪質	生命	評価	
-vrude	誉れ	生命	評価	
-certu	玄人	生命	評価	
-cfila	欠陥	生命	評価	
-jikca	社交	生命		
-sivni	私的	生命		
-lanzu	家族	生命	家族	
-speni	結婚	生命	家族	
-ninmu	女	生命	家族	
-nanmu	男	生命	家族	
-dzena	先祖	生命	家族	
-rirni	養育	生命	家族	
-mamta	母	生命	家族	
-patfu	父	生命	家族	
-nanla	少年	生命	家族	
-nixli	少女	生命	家族	
-bersa	息子	生命	家族	
-tixnu	娘	生命	家族	
-bruna	兄弟	生命	家族	
-mensi	姉妹	生命	家族	
-tunba	親戚	生命	家族	
-famti	おじ／おば	生命	家族	
-tamne	いとこ	生命	家族	
-ritli	儀式	生命	社会制度	
-salci	祝賀	生命	社会制度	
-nobli	高貴	生命	社会制度	
-mikce	医者	生命	社会制度	
-zajba	体操	生命	社会制度	
-vitke	客	生命	社会制度	
-xotli	旅館	生命	社会制度	
-turni	統治	生命	社会制度	政府
-kamni	委員会	生命	社会制度	政府
-catni	権威	生命	社会制度	政府
-vipsi	副官	生命	社会制度	政府
-jecta	政体	生命	社会制度	政府
-jansu	外交官	生命	社会制度	政府
-jaspu	旅券	生命	社会制度	政府
-pikta	券	生命	社会制度	政府
-flalu	法律	生命	社会制度	法
-pajni	審判	生命	社会制度	法
-zekri	犯罪	生命	社会制度	法
-pulji	警察	生命	社会制度	法
-pinfu	囚人	生命	社会制度	法
-gunta	攻撃	生命	社会制度	戦争
-jamna	戦争	生命	社会制度	戦争
-bilni	編制組織	生命	社会制度	戦争
-jenmi	軍隊	生命	社会制度	戦争
-sonci	兵士	生命	社会制度	戦争
-gubni	公共	生命	経済	資産
-ponse	所有	生命	経済	資産
-cpacu	入手	生命	経済	資産
-cirko	失う	生命	経済	資産
-jbera	借りる	生命	経済	資産
-dunda	与える	生命	経済	資産
-lebna	取る	生命	経済	資産
-pindi	貧乏	生命	経済	資産
-ricfu	裕福	生命	経済	資産
-dejni	恩義	生命	経済	資産
-cerda	継承	生命	経済	資産
-jdini	金（かね）	生命	経済	マネー
-sicni	硬貨	生命	経済	マネー
-rupnu	円（えん）	生命	経済	マネー
-fepni	銭	生命	経済	マネー
-banxa	銀行	生命	経済	マネー
-zivle	投資	生命	経済	マネー
-canja	交換	生命	経済	貿易
-vamji	価値	生命	経済	貿易
-jdima	価格	生命	経済	貿易
-vecnu	売買	生命	経済	貿易
-kargu	高価	生命	経済	貿易
-janta	請求	生命	経済	貿易
-cnemu	報いる	生命	経済	貿易
-kagni	会社	生命	経済	ビジネス
-cteki	税	生命	経済	ビジネス
-zarci	店	生命	経済	ビジネス
-jibri	職	生命	経済	ビジネス
-jerna	稼ぐ	生命	経済	ビジネス
-briju	職場	生命	経済	ビジネス
-binra	保証	生命	経済	ビジネス
-gusta	飲食店	生命	経済	ビジネス
-barja	酒場	生命	経済	ビジネス
-kulnu	文化	生命	国家、文化	
-natmi	民族	生命	国家、文化	
-tutra	領土	生命	地理	
-gugde	国	生命	地理	
-jarbu	郊外	生命	地理	
-tcadu	都市	生命	地理	
-nurma	田舎	生命	地理	
-panka	公園	生命	地理	
-bemro	北アメリカ	生命	地理	
-dzipo	南極	生命	地理	
-friko	アフリカ	生命	地理	
-ketco	ラテンアメリカ	生命	地理	
-xazdo	アジア	生命	地理	
-ropno	ヨーロッパ	生命	地理	
-glico	英語	生命	多民族文化	
-softo	ソビエト	生命	多民族文化	
-xispo	ラテンアメリカ	生命	多民族文化	
-xrabo	アラビア	生命	多民族文化	
-baxso	バハサ	生命	多民族文化	
-polno	ポリネシア	生命	多民族文化	
-semto	セム	生命	多民族文化	
-spano	スペイン	生命	多民族文化	
-srito	サンスクリット	生命	多民族文化	
-latmo	ラテン	生命	多民族文化	
-lojbo	ロジバン	生命	多民族文化	
-brito	英国	生命	国籍	
-filso	パレスチナ	生命	国籍	
-gento	アルゼンチン	生命	国籍	
-jerxo	アルジェリア	生命	国籍	
-jordo	ヨルダン	生命	国籍	
-kadno	カナダ	生命	国籍	
-libjo	リビア	生命	国籍	
-lubno	レバノン	生命	国籍	
-merko	アメリカ合衆国	生命	国籍	
-mexno	メキシコ	生命	国籍	
-misro	エジプト	生命	国籍	
-morko	モロッコ	生命	国籍	
-rakso	イラク	生命	国籍	
-sadjo	サウジアラビア	生命	国籍	
-sirxo	シリア	生命	国籍	
-sralo	オーストラリア	生命	国籍	
-bengo	バングラデシュ	生命	国籍	
-bindo	インドネシア	生命	国籍	
-brazo	ブラジル	生命	国籍	
-dotco	ドイツ	生命	国籍	
-fraso	フランス	生命	国籍	
-jungo	中国	生命	国籍	
-kisto	パキスタン	生命	国籍	
-meljo	マレーシア	生命	国籍	
-ponjo	日本	生命	国籍	
-porto	ポルトガル	生命	国籍	
-rusko	ロシア	生命	国籍	
-skoto	スコットランド	生命	国籍	
-slovo	スラブ	生命	国籍	
-vukro	ウクライナ	生命	国籍	
-xebro	ユダヤ	生命	国籍	
-xelso	ギリシャ	生命	国籍	
-xindo	ヒンディー	生命	国籍	
-xurdo	ウルドゥー	生命	国籍	
-lijda	宗教	生命	宗教	
-cevni	神	生命	宗教	
-censa	聖なる	生命	宗教	
-makfa	魔法	生命	宗教	
-malsi	寺	生命	宗教	
-crida	妖精	生命	宗教	
-ranmi	神話	生命	宗教	
-budjo	仏教	生命	宗教	特定の宗教
-dadjo	道教	生命	宗教	特定の宗教
-jegvo	アブラハム	生命	宗教	特定の宗教
-muslo	イスラム	生命	宗教	特定の宗教
-xriso	キリスト教	生命	宗教	特定の宗教
-larcu	芸術	生命	芸術	
-muzga	博物館	生命	芸術	
-cfika	フィクション	生命	芸術	
-pemci	詩	生命	芸術	
-prosa	散文	生命	芸術	
-pixra	絵	生命	芸術	
-draci	劇	生命	芸術	
-tigni	演技	生命	芸術	
-skina	映画	生命	芸術	
-zgike	音楽	生命	芸術	
-sanga	歌う	生命	芸術	
-dansu	踊る	生命	芸術	
-damri	打楽器	生命	芸術	
-flani	無簧楽器	生命	芸術	
-jgita	弦楽器	生命	芸術	
-pipno	鍵盤楽器	生命	芸術	
-tabra	唇簧楽器	生命	芸術	
-xagri	簧楽器	生命	芸術	
-fenso	縫合	生命	技術過程	
-jivbu	織る	生命	技術過程	
-nivji	編む	生命	技術過程	
-lasna	留める	生命	技術過程	
-gundi	工業	生命	技術過程	
-fanri	工場	生命	技術過程	
-cange	農場	生命	技術過程	
-purdi	庭	生命	技術過程	
-crepu	収穫	生命	技術過程	
-sombo	植える	生命	技術過程	
-spofu	故障	生命	技術過程	
-cikre	修理	生命	技術過程	
-gunka	働く	生命	技術過程	
-cupra	生産	生命	技術過程	
-finti	創る	生命	技術過程	
-zbasu	造る	生命	技術過程	
-fukpi	複製	生命	技術過程	
-jadni	飾る	生命	技術過程	
-jukpa	料理する	生命	技術過程	
-macnu	手動	生命	技術過程	
-zmiku	自動	生命	技術過程	
-lumci	洗う	生命	技術過程	
-molki	製造場	生命	技術過程	
-pilno	使う	生命	技術過程	
-sazri	操作	生命	技術過程	
-sorcu	貯蔵	生命	技術過程	
-zbabu	石鹸	生命	人工物質	
-jalna	デンプン	生命	人工物質	
-blaci	ガラス	生命	人工物質	材料
-staku	セラミックス	生命	人工物質	材料
-gasta	鋼鉄	生命	人工物質	材料
-lastu	真鍮	生命	人工物質	材料
-ransu	青銅	生命	人工物質	材料
-ckabu	ゴム	生命	人工物質	材料
-slasi	プラスチック	生命	人工物質	材料
-bukpu	布	生命	人工物質	材料
-mapni	綿	生命	人工物質	材料
-matli	リンネル	生命	人工物質	材料
-silka	絹	生命	人工物質	材料
-korka	コルク	生命	人工物質	材料
-mudri	木	生命	人工物質	材料
-skapi	肌	生命	人工物質	材料
-cinta	塗料	生命	人工物質	材料
-xalka	アルコール	生命	人工物質	飲料
-jikru	蒸留酒	生命	人工物質	飲料
-vanju	ワイン	生命	人工物質	飲料
-birje	発泡酒	生命	人工物質	飲料
-jisra	汁	生命	人工物質	飲料
-sodva	炭酸飲料	生命	人工物質	飲料
-ckafi	コーヒー	生命	人工物質	飲料
-tcati	茶	生命	人工物質	飲料
-sanmi	食事	生命	人工物質	食品
-rectu	肉	生命	人工物質	食品
-grasu	油	生命	人工物質	食品
-ladru	ミルク	生命	人工物質	食品
-kruji	クリーム	生命	人工物質	食品
-matne	バター	生命	人工物質	食品
-cirla	チーズ	生命	人工物質	食品
-sakta	糖	生命	人工物質	食品
-cakla	チョコレート	生命	人工物質	食品
-nanba	パン	生命	人工物質	食品
-salta	サラダ	生命	人工物質	食品
-sanso	ソース	生命	人工物質	食品
-stasu	スープ	生命	人工物質	食品
-tsapi	調味料	生命	人工物質	食品
-sigja	葉巻	生命	人工物質	食品
-rutni	人工	生命	人工物質	食品
-tutci	道具	生命	道具	ツール、装置
-mruli	槌	生命	道具	ツール、装置
-dinko	鋲	生命	道具	ツール、装置
-pijne	鋲	生命	道具	ツール、装置
-burcu	ブラシ	生命	道具	ツール、装置
-balre	刃	生命	道具	ツール、装置
-canpa	シャベル	生命	道具	ツール、装置
-dakfu	ナイフ	生命	道具	ツール、装置
-jinci	ハサミ	生命	道具	ツール、装置
-klupe	ねじ	生命	道具	ツール、装置
-komcu	櫛	生命	道具	ツール、装置
-pinsi	鉛筆	生命	道具	ツール、装置
-penbi	ペン	生命	道具	ツール、装置
-xinmo	インク	生命	道具	ツール、装置
-pelji	紙	生命	道具	ツール、装置
-smuci	スプーン	生命	道具	ツール、装置
-forca	フォーク	生命	道具	ツール、装置
-sacki	発火装置	生命	道具	ツール、装置
-janbe	鐘	生命	道具	ツール、装置
-lanci	旗	生命	道具	ツール、装置
-matci	敷物	生命	道具	ツール、装置
-julne	網	生命	道具	ツール、装置
-murta	カーテン	生命	道具	ツール、装置
-dacru	引き出し	生命	道具	格納
-baktu	バケツ	生命	道具	格納
-botpi	瓶	生命	道具	格納
-tanxe	箱	生命	道具	格納
-lante	缶詰	生命	道具	格納
-dakli	鞄（かばん）	生命	道具	格納
-kabri	コップ	生命	道具	格納
-lanka	かご	生命	道具	格納
-patxu	壷	生命	道具	格納
-palne	盆	生命	道具	格納
-palta	皿	生命	道具	格納
-tansi	たらい	生命	道具	格納
-minji	機械	生命	道具	機械、器具
-cabra	装置	生命	道具	機械、器具
-matra	モーター	生命	道具	機械、器具
-livla	燃料	生命	道具	機械、器具
-pambe	ポンプ	生命	道具	機械、器具
-toknu	オーブン	生命	道具	機械、器具
-xarci	武器	生命	道具	機械、器具
-jbama	爆弾	生命	道具	機械、器具
-danti	弾頭	生命	道具	機械、器具
-greku	枠	生命	機械部品	
-tsina	壇（だん）	生命	機械部品	
-zbepi	台座	生命	機械部品	
-kamju	柱	生命	機械部品	
-garna	レール	生命	機械部品	
-kajna	棚	生命	機械部品	
-batke	ボタン	生命	機械部品	
-xislu	車輪	生命	機械部品	
-jabre	制動装置	生命	機械部品	
-linsi	鎖	生命	機械部品	
-pulni	滑車装置	生命	機械部品	
-skori	縄	生命	機械部品	
-jendu	軸	生命	機械部品	
-vraga	てこ	生命	機械部品	
-dargu	道路	生命	交通	
-klaji	街路	生命	交通	
-naxle	運河	生命	交通	
-vinji	飛行機	生命	交通	
-skiji	そり	生命	交通	
-falnu	航行	生命	交通	
-carce	荷車	生命	交通	
-cripu	橋	生命	交通	
-jakne	ロケット	生命	交通	
-tcana	駅	生命	交通	
-marce	輸送機関	生命	交通	
-sabnu	車両	生命	交通	
-bloti	船	生命	交通	
-trene	列車	生命	交通	
-karce	車	生命	交通	
-ginka	キャンプ	生命	家	
-dinju	建物	生命	家	
-kumfa	部屋	生命	家	
-bitmu	壁	生命	家	
-vorme	扉	生命	家	
-canko	窓	生命	家	
-balni	バルコニー	生命	家	
-serti	階段	生命	家	
-nilce	家具	生命	家	
-jubme	机	生命	家	
-stizu	椅子	生命	家	
-ckana	寝台	生命	家	
-sfofa	ソファ	生命	家	
-kicne	クッション	生命	家	
-stela	錠	生命	家	
-ckiku	鍵	生命	家	
-dasni	着る	生命	衣類	
-taxfu	衣服	生命	衣類	
-kosta	コート	生命	衣類	
-pastu	ローブ	生命	衣類	
-skaci	スカート	生命	衣類	
-creka	上着	生命	衣類	
-palku	ズボン	生命	衣類	
-daski	ポケット	生命	衣類	
-gluta	手袋	生命	衣類	
-cutci	靴	生命	衣類	
-smoka	靴下	生命	衣類	
-mapku	帽子	生命	衣類	
-santa	傘	生命	衣類	
+cinmo	感情	生命	感情
+badri	悲しい	生命	感情
+ckeji	恥じる	生命	感情
+jgira	誇る	生命	感情
+kecti	哀れむ	生命	感情
+kufra	快適	生命	感情
+manci	畏敬	生命	感情
+prami	愛	生命	感情
+steba	挫折	生命	感情
+zungi	罪を感じる	生命	感情
+cinri	関心	生命	感情
+burna	どぎまぎ	生命	感情
+cumla	慎ましい	生命	感情
+kucli	好奇心	生命	感情
+xebni	憎む	生命	感情
+xalni	慌てる	生命	感情
+xanka	緊張	生命	感情
+dunku	苦悩	生命	感情
+dirba	貴重	生命	感情
+gleki	嬉しい	生命	感情
+jilra	嫉妬	生命	感情
+junri	まじめ	生命	感情
+klaku	泣く	生命	感情
+terpa	恐怖	生命	感情
+xenru	悔やむ	生命	感情
+fengu	憤慨	生命	感情
+pluka	快い	生命	感情
+raktu	厄介	生命	感情
+spaji	驚き	生命	感情
+jenca	驚愕	生命	感情
+zdile	おもしろい	生命	感情
+rigni	不快	生命	感情
+xajmi	滑稽	生命	感情
+betri	悲劇	生命	感情
+fanza	気に障る	生命	感情
+zanru	容認	生命	態度
+xalbo	軽率	生命	態度
+vajni	重要	生命	態度
+trina	誘惑	生命	態度
+talsa	挑む	生命	態度
+surla	くつろぐ	生命	態度
+senva	夢	生命	態度
+ranxi	皮肉	生命	態度
+pendo	友人	生命	態度
+pacna	希望	生命	態度
+nelci	好む	生命	態度
+jundi	懇ろ（ねんごろ）	生命	態度
+kurji	世話	生命	態度
+djica	欲求	生命	態度
+dapma	呪う	生命	態度
+ckire	感謝	生命	態度
+ckasu	嘲る（あざける）	生命	態度
+cfipu	紛らわしい	生命	態度
+cizra	怪しい	生命	態度
+cmila	笑う	生命	態度
+xrani	損傷	生命	評価
+zabna	好意的	生命	評価
+xarnu	頑固	生命	評価
+xendo	親切	生命	評価
+xamgu	良い	生命	評価
+xlali	悪い	生命	評価
+vifne	新鮮	生命	評価
+virnu	勇敢	生命	評価
+stati	才能	生命	評価
+stace	正直	生命	評価
+snura	安全	生命	評価
+sinma	尊敬	生命	評価
+prane	完全	生命	評価
+mulno	完了	生命	評価
+misno	有名	生命	評価
+melbi	美しい	生命	評価
+mabla	中傷	生命	評価
+lazni	怠惰	生命	評価
+kusru	酷い（むごい）	生命	評価
+jursa	辛辣	生命	評価
+vlile	暴力	生命	評価
+juxre	不器用	生命	評価
+funca	運	生命	評価
+fenki	狂気	生命	評価
+drani	正しい	生命	評価
+fange	異質	生命	評価
+darsi	大胆	生命	評価
+curve	純粋	生命	評価
+cnino	新しい	生命	評価
+slabu	懐かしい	生命	評価
+clite	礼儀正しい	生命	評価
+ckape	危険	生命	評価
+bandu	保護	生命	評価
+marbi	保護施設	生命	評価
+banli	偉大	生命	評価
+basna	強調	生命	評価
+racli	理性的	生命	評価
+prije	賢い	生命	評価
+bebna	愚か	生命	評価
+bilga	義務	生命	評価
+zifre	自由	生命	評価
+marde	倫理	生命	評価
+palci	悪質	生命	評価
+vrude	誉れ	生命	評価
+certu	玄人	生命	評価
+cfila	欠陥	生命	評価
+jikca	社交	生命
+sivni	私的	生命
+lanzu	家族	生命	家族
+speni	結婚	生命	家族
+ninmu	女	生命	家族
+nanmu	男	生命	家族
+dzena	先祖	生命	家族
+rirni	養育	生命	家族
+mamta	母	生命	家族
+patfu	父	生命	家族
+nanla	少年	生命	家族
+nixli	少女	生命	家族
+bersa	息子	生命	家族
+tixnu	娘	生命	家族
+bruna	兄弟	生命	家族
+mensi	姉妹	生命	家族
+tunba	親戚	生命	家族
+famti	おじ／おば	生命	家族
+tamne	いとこ	生命	家族
+ritli	儀式	文明	社会制度
+salci	祝賀	文明	社会制度
+nobli	高貴	文明	社会制度
+mikce	医者	文明	社会制度
+zajba	体操	文明	社会制度
+vitke	客	文明	社会制度
+xotli	旅館	文明	社会制度
+turni	統治	文明	社会制度	政府
+kamni	委員会	文明	社会制度	政府
+catni	権威	文明	社会制度	政府
+vipsi	副官	文明	社会制度	政府
+jecta	政体	文明	社会制度	政府
+jansu	外交官	文明	社会制度	政府
+jaspu	旅券	文明	社会制度	政府
+pikta	券	文明	社会制度	政府
+flalu	法律	文明	社会制度	法
+pajni	審判	文明	社会制度	法
+zekri	犯罪	文明	社会制度	法
+pulji	警察	文明	社会制度	法
+pinfu	囚人	文明	社会制度	法
+gunta	攻撃	文明	社会制度	戦争
+jamna	戦争	文明	社会制度	戦争
+bilni	編制組織	文明	社会制度	戦争
+jenmi	軍隊	文明	社会制度	戦争
+sonci	兵士	文明	社会制度	戦争
+gubni	公共	文明	経済	資産
+ponse	所有	文明	経済	資産
+cpacu	入手	文明	経済	資産
+cirko	失う	文明	経済	資産
+jbera	借りる	文明	経済	資産
+dunda	与える	文明	経済	資産
+lebna	取る	文明	経済	資産
+pindi	貧乏	文明	経済	資産
+ricfu	裕福	文明	経済	資産
+dejni	恩義	文明	経済	資産
+cerda	継承	文明	経済	資産
+jdini	金（かね）	文明	経済	マネー
+sicni	硬貨	文明	経済	マネー
+rupnu	円（えん）	文明	経済	マネー
+fepni	銭	文明	経済	マネー
+banxa	銀行	文明	経済	マネー
+zivle	投資	文明	経済	マネー
+canja	交換	文明	経済	貿易
+vamji	価値	文明	経済	貿易
+jdima	価格	文明	経済	貿易
+vecnu	売買	文明	経済	貿易
+kargu	高価	文明	経済	貿易
+janta	請求	文明	経済	貿易
+cnemu	報いる	文明	経済	貿易
+kagni	会社	文明	経済	ビジネス
+cteki	税	文明	経済	ビジネス
+zarci	店	文明	経済	ビジネス
+jibri	職	文明	経済	ビジネス
+jerna	稼ぐ	文明	経済	ビジネス
+briju	職場	文明	経済	ビジネス
+binra	保証	文明	経済	ビジネス
+gusta	飲食店	文明	経済	ビジネス
+barja	酒場	文明	経済	ビジネス
+kulnu	文化	文明	国家、文化
+natmi	民族	文明	国家、文化
+tutra	領土	文明	地理
+gugde	国	文明	地理
+jarbu	郊外	文明	地理
+tcadu	都市	文明	地理
+nurma	田舎	文明	地理
+panka	公園	文明	地理
+bemro	北アメリカ	文明	地理
+dzipo	南極	文明	地理
+friko	アフリカ	文明	地理
+ketco	ラテンアメリカ	文明	地理
+xazdo	アジア	文明	地理
+ropno	ヨーロッパ	文明	地理
+glico	英語	文明	多民族文化
+softo	ソビエト	文明	多民族文化
+xispo	ラテンアメリカ	文明	多民族文化
+xrabo	アラビア	文明	多民族文化
+baxso	バハサ	文明	多民族文化
+polno	ポリネシア	文明	多民族文化
+semto	セム	文明	多民族文化
+spano	スペイン	文明	多民族文化
+srito	サンスクリット	文明	多民族文化
+latmo	ラテン	文明	多民族文化
+lojbo	ロジバン	文明	多民族文化
+brito	英国	文明	国籍
+filso	パレスチナ	文明	国籍
+gento	アルゼンチン	文明	国籍
+jerxo	アルジェリア	文明	国籍
+jordo	ヨルダン	文明	国籍
+kadno	カナダ	文明	国籍
+libjo	リビア	文明	国籍
+lubno	レバノン	文明	国籍
+merko	アメリカ合衆国	文明	国籍
+mexno	メキシコ	文明	国籍
+misro	エジプト	文明	国籍
+morko	モロッコ	文明	国籍
+rakso	イラク	文明	国籍
+sadjo	サウジアラビア	文明	国籍
+sirxo	シリア	文明	国籍
+sralo	オーストラリア	文明	国籍
+bengo	バングラデシュ	文明	国籍
+bindo	インドネシア	文明	国籍
+brazo	ブラジル	文明	国籍
+dotco	ドイツ	文明	国籍
+fraso	フランス	文明	国籍
+jungo	中国	文明	国籍
+kisto	パキスタン	文明	国籍
+meljo	マレーシア	文明	国籍
+ponjo	日本	文明	国籍
+porto	ポルトガル	文明	国籍
+rusko	ロシア	文明	国籍
+skoto	スコットランド	文明	国籍
+slovo	スラブ	文明	国籍
+vukro	ウクライナ	文明	国籍
+xebro	ユダヤ	文明	国籍
+xelso	ギリシャ	文明	国籍
+xindo	ヒンディー	文明	国籍
+xurdo	ウルドゥー	文明	国籍
+lijda	宗教	文明	宗教
+cevni	神	文明	宗教
+censa	聖なる	文明	宗教
+makfa	魔法	文明	宗教
+malsi	寺	文明	宗教
+crida	妖精	文明	宗教
+ranmi	神話	文明	宗教
+budjo	仏教	文明	宗教	特定の宗教
+dadjo	道教	文明	宗教	特定の宗教
+jegvo	アブラハム	文明	宗教	特定の宗教
+muslo	イスラム	文明	宗教	特定の宗教
+xriso	キリスト教	文明	宗教	特定の宗教
+larcu	芸術	文明	芸術
+muzga	博物館	文明	芸術
+cfika	フィクション	文明	芸術
+pemci	詩	文明	芸術
+prosa	散文	文明	芸術
+pixra	絵	文明	芸術
+draci	劇	文明	芸術
+tigni	演技	文明	芸術
+skina	映画	文明	芸術
+zgike	音楽	文明	芸術
+sanga	歌う	文明	芸術
+dansu	踊る	文明	芸術
+damri	打楽器	文明	芸術
+flani	無簧楽器	文明	芸術
+jgita	弦楽器	文明	芸術
+pipno	鍵盤楽器	文明	芸術
+tabra	唇簧楽器	文明	芸術
+xagri	簧楽器	文明	芸術
+fenso	縫合	文明	技術過程
+jivbu	織る	文明	技術過程
+nivji	編む	文明	技術過程
+lasna	留める	文明	技術過程
+gundi	工業	文明	技術過程
+fanri	工場	文明	技術過程
+cange	農場	文明	技術過程
+purdi	庭	文明	技術過程
+crepu	収穫	文明	技術過程
+sombo	植える	文明	技術過程
+spofu	故障	文明	技術過程
+cikre	修理	文明	技術過程
+gunka	働く	文明	技術過程
+cupra	生産	文明	技術過程
+finti	創る	文明	技術過程
+zbasu	造る	文明	技術過程
+fukpi	複製	文明	技術過程
+jadni	飾る	文明	技術過程
+jukpa	料理する	文明	技術過程
+macnu	手動	文明	技術過程
+zmiku	自動	文明	技術過程
+lumci	洗う	文明	技術過程
+molki	製造場	文明	技術過程
+pilno	使う	文明	技術過程
+sazri	操作	文明	技術過程
+sorcu	貯蔵	文明	技術過程
+zbabu	石鹸	文明	人工物質
+jalna	デンプン	文明	人工物質
+blaci	ガラス	文明	人工物質	材料
+staku	セラミックス	文明	人工物質	材料
+gasta	鋼鉄	文明	人工物質	材料
+lastu	真鍮	文明	人工物質	材料
+ransu	青銅	文明	人工物質	材料
+ckabu	ゴム	文明	人工物質	材料
+slasi	プラスチック	文明	人工物質	材料
+bukpu	布	文明	人工物質	材料
+mapni	綿	文明	人工物質	材料
+matli	リンネル	文明	人工物質	材料
+silka	絹	文明	人工物質	材料
+korka	コルク	文明	人工物質	材料
+mudri	木	文明	人工物質	材料
+skapi	肌	文明	人工物質	材料
+cinta	塗料	文明	人工物質	材料
+xalka	アルコール	文明	人工物質	飲料
+jikru	蒸留酒	文明	人工物質	飲料
+vanju	ワイン	文明	人工物質	飲料
+birje	発泡酒	文明	人工物質	飲料
+jisra	汁	文明	人工物質	飲料
+sodva	炭酸飲料	文明	人工物質	飲料
+ckafi	コーヒー	文明	人工物質	飲料
+tcati	茶	文明	人工物質	飲料
+sanmi	食事	文明	人工物質	食品
+rectu	肉	文明	人工物質	食品
+grasu	油	文明	人工物質	食品
+ladru	ミルク	文明	人工物質	食品
+kruji	クリーム	文明	人工物質	食品
+matne	バター	文明	人工物質	食品
+cirla	チーズ	文明	人工物質	食品
+sakta	糖	文明	人工物質	食品
+cakla	チョコレート	文明	人工物質	食品
+nanba	パン	文明	人工物質	食品
+salta	サラダ	文明	人工物質	食品
+sanso	ソース	文明	人工物質	食品
+stasu	スープ	文明	人工物質	食品
+tsapi	調味料	文明	人工物質	食品
+sigja	葉巻	文明	人工物質	食品
+rutni	人工	文明	人工物質	食品
+tutci	道具	文明	道具	ツール、装置
+mruli	槌	文明	道具	ツール、装置
+dinko	鋲	文明	道具	ツール、装置
+pijne	鋲	文明	道具	ツール、装置
+burcu	ブラシ	文明	道具	ツール、装置
+balre	刃	文明	道具	ツール、装置
+canpa	シャベル	文明	道具	ツール、装置
+dakfu	ナイフ	文明	道具	ツール、装置
+jinci	ハサミ	文明	道具	ツール、装置
+klupe	ねじ	文明	道具	ツール、装置
+komcu	櫛	文明	道具	ツール、装置
+pinsi	鉛筆	文明	道具	ツール、装置
+penbi	ペン	文明	道具	ツール、装置
+xinmo	インク	文明	道具	ツール、装置
+pelji	紙	文明	道具	ツール、装置
+smuci	スプーン	文明	道具	ツール、装置
+forca	フォーク	文明	道具	ツール、装置
+sacki	発火装置	文明	道具	ツール、装置
+janbe	鐘	文明	道具	ツール、装置
+lanci	旗	文明	道具	ツール、装置
+matci	敷物	文明	道具	ツール、装置
+julne	網	文明	道具	ツール、装置
+murta	カーテン	文明	道具	ツール、装置
+dacru	引き出し	文明	道具	格納
+baktu	バケツ	文明	道具	格納
+botpi	瓶	文明	道具	格納
+tanxe	箱	文明	道具	格納
+lante	缶詰	文明	道具	格納
+dakli	鞄（かばん）	文明	道具	格納
+kabri	コップ	文明	道具	格納
+lanka	かご	文明	道具	格納
+patxu	壷	文明	道具	格納
+palne	盆	文明	道具	格納
+palta	皿	文明	道具	格納
+tansi	たらい	文明	道具	格納
+minji	機械	文明	道具	機械、器具
+cabra	装置	文明	道具	機械、器具
+matra	モーター	文明	道具	機械、器具
+livla	燃料	文明	道具	機械、器具
+pambe	ポンプ	文明	道具	機械、器具
+toknu	オーブン	文明	道具	機械、器具
+xarci	武器	文明	道具	機械、器具
+jbama	爆弾	文明	道具	機械、器具
+danti	弾頭	文明	道具	機械、器具
+greku	枠	文明	機械部品
+tsina	壇（だん）	文明	機械部品
+zbepi	台座	文明	機械部品
+kamju	柱	文明	機械部品
+garna	レール	文明	機械部品
+kajna	棚	文明	機械部品
+batke	ボタン	文明	機械部品
+xislu	車輪	文明	機械部品
+jabre	制動装置	文明	機械部品
+linsi	鎖	文明	機械部品
+pulni	滑車装置	文明	機械部品
+skori	縄	文明	機械部品
+jendu	軸	文明	機械部品
+vraga	てこ	文明	機械部品
+dargu	道路	文明	交通
+klaji	街路	文明	交通
+naxle	運河	文明	交通
+vinji	飛行機	文明	交通
+skiji	そり	文明	交通
+falnu	航行	文明	交通
+carce	荷車	文明	交通
+cripu	橋	文明	交通
+jakne	ロケット	文明	交通
+tcana	駅	文明	交通
+marce	輸送機関	文明	交通
+sabnu	車両	文明	交通
+bloti	船	文明	交通
+trene	列車	文明	交通
+karce	車	文明	交通
+ginka	キャンプ	文明	家
+dinju	建物	文明	家
+kumfa	部屋	文明	家
+bitmu	壁	文明	家
+vorme	扉	文明	家
+canko	窓	文明	家
+balni	バルコニー	文明	家
+serti	階段	文明	家
+nilce	家具	文明	家
+jubme	机	文明	家
+stizu	椅子	文明	家
+ckana	寝台	文明	家
+sfofa	ソファ	文明	家
+kicne	クッション	文明	家
+stela	錠	文明	家
+ckiku	鍵	文明	家
+dasni	着る	文明	衣類
+taxfu	衣服	文明	衣類
+kosta	コート	文明	衣類
+pastu	ローブ	文明	衣類
+skaci	スカート	文明	衣類
+creka	上着	文明	衣類
+palku	ズボン	文明	衣類
+daski	ポケット	文明	衣類
+gluta	手袋	文明	衣類
+cutci	靴	文明	衣類
+smoka	靴下	文明	衣類
+mapku	帽子	文明	衣類
+santa	傘	文明	衣類
