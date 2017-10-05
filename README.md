@@ -18,6 +18,7 @@ node lib/step1-xml-parser.js
 node lib/step2-xml2js.js  
 node lib/step3-make-dictionary.js  
 node lib/step4-integrate-frequency.js  
+node lib/step5-integrate-thesaurus.js  
 node lib/yaml.js
 
 ## gismu patterns
@@ -91,6 +92,12 @@ lib/cc_frequency.js
                        1  1     1  1     1  1  1  1  8  =159+4+16
 
 #### V) 最初の母音 5　iuaeo
+* a  大、上
+* e  中、並
+* o  小、下
+
+良悪、男女
+
 
 #### v) 末尾母音 5　iuaeo
 末尾母音は意味分類として使用しない。３文字rafsiのバリエーション。
@@ -104,6 +111,26 @@ lib/cc_frequency.js
 
 
 # 使用する子音の厳選
+
+ d | z | j | b | v | g | t | s | c | p | f | k | r | l | m | n
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+   |**zd**|**jd**| bd| vd| gd|   |   |   |   |   |   | rd| ld| md| nd 
+~~**dz**~~|  |   | bz| vz| gz|   |   |   |   |   |   | rz| lz|   | nz 
+~~**dj**~~|   |   | bj| vj| gj|   |   |   |   |   |   | rj| lj| mj| nj 
+ db|**zb**|**jb**|   | vb| gb|   |   |   |   |   |   | rb| lb| mb| nb 
+ dv|**zv**|**jv**| bv|   | gv|   |   |   |   |   |   | rv| lv| mv| nv 
+ dg|**zg**|**jg**| bg| vg|   |   |   |   |   |   |   | rg| lg| mg| ng 
+| | | | | | | | st| ct| pt| ft| kt| rt| lt| mt| nt  
+| | | | | | | ~~**ts**~~| | cs| ps| fs| ks| rs| ls| ms| ns 
+| | | | | | | ~~**tc**~~| sc| | pc| fc| kc| rc| lc| mc| nc 
+| | | | | | | tp| **sp**| **cp**| | fp| kp| rp| lp| mp| np 
+| | | | | | | tf| **sf**| **cf**| pf| | kf| rf| lf| mf| nf 
+| | | | | | | tk| **sk**| **ck**| pk| fk| | rk| lk| mk| nk 
+ **dr**| zr| jr| **br**| **vr**| **gr**| **tr**| **sr**| **cr**| **pr**| **fr**| **kr**| | lr| **mr**| nr 
+     dl| zl| jl| **bl**| **vl**| **gl**| **tl**| **sl**| **cl**| **pl**| **fl**| **kl**| rl| | **ml**| nl 
+ dm| **zm**| **jm**| bm| vm| gm| tm| **sm**| **cm**| pm| fm| km| rm| lm| | nm 
+ dn| zn| jn| bn| vn| gn| tn| **sn**| **cn**| pn| fn| kn| rn| ln| mn|  
+
 
      d  z  j  b  v  g  t  s  c  p  f  k  r  l  m  n
     ------------------------------------------------ c =16
