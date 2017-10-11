@@ -6,12 +6,16 @@ Lojban Words Analysis
    オリジナル、整頓、
 
 ## ゼルシー順
-アルファベット順は普及率だけで子音と母音すら分けられていない無能なので本稿では整理した自作の順を使う。※[ゼルシー](images/zercii.png)はこの順を利用して作った文字。
+ロジバンの話を始める前に、もっと基礎的な部分について地盤固めをしたいと思う。その基礎的な部分とはズバリ、アルファベット順のことである。アルファベット順は流用と改造を繰り返した末にできた「成れの果て」であり、母音と子音すら分けられていないような、全く整理されていない非論理的な順である。
 
-    0 12345 678901 234567 8901 2 345
-    y iuaeo dzjbvg tscpfk rlmn x hqw
+いろは歌から五十音順に並べ直した日本語のように整理した順を使用したい。ということで作成したのが以下の順である。６文字ごとに区切って表にすると画像のようになる。
+
+    012345 678901 234567 8901 2 345
+    yiuaeo dzjbvg tscpfk rlmn x hqw
 
 ![ゼルシー順](images/poizercii.png)
+
+※[ゼルシー](images/zercii.png)はこの順を利用して作った文字。
 
 ## Terminal commands
 node lib/step1-xml-parser.js  
@@ -108,6 +112,7 @@ lib/cc_frequency.js
 
 パターンをどう使い分けるかアイディア
 * 意味の大小：CCVcvは意味の大きい言葉、生物や時間など。cVccvは意味の小さい言葉、牛、秒など
+* 母音を大きさの指標とする。小さいものから順にiuaeoと大きくなる。
 
 
 # 使用する子音の厳選
@@ -132,6 +137,23 @@ lib/cc_frequency.js
  dn| zn| jn| bn| vn| gn| tn| **sn**| **cn**| pn| fn| kn| rn| ln| mn|  
 
 
+     d  z  j  b  v  g
+     t  s  c  p  f  k
+     r  l  m  n
+    ------------------------------------------------ c =16
+    dr zd jd br vr gr
+       zm jm bl vl gl
+             zb zv zg
+             jb jv jg
+    tr st ct pr fr kr
+             pl fl kl
+             sp sf sk
+             cp cf ck
+    sr sl sm sn
+    cr cl cm cn
+    ------------------------------------------------ CC= 40
+    nd nz nj mb nv ng nt ns nc mp nf nk nr nl nm --  15
+
      d  z  j  b  v  g  t  s  c  p  f  k  r  l  m  n
     ------------------------------------------------ c =16
     dr zd jd br vr gr tr st ct pr fr kr
@@ -146,7 +168,7 @@ lib/cc_frequency.js
     dv       bv    gv                   rv lv mv nv 
     dg       bg vg                      rg lg mg ng 
                                pt ft kt rt lt mt nt
-                            cs ps fs ks rs ls ms ns
+                               ps fs ks rs ls ms ns
                                pc fc kc rc lc mc nc
                             cp    fp kp rp lp mp np
                             cf pf    kf rf lf mf nf
