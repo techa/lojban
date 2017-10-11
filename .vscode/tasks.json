@@ -1,0 +1,49 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    // https://vscode-doc-jp.github.io/docs/userguide/tasks.html#カスタムタスク
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "install",
+            "problemMatcher": []
+        },
+        {
+            "taskName": "Run tests",
+            "type": "shell",
+            "command": "node lib/thesaurus.md-sort.js",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "taskName": "thesaurus.md Sort by Number",
+            "type": "shell",
+            "command": "node lib/thesaurus.md-sort.js 1",
+            "presentation": {
+                "reveal": "never"
+            }
+        },
+        {
+            "taskName": "thesaurus.md Sort by ABC",
+            "type": "shell",
+            "command": "node lib/thesaurus.md-sort.js 2",
+            "presentation": {
+                "echo": true,
+                "reveal": "never",
+                "focus": false,
+                "panel": "shared"
+            }
+        },
+        {
+            "taskName": "thesaurus.md Sort by zercii",
+            "type": "shell",
+            "command": "node lib/thesaurus.md-sort.js 3",
+            "presentation": {
+                "reveal": "never"
+            }
+        }
+    ]
+}
